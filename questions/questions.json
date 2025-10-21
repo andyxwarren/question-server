@@ -1,0 +1,6803 @@
+{
+  "metadata": {
+    "exportDate": "2025-10-21T16:04:48.710Z",
+    "version": "1.0",
+    "generatorVersion": "1.0",
+    "questionCount": 100,
+    "moduleCount": 5
+  },
+  "questions": [
+    {
+      "id": "N01_Y1_NPV_1761062682441_gt1myjf8j",
+      "questionNumber": 1,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 2, 4, 6, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 2, 4, 6, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          2,
+          4,
+          6
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "8",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        10,
+        9,
+        8,
+        6
+      ],
+      "hint": "Count forwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2
+        ],
+        "min_value": 0,
+        "max_value": 20,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_twenty",
+        "sequence_length": 5,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_h70cyz3lg",
+      "questionNumber": 2,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 20, 19, 18, 17, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 20, 19, 18, 17, ___",
+        "type": "sequence",
+        "sequence": [
+          20,
+          19,
+          18,
+          17
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "16",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 1s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2
+        ],
+        "min_value": 0,
+        "max_value": 20,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_twenty",
+        "sequence_length": 5,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_se1fvthhc",
+      "questionNumber": 3,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 20, 18, 16, 14, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 20, 18, 16, 14, ___",
+        "type": "sequence",
+        "sequence": [
+          20,
+          18,
+          16,
+          14
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "12",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2
+        ],
+        "min_value": 0,
+        "max_value": 20,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_twenty",
+        "sequence_length": 5,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_htkjr61zy",
+      "questionNumber": 4,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 20, 18, 16, 14, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 20, 18, 16, 14, ___",
+        "type": "sequence",
+        "sequence": [
+          20,
+          18,
+          16,
+          14
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "12",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2
+        ],
+        "min_value": 0,
+        "max_value": 20,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_twenty",
+        "sequence_length": 5,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_abkmgyyvm",
+      "questionNumber": 5,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 20, 19, ___, 17, 16",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 20, 19, ___, 17, 16",
+        "type": "sequence",
+        "sequence": [
+          20,
+          19,
+          17,
+          16
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "18",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 1s",
+      "multiGapAnswers": [
+        18
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2
+        ],
+        "min_value": 0,
+        "max_value": 20,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_twenty",
+        "sequence_length": 5,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_kn75mukkp",
+      "questionNumber": 1,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 16, 18, 20, ___, 24, 26",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 16, 18, 20, ___, 24, 26",
+        "type": "sequence",
+        "sequence": [
+          16,
+          18,
+          20,
+          24,
+          26
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "22",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 2s",
+      "multiGapAnswers": [
+        22
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_knu2r5uqg",
+      "questionNumber": 2,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 12, 14, 16, 18, 20, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 12, 14, 16, 18, 20, ___",
+        "type": "sequence",
+        "sequence": [
+          12,
+          14,
+          16,
+          18,
+          20
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "22",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        20,
+        24,
+        23,
+        22
+      ],
+      "hint": "Count forwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_yrsp3o42b",
+      "questionNumber": 3,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 25, 26, 27, 28, 29, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 25, 26, 27, 28, 29, ___",
+        "type": "sequence",
+        "sequence": [
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "30",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 1s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_jpbd1gxv8",
+      "questionNumber": 4,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 5, 10, 15, 20, 25, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 5, 10, 15, 20, 25, ___",
+        "type": "sequence",
+        "sequence": [
+          5,
+          10,
+          15,
+          20,
+          25
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "30",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 5s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_ae2repxje",
+      "questionNumber": 5,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 0, 5, 10, ___, 20, 25",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 0, 5, 10, ___, 20, 25",
+        "type": "sequence",
+        "sequence": [
+          0,
+          5,
+          10,
+          20,
+          25
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "15",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 5s",
+      "multiGapAnswers": [
+        15
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_w1nwau18m",
+      "questionNumber": 1,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 50, 49, ___, 47, ___, 45, 44, 43",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 50, 49, ___, 47, ___, 45, 44, 43",
+        "type": "sequence",
+        "sequence": [
+          50,
+          49,
+          47,
+          45,
+          44,
+          43
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "48,46",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 1s",
+      "multiGapAnswers": [
+        48,
+        46
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_yt8rumcwj",
+      "questionNumber": 2,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 10, 20, 30, 40, 50, 60, 70, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 10, 20, 30, 40, 50, 60, 70, ___",
+        "type": "sequence",
+        "sequence": [
+          10,
+          20,
+          30,
+          40,
+          50,
+          60,
+          70
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "80",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        81,
+        90,
+        70,
+        80
+      ],
+      "hint": "Count forwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_i5l4ikl3k",
+      "questionNumber": 3,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 14, 16, 18, 20, 22, 24, 26, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 14, 16, 18, 20, 22, 24, 26, ___",
+        "type": "sequence",
+        "sequence": [
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "28",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_97w59ei6k",
+      "questionNumber": 4,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 33, 32, 31, 30, 29, 28, 27, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 33, 32, 31, 30, 29, 28, 27, ___",
+        "type": "sequence",
+        "sequence": [
+          33,
+          32,
+          31,
+          30,
+          29,
+          28,
+          27
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "26",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 1s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_6dfag7eai",
+      "questionNumber": 5,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: ___, 10, ___, 30, 40, 50, 60, 70",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: ___, 10, ___, 30, 40, 50, 60, 70",
+        "type": "sequence",
+        "sequence": [
+          10,
+          30,
+          40,
+          50,
+          60,
+          70
+        ],
+        "direction": "forwards",
+        "stepSize": 1
+      },
+      "correctAnswer": "0,20",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 10s",
+      "multiGapAnswers": [
+        0,
+        20
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          1,
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_kxg677tds",
+      "questionNumber": 1,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 40, 45, 50, 55, 60, 65, 70, 75, 80, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 40, 45, 50, 55, 60, 65, 70, 75, 80, ___",
+        "type": "sequence",
+        "sequence": [
+          40,
+          45,
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          80
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "85",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        85,
+        80,
+        86,
+        90
+      ],
+      "hint": "Count forwards in 5s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 120,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_aal8o05kg",
+      "questionNumber": 2,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 2, 4, 6, 8, 10, 12, 14, 16, 18, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 2, 4, 6, 8, 10, 12, 14, 16, 18, ___",
+        "type": "sequence",
+        "sequence": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12,
+          14,
+          16,
+          18
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "20",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 120,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_mah0qleio",
+      "questionNumber": 3,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 48, 50, ___, 54, 56, ___, 60, ___, 64, 66",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 48, 50, ___, 54, 56, ___, 60, ___, 64, 66",
+        "type": "sequence",
+        "sequence": [
+          48,
+          50,
+          54,
+          56,
+          60,
+          64,
+          66
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "52,62,58",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 2s",
+      "multiGapAnswers": [
+        52,
+        62,
+        58
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 120,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682441_pko760kwr",
+      "questionNumber": 4,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 90, 80, 70, 60, 50, 40, 30, 20, 10, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 90, 80, 70, 60, 50, 40, 30, 20, 10, ___",
+        "type": "sequence",
+        "sequence": [
+          90,
+          80,
+          70,
+          60,
+          50,
+          40,
+          30,
+          20,
+          10
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "0",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        1,
+        -10,
+        10,
+        0
+      ],
+      "hint": "Count backwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 120,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.441Z"
+    },
+    {
+      "id": "N01_Y1_NPV_1761062682442_gark49q9j",
+      "questionNumber": 5,
+      "moduleId": "N01_Y1_NPV",
+      "moduleName": "N01_Y1_NPV: Counting in Multiples",
+      "moduleDescription": "Count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number; count in multiples of twos, fives and tens",
+      "yearGroup": "Year 1",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 10, 12, 14, 16, 18, 20, 22, 24, 26, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 10, 12, 14, 16, 18, 20, 22, 24, 26, ___",
+        "type": "sequence",
+        "sequence": [
+          10,
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "28",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 120,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-1",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_lj9buzq64",
+      "questionNumber": 1,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 2, 4, 6, 8, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 2, 4, 6, 8, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "10",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        12,
+        11,
+        10,
+        8
+      ],
+      "hint": "Count forwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "tens_from_any": false,
+        "tens_range": [
+          0,
+          50
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_h0ssuhop9",
+      "questionNumber": 2,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 0, 5, 10, ___, 20, 25",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 0, 5, 10, ___, 20, 25",
+        "type": "sequence",
+        "sequence": [
+          0,
+          5,
+          10,
+          20,
+          25
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "15",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 5s",
+      "multiGapAnswers": [
+        15
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "tens_from_any": false,
+        "tens_range": [
+          0,
+          50
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_z1cbfj1us",
+      "questionNumber": 3,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 3, 6, 9, 12, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 3, 6, 9, 12, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          3,
+          6,
+          9,
+          12
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "15",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        15,
+        16,
+        18,
+        12
+      ],
+      "hint": "Count forwards in 3s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "tens_from_any": false,
+        "tens_range": [
+          0,
+          50
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_2zuwsp9nn",
+      "questionNumber": 4,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 0, 5, 10, ___, 20, 25",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 0, 5, 10, ___, 20, 25",
+        "type": "sequence",
+        "sequence": [
+          0,
+          5,
+          10,
+          20,
+          25
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "15",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 5s",
+      "multiGapAnswers": [
+        15
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "tens_from_any": false,
+        "tens_range": [
+          0,
+          50
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_qbdg6byia",
+      "questionNumber": 5,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 0, 2, 4, ___, 8, 10",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 0, 2, 4, ___, 8, 10",
+        "type": "sequence",
+        "sequence": [
+          0,
+          2,
+          4,
+          8,
+          10
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "6",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 2s",
+      "multiGapAnswers": [
+        6
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5
+        ],
+        "min_value": 0,
+        "max_value": 50,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "tens_from_any": false,
+        "tens_range": [
+          0,
+          50
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_q39zvfwjr",
+      "questionNumber": 1,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 2, 4, 6, 8, 10, 12, 14, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 2, 4, 6, 8, 10, 12, 14, ___",
+        "type": "sequence",
+        "sequence": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12,
+          14
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "16",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_tchdw9f4h",
+      "questionNumber": 2,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 21, 18, 15, 12, 9, 6, 3, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 21, 18, 15, 12, 9, 6, 3, ___",
+        "type": "sequence",
+        "sequence": [
+          21,
+          18,
+          15,
+          12,
+          9,
+          6,
+          3
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "0",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        0,
+        3,
+        1,
+        -3
+      ],
+      "hint": "Count backwards in 3s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_buapd6qx9",
+      "questionNumber": 3,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 21, 18, 15, 12, 9, 6, 3, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 21, 18, 15, 12, 9, 6, 3, ___",
+        "type": "sequence",
+        "sequence": [
+          21,
+          18,
+          15,
+          12,
+          9,
+          6,
+          3
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "0",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        1,
+        3,
+        -3,
+        0
+      ],
+      "hint": "Count backwards in 3s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_qlxxaq6s2",
+      "questionNumber": 4,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 70, 60, 50, 40, ___, 20, 10, 0",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 70, 60, 50, 40, ___, 20, 10, 0",
+        "type": "sequence",
+        "sequence": [
+          70,
+          60,
+          50,
+          40,
+          20,
+          10,
+          0
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "30",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 10s",
+      "multiGapAnswers": [
+        30
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_2xybsw8so",
+      "questionNumber": 5,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 40,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 93, 83, 73, 63, 53, 43, 33, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 93, 83, 73, 63, 53, 43, 33, ___",
+        "type": "sequence",
+        "sequence": [
+          93,
+          83,
+          73,
+          63,
+          53,
+          43,
+          33
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "23",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        24,
+        13,
+        23,
+        33
+      ],
+      "hint": "Count backwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_8liks104h",
+      "questionNumber": 1,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 9, 12, 15, 18, 21, 24, 27, 30, 33, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 9, 12, 15, 18, 21, 24, 27, 30, 33, ___",
+        "type": "sequence",
+        "sequence": [
+          9,
+          12,
+          15,
+          18,
+          21,
+          24,
+          27,
+          30,
+          33
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "36",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 3s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_rmwv0z85k",
+      "questionNumber": 2,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 3, 6, 9, 12, 15, 18, 21, 24, 27, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 3, 6, 9, 12, 15, 18, 21, 24, 27, ___",
+        "type": "sequence",
+        "sequence": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21,
+          24,
+          27
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "30",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 3s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_48ygdumb4",
+      "questionNumber": 3,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 27, 24, 21, 18, ___, 12, ___, 6, 3, 0",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 27, 24, 21, 18, ___, 12, ___, 6, 3, 0",
+        "type": "sequence",
+        "sequence": [
+          27,
+          24,
+          21,
+          18,
+          12,
+          6,
+          3,
+          0
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "15,9",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 3s",
+      "multiGapAnswers": [
+        15,
+        9
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_uqq48iy8i",
+      "questionNumber": 4,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 18, 16, 14, 12, 10, ___, 6, 4, ___, 0",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 18, 16, 14, 12, 10, ___, 6, 4, ___, 0",
+        "type": "sequence",
+        "sequence": [
+          18,
+          16,
+          14,
+          12,
+          10,
+          6,
+          4,
+          0
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "8,2",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 2s",
+      "multiGapAnswers": [
+        8,
+        2
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_hm9mg4xku",
+      "questionNumber": 5,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 60,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: ___, 24, 21, 18, 15, ___, 9, 6, 3, 0",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: ___, 24, 21, 18, 15, ___, 9, 6, 3, 0",
+        "type": "sequence",
+        "sequence": [
+          24,
+          21,
+          18,
+          15,
+          9,
+          6,
+          3,
+          0
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "27,12",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 3s",
+      "multiGapAnswers": [
+        27,
+        12
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          100
+        ]
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_pk5ch6o10",
+      "questionNumber": 1,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 90, 100, 110, 120, ___, ___, 150, ___, 170, 180, 190, 200",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 90, 100, 110, 120, ___, ___, 150, ___, 170, 180, 190, 200",
+        "type": "sequence",
+        "sequence": [
+          90,
+          100,
+          110,
+          120,
+          150,
+          170,
+          180,
+          190,
+          200
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "130,140,160",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 10s",
+      "multiGapAnswers": [
+        130,
+        140,
+        160
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          200
+        ]
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_8qtxkeaiw",
+      "questionNumber": 2,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 110, 100, 90, 80, ___, ___, 50, ___, 30, 20, 10, 0",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 110, 100, 90, 80, ___, ___, 50, ___, 30, 20, 10, 0",
+        "type": "sequence",
+        "sequence": [
+          110,
+          100,
+          90,
+          80,
+          50,
+          30,
+          20,
+          10,
+          0
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "70,60,40",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 10s",
+      "multiGapAnswers": [
+        70,
+        60,
+        40
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          200
+        ]
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_dxmvuw03w",
+      "questionNumber": 3,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 110, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 110, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10, ___",
+        "type": "sequence",
+        "sequence": [
+          110,
+          100,
+          90,
+          80,
+          70,
+          60,
+          50,
+          40,
+          30,
+          20,
+          10
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "0",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          200
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_t0247uldf",
+      "questionNumber": 4,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 22, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 22, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, ___",
+        "type": "sequence",
+        "sequence": [
+          22,
+          20,
+          18,
+          16,
+          14,
+          12,
+          10,
+          8,
+          6,
+          4,
+          2
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "0",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        0,
+        1,
+        2,
+        -2
+      ],
+      "hint": "Count backwards in 2s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          200
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y2_NPV_1761062682442_0d30uavin",
+      "questionNumber": 5,
+      "moduleId": "N01_Y2_NPV",
+      "moduleName": "N01_Y2_NPV: Counting in Steps",
+      "moduleDescription": "Count in steps of 2, 3, and 5 from 0, and in tens from any number, forward and backward",
+      "yearGroup": "Year 2",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, ___",
+        "type": "sequence",
+        "sequence": [
+          5,
+          10,
+          15,
+          20,
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55
+        ],
+        "direction": "forwards",
+        "stepSize": 2
+      },
+      "correctAnswer": "60",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 5s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          2,
+          3,
+          5,
+          10
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "tens_from_any": true,
+        "tens_range": [
+          0,
+          200
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-2",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_h5a4tix53",
+      "questionNumber": 1,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 8, 16, 24, 32, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 8, 16, 24, 32, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          8,
+          16,
+          24,
+          32
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "40",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        48,
+        40,
+        41,
+        32
+      ],
+      "hint": "Count forwards in 8s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_bm5hh4q7i",
+      "questionNumber": 2,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 50, 100, 150, 200, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 50, 100, 150, 200, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          50,
+          100,
+          150,
+          200
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "250",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        300,
+        200,
+        250,
+        251
+      ],
+      "hint": "Count forwards in 50s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_86b9khxen",
+      "questionNumber": 3,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 0, 8, 16, ___, 32, 40",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 0, 8, 16, ___, 32, 40",
+        "type": "sequence",
+        "sequence": [
+          0,
+          8,
+          16,
+          32,
+          40
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "24",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 8s",
+      "multiGapAnswers": [
+        24
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_dqk9vql7k",
+      "questionNumber": 4,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 8, 16, 24, 32, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 8, 16, 24, 32, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          8,
+          16,
+          24,
+          32
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "40",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        32,
+        40,
+        41,
+        48
+      ],
+      "hint": "Count forwards in 8s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_7o2xopird",
+      "questionNumber": 5,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 0, 50, 100, ___, 200, 250",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 0, 50, 100, ___, 200, 250",
+        "type": "sequence",
+        "sequence": [
+          0,
+          50,
+          100,
+          200,
+          250
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "150",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 50s",
+      "multiGapAnswers": [
+        150
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50
+        ],
+        "min_value": 0,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_qu06o7qs4",
+      "questionNumber": 1,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 350, 300, 250, 200, 150, 100, 50, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 350, 300, 250, 200, 150, 100, 50, ___",
+        "type": "sequence",
+        "sequence": [
+          350,
+          300,
+          250,
+          200,
+          150,
+          100,
+          50
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "0",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        50,
+        0,
+        1,
+        -50
+      ],
+      "hint": "Count backwards in 50s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 400,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_hs39u8mm5",
+      "questionNumber": 2,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 400, 300, 200, 100, 0, -100, -200, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 400, 300, 200, 100, 0, -100, -200, ___",
+        "type": "sequence",
+        "sequence": [
+          400,
+          300,
+          200,
+          100,
+          0,
+          -100,
+          -200
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "-300",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 100s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 400,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_xgw3fdon8",
+      "questionNumber": 3,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 400, 300, 200, 100, 0, -100, -200, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 400, 300, 200, 100, 0, -100, -200, ___",
+        "type": "sequence",
+        "sequence": [
+          400,
+          300,
+          200,
+          100,
+          0,
+          -100,
+          -200
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "-300",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        -200,
+        -299,
+        -300,
+        -400
+      ],
+      "hint": "Count backwards in 100s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 400,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_j5o4d1b3e",
+      "questionNumber": 4,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 4, 8, 12, 16, 20, 24, 28, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 4, 8, 12, 16, 20, 24, 28, ___",
+        "type": "sequence",
+        "sequence": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24,
+          28
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "32",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 4s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 400,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_2ko59ieyc",
+      "questionNumber": 5,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 24, 32, 40, 48, 56, 64, 72, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 24, 32, 40, 48, 56, 64, 72, ___",
+        "type": "sequence",
+        "sequence": [
+          24,
+          32,
+          40,
+          48,
+          56,
+          64,
+          72
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "80",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 8s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 400,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_f72nl62lm",
+      "questionNumber": 1,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 62,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 100, ___, 200, 250, 300, 350, 400, 450, ___, 550",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 100, ___, 200, 250, 300, 350, 400, 450, ___, 550",
+        "type": "sequence",
+        "sequence": [
+          100,
+          200,
+          250,
+          300,
+          350,
+          400,
+          450,
+          550
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "150,500",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 50s",
+      "multiGapAnswers": [
+        150,
+        500
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 800,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_u6nqvtb5g",
+      "questionNumber": 2,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 62,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: ___, 236, 232, 228, 224, 220, ___, 212, 208, 204",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: ___, 236, 232, 228, 224, 220, ___, 212, 208, 204",
+        "type": "sequence",
+        "sequence": [
+          236,
+          232,
+          228,
+          224,
+          220,
+          212,
+          208,
+          204
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "240,216",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 4s",
+      "multiGapAnswers": [
+        240,
+        216
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 800,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_mbplgplrk",
+      "questionNumber": 3,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 62,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 100, 200, 300, 400, 500, 600, 700, 800, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 100, 200, 300, 400, 500, 600, 700, 800, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          100,
+          200,
+          300,
+          400,
+          500,
+          600,
+          700,
+          800
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "900",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        1000,
+        901,
+        800,
+        900
+      ],
+      "hint": "Count forwards in 100s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 800,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_aobfqenzq",
+      "questionNumber": 4,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 62,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 100, 200, 300, 400, 500, 600, 700, 800, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 100, 200, 300, 400, 500, 600, 700, 800, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          100,
+          200,
+          300,
+          400,
+          500,
+          600,
+          700,
+          800
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "900",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        800,
+        1000,
+        901,
+        900
+      ],
+      "hint": "Count forwards in 100s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 800,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_t21cf5tw9",
+      "questionNumber": 5,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 62,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 32, 36, 40, 44, 48, ___, ___, 60, 64, 68",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 32, 36, 40, 44, 48, ___, ___, 60, 64, 68",
+        "type": "sequence",
+        "sequence": [
+          32,
+          36,
+          40,
+          44,
+          48,
+          60,
+          64,
+          68
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "52,56",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 4s",
+      "multiGapAnswers": [
+        52,
+        56
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 800,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_yqql405az",
+      "questionNumber": 1,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 0, 100, 200, 300, 400, ___, 600, 700, ___, 900, ___, 1100",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 0, 100, 200, 300, 400, ___, 600, 700, ___, 900, ___, 1100",
+        "type": "sequence",
+        "sequence": [
+          0,
+          100,
+          200,
+          300,
+          400,
+          600,
+          700,
+          900,
+          1100
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "500,800,1000",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 100s",
+      "multiGapAnswers": [
+        500,
+        800,
+        1000
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 1000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_syavmx79s",
+      "questionNumber": 2,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 1000, 900, 800, 700, 600, 500, 400, 300, 200, 100, 0, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 1000, 900, 800, 700, 600, 500, 400, 300, 200, 100, 0, ___",
+        "type": "sequence",
+        "sequence": [
+          1000,
+          900,
+          800,
+          700,
+          600,
+          500,
+          400,
+          300,
+          200,
+          100,
+          0
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "-100",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        -100,
+        0,
+        -99,
+        -200
+      ],
+      "hint": "Count backwards in 100s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 1000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_km75yxysc",
+      "questionNumber": 3,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 328, 324, ___, 316, 312, 308, 304, 300, ___, 292, ___, 284",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 328, 324, ___, 316, 312, 308, 304, 300, ___, 292, ___, 284",
+        "type": "sequence",
+        "sequence": [
+          328,
+          324,
+          316,
+          312,
+          308,
+          304,
+          300,
+          292,
+          284
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "320,296,288",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 4s",
+      "multiGapAnswers": [
+        320,
+        296,
+        288
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 1000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_3thoipgvy",
+      "questionNumber": 4,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: ___, 500, 450, 400, 350, 300, ___, 200, 150, ___, 50, 0",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: ___, 500, 450, 400, 350, 300, ___, 200, 150, ___, 50, 0",
+        "type": "sequence",
+        "sequence": [
+          500,
+          450,
+          400,
+          350,
+          300,
+          200,
+          150,
+          50,
+          0
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "550,250,100",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 50s",
+      "multiGapAnswers": [
+        550,
+        250,
+        100
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 1000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y3_NPV_1761062682442_w8eaht3aw",
+      "questionNumber": 5,
+      "moduleId": "N01_Y3_NPV",
+      "moduleName": "N01_Y3_NPV: Counting from 0",
+      "moduleDescription": "Count from 0 in multiples of 4, 8, 50 and 100",
+      "yearGroup": "Year 3",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 82,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, ___",
+        "type": "sequence",
+        "sequence": [
+          80,
+          88,
+          96,
+          104,
+          112,
+          120,
+          128,
+          136,
+          144,
+          152,
+          160
+        ],
+        "direction": "forwards",
+        "stepSize": 4
+      },
+      "correctAnswer": "168",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        169,
+        168,
+        176,
+        160
+      ],
+      "hint": "Count forwards in 8s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          4,
+          8,
+          50,
+          100
+        ],
+        "min_value": 0,
+        "max_value": 1000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-3",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_4q1lxvnts",
+      "questionNumber": 1,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 22,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 6, 12, 18, 24, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 6, 12, 18, 24, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          6,
+          12,
+          18,
+          24
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "30",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        24,
+        36,
+        31,
+        30
+      ],
+      "hint": "Count forwards in 6s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_nwshauqph",
+      "questionNumber": 2,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 22,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 0, 25, 50, ___, 100, 125",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 0, 25, 50, ___, 100, 125",
+        "type": "sequence",
+        "sequence": [
+          0,
+          25,
+          50,
+          100,
+          125
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "75",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 25s",
+      "multiGapAnswers": [
+        75
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_wd7wnlp3m",
+      "questionNumber": 3,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 22,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 25, 50, 75, 100, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 25, 50, 75, 100, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          25,
+          50,
+          75,
+          100
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "125",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        125,
+        150,
+        126,
+        100
+      ],
+      "hint": "Count forwards in 25s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_9di0ezqbo",
+      "questionNumber": 4,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 22,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 0, 6, 12, 18, 24, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 0, 6, 12, 18, 24, ___",
+        "type": "sequence",
+        "sequence": [
+          0,
+          6,
+          12,
+          18,
+          24
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "30",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        30,
+        36,
+        24,
+        31
+      ],
+      "hint": "Count forwards in 6s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_cfar7ev5u",
+      "questionNumber": 5,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 22,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 0, 6, 12, ___, 24, 30",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 0, 6, 12, ___, 24, 30",
+        "type": "sequence",
+        "sequence": [
+          0,
+          6,
+          12,
+          24,
+          30
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "18",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 6s",
+      "multiGapAnswers": [
+        18
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25
+        ],
+        "min_value": 0,
+        "max_value": 200,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_6bdlbqbpq",
+      "questionNumber": 1,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 18, 24, 30, 36, 42, 48, 54, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 18, 24, 30, 36, 42, 48, 54, ___",
+        "type": "sequence",
+        "sequence": [
+          18,
+          24,
+          30,
+          36,
+          42,
+          48,
+          54
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "60",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 6s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_2gkis2o4c",
+      "questionNumber": 2,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 500, -500, -1500, -2500, ___, -4500, -5500, -6500",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 500, -500, -1500, -2500, ___, -4500, -5500, -6500",
+        "type": "sequence",
+        "sequence": [
+          500,
+          -500,
+          -1500,
+          -2500,
+          -4500,
+          -5500,
+          -6500
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "-3500",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 1000s",
+      "multiGapAnswers": [
+        -3500
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_mvsphdh84",
+      "questionNumber": 3,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 9, 18, 27, 36, 45, 54, 63, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 9, 18, 27, 36, 45, 54, 63, ___",
+        "type": "sequence",
+        "sequence": [
+          9,
+          18,
+          27,
+          36,
+          45,
+          54,
+          63
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "72",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        73,
+        63,
+        81,
+        72
+      ],
+      "hint": "Count forwards in 9s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_qf61r9lmi",
+      "questionNumber": 4,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 500, -500, -1500, -2500, -3500, -4500, -5500, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 500, -500, -1500, -2500, -3500, -4500, -5500, ___",
+        "type": "sequence",
+        "sequence": [
+          500,
+          -500,
+          -1500,
+          -2500,
+          -3500,
+          -4500,
+          -5500
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "-6500",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 1000s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_tt98xepxp",
+      "questionNumber": 5,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 63, 54, 45, 36, 27, 18, 9, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 63, 54, 45, 36, 27, 18, 9, ___",
+        "type": "sequence",
+        "sequence": [
+          63,
+          54,
+          45,
+          36,
+          27,
+          18,
+          9
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "0",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 9s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "zero_or_multiple",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_h23dsox1c",
+      "questionNumber": 1,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: ___, 3955, 3948, 3941, 3934, 3927, 3920, ___, 3906, 3899",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: ___, 3955, 3948, 3941, 3934, 3927, 3920, ___, 3906, 3899",
+        "type": "sequence",
+        "sequence": [
+          3955,
+          3948,
+          3941,
+          3934,
+          3927,
+          3920,
+          3906,
+          3899
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "3962,3913",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 7s",
+      "multiGapAnswers": [
+        3962,
+        3913
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_v5ovob9nd",
+      "questionNumber": 2,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: ___, 3663, 3672, 3681, 3690, ___, 3708, 3717, 3726, 3735",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: ___, 3663, 3672, 3681, 3690, ___, 3708, 3717, 3726, 3735",
+        "type": "sequence",
+        "sequence": [
+          3663,
+          3672,
+          3681,
+          3690,
+          3708,
+          3717,
+          3726,
+          3735
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "3654,3699",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 9s",
+      "multiGapAnswers": [
+        3654,
+        3699
+      ],
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_nmbsxxnsf",
+      "questionNumber": 3,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, ___",
+        "type": "sequence",
+        "sequence": [
+          1000,
+          2000,
+          3000,
+          4000,
+          5000,
+          6000,
+          7000,
+          8000,
+          9000
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "10000",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        10000,
+        9000,
+        11000,
+        10001
+      ],
+      "hint": "Count forwards in 1000s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_ypvyion18",
+      "questionNumber": 4,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 3105, 3096, 3087, 3078, 3069, 3060, 3051, 3042, 3033, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 3105, 3096, 3087, 3078, 3069, 3060, 3051, 3042, 3033, ___",
+        "type": "sequence",
+        "sequence": [
+          3105,
+          3096,
+          3087,
+          3078,
+          3069,
+          3060,
+          3051,
+          3042,
+          3033
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "3024",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        3025,
+        3024,
+        3033,
+        3015
+      ],
+      "hint": "Count backwards in 9s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_0dw60yuk2",
+      "questionNumber": 5,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 234, 228, 222, 216, 210, 204, 198, 192, 186, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 234, 228, 222, 216, 210, 204, 198, 192, 186, ___",
+        "type": "sequence",
+        "sequence": [
+          234,
+          228,
+          222,
+          216,
+          210,
+          204,
+          198,
+          192,
+          186
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "180",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 6s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-4",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_d4pjgz6kc",
+      "questionNumber": 1,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 6885, 6876, 6867, 6858, 6849, 6840, 6831, 6822, 6813, 6804, 6795, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 6885, 6876, 6867, 6858, 6849, 6840, 6831, 6822, 6813, 6804, 6795, ___",
+        "type": "sequence",
+        "sequence": [
+          6885,
+          6876,
+          6867,
+          6858,
+          6849,
+          6840,
+          6831,
+          6822,
+          6813,
+          6804,
+          6795
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "6786",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 9s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 20000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-4",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_h66c7p1sg",
+      "questionNumber": 2,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 5748, 5754, 5760, 5766, 5772, 5778, 5784, 5790, 5796, 5802, 5808, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 5748, 5754, 5760, 5766, 5772, 5778, 5784, 5790, 5796, 5802, 5808, ___",
+        "type": "sequence",
+        "sequence": [
+          5748,
+          5754,
+          5760,
+          5766,
+          5772,
+          5778,
+          5784,
+          5790,
+          5796,
+          5802,
+          5808
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "5814",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        5815,
+        5820,
+        5814,
+        5808
+      ],
+      "hint": "Count forwards in 6s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 20000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_q5nbral3c",
+      "questionNumber": 3,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 9603, 9594, 9585, 9576, 9567, 9558, 9549, 9540, 9531, 9522, 9513, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 9603, 9594, 9585, 9576, 9567, 9558, 9549, 9540, 9531, 9522, 9513, ___",
+        "type": "sequence",
+        "sequence": [
+          9603,
+          9594,
+          9585,
+          9576,
+          9567,
+          9558,
+          9549,
+          9540,
+          9531,
+          9522,
+          9513
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "9504",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        9495,
+        9504,
+        9513,
+        9505
+      ],
+      "hint": "Count backwards in 9s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 20000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_g47ku14vi",
+      "questionNumber": 4,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 8376, 8382, 8388, 8394, 8400, 8406, 8412, 8418, 8424, 8430, 8436, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 8376, 8382, 8388, 8394, 8400, 8406, 8412, 8418, 8424, 8430, 8436, ___",
+        "type": "sequence",
+        "sequence": [
+          8376,
+          8382,
+          8388,
+          8394,
+          8400,
+          8406,
+          8412,
+          8418,
+          8424,
+          8430,
+          8436
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "8442",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        8442,
+        8443,
+        8436,
+        8448
+      ],
+      "hint": "Count forwards in 6s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 20000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y4_NPV_1761062682442_53dd3kwrb",
+      "questionNumber": 5,
+      "moduleId": "N01_Y4_NPV",
+      "moduleName": "N01_Y4_NPV: Count in Multiples",
+      "moduleDescription": "Count in multiples of 6, 7, 9, 25 and 1000",
+      "yearGroup": "Year 4",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: 11000, 10000, 9000, 8000, 7000, 6000, 5000, 4000, 3000, 2000, 1000, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: 11000, 10000, 9000, 8000, 7000, 6000, 5000, 4000, 3000, 2000, 1000, ___",
+        "type": "sequence",
+        "sequence": [
+          11000,
+          10000,
+          9000,
+          8000,
+          7000,
+          6000,
+          5000,
+          4000,
+          3000,
+          2000,
+          1000
+        ],
+        "direction": "forwards",
+        "stepSize": 6
+      },
+      "correctAnswer": "0",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        1000,
+        0,
+        -1000,
+        1
+      ],
+      "hint": "Count backwards in 1000s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "step_sizes": [
+          6,
+          7,
+          9,
+          25,
+          1000
+        ],
+        "min_value": 0,
+        "max_value": 20000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random"
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-4",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_ye7tugbsn",
+      "questionNumber": 1,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: -100, 0, 100, ___, 300, 400",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: -100, 0, 100, ___, 300, 400",
+        "type": "sequence",
+        "sequence": [
+          -100,
+          0,
+          100,
+          300,
+          400
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "200",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 100s through zero",
+      "multiGapAnswers": [
+        200
+      ],
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100
+        ],
+        "min_value": -100,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "start_range": [
+          -50,
+          50
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_stxgxs6fz",
+      "questionNumber": 2,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 10, 20, 30, 40, 50, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 10, 20, 30, 40, 50, ___",
+        "type": "sequence",
+        "sequence": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "60",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100
+        ],
+        "min_value": -100,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "start_range": [
+          -50,
+          50
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_fu39on7fg",
+      "questionNumber": 3,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 10, 20, 30, 40, 50, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 10, 20, 30, 40, 50, ___",
+        "type": "sequence",
+        "sequence": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "60",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100
+        ],
+        "min_value": -100,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "start_range": [
+          -50,
+          50
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_6y7sfzlv1",
+      "questionNumber": 4,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 0, 10, 20, ___, 40, 50",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 0, 10, 20, ___, 40, 50",
+        "type": "sequence",
+        "sequence": [
+          0,
+          10,
+          20,
+          40,
+          50
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "30",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 10s",
+      "multiGapAnswers": [
+        30
+      ],
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100
+        ],
+        "min_value": -100,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "start_range": [
+          -50,
+          50
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_sqdumj1fm",
+      "questionNumber": 5,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 20,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 10, 20, 30, 40, 50, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 10, 20, 30, 40, 50, ___",
+        "type": "sequence",
+        "sequence": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "60",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100
+        ],
+        "min_value": -100,
+        "max_value": 100,
+        "directions": [
+          "forwards"
+        ],
+        "start_from": "zero_only",
+        "sequence_length": 6,
+        "gaps_count": 1,
+        "gap_position": "end",
+        "start_range": [
+          -50,
+          50
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-100"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_5hxyjncb6",
+      "questionNumber": 1,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: 500, -500, -1500, -2500, ___, -4500, -5500, -6500",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: 500, -500, -1500, -2500, ___, -4500, -5500, -6500",
+        "type": "sequence",
+        "sequence": [
+          500,
+          -500,
+          -1500,
+          -2500,
+          -4500,
+          -5500,
+          -6500
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "-3500",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 1000s through zero",
+      "multiGapAnswers": [
+        -3500
+      ],
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "min_value": -500,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "start_range": [
+          -200,
+          200
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_gfhe5ujgh",
+      "questionNumber": 2,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "What number comes next? -500, 500, 1500, 2500, 3500, 4500, 5500, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? -500, 500, 1500, 2500, 3500, 4500, 5500, ___",
+        "type": "sequence",
+        "sequence": [
+          -500,
+          500,
+          1500,
+          2500,
+          3500,
+          4500,
+          5500
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "6500",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count forwards in 1000s (the sequence crosses zero)",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "min_value": -500,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "start_range": [
+          -200,
+          200
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_22si509w1",
+      "questionNumber": 3,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: -180, -190, -200, -210, ___, -230, -240, -250",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: -180, -190, -200, -210, ___, -230, -240, -250",
+        "type": "sequence",
+        "sequence": [
+          -180,
+          -190,
+          -200,
+          -210,
+          -230,
+          -240,
+          -250
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "-220",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 10s",
+      "multiGapAnswers": [
+        -220
+      ],
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "min_value": -500,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "start_range": [
+          -200,
+          200
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_adsr7reqz",
+      "questionNumber": 4,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing number: -500, 500, 1500, 2500, ___, 4500, 5500, 6500",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing number: -500, 500, 1500, 2500, ___, 4500, 5500, 6500",
+        "type": "sequence",
+        "sequence": [
+          -500,
+          500,
+          1500,
+          2500,
+          4500,
+          5500,
+          6500
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "3500",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 1000s through zero",
+      "multiGapAnswers": [
+        3500
+      ],
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "min_value": -500,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "start_range": [
+          -200,
+          200
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_71avnyeny",
+      "questionNumber": 5,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 42,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 200, 100, 0, -100, -200, -300, -400, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 200, 100, 0, -100, -200, -300, -400, ___",
+        "type": "sequence",
+        "sequence": [
+          200,
+          100,
+          0,
+          -100,
+          -200,
+          -300,
+          -400
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "-500",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 100s (the sequence crosses zero)",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "min_value": -500,
+        "max_value": 500,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 8,
+        "gaps_count": 1,
+        "gap_position": "middle",
+        "start_range": [
+          -200,
+          200
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-1000"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_6gz47aa34",
+      "questionNumber": 1,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: -4960, -4950, -4940, -4930, -4920, -4910, -4900, ___, ___, -4870",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: -4960, -4950, -4940, -4930, -4920, -4910, -4900, ___, ___, -4870",
+        "type": "sequence",
+        "sequence": [
+          -4960,
+          -4950,
+          -4940,
+          -4930,
+          -4920,
+          -4910,
+          -4900,
+          -4870
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "-4890,-4880",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 10s",
+      "multiGapAnswers": [
+        -4890,
+        -4880
+      ],
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "min_value": -10000,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "start_range": [
+          -5000,
+          5000
+        ]
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_f009x85ie",
+      "questionNumber": 2,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "text_input",
+      "questionText": "What number comes next? -3430, -3440, -3450, -3460, -3470, -3480, -3490, -3500, -3510, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? -3430, -3440, -3450, -3460, -3470, -3480, -3490, -3500, -3510, ___",
+        "type": "sequence",
+        "sequence": [
+          -3430,
+          -3440,
+          -3450,
+          -3460,
+          -3470,
+          -3480,
+          -3490,
+          -3500,
+          -3510
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "-3520",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "min_value": -10000,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "start_range": [
+          -5000,
+          5000
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_gx4esplai",
+      "questionNumber": 3,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: -10000, 0, 10000, 20000, 30000, 40000, 50000, 60000, 70000, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: -10000, 0, 10000, 20000, 30000, 40000, 50000, 60000, 70000, ___",
+        "type": "sequence",
+        "sequence": [
+          -10000,
+          0,
+          10000,
+          20000,
+          30000,
+          40000,
+          50000,
+          60000,
+          70000
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "80000",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        80001,
+        70000,
+        80000,
+        90000
+      ],
+      "hint": "Count forwards in 10000s (remember the sequence crosses zero)",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "min_value": -10000,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "start_range": [
+          -5000,
+          5000
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_56qc24y0n",
+      "questionNumber": 4,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 940, 950, 960, ___, 980, 990, 1000, ___, 1020, 1030",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 940, 950, 960, ___, 980, 990, 1000, ___, 1020, 1030",
+        "type": "sequence",
+        "sequence": [
+          940,
+          950,
+          960,
+          980,
+          990,
+          1000,
+          1020,
+          1030
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "970,1010",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 10s",
+      "multiGapAnswers": [
+        970,
+        1010
+      ],
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "min_value": -10000,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "start_range": [
+          -5000,
+          5000
+        ]
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_7gqvl9z8e",
+      "questionNumber": 5,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: 10000, 0, -10000, -20000, ___, ___, -50000, -60000, -70000, -80000",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: 10000, 0, -10000, -20000, ___, ___, -50000, -60000, -70000, -80000",
+        "type": "sequence",
+        "sequence": [
+          10000,
+          0,
+          -10000,
+          -20000,
+          -50000,
+          -60000,
+          -70000,
+          -80000
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "-30000,-40000",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts backwards in 10000s through zero",
+      "multiGapAnswers": [
+        -30000,
+        -40000
+      ],
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "min_value": -10000,
+        "max_value": 10000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 10,
+        "gaps_count": 2,
+        "gap_position": "random",
+        "start_range": [
+          -5000,
+          5000
+        ]
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-5",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_tu8qp2e6k",
+      "questionNumber": 1,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 6650, 6640, 6630, 6620, 6610, 6600, 6590, 6580, 6570, 6560, 6550, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 6650, 6640, 6630, 6620, 6610, 6600, 6590, 6580, 6570, 6560, 6550, ___",
+        "type": "sequence",
+        "sequence": [
+          6650,
+          6640,
+          6630,
+          6620,
+          6610,
+          6600,
+          6590,
+          6580,
+          6570,
+          6560,
+          6550
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "6540",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "min_value": -100000,
+        "max_value": 100000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "start_range": [
+          -50000,
+          50000
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682442_o4z4uewo2",
+      "questionNumber": 2,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: -9290, -9280, -9270, -9260, -9250, -9240, -9230, -9220, -9210, -9200, -9190, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: -9290, -9280, -9270, -9260, -9250, -9240, -9230, -9220, -9210, -9200, -9190, ___",
+        "type": "sequence",
+        "sequence": [
+          -9290,
+          -9280,
+          -9270,
+          -9260,
+          -9250,
+          -9240,
+          -9230,
+          -9220,
+          -9210,
+          -9200,
+          -9190
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "-9180",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        -9180,
+        -9170,
+        -9179,
+        -9190
+      ],
+      "hint": "Count forwards in 10s",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "min_value": -100000,
+        "max_value": 100000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "start_range": [
+          -50000,
+          50000
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-5",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.442Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682443_ua15p6vki",
+      "questionNumber": 3,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "text_input",
+      "questionText": "What number comes next? 10000, 0, -10000, -20000, -30000, -40000, -50000, -60000, -70000, -80000, -90000, ___",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "What number comes next? 10000, 0, -10000, -20000, -30000, -40000, -50000, -60000, -70000, -80000, -90000, ___",
+        "type": "sequence",
+        "sequence": [
+          10000,
+          0,
+          -10000,
+          -20000,
+          -30000,
+          -40000,
+          -50000,
+          -60000,
+          -70000,
+          -80000,
+          -90000
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "-100000",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Count backwards in 10000s (the sequence crosses zero)",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "min_value": -100000,
+        "max_value": 100000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "start_range": [
+          -50000,
+          50000
+        ]
+      },
+      "tags": [
+        "text_input",
+        "number-and-place-value",
+        "year-5",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.443Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682443_f47r9bgrm",
+      "questionNumber": 4,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "multiple_choice",
+      "questionText": "Continue the pattern: -100000, 0, 100000, 200000, 300000, 400000, 500000, 600000, 700000, 800000, 900000, ___",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Continue the pattern: -100000, 0, 100000, 200000, 300000, 400000, 500000, 600000, 700000, 800000, 900000, ___",
+        "type": "sequence",
+        "sequence": [
+          -100000,
+          0,
+          100000,
+          200000,
+          300000,
+          400000,
+          500000,
+          600000,
+          700000,
+          800000,
+          900000
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "1000000",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        1100000,
+        1000000,
+        1000001,
+        900000
+      ],
+      "hint": "Count forwards in 100000s (remember the sequence crosses zero)",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "min_value": -100000,
+        "max_value": 100000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "start_range": [
+          -50000,
+          50000
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "number-and-place-value",
+        "year-5",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.443Z"
+    },
+    {
+      "id": "N01_Y5_NPV_1761062682443_7pkj6sqal",
+      "questionNumber": 5,
+      "moduleId": "N01_Y5_NPV",
+      "moduleName": "N01_Y5_NPV: Count Forwards and Backwards",
+      "moduleDescription": "Count forwards and backwards with positive and negative whole numbers, including through zero",
+      "yearGroup": "Year 5",
+      "strand": "Number and Place Value",
+      "substrand": "Counting (in multiples)",
+      "curriculumRef": "N1",
+      "icon": "🔢",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 88,
+      "questionType": "text_input",
+      "questionText": "Fill in the missing numbers: ___, 0, 100000, 200000, ___, 400000, 500000, 600000, 700000, ___, 900000, 1000000",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "Fill in the missing numbers: ___, 0, 100000, 200000, ___, 400000, 500000, 600000, 700000, ___, 900000, 1000000",
+        "type": "sequence",
+        "sequence": [
+          0,
+          100000,
+          200000,
+          400000,
+          500000,
+          600000,
+          700000,
+          900000,
+          1000000
+        ],
+        "direction": "forwards",
+        "stepSize": null
+      },
+      "correctAnswer": "-100000,300000,800000",
+      "answerType": "multi_part",
+      "multipleChoiceOptions": null,
+      "hint": "The pattern counts forwards in 100000s through zero",
+      "multiGapAnswers": [
+        -100000,
+        300000,
+        800000
+      ],
+      "generatorParameters": {
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "min_value": -100000,
+        "max_value": 100000,
+        "directions": [
+          "forwards",
+          "backwards"
+        ],
+        "start_from": "any",
+        "sequence_length": 12,
+        "gaps_count": 3,
+        "gap_position": "random",
+        "start_range": [
+          -50000,
+          50000
+        ]
+      },
+      "tags": [
+        "text_input",
+        "multi-part",
+        "number-and-place-value",
+        "year-5",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-10-21T16:04:42.443Z"
+    }
+  ]
+}
