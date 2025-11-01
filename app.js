@@ -516,12 +516,18 @@ class QuestionApp {
                 <span class="feedback-text">Correct!</span>
             `;
             this.feedbackArea.className = 'feedback feedback-correct';
+
+            // Show success notification
+            this.showNotification('✓ Correct! Well done!', 'success', 2000);
         } else {
             this.feedbackArea.innerHTML = `
                 <span class="feedback-icon incorrect">✗</span>
                 <span class="feedback-text">Incorrect. The correct answer is: <strong>${correctAnswer}</strong></span>
             `;
             this.feedbackArea.className = 'feedback feedback-incorrect';
+
+            // Show error notification with correct answer
+            this.showNotification(`✗ Incorrect. The correct answer is: ${correctAnswer}`, 'error', 4000);
         }
     }
 

@@ -82,7 +82,7 @@ body {
 }
 
 .notification.success .notification-icon::before {
-    content: '✓';
+    content: '✅';
 }
 
 .notification.info .notification-icon::before {
@@ -475,23 +475,38 @@ h1 {
     gap: 8px;
     font-size: 14px;
     flex-shrink: 0;
+    animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .feedback-correct {
     background: #d4edda;
     border: 2px solid #28a745;
     color: #155724;
+    box-shadow: 0 2px 8px rgba(40, 167, 69, 0.2);
 }
 
 .feedback-incorrect {
     background: #f8d7da;
     border: 2px solid #dc3545;
     color: #721c24;
+    box-shadow: 0 2px 8px rgba(220, 53, 69, 0.2);
 }
 
 .feedback-icon {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
+    flex-shrink: 0;
 }
 
 .feedback-icon.correct {
@@ -502,8 +517,14 @@ h1 {
     color: #dc3545;
 }
 
+.feedback-text {
+    flex: 1;
+    line-height: 1.3;
+}
+
 .feedback-text strong {
     color: #000;
+    font-weight: 700;
 }
 
 /* Multiple Choice Options */
@@ -695,5 +716,14 @@ h1 {
 
     .notification-message {
         font-size: 14px;
+    }
+
+    .feedback {
+        padding: 8px 10px;
+        font-size: 13px;
+    }
+
+    .feedback-icon {
+        font-size: 18px;
     }
 }
