@@ -1,0 +1,1000 @@
+﻿ID,Question_Number,Module_ID,Module_Name,Year_Group,Strand,Substrand,Level,Difficulty_Score,Question_Type,Question_Text,Visual_Type,Question_Data_JSON,Correct_Answer,Answer_Type,Options_JSON,Hint,Tags,Generated_At,Parameters_JSON
+N04_Y1_NPV_1762009300575_4cjzmc4uv,1,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",1,25,multiple_choice,Which is most: 3 or 2?,multiple_choice,"{""originalText"":""Which is most: 3 or 2?"",""type"":""place_value"",""number"":3,""operation"":""generic""}",3,single_choice,"[3,2]",Think about which number is bigger or smaller,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; numbers-to-20,2025-11-01T15:01:40.575Z,"{""min_value"":0,""max_value"":10,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least""],""number_line_max"":10,""object_types"":[""dots"",""stars"",""circles""],""comparison_words"":[""equal to"",""more than"",""less than"",""most"",""least""]}"
+N04_Y1_NPV_1762009300575_4whi7ikcm,2,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",1,25,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                2
+            
+        
+            
+                
+                3
+            
+        
+            
+                
+                4
+            
+        
+            
+                
+                5
+            
+        
+            
+                
+                6
+            
+        
+            
+                
+                7
+            
+        
+            
+                
+                8
+            
+        
+            
+                
+                9
+            
+        
+            
+                
+                10",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">2</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">3</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">4</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">5</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">6</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">7</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">8</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">9</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">10</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,2,3,4,5,6,7,8,9,10]}",1,numeric,,Look at where the arrow points between the labeled numbers,text_input; number_line; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; numbers-to-20,2025-11-01T15:01:40.575Z,"{""min_value"":0,""max_value"":10,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least""],""number_line_max"":10,""object_types"":[""dots"",""stars"",""circles""],""comparison_words"":[""equal to"",""more than"",""less than"",""most"",""least""]}"
+N04_Y1_NPV_1762009300575_di3umhkyw,3,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",1,25,text_input,"What number is marked on the number line?
+
+
+            
+                ▼
+                
+            
+        
+            
+                
+                1
+            
+        
+            
+                
+                2
+            
+        
+            
+                
+                3
+            
+        
+            
+                
+                4
+            
+        
+            
+                
+                5
+            
+        
+            
+                
+                6
+            
+        
+            
+                
+                7
+            
+        
+            
+                
+                8
+            
+        
+            
+                
+                9
+            
+        
+            
+                
+                10",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">1</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">2</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">3</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">4</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">5</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">6</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">7</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">8</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">9</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">10</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[1,2,3,4,5,6,7,8,9,10]}",0,numeric,,Look at where the arrow points between the labeled numbers,text_input; number_line; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; numbers-to-20,2025-11-01T15:01:40.575Z,"{""min_value"":0,""max_value"":10,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least""],""number_line_max"":10,""object_types"":[""dots"",""stars"",""circles""],""comparison_words"":[""equal to"",""more than"",""less than"",""most"",""least""]}"
+N04_Y1_NPV_1762009300575_vgqfcop96,4,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",1,25,text_input,How many cells are filled in the ten frame?,text_input,"{""originalText"":""How many cells are filled in the ten frame?\n\n<div class=\""ten-frame\""><div class=\""ten-frame-cell filled\"" style=\""background-color: #f59e0b\""></div><div class=\""ten-frame-cell filled\"" style=\""background-color: #f59e0b\""></div><div class=\""ten-frame-cell filled\"" style=\""background-color: #f59e0b\""></div><div class=\""ten-frame-cell filled\"" style=\""background-color: #f59e0b\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div></div>"",""type"":""comparison"",""numbers"":[]}",4,numeric,,"Count carefully, one at a time",text_input; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; numbers-to-20,2025-11-01T15:01:40.575Z,"{""min_value"":0,""max_value"":10,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least""],""number_line_max"":10,""object_types"":[""dots"",""stars"",""circles""],""comparison_words"":[""equal to"",""more than"",""less than"",""most"",""least""]}"
+N04_Y1_NPV_1762009300575_2ltb1lojm,5,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",1,25,multiple_choice,Is 9 equal to 7?,multiple_choice,"{""originalText"":""Is 9 equal to 7?"",""type"":""place_value"",""number"":9,""operation"":""generic""}",No,single_choice,"[""Yes"",""No""]",Think about which number is bigger or smaller,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; numbers-to-20,2025-11-01T15:01:40.575Z,"{""min_value"":0,""max_value"":10,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least""],""number_line_max"":10,""object_types"":[""dots"",""stars"",""circles""],""comparison_words"":[""equal to"",""more than"",""less than"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_058lnshgg,1,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",2,45,multiple_choice,About how many blocks are there if you see a group that's close to 9?,multiple_choice,"{""originalText"":""About how many blocks are there if you see a group that's close to 9?"",""type"":""place_value"",""number"":9,""operation"":""generic""}",9,single_choice,"[9,5,11,7]",Look for the number closest to what you'd estimate,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-20,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":20,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":20,""object_types"":[""dots"",""stars"",""circles"",""blocks""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_4wp2nbw42,2,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",2,45,multiple_choice,About how many circles are there if you see a group that's close to 8?,multiple_choice,"{""originalText"":""About how many circles are there if you see a group that's close to 8?"",""type"":""place_value"",""number"":8,""operation"":""generic""}",8,single_choice,"[6,8,4,10]",Look for the number closest to what you'd estimate,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-20,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":20,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":20,""object_types"":[""dots"",""stars"",""circles"",""blocks""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_xwjnr5a1z,3,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",2,45,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                2
+            
+        
+            
+                
+                4
+            
+        
+            
+                
+                6
+            
+        
+            
+                
+                8
+            
+        
+            
+                
+                10
+            
+        
+            
+                
+                12
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                16
+            
+        
+            
+                
+                18
+            
+        
+            
+                
+                20",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">2</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">4</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">6</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">8</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">10</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">12</div>\n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">16</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">18</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">20</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,2,4,6,8,10,12,16,18,20]}",15,numeric,,Look at where the arrow points between the labeled numbers,text_input; number_line; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-20,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":20,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":20,""object_types"":[""dots"",""stars"",""circles"",""blocks""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_t9n9u61rv,4,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",2,45,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                2
+            
+        
+            
+                
+                4
+            
+        
+            
+                
+                6
+            
+        
+            
+                
+                8
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                12
+            
+        
+            
+                
+                14
+            
+        
+            
+                
+                16
+            
+        
+            
+                
+                18
+            
+        
+            
+                
+                20",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">2</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">4</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">6</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">8</div>\n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">12</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">14</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">16</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">18</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">20</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,2,4,6,8,12,14,16,18,20]}",11,numeric,,Look at where the arrow points between the labeled numbers,text_input; number_line; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-20,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":20,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":20,""object_types"":[""dots"",""stars"",""circles"",""blocks""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_nmare4e3h,5,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",2,45,text_input,How many cells are filled in the ten frame?,text_input,"{""originalText"":""How many cells are filled in the ten frame?\n\n<div class=\""ten-frame\""><div class=\""ten-frame-cell filled\"" style=\""background-color: #8b5cf6\""></div><div class=\""ten-frame-cell filled\"" style=\""background-color: #8b5cf6\""></div><div class=\""ten-frame-cell filled\"" style=\""background-color: #8b5cf6\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div><div class=\""ten-frame-cell empty\"" style=\""background-color: #e5e7eb\""></div></div>"",""type"":""comparison"",""numbers"":[]}",3,numeric,,"Count carefully, one at a time",text_input; number-and-place-value; year-1; op-number_line_position; op-count_objects; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-20,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":20,""operations"":[""number_line_position"",""count_objects"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":20,""object_types"":[""dots"",""stars"",""circles"",""blocks""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_lc5rstd7q,1,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",3,65,multiple_choice,Which number comes between 27 and 30 on a number line?,multiple_choice,"{""originalText"":""Which number comes between 27 and 30 on a number line?"",""type"":""place_value"",""number"":27,""operation"":""generic""}",29,single_choice,"[29,28]",Find a number that's bigger than 27 but smaller than 30,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":50,""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_ihgbxhkcg,2,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",3,65,multiple_choice,About how many dots are there if you see a group that's close to 19?,multiple_choice,"{""originalText"":""About how many dots are there if you see a group that's close to 19?"",""type"":""place_value"",""number"":19,""operation"":""generic""}",19,single_choice,"[19,21,17,10]",Look for the number closest to what you'd estimate,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":50,""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_q7ksy9gzv,3,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",3,65,multiple_choice,Which number comes between 40 and 45 on a number line?,multiple_choice,"{""originalText"":""Which number comes between 40 and 45 on a number line?"",""type"":""place_value"",""number"":40,""operation"":""generic""}",41,single_choice,"[41,42]",Find a number that's bigger than 40 but smaller than 45,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":50,""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_0ilsxwu1g,4,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",3,65,multiple_choice,Which number comes between 10 and 14 on a number line?,multiple_choice,"{""originalText"":""Which number comes between 10 and 14 on a number line?"",""type"":""place_value"",""number"":10,""operation"":""generic""}",11,single_choice,"[11,12]",Find a number that's bigger than 10 but smaller than 14,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":50,""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_v6nqwpsem,5,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",3,65,multiple_choice,About how many circles are there if you see a group that's close to 4?,multiple_choice,"{""originalText"":""About how many circles are there if you see a group that's close to 4?"",""type"":""place_value"",""number"":4,""operation"":""generic""}",4,single_choice,"[2,6,2,4]",Look for the number closest to what you'd estimate,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-compare_language; op-identify_most_least; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""compare_language"",""identify_most_least"",""estimate_group""],""number_line_max"":50,""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_7favgqu4h,1,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",4,85,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                50
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                100",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">50</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">100</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,50,100]}",27,numeric,,Look at where the arrow points between the labeled numbers,text_input; number_line; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-number_line_jump; op-compare_language; op-estimate_position; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""compare_language"",""estimate_position"",""estimate_group""],""number_line_max"":100,""estimation_ranges"":[[0,20],[20,50],[50,100]],""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_bfccszaq7,2,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",4,85,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                50
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                100",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">50</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">100</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,50,100]}",23,numeric,,Look at where the arrow points between the labeled numbers,text_input; number_line; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-number_line_jump; op-compare_language; op-estimate_position; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""compare_language"",""estimate_position"",""estimate_group""],""number_line_max"":100,""estimation_ranges"":[[0,20],[20,50],[50,100]],""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_hdhq0cbhe,3,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",4,85,multiple_choice,Which is least: 12 or 6?,multiple_choice,"{""originalText"":""Which is least: 12 or 6?"",""type"":""place_value"",""number"":12,""operation"":""generic""}",6,single_choice,"[12,6]",Think about which number is bigger or smaller,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-number_line_jump; op-compare_language; op-estimate_position; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""compare_language"",""estimate_position"",""estimate_group""],""number_line_max"":100,""estimation_ranges"":[[0,20],[20,50],[50,100]],""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_8mr9zmne1,4,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",4,85,multiple_choice,Is 80 equal to 68?,multiple_choice,"{""originalText"":""Is 80 equal to 68?"",""type"":""place_value"",""number"":80,""operation"":""generic""}",No,single_choice,"[""Yes"",""No""]",Think about which number is bigger or smaller,multiple_choice; multiple-choice; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-number_line_jump; op-compare_language; op-estimate_position; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""compare_language"",""estimate_position"",""estimate_group""],""number_line_max"":100,""estimation_ranges"":[[0,20],[20,50],[50,100]],""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y1_NPV_1762009300576_al52rb8ws,5,N04_Y1_NPV,N04_Y1_NPV: Identify and Represent Numbers,Year 1,Number and Place Value,"Identify, represent and estimate; rounding",4,85,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                50
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                100",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">50</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">100</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,50,100]}",11,numeric,,Look at where the arrow points between the labeled numbers,text_input; number_line; number-and-place-value; year-1; op-number_line_position; op-number_line_between; op-number_line_jump; op-compare_language; op-estimate_position; op-estimate_group; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""compare_language"",""estimate_position"",""estimate_group""],""number_line_max"":100,""estimation_ranges"":[[0,20],[20,50],[50,100]],""object_types"":[""dots"",""stars"",""circles"",""blocks"",""tallies""],""comparison_words"":[""equal to"",""more than"",""less than"",""fewer"",""most"",""least""]}"
+N04_Y2_NPV_1762009300576_h2s2mh82j,1,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",1,25,multiple_choice,"In the number 44, what is the value of the digit in the tens place?",multiple_choice,"{""originalText"":""In the number 44, what is the value of the digit in the tens place?"",""type"":""place_value"",""number"":44,""operation"":""identify_digit""}",40,single_choice,"[4,40,4]","Think about the place value, not just the digit",multiple_choice; multiple-choice; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-estimate_group; op-place_value_representation; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""estimate_group"",""place_value_representation""],""number_line_max"":50,""estimation_ranges"":[[0,10],[10,30],[30,50]],""place_value_max"":50}"
+N04_Y2_NPV_1762009300576_jheia3nue,2,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",1,25,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                5
+            
+        
+            
+                
+                10
+            
+        
+            
+                
+                15
+            
+        
+            
+                
+                20
+            
+        
+            
+                
+                25
+            
+        
+            
+                
+                30
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                40
+            
+        
+            
+                
+                45
+            
+        
+            
+                
+                50",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">5</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">10</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">15</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">20</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">25</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">30</div>\n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">40</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">45</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">50</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,5,10,15,20,25,30,40,45,50]}",34,numeric,,Look at the position between the marked numbers,text_input; number_line; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-estimate_group; op-place_value_representation; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""estimate_group"",""place_value_representation""],""number_line_max"":50,""estimation_ranges"":[[0,10],[10,30],[30,50]],""place_value_max"":50}"
+N04_Y2_NPV_1762009300576_bqish5c7h,3,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",1,25,text_input,"Name a number that lies between 18 and 35 on this number line:
+
+
+            
+                
+                0
+            
+        
+            
+                
+                5
+            
+        
+            
+                
+                10
+            
+        
+            
+                
+                15
+            
+        
+            
+                
+                20
+            
+        
+            
+                
+                25
+            
+        
+            
+                
+                30
+            
+        
+            
+                
+                35
+            
+        
+            
+                
+                40
+            
+        
+            
+                
+                45
+            
+        
+            
+                
+                50",number_line,"{""originalText"":""Name a number that lies between 18 and 35 on this number line:\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">5</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">10</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">15</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">20</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">25</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">30</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">35</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">40</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">45</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">50</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[18,35,0,5,10,15,20,25,30,35,40,45,50]}",34,numeric,,Choose any number greater than the first and less than the second,text_input; number_line; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-estimate_group; op-place_value_representation; numbers-to-100,2025-11-01T15:01:40.576Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""estimate_group"",""place_value_representation""],""number_line_max"":50,""estimation_ranges"":[[0,10],[10,30],[30,50]],""place_value_max"":50}"
+N04_Y2_NPV_1762009300577_yqrxkw7gt,4,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",1,25,multiple_choice,About how many objects are there if you see a group that's close to 30?,multiple_choice,"{""originalText"":""About how many objects are there if you see a group that's close to 30?"",""type"":""place_value"",""number"":30,""operation"":""generic""}",30,single_choice,"[35,28,30,25]",Look for the number closest to what you'd estimate,multiple_choice; multiple-choice; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-estimate_group; op-place_value_representation; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""estimate_group"",""place_value_representation""],""number_line_max"":50,""estimation_ranges"":[[0,10],[10,30],[30,50]],""place_value_max"":50}"
+N04_Y2_NPV_1762009300577_ue3qymc7e,5,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",1,25,multiple_choice,"In the number 13, what is the value of the digit in the ones place?",multiple_choice,"{""originalText"":""In the number 13, what is the value of the digit in the ones place?"",""type"":""place_value"",""number"":13,""operation"":""identify_digit""}",3,single_choice,"[3,10]","Think about the place value, not just the digit",multiple_choice; multiple-choice; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-estimate_group; op-place_value_representation; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":50,""operations"":[""number_line_position"",""number_line_between"",""estimate_group"",""place_value_representation""],""number_line_max"":50,""estimation_ranges"":[[0,10],[10,30],[30,50]],""place_value_max"":50}"
+N04_Y2_NPV_1762009300577_bugrccghk,1,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",2,45,text_input,"Start at 7 on a number line. Jump forward 3 times, each jump of 2. Where do you land?",text_input,"{""originalText"":""Start at 7 on a number line. Jump forward 3 times, each jump of 2. Where do you land?"",""type"":""place_value"",""number"":7,""operation"":""generic""}",13,numeric,,"Multiply 2 by 3, then add to 7",text_input; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_group; op-place_value_representation; op-estimate_position; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_group"",""place_value_representation"",""estimate_position""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_o7x6v76ha,2,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",2,45,text_input,"Start at 15 on a number line. Jump forward 4 times, each jump of 10. Where do you land?",text_input,"{""originalText"":""Start at 15 on a number line. Jump forward 4 times, each jump of 10. Where do you land?"",""type"":""place_value"",""number"":15,""operation"":""generic""}",55,numeric,,"Multiply 10 by 4, then add to 15",text_input; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_group; op-place_value_representation; op-estimate_position; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_group"",""place_value_representation"",""estimate_position""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_ct150zi23,3,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",2,45,multiple_choice,"In the number 26, what is the value of the digit in the ones place?",multiple_choice,"{""originalText"":""In the number 26, what is the value of the digit in the ones place?"",""type"":""place_value"",""number"":26,""operation"":""identify_digit""}",6,single_choice,"[6,20]","Think about the place value, not just the digit",multiple_choice; multiple-choice; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_group; op-place_value_representation; op-estimate_position; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_group"",""place_value_representation"",""estimate_position""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_n6pm8hoog,4,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",2,45,text_input,"Start at 37 on a number line. Jump forward 3 times, each jump of 2. Where do you land?",text_input,"{""originalText"":""Start at 37 on a number line. Jump forward 3 times, each jump of 2. Where do you land?"",""type"":""place_value"",""number"":37,""operation"":""generic""}",43,numeric,,"Multiply 2 by 3, then add to 37",text_input; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_group; op-place_value_representation; op-estimate_position; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_group"",""place_value_representation"",""estimate_position""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_h8dvfygib,5,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",2,45,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                50
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                100",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">50</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">100</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,50,100]}",34,numeric,,Look at the position between the marked numbers,text_input; number_line; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_group; op-place_value_representation; op-estimate_position; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_group"",""place_value_representation"",""estimate_position""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_6rtbahp60,1,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",3,65,text_input,"Start at 65 on a number line. Jump forward 4 times, each jump of 5. Where do you land?",text_input,"{""originalText"":""Start at 65 on a number line. Jump forward 4 times, each jump of 5. Where do you land?"",""type"":""place_value"",""number"":65,""operation"":""generic""}",85,numeric,,"Multiply 5 by 4, then add to 65",text_input; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_iuhoi7fdr,2,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",3,65,text_input,Write 82 as a sum of its place values,text_input,"{""originalText"":""Write 82 as a sum of its place values"",""type"":""place_value"",""number"":82,""operation"":""place_value""}",2+80,numeric,,Break the number into tens and ones,text_input; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_8tcqv355i,3,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",3,65,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                50
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                ▼",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">50</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,50]}",100,numeric,,Look at the position between the marked numbers,text_input; number_line; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_8af67027t,4,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",3,65,text_input,"Start at 53 on a number line. Jump forward 2 times, each jump of 10. Where do you land?",text_input,"{""originalText"":""Start at 53 on a number line. Jump forward 2 times, each jump of 10. Where do you land?"",""type"":""place_value"",""number"":53,""operation"":""generic""}",73,numeric,,"Multiply 10 by 2, then add to 53",text_input; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_lkbzj8h1u,5,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",3,65,text_input,"Start at 12 on a number line. Jump forward 2 times, each jump of 5. Where do you land?",text_input,"{""originalText"":""Start at 12 on a number line. Jump forward 2 times, each jump of 5. Where do you land?"",""type"":""place_value"",""number"":12,""operation"":""generic""}",22,numeric,,"Multiply 5 by 2, then add to 12",text_input; number-and-place-value; year-2; op-number_line_position; op-number_line_between; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_position"",""number_line_between"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":100,""estimation_ranges"":[[0,25],[25,50],[50,75],[75,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_gt2e9s4bo,1,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",4,85,multiple_choice,"On a number line from 0 to 100, three numbers are marked: 38, 4, 20. Which position shows 38?",multiple_choice,"{""originalText"":""On a number line from 0 to 100, three numbers are marked: 38, 4, 20. Which position shows 38?"",""type"":""place_value"",""number"":0,""operation"":""generic""}",38,single_choice,"[20,0,10,38]",Find the position of 38 on the line,multiple_choice; multiple-choice; number-and-place-value; year-2; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":100,""estimation_ranges"":[[0,30],[30,60],[60,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_22ydt3uya,2,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",4,85,multiple_choice,Which range best estimates 33?,multiple_choice,"{""originalText"":""Which range best estimates 33?"",""type"":""place_value"",""number"":33,""operation"":""generic""}",30 to 60,single_choice,"[""0 to 30"",""30 to 60"",""60 to 100""]",Think about which range 33 falls between,multiple_choice; multiple-choice; number-and-place-value; year-2; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":100,""estimation_ranges"":[[0,30],[30,60],[60,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_rapmtxh06,3,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",4,85,multiple_choice,"In the number 42, what is the value of the digit in the ones place?",multiple_choice,"{""originalText"":""In the number 42, what is the value of the digit in the ones place?"",""type"":""place_value"",""number"":42,""operation"":""identify_digit""}",2,single_choice,"[40,2]","Think about the place value, not just the digit",multiple_choice; multiple-choice; number-and-place-value; year-2; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":100,""estimation_ranges"":[[0,30],[30,60],[60,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_mtfoi8dg7,4,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",4,85,multiple_choice,"On a number line from 0 to 100, three numbers are marked: 3, 94, 2. Which position shows 2?",multiple_choice,"{""originalText"":""On a number line from 0 to 100, three numbers are marked: 3, 94, 2. Which position shows 2?"",""type"":""place_value"",""number"":0,""operation"":""generic""}",2,single_choice,"[10,20,30,2]",Find the position of 2 on the line,multiple_choice; multiple-choice; number-and-place-value; year-2; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":100,""estimation_ranges"":[[0,30],[30,60],[60,100]],""place_value_max"":100}"
+N04_Y2_NPV_1762009300577_re1llkpex,5,N04_Y2_NPV,"N04_Y2_NPV: Identify, Represent and Estimate Numbers",Year 2,Number and Place Value,"Identify, represent and estimate; rounding",4,85,multiple_choice,"In the number 18, what is the value of the digit in the ones place?",multiple_choice,"{""originalText"":""In the number 18, what is the value of the digit in the ones place?"",""type"":""place_value"",""number"":18,""operation"":""identify_digit""}",8,single_choice,"[8,10]","Think about the place value, not just the digit",multiple_choice; multiple-choice; number-and-place-value; year-2; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-100,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":100,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":100,""estimation_ranges"":[[0,30],[30,60],[60,100]],""place_value_max"":100}"
+N04_Y3_NPV_1762009300577_nfbsdcp5p,1,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",1,27,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                100
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                200",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">100</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">200</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,100,200]}",181,numeric,,Use the labeled marks to estimate the position,text_input; number_line; number-and-place-value; year-3; op-number_line_position; op-number_line_between; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-1000,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":200,""operations"":[""number_line_position"",""number_line_between"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":200,""estimation_ranges"":[[0,50],[50,100],[100,150],[150,200]],""place_value_max"":200}"
+N04_Y3_NPV_1762009300577_hrlyy83p7,2,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",1,27,multiple_choice,Which range best estimates 199?,multiple_choice,"{""originalText"":""Which range best estimates 199?"",""type"":""place_value"",""number"":199,""operation"":""generic""}",150 to 200,single_choice,"[""0 to 50"",""50 to 100"",""100 to 150"",""150 to 200""]",Think about which range 199 falls between,multiple_choice; multiple-choice; number-and-place-value; year-3; op-number_line_position; op-number_line_between; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-1000,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":200,""operations"":[""number_line_position"",""number_line_between"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":200,""estimation_ranges"":[[0,50],[50,100],[100,150],[150,200]],""place_value_max"":200}"
+N04_Y3_NPV_1762009300577_7flbk68zz,3,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",1,27,text_input,Write 184 as a sum of its place values,text_input,"{""originalText"":""Write 184 as a sum of its place values"",""type"":""place_value"",""number"":184,""operation"":""place_value""}",4+80+100,numeric,,"Break the number into hundreds, tens, and ones",text_input; number-and-place-value; year-3; op-number_line_position; op-number_line_between; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-1000,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":200,""operations"":[""number_line_position"",""number_line_between"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":200,""estimation_ranges"":[[0,50],[50,100],[100,150],[150,200]],""place_value_max"":200}"
+N04_Y3_NPV_1762009300577_rvc9veaqe,4,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",1,27,text_input,Write 145 as a sum of its place values,text_input,"{""originalText"":""Write 145 as a sum of its place values"",""type"":""place_value"",""number"":145,""operation"":""place_value""}",5+40+100,numeric,,"Break the number into hundreds, tens, and ones",text_input; number-and-place-value; year-3; op-number_line_position; op-number_line_between; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-1000,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":200,""operations"":[""number_line_position"",""number_line_between"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":200,""estimation_ranges"":[[0,50],[50,100],[100,150],[150,200]],""place_value_max"":200}"
+N04_Y3_NPV_1762009300577_jspkfj9jw,5,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",1,27,multiple_choice,Which range best estimates 157?,multiple_choice,"{""originalText"":""Which range best estimates 157?"",""type"":""place_value"",""number"":157,""operation"":""generic""}",150 to 200,single_choice,"[""0 to 50"",""50 to 100"",""100 to 150"",""150 to 200""]",Think about which range 157 falls between,multiple_choice; multiple-choice; number-and-place-value; year-3; op-number_line_position; op-number_line_between; op-estimate_position; op-place_value_representation; op-partition_number; numbers-to-1000,2025-11-01T15:01:40.577Z,"{""min_value"":0,""max_value"":200,""operations"":[""number_line_position"",""number_line_between"",""estimate_position"",""place_value_representation"",""partition_number""],""number_line_max"":200,""estimation_ranges"":[[0,50],[50,100],[100,150],[150,200]],""place_value_max"":200}"
+N04_Y3_NPV_1762009300578_uxzn65mzg,1,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",2,47,text_input,"Start at 300 on a number line. Jump forward 4 times, each jump of 25. Where do you land?",text_input,"{""originalText"":""Start at 300 on a number line. Jump forward 4 times, each jump of 25. Where do you land?"",""type"":""place_value"",""number"":300,""operation"":""generic""}",400,numeric,,"Multiply 25 by 4, then add to 300",text_input; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":500,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":500,""estimation_ranges"":[[0,100],[100,300],[300,500]],""place_value_max"":500}"
+N04_Y3_NPV_1762009300578_ltp51238b,2,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",2,47,multiple_choice,Which range best estimates 11?,multiple_choice,"{""originalText"":""Which range best estimates 11?"",""type"":""place_value"",""number"":11,""operation"":""generic""}",0 to 100,single_choice,"[""0 to 100"",""100 to 300"",""300 to 500""]",Think about which range 11 falls between,multiple_choice; multiple-choice; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":500,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":500,""estimation_ranges"":[[0,100],[100,300],[300,500]],""place_value_max"":500}"
+N04_Y3_NPV_1762009300578_j0ql0ii8a,3,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",2,47,multiple_choice,Which range best estimates 200?,multiple_choice,"{""originalText"":""Which range best estimates 200?"",""type"":""place_value"",""number"":200,""operation"":""generic""}",100 to 300,single_choice,"[""0 to 100"",""100 to 300"",""300 to 500""]",Think about which range 200 falls between,multiple_choice; multiple-choice; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":500,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":500,""estimation_ranges"":[[0,100],[100,300],[300,500]],""place_value_max"":500}"
+N04_Y3_NPV_1762009300578_21acxg99y,4,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",2,47,text_input,"Start at 192 on a number line. Jump forward 2 times, each jump of 10. Where do you land?",text_input,"{""originalText"":""Start at 192 on a number line. Jump forward 2 times, each jump of 10. Where do you land?"",""type"":""place_value"",""number"":192,""operation"":""generic""}",212,numeric,,"Multiply 10 by 2, then add to 192",text_input; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":500,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":500,""estimation_ranges"":[[0,100],[100,300],[300,500]],""place_value_max"":500}"
+N04_Y3_NPV_1762009300578_tlqe3a28y,5,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",2,47,text_input,"Start at 28 on a number line. Jump forward 5 times, each jump of 25. Where do you land?",text_input,"{""originalText"":""Start at 28 on a number line. Jump forward 5 times, each jump of 25. Where do you land?"",""type"":""place_value"",""number"":28,""operation"":""generic""}",153,numeric,,"Multiply 25 by 5, then add to 28",text_input; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":500,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation""],""number_line_max"":500,""estimation_ranges"":[[0,100],[100,300],[300,500]],""place_value_max"":500}"
+N04_Y3_NPV_1762009300578_iwc1jpmjq,1,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",3,67,multiple_choice,"In the number 753, what is the value of the digit in the tens place?",multiple_choice,"{""originalText"":""In the number 753, what is the value of the digit in the tens place?"",""type"":""place_value"",""number"":753,""operation"":""identify_digit""}",50,single_choice,"[700,3,50,5]","Think about the place value, not just the digit",multiple_choice; multiple-choice; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; op-estimate_midpoint; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":1000,""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]],""place_value_max"":1000}"
+N04_Y3_NPV_1762009300578_9mludjvfd,2,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",3,67,text_input,Write 370 as a sum of its place values,text_input,"{""originalText"":""Write 370 as a sum of its place values"",""type"":""place_value"",""number"":370,""operation"":""place_value""}",70+300,numeric,,"Break the number into hundreds, tens, and ones",text_input; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; op-estimate_midpoint; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":1000,""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]],""place_value_max"":1000}"
+N04_Y3_NPV_1762009300578_a8au1px7l,3,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",3,67,multiple_choice,Estimate 26 - 444,multiple_choice,"{""originalText"":""Estimate 26 - 444"",""type"":""place_value"",""number"":26,""operation"":""generic""}",-370,single_choice,[-370],"Round the numbers first, then calculate",multiple_choice; multiple-choice; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; op-estimate_midpoint; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":1000,""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]],""place_value_max"":1000}"
+N04_Y3_NPV_1762009300578_pskb1v094,4,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",3,67,multiple_choice,Which range best estimates 418?,multiple_choice,"{""originalText"":""Which range best estimates 418?"",""type"":""place_value"",""number"":418,""operation"":""generic""}",250 to 500,single_choice,"[""0 to 250"",""250 to 500"",""500 to 750"",""750 to 1,000""]",Think about which range 418 falls between,multiple_choice; multiple-choice; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; op-estimate_midpoint; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":1000,""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]],""place_value_max"":1000}"
+N04_Y3_NPV_1762009300578_mfjfpj5yd,5,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",3,67,text_input,"Start at 579 on a number line. Jump forward 3 times, each jump of 25. Where do you land?",text_input,"{""originalText"":""Start at 579 on a number line. Jump forward 3 times, each jump of 25. Where do you land?"",""type"":""place_value"",""number"":579,""operation"":""generic""}",654,numeric,,"Multiply 25 by 3, then add to 579",text_input; number-and-place-value; year-3; op-number_line_position; op-number_line_jump; op-estimate_position; op-place_value_representation; op-partition_number; op-estimate_calculation; op-estimate_midpoint; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_position"",""number_line_jump"",""estimate_position"",""place_value_representation"",""partition_number"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":1000,""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]],""place_value_max"":1000}"
+N04_Y3_NPV_1762009300578_s00r9d8uf,1,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",4,87,text_input,578 can be written as which sum?,text_input,"{""originalText"":""578 can be written as which sum?"",""type"":""place_value"",""number"":578,""operation"":""generic""}",8+70+500,numeric,,Break the number into place values,text_input; number-and-place-value; year-3; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-partition_number; op-estimate_calculation; op-estimate_midpoint; op-compare_representations; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""partition_number"",""estimate_calculation"",""estimate_midpoint"",""compare_representations""],""number_line_max"":1000,""estimation_ranges"":[[0,200],[200,500],[500,800],[800,1000]],""place_value_max"":1000}"
+N04_Y3_NPV_1762009300578_1q3ojo8an,2,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",4,87,text_input,Write 397 as a sum of its place values,text_input,"{""originalText"":""Write 397 as a sum of its place values"",""type"":""place_value"",""number"":397,""operation"":""place_value""}",7+90+300,numeric,,"Break the number into hundreds, tens, and ones",text_input; number-and-place-value; year-3; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-partition_number; op-estimate_calculation; op-estimate_midpoint; op-compare_representations; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""partition_number"",""estimate_calculation"",""estimate_midpoint"",""compare_representations""],""number_line_max"":1000,""estimation_ranges"":[[0,200],[200,500],[500,800],[800,1000]],""place_value_max"":1000}"
+N04_Y3_NPV_1762009300578_gym51r09e,3,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",4,87,multiple_choice,What number is approximately halfway between 474 and 580?,multiple_choice,"{""originalText"":""What number is approximately halfway between 474 and 580?"",""type"":""place_value"",""number"":474,""operation"":""generic""}",527,single_choice,"[577,351,527,477]",Find the middle by adding and dividing by 2,multiple_choice; multiple-choice; number-and-place-value; year-3; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-partition_number; op-estimate_calculation; op-estimate_midpoint; op-compare_representations; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""partition_number"",""estimate_calculation"",""estimate_midpoint"",""compare_representations""],""number_line_max"":1000,""estimation_ranges"":[[0,200],[200,500],[500,800],[800,1000]],""place_value_max"":1000}"
+N04_Y3_NPV_1762009300578_lebow7ol2,4,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",4,87,text_input,506 can be written as which sum?,text_input,"{""originalText"":""506 can be written as which sum?"",""type"":""place_value"",""number"":506,""operation"":""generic""}",6+500,numeric,,Break the number into place values,text_input; number-and-place-value; year-3; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-partition_number; op-estimate_calculation; op-estimate_midpoint; op-compare_representations; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""partition_number"",""estimate_calculation"",""estimate_midpoint"",""compare_representations""],""number_line_max"":1000,""estimation_ranges"":[[0,200],[200,500],[500,800],[800,1000]],""place_value_max"":1000}"
+N04_Y3_NPV_1762009300578_m2hi3o0ib,5,N04_Y3_NPV,"N04_Y3_NPV: Identify, Represent and Estimate",Year 3,Number and Place Value,"Identify, represent and estimate; rounding",4,87,multiple_choice,Which represents the same number as 90 + 800?,multiple_choice,"{""originalText"":""Which represents the same number as 90 + 800?"",""type"":""place_value"",""number"":90,""operation"":""generic""}",890,single_choice,"[890,990,900,790]",Calculate the sum of the parts,multiple_choice; multiple-choice; number-and-place-value; year-3; op-number_line_multiple_positions; op-number_line_jump; op-estimate_position; op-partition_number; op-estimate_calculation; op-estimate_midpoint; op-compare_representations; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":0,""max_value"":1000,""operations"":[""number_line_multiple_positions"",""number_line_jump"",""estimate_position"",""partition_number"",""estimate_calculation"",""estimate_midpoint"",""compare_representations""],""number_line_max"":1000,""estimation_ranges"":[[0,200],[200,500],[500,800],[800,1000]],""place_value_max"":1000}"
+N04_Y4_NPV_1762009300578_wqjvodpel,1,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",1,27,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                500
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                1,000",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">500</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">1,000</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,500,1,0]}",214,numeric,,Calculate the position using the scale,text_input; number_line; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-place_value_representation; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":10,""max_value"":1000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""place_value_representation""],""number_line_max"":1000,""rounding_bases"":[10],""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]]}"
+N04_Y4_NPV_1762009300578_mxuza5zeq,2,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",1,27,multiple_choice,Round 187 to the nearest 10,multiple_choice,"{""originalText"":""Round 187 to the nearest 10"",""type"":""place_value"",""number"":187,""operation"":""rounding""}",190,single_choice,"[180,187,200,190]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-place_value_representation; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":10,""max_value"":1000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""place_value_representation""],""number_line_max"":1000,""rounding_bases"":[10],""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]]}"
+N04_Y4_NPV_1762009300578_bdiyik9vt,3,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",1,27,multiple_choice,Which range best estimates 499?,multiple_choice,"{""originalText"":""Which range best estimates 499?"",""type"":""place_value"",""number"":499,""operation"":""generic""}",250 to 500,single_choice,"[""0 to 250"",""250 to 500"",""500 to 750"",""750 to 1,000""]",Think about which range 499 falls between,multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-place_value_representation; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":10,""max_value"":1000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""place_value_representation""],""number_line_max"":1000,""rounding_bases"":[10],""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]]}"
+N04_Y4_NPV_1762009300578_rhr1vc4l9,4,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",1,27,multiple_choice,"In the number 705, what is the value of the digit in the ones place?",multiple_choice,"{""originalText"":""In the number 705, what is the value of the digit in the ones place?"",""type"":""place_value"",""number"":705,""operation"":""identify_digit""}",5,single_choice,"[700,5]","Think about the place value, not just the digit",multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-place_value_representation; numbers-to-1000,2025-11-01T15:01:40.578Z,"{""min_value"":10,""max_value"":1000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""place_value_representation""],""number_line_max"":1000,""rounding_bases"":[10],""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]]}"
+N04_Y4_NPV_1762009300579_a5bfriv44,5,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",1,27,multiple_choice,Round 363 to the nearest 10,multiple_choice,"{""originalText"":""Round 363 to the nearest 10"",""type"":""place_value"",""number"":363,""operation"":""rounding""}",360,single_choice,"[370,360,363,350]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-place_value_representation; numbers-to-1000,2025-11-01T15:01:40.579Z,"{""min_value"":10,""max_value"":1000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""place_value_representation""],""number_line_max"":1000,""rounding_bases"":[10],""estimation_ranges"":[[0,250],[250,500],[500,750],[750,1000]]}"
+N04_Y4_NPV_1762009300579_6hpxde9un,1,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",2,50,multiple_choice,"Which range best estimates 4,017?",multiple_choice,"{""originalText"":""Which range best estimates 4,017?"",""type"":""place_value"",""number"":4,""operation"":""generic""}","3,000 to 5,000",single_choice,"[""0 to 1,000"",""1,000 to 3,000"",""3,000 to 5,000""]","Think about which range 4,017 falls between",multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-partition_number; op-estimate_calculation; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":10,""max_value"":5000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""partition_number"",""estimate_calculation""],""number_line_max"":5000,""rounding_bases"":[10,100],""estimation_ranges"":[[0,1000],[1000,3000],[3000,5000]]}"
+N04_Y4_NPV_1762009300579_itxv82p1i,2,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",2,50,multiple_choice,"Round 2,323 to the nearest 10",multiple_choice,"{""originalText"":""Round 2,323 to the nearest 10"",""type"":""place_value"",""number"":2,""operation"":""rounding""}",2320,single_choice,"[2330,2320,2323,2310]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-partition_number; op-estimate_calculation; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":10,""max_value"":5000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""partition_number"",""estimate_calculation""],""number_line_max"":5000,""rounding_bases"":[10,100],""estimation_ranges"":[[0,1000],[1000,3000],[3000,5000]]}"
+N04_Y4_NPV_1762009300579_yy1dq4bbg,3,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",2,50,multiple_choice,"Round 4,985 to the nearest 10",multiple_choice,"{""originalText"":""Round 4,985 to the nearest 10"",""type"":""place_value"",""number"":4,""operation"":""rounding""}",4990,single_choice,"[4985,5000,4990,4980]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-partition_number; op-estimate_calculation; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":10,""max_value"":5000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""partition_number"",""estimate_calculation""],""number_line_max"":5000,""rounding_bases"":[10,100],""estimation_ranges"":[[0,1000],[1000,3000],[3000,5000]]}"
+N04_Y4_NPV_1762009300579_swtsrspoy,4,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",2,50,text_input,"Write 4,110 as a sum of its place values",text_input,"{""originalText"":""Write 4,110 as a sum of its place values"",""type"":""place_value"",""number"":4,""operation"":""place_value""}","10+100+4,000",multi_part,,"Break the number into hundreds, tens, and ones",text_input; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-partition_number; op-estimate_calculation; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":10,""max_value"":5000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""partition_number"",""estimate_calculation""],""number_line_max"":5000,""rounding_bases"":[10,100],""estimation_ranges"":[[0,1000],[1000,3000],[3000,5000]]}"
+N04_Y4_NPV_1762009300579_ng8etdjdq,5,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",2,50,text_input,"Write 2,790 as a sum of its place values",text_input,"{""originalText"":""Write 2,790 as a sum of its place values"",""type"":""place_value"",""number"":2,""operation"":""place_value""}","90+700+2,000",multi_part,,"Break the number into hundreds, tens, and ones",text_input; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-partition_number; op-estimate_calculation; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":10,""max_value"":5000,""operations"":[""number_line_position"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""partition_number"",""estimate_calculation""],""number_line_max"":5000,""rounding_bases"":[10,100],""estimation_ranges"":[[0,1000],[1000,3000],[3000,5000]]}"
+N04_Y4_NPV_1762009300579_ev9p1w4j4,1,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",3,70,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                5,000
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                10,000",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">5,000</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">10,000</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,5,0,10,0]}",2970,numeric,,Calculate the position using the scale,text_input; number_line; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-estimate_midpoint; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_position"",""estimate_position"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2500],[2500,5000],[5000,7500],[7500,10000]]}"
+N04_Y4_NPV_1762009300579_f9f5ob3we,2,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",3,70,multiple_choice,"Round 5,452 to the nearest 100",multiple_choice,"{""originalText"":""Round 5,452 to the nearest 100"",""type"":""place_value"",""number"":5,""operation"":""rounding""}",5500,single_choice,"[5400,5452,5500,5600]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-estimate_midpoint; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_position"",""estimate_position"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2500],[2500,5000],[5000,7500],[7500,10000]]}"
+N04_Y4_NPV_1762009300579_kukcxvjje,3,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",3,70,multiple_choice,"Round 2,105 to the nearest 1,000",multiple_choice,"{""originalText"":""Round 2,105 to the nearest 1,000"",""type"":""place_value"",""number"":2,""operation"":""rounding""}",2000,single_choice,"[2105,2000,3000,1000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-estimate_midpoint; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_position"",""estimate_position"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2500],[2500,5000],[5000,7500],[7500,10000]]}"
+N04_Y4_NPV_1762009300579_j0zz2xwid,4,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",3,70,multiple_choice,"Estimate 3,430 + 2,475",multiple_choice,"{""originalText"":""Estimate 3,430 + 2,475"",""type"":""place_value"",""number"":3,""operation"":""generic""}",5000,single_choice,"[4900,5100,5905,5000]","Round the numbers first, then calculate",multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-estimate_midpoint; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_position"",""estimate_position"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2500],[2500,5000],[5000,7500],[7500,10000]]}"
+N04_Y4_NPV_1762009300579_vm61qatxv,5,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",3,70,multiple_choice,"Which range best estimates 5,164?",multiple_choice,"{""originalText"":""Which range best estimates 5,164?"",""type"":""place_value"",""number"":5,""operation"":""generic""}","5,000 to 7,500",single_choice,"[""0 to 2,500"",""2,500 to 5,000"",""5,000 to 7,500"",""7,500 to 10,000""]","Think about which range 5,164 falls between",multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_position; op-estimate_position; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-estimate_midpoint; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_position"",""estimate_position"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""estimate_midpoint""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2500],[2500,5000],[5000,7500],[7500,10000]]}"
+N04_Y4_NPV_1762009300579_oj638gwdp,1,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",4,90,multiple_choice,"Estimate 6,401 - 4,512",multiple_choice,"{""originalText"":""Estimate 6,401 - 4,512"",""type"":""place_value"",""number"":6,""operation"":""generic""}",1000,single_choice,"[1000,1100,900,1889]","Round the numbers first, then calculate",multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_jump; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-compare_rounded; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_jump"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""compare_rounded""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2000],[2000,5000],[5000,8000],[8000,10000]]}"
+N04_Y4_NPV_1762009300579_rcb32varl,2,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",4,90,multiple_choice,"Round 5,801 to the nearest 100",multiple_choice,"{""originalText"":""Round 5,801 to the nearest 100"",""type"":""place_value"",""number"":5,""operation"":""rounding""}",5800,single_choice,"[5801,5700,5900,5800]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_jump; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-compare_rounded; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_jump"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""compare_rounded""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2000],[2000,5000],[5000,8000],[8000,10000]]}"
+N04_Y4_NPV_1762009300579_l0cba9wfq,3,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",4,90,multiple_choice,"Estimate 5,053 + 4,109",multiple_choice,"{""originalText"":""Estimate 5,053 + 4,109"",""type"":""place_value"",""number"":5,""operation"":""generic""}",9000,single_choice,"[9162,8900,9000,9100]","Round the numbers first, then calculate",multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_jump; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-compare_rounded; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_jump"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""compare_rounded""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2000],[2000,5000],[5000,8000],[8000,10000]]}"
+N04_Y4_NPV_1762009300579_hd2i3hgx7,4,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",4,90,multiple_choice,"Which range best estimates 3,271?",multiple_choice,"{""originalText"":""Which range best estimates 3,271?"",""type"":""place_value"",""number"":3,""operation"":""generic""}","2,000 to 5,000",single_choice,"[""0 to 2,000"",""2,000 to 5,000"",""5,000 to 8,000"",""8,000 to 10,000""]","Think about which range 3,271 falls between",multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_jump; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-compare_rounded; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_jump"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""compare_rounded""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2000],[2000,5000],[5000,8000],[8000,10000]]}"
+N04_Y4_NPV_1762009300579_zxstwn6ab,5,N04_Y4_NPV,"N04_Y4_NPV: Represent, Estimate and Round",Year 4,Number and Place Value,"Identify, represent and estimate; rounding",4,90,multiple_choice,"Round 9,409 to the nearest 100",multiple_choice,"{""originalText"":""Round 9,409 to the nearest 100"",""type"":""place_value"",""number"":9,""operation"":""rounding""}",9400,single_choice,"[9500,9300,9409,9400]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-4; op-number_line_jump; op-estimate_position; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-estimate_calculation; op-compare_rounded; numbers-to-10k,2025-11-01T15:01:40.579Z,"{""min_value"":100,""max_value"":10000,""operations"":[""number_line_jump"",""estimate_position"",""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""estimate_calculation"",""compare_rounded""],""number_line_max"":10000,""rounding_bases"":[10,100,1000],""estimation_ranges"":[[0,2000],[2000,5000],[5000,8000],[8000,10000]]}"
+N04_Y5_NPV_1762009300579_bwmm1ojwv,1,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",1,33,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                50,000
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                100,000",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">50,000</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">100,000</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,50,0,100,0]}",19792,numeric,,Consider the scale and intervals,text_input; number_line; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-estimate_position; op-number_line_position; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":1000,""max_value"":100000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""estimate_position"",""number_line_position""],""rounding_bases"":[10,100,1000,10000],""number_line_max"":100000,""estimation_ranges"":[[0,25000],[25000,50000],[50000,75000],[75000,100000]]}"
+N04_Y5_NPV_1762009300579_qwvi3vupm,2,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",1,33,multiple_choice,"Round 23,209 to the nearest thousand",multiple_choice,"{""originalText"":""Round 23,209 to the nearest thousand"",""type"":""place_value"",""number"":23,""operation"":""rounding""}",23000,single_choice,"[23209,24000,23000,22000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-estimate_position; op-number_line_position; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":1000,""max_value"":100000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""estimate_position"",""number_line_position""],""rounding_bases"":[10,100,1000,10000],""number_line_max"":100000,""estimation_ranges"":[[0,25000],[25000,50000],[50000,75000],[75000,100000]]}"
+N04_Y5_NPV_1762009300579_lj08t55pn,3,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",1,33,multiple_choice,"Round 80,528 to the nearest 100",multiple_choice,"{""originalText"":""Round 80,528 to the nearest 100"",""type"":""place_value"",""number"":80,""operation"":""rounding""}",80500,single_choice,"[80500,80600,80400,80528]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-estimate_position; op-number_line_position; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":1000,""max_value"":100000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""estimate_position"",""number_line_position""],""rounding_bases"":[10,100,1000,10000],""number_line_max"":100000,""estimation_ranges"":[[0,25000],[25000,50000],[50000,75000],[75000,100000]]}"
+N04_Y5_NPV_1762009300579_1fnjycowe,4,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",1,33,multiple_choice,"Round 12,801 to the nearest thousand",multiple_choice,"{""originalText"":""Round 12,801 to the nearest thousand"",""type"":""place_value"",""number"":12,""operation"":""rounding""}",13000,single_choice,"[14000,12801,13000,12000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-estimate_position; op-number_line_position; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":1000,""max_value"":100000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""estimate_position"",""number_line_position""],""rounding_bases"":[10,100,1000,10000],""number_line_max"":100000,""estimation_ranges"":[[0,25000],[25000,50000],[50000,75000],[75000,100000]]}"
+N04_Y5_NPV_1762009300579_pqfdfbwri,5,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",1,33,text_input,"What number is marked on the number line?
+
+
+            
+                
+                0
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                ▼
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                100,000",number_line,"{""originalText"":""What number is marked on the number line?\n\n<div class=\""simple-number-line\"">\n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">0</div>\n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick marked\"">\n                <div class=\""marker\"">▼</div>\n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                \n            </div>\n        \n            <div class=\""number-line-tick \"">\n                \n                <div class=\""tick-label\"">100,000</div>\n            </div>\n        </div>"",""type"":""comparison"",""numbers"":[0,100,0]}",45680,numeric,,Consider the scale and intervals,text_input; number_line; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-estimate_position; op-number_line_position; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":1000,""max_value"":100000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""estimate_position"",""number_line_position""],""rounding_bases"":[10,100,1000,10000],""number_line_max"":100000,""estimation_ranges"":[[0,25000],[25000,50000],[50000,75000],[75000,100000]]}"
+N04_Y5_NPV_1762009300579_aa3y90qxl,1,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",2,57,multiple_choice,"Round 35,439 to the nearest 100",multiple_choice,"{""originalText"":""Round 35,439 to the nearest 100"",""type"":""place_value"",""number"":35,""operation"":""rounding""}",35400,single_choice,"[35439,35500,35300,35400]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-number_line_jump; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":10000,""max_value"":500000,""operations"":[""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""number_line_jump""],""rounding_bases"":[100,1000,10000,100000],""number_line_max"":500000,""estimation_ranges"":[[0,100000],[100000,300000],[300000,500000]]}"
+N04_Y5_NPV_1762009300579_04zocgf5q,2,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",2,57,multiple_choice,"Which range best estimates 430,770?",multiple_choice,"{""originalText"":""Which range best estimates 430,770?"",""type"":""place_value"",""number"":430,""operation"":""generic""}","300,000 to 500,000",single_choice,"[""0 to 100,000"",""100,000 to 300,000"",""300,000 to 500,000""]","Think about which range 430,770 falls between",multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-number_line_jump; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":10000,""max_value"":500000,""operations"":[""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""number_line_jump""],""rounding_bases"":[100,1000,10000,100000],""number_line_max"":500000,""estimation_ranges"":[[0,100000],[100000,300000],[300000,500000]]}"
+N04_Y5_NPV_1762009300579_r6jjypfcy,3,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",2,57,multiple_choice,"Round 473,125 to the nearest thousand",multiple_choice,"{""originalText"":""Round 473,125 to the nearest thousand"",""type"":""place_value"",""number"":473,""operation"":""rounding""}",473000,single_choice,"[473125,472000,473000,474000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-number_line_jump; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":10000,""max_value"":500000,""operations"":[""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""number_line_jump""],""rounding_bases"":[100,1000,10000,100000],""number_line_max"":500000,""estimation_ranges"":[[0,100000],[100000,300000],[300000,500000]]}"
+N04_Y5_NPV_1762009300579_rgqrkvy9g,4,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",2,57,multiple_choice,"Round 184,387 to the nearest hundred thousand",multiple_choice,"{""originalText"":""Round 184,387 to the nearest hundred thousand"",""type"":""place_value"",""number"":184,""operation"":""rounding""}",200000,single_choice,"[300000,184387,200000,100000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-number_line_jump; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":10000,""max_value"":500000,""operations"":[""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""number_line_jump""],""rounding_bases"":[100,1000,10000,100000],""number_line_max"":500000,""estimation_ranges"":[[0,100000],[100000,300000],[300000,500000]]}"
+N04_Y5_NPV_1762009300579_z804ysriz,5,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",2,57,multiple_choice,"Estimate 317,408 - 203,083",multiple_choice,"{""originalText"":""Estimate 317,408 - 203,083"",""type"":""place_value"",""number"":317,""operation"":""generic""}",114000,single_choice,"[104000,114000,114325,124000]",Round both numbers to make the calculation easier,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-number_line_jump; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":10000,""max_value"":500000,""operations"":[""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""number_line_jump""],""rounding_bases"":[100,1000,10000,100000],""number_line_max"":500000,""estimation_ranges"":[[0,100000],[100000,300000],[300000,500000]]}"
+N04_Y5_NPV_1762009300579_ir82m0h24,1,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",3,77,multiple_choice,"Round 169,157 and 563,133 to the nearest 100. Which rounded number is larger?",multiple_choice,"{""originalText"":""Round 169,157 and 563,133 to the nearest 100. Which rounded number is larger?"",""type"":""place_value"",""number"":169,""operation"":""rounding""}",563100,single_choice,"[169200,563100]","Round both numbers first, then compare",multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.579Z,"{""min_value"":10000,""max_value"":1000000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10,100,1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y5_NPV_1762009300580_dfhdiz2ho,2,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",3,77,multiple_choice,"Round 626,678 to the nearest 100",multiple_choice,"{""originalText"":""Round 626,678 to the nearest 100"",""type"":""place_value"",""number"":626,""operation"":""rounding""}",626700,single_choice,"[626678,626600,626700,626800]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.580Z,"{""min_value"":10000,""max_value"":1000000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10,100,1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y5_NPV_1762009300580_vqgcb46du,3,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",3,77,multiple_choice,"Round 155,928 to the nearest thousand",multiple_choice,"{""originalText"":""Round 155,928 to the nearest thousand"",""type"":""place_value"",""number"":155,""operation"":""rounding""}",156000,single_choice,"[155928,155000,156000,157000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.580Z,"{""min_value"":10000,""max_value"":1000000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10,100,1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y5_NPV_1762009300580_eskxzaoc1,4,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",3,77,multiple_choice,"Estimate 976,520 + 397,134",multiple_choice,"{""originalText"":""Estimate 976,520 + 397,134"",""type"":""place_value"",""number"":976,""operation"":""generic""}",1374000,single_choice,"[1364000,1374000,1373654,1384000]",Round both numbers to make the calculation easier,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.580Z,"{""min_value"":10000,""max_value"":1000000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10,100,1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y5_NPV_1762009300580_6re2prtwq,5,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",3,77,multiple_choice,"Round 303,153 to the nearest ten thousand",multiple_choice,"{""originalText"":""Round 303,153 to the nearest ten thousand"",""type"":""place_value"",""number"":303,""operation"":""rounding""}",300000,single_choice,"[290000,303153,300000,310000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten; op-round_to_hundred; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.580Z,"{""min_value"":10000,""max_value"":1000000,""operations"":[""round_to_ten"",""round_to_hundred"",""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10,100,1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y5_NPV_1762009300580_x5gi8hl8h,1,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",4,97,multiple_choice,"Round 657,236 to the nearest ten thousand",multiple_choice,"{""originalText"":""Round 657,236 to the nearest ten thousand"",""type"":""place_value"",""number"":657,""operation"":""rounding""}",660000,single_choice,"[657236,660000,670000,650000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.580Z,"{""min_value"":100000,""max_value"":1000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,200000],[200000,500000],[500000,800000],[800000,1000000]]}"
+N04_Y5_NPV_1762009300580_mxmxtzs49,2,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",4,97,multiple_choice,"Round 347,452 to the nearest hundred thousand",multiple_choice,"{""originalText"":""Round 347,452 to the nearest hundred thousand"",""type"":""place_value"",""number"":347,""operation"":""rounding""}",300000,single_choice,"[300000,347452,200000,400000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.580Z,"{""min_value"":100000,""max_value"":1000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,200000],[200000,500000],[500000,800000],[800000,1000000]]}"
+N04_Y5_NPV_1762009300580_7dx8cysrs,3,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",4,97,multiple_choice,"Round 825,012 to the nearest hundred thousand",multiple_choice,"{""originalText"":""Round 825,012 to the nearest hundred thousand"",""type"":""place_value"",""number"":825,""operation"":""rounding""}",800000,single_choice,"[800000,900000,700000,825012]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.580Z,"{""min_value"":100000,""max_value"":1000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,200000],[200000,500000],[500000,800000],[800000,1000000]]}"
+N04_Y5_NPV_1762009300580_igb94s85i,4,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",4,97,multiple_choice,"Round 572,976 to the nearest hundred thousand",multiple_choice,"{""originalText"":""Round 572,976 to the nearest hundred thousand"",""type"":""place_value"",""number"":572,""operation"":""rounding""}",600000,single_choice,"[700000,572976,500000,600000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.580Z,"{""min_value"":100000,""max_value"":1000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,200000],[200000,500000],[500000,800000],[800000,1000000]]}"
+N04_Y5_NPV_1762009300580_8i9cmtyix,5,N04_Y5_NPV,"N04_Y5_NPV: Round to 1,000,000",Year 5,Number and Place Value,"Identify, represent and estimate; rounding",4,97,multiple_choice,"A company's annual revenue is £649,994. To what place value should this be rounded for reporting?",multiple_choice,"{""originalText"":""A company's annual revenue is £649,994. To what place value should this be rounded for reporting?"",""type"":""place_value"",""number"":649,""operation"":""place_value""}",100,single_choice,"[""100"",""1,000"",""10,000"",""100,000""]",Think about which level of accuracy makes sense for this context,multiple_choice; multiple-choice; number-and-place-value; year-5; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.580Z,"{""min_value"":100000,""max_value"":1000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,200000],[200000,500000],[500000,800000],[800000,1000000]]}"
+N04_Y6_NPV_1762009300581_kwir2ole2,1,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",1,37,multiple_choice,"Round 751,900 to the nearest ten thousand",multiple_choice,"{""originalText"":""Round 751,900 to the nearest ten thousand"",""type"":""place_value"",""number"":751,""operation"":""rounding""}",750000,single_choice,"[760000,751900,740000,750000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000,""max_value"":1000000,""operations"":[""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position""],""rounding_bases"":[1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y6_NPV_1762009300581_mov3qx3db,2,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",1,37,multiple_choice,"Round 430,979 to the nearest hundred thousand",multiple_choice,"{""originalText"":""Round 430,979 to the nearest hundred thousand"",""type"":""place_value"",""number"":430,""operation"":""rounding""}",400000,single_choice,"[400000,500000,300000,430979]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000,""max_value"":1000000,""operations"":[""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position""],""rounding_bases"":[1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y6_NPV_1762009300581_0uf8x07vu,3,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",1,37,multiple_choice,"Which range best estimates 840,524?",multiple_choice,"{""originalText"":""Which range best estimates 840,524?"",""type"":""place_value"",""number"":840,""operation"":""generic""}","750,000 to 1,000,000",single_choice,"[""0 to 250,000"",""250,000 to 500,000"",""500,000 to 750,000"",""750,000 to 1,000,000""]",Find which range the number falls between,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000,""max_value"":1000000,""operations"":[""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position""],""rounding_bases"":[1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y6_NPV_1762009300581_ug7mnha7u,4,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",1,37,multiple_choice,"Round 665,615 to the nearest hundred thousand",multiple_choice,"{""originalText"":""Round 665,615 to the nearest hundred thousand"",""type"":""place_value"",""number"":665,""operation"":""rounding""}",700000,single_choice,"[700000,665615,800000,600000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000,""max_value"":1000000,""operations"":[""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position""],""rounding_bases"":[1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y6_NPV_1762009300581_z1fuyzf3f,5,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",1,37,multiple_choice,"Round 966,978 to the nearest ten thousand",multiple_choice,"{""originalText"":""Round 966,978 to the nearest ten thousand"",""type"":""place_value"",""number"":966,""operation"":""rounding""}",970000,single_choice,"[966978,980000,970000,960000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_thousand; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-estimate_position; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000,""max_value"":1000000,""operations"":[""round_to_thousand"",""round_to_ten_thousand"",""round_to_hundred_thousand"",""estimate_position""],""rounding_bases"":[1000,10000,100000],""number_line_max"":1000000,""estimation_ranges"":[[0,250000],[250000,500000],[500000,750000],[750000,1000000]]}"
+N04_Y6_NPV_1762009300581_kvb173aee,1,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",2,60,multiple_choice,"Round 3,144,953 and 1,538,002 to the nearest 1,000,000. Which rounded number is larger?",multiple_choice,"{""originalText"":""Round 3,144,953 and 1,538,002 to the nearest 1,000,000. Which rounded number is larger?"",""type"":""place_value"",""number"":3,""operation"":""rounding""}",3000000,single_choice,"[3000000,2000000]","Round both numbers first, then compare",multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-round_to_million; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":10000,""max_value"":5000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""round_to_million"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10000,100000,1000000],""number_line_max"":5000000,""estimation_ranges"":[[0,1000000],[1000000,3000000],[3000000,5000000]]}"
+N04_Y6_NPV_1762009300581_8ro88d89s,2,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",2,60,multiple_choice,"Round 4,153,532 and 561,305 to the nearest 10,000. Which rounded number is larger?",multiple_choice,"{""originalText"":""Round 4,153,532 and 561,305 to the nearest 10,000. Which rounded number is larger?"",""type"":""place_value"",""number"":4,""operation"":""rounding""}",4150000,single_choice,"[4150000,560000]","Round both numbers first, then compare",multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-round_to_million; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":10000,""max_value"":5000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""round_to_million"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10000,100000,1000000],""number_line_max"":5000000,""estimation_ranges"":[[0,1000000],[1000000,3000000],[3000000,5000000]]}"
+N04_Y6_NPV_1762009300581_6nz6azfzs,3,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",2,60,multiple_choice,"Round 1,321,643 to the nearest ten thousand",multiple_choice,"{""originalText"":""Round 1,321,643 to the nearest ten thousand"",""type"":""place_value"",""number"":1,""operation"":""rounding""}",1320000,single_choice,"[1310000,1321643,1320000,1330000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-round_to_million; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":10000,""max_value"":5000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""round_to_million"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10000,100000,1000000],""number_line_max"":5000000,""estimation_ranges"":[[0,1000000],[1000000,3000000],[3000000,5000000]]}"
+N04_Y6_NPV_1762009300581_ygh1g7wju,4,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",2,60,multiple_choice,"Round 2,900,219 to the nearest hundred thousand",multiple_choice,"{""originalText"":""Round 2,900,219 to the nearest hundred thousand"",""type"":""place_value"",""number"":2,""operation"":""rounding""}",2900000,single_choice,"[3000000,2900219,2800000,2900000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-round_to_million; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":10000,""max_value"":5000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""round_to_million"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10000,100000,1000000],""number_line_max"":5000000,""estimation_ranges"":[[0,1000000],[1000000,3000000],[3000000,5000000]]}"
+N04_Y6_NPV_1762009300581_e9e1fg7yi,5,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",2,60,multiple_choice,"Round 3,478,416 to the nearest million",multiple_choice,"{""originalText"":""Round 3,478,416 to the nearest million"",""type"":""place_value"",""number"":3,""operation"":""rounding""}",3000000,single_choice,"[3478416,4000000,3000000,2000000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_ten_thousand; op-round_to_hundred_thousand; op-round_to_million; op-estimate_calculation; op-compare_rounded; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":10000,""max_value"":5000000,""operations"":[""round_to_ten_thousand"",""round_to_hundred_thousand"",""round_to_million"",""estimate_calculation"",""compare_rounded""],""rounding_bases"":[10000,100000,1000000],""number_line_max"":5000000,""estimation_ranges"":[[0,1000000],[1000000,3000000],[3000000,5000000]]}"
+N04_Y6_NPV_1762009300581_gj394jrcv,1,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",3,80,multiple_choice,"Round 1,931,028 to the nearest hundred thousand",multiple_choice,"{""originalText"":""Round 1,931,028 to the nearest hundred thousand"",""type"":""place_value"",""number"":1,""operation"":""rounding""}",1900000,single_choice,"[2000000,1931028,1900000,1800000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_hundred_thousand; op-round_to_million; op-round_to_ten_million; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":100000,""max_value"":10000000,""operations"":[""round_to_hundred_thousand"",""round_to_million"",""round_to_ten_million"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2500000],[2500000,5000000],[5000000,7500000],[7500000,10000000]]}"
+N04_Y6_NPV_1762009300581_kor20adlp,2,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",3,80,multiple_choice,"Round 8,156,551 to the nearest ten million",multiple_choice,"{""originalText"":""Round 8,156,551 to the nearest ten million"",""type"":""place_value"",""number"":8,""operation"":""rounding""}",10000000,single_choice,"[20000000,8156551,10000000,0]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_hundred_thousand; op-round_to_million; op-round_to_ten_million; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":100000,""max_value"":10000000,""operations"":[""round_to_hundred_thousand"",""round_to_million"",""round_to_ten_million"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2500000],[2500000,5000000],[5000000,7500000],[7500000,10000000]]}"
+N04_Y6_NPV_1762009300581_ygnv2wvg6,3,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",3,80,multiple_choice,"Estimate 5,985,858 + 1,214,432",multiple_choice,"{""originalText"":""Estimate 5,985,858 + 1,214,432"",""type"":""place_value"",""number"":5,""operation"":""generic""}",7200000,single_choice,"[7100000,7200290,7300000,7200000]",Round both numbers to make the calculation easier,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_hundred_thousand; op-round_to_million; op-round_to_ten_million; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":100000,""max_value"":10000000,""operations"":[""round_to_hundred_thousand"",""round_to_million"",""round_to_ten_million"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2500000],[2500000,5000000],[5000000,7500000],[7500000,10000000]]}"
+N04_Y6_NPV_1762009300581_z1csk9ggb,4,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",3,80,multiple_choice,"Round 8,553,117 to the nearest million",multiple_choice,"{""originalText"":""Round 8,553,117 to the nearest million"",""type"":""place_value"",""number"":8,""operation"":""rounding""}",9000000,single_choice,"[8000000,8553117,9000000,10000000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_hundred_thousand; op-round_to_million; op-round_to_ten_million; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":100000,""max_value"":10000000,""operations"":[""round_to_hundred_thousand"",""round_to_million"",""round_to_ten_million"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2500000],[2500000,5000000],[5000000,7500000],[7500000,10000000]]}"
+N04_Y6_NPV_1762009300581_n35hq698t,5,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",3,80,multiple_choice,"Round 3,028,771 to the nearest million",multiple_choice,"{""originalText"":""Round 3,028,771 to the nearest million"",""type"":""place_value"",""number"":3,""operation"":""rounding""}",3000000,single_choice,"[3000000,3028771,4000000,2000000]",Look at the digit to the right of the place you're rounding to,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_hundred_thousand; op-round_to_million; op-round_to_ten_million; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":100000,""max_value"":10000000,""operations"":[""round_to_hundred_thousand"",""round_to_million"",""round_to_ten_million"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding""],""rounding_bases"":[100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2500000],[2500000,5000000],[5000000,7500000],[7500000,10000000]]}"
+N04_Y6_NPV_1762009300581_oyft7tvt8,1,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",4,100,multiple_choice,"Round 8,149,965 and 4,610,245 to the nearest 1,000,000. What is the difference between the rounded numbers?",multiple_choice,"{""originalText"":""Round 8,149,965 and 4,610,245 to the nearest 1,000,000. What is the difference between the rounded numbers?"",""type"":""place_value"",""number"":8,""operation"":""rounding""}",3000000,single_choice,"[3539720,4000000,2000000,3000000]","Round both numbers first, then find the difference",multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_any_place; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; op-error_bounds; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000000,""max_value"":10000000,""operations"":[""round_to_any_place"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding"",""error_bounds""],""rounding_bases"":[10,100,1000,10000,100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2000000],[2000000,5000000],[5000000,8000000],[8000000,10000000]]}"
+N04_Y6_NPV_1762009300581_vz4q1yzvy,2,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",4,100,multiple_choice,"Round 4,677,472 to the nearest 100,000",multiple_choice,"{""originalText"":""Round 4,677,472 to the nearest 100,000"",""type"":""place_value"",""number"":4,""operation"":""rounding""}",4700000,single_choice,"[4800000,4700000,4600000,4677472]","Identify which place value you're rounding to, then look at the digit to its right",multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_any_place; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; op-error_bounds; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000000,""max_value"":10000000,""operations"":[""round_to_any_place"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding"",""error_bounds""],""rounding_bases"":[10,100,1000,10000,100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2000000],[2000000,5000000],[5000000,8000000],[8000000,10000000]]}"
+N04_Y6_NPV_1762009300581_cm99ded8a,3,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",4,100,multiple_choice,"Round 2,697,145 and 8,394,091 to the nearest 10,000,000. Which rounded number is larger?",multiple_choice,"{""originalText"":""Round 2,697,145 and 8,394,091 to the nearest 10,000,000. Which rounded number is larger?"",""type"":""place_value"",""number"":2,""operation"":""rounding""}",10000000,single_choice,"[0,10000000]","Round both numbers first, then compare",multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_any_place; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; op-error_bounds; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000000,""max_value"":10000000,""operations"":[""round_to_any_place"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding"",""error_bounds""],""rounding_bases"":[10,100,1000,10000,100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2000000],[2000000,5000000],[5000000,8000000],[8000000,10000000]]}"
+N04_Y6_NPV_1762009300581_ca4zlh1n5,4,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",4,100,multiple_choice,"A number rounded to the nearest 10,000,000 is 10,000,000. What is the largest whole number it could have been?",multiple_choice,"{""originalText"":""A number rounded to the nearest 10,000,000 is 10,000,000. What is the largest whole number it could have been?"",""type"":""place_value"",""number"":10,""operation"":""rounding""}",15000000,single_choice,"[10000000,15000000,0,20000000]",Think about the range of numbers that round to this value,multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_any_place; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; op-error_bounds; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000000,""max_value"":10000000,""operations"":[""round_to_any_place"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding"",""error_bounds""],""rounding_bases"":[10,100,1000,10000,100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2000000],[2000000,5000000],[5000000,8000000],[8000000,10000000]]}"
+N04_Y6_NPV_1762009300581_i9mh5tsaj,5,N04_Y6_NPV,N04_Y6_NPV: Round to Any Degree of Accuracy,Year 6,Number and Place Value,"Identify, represent and estimate; rounding",4,100,multiple_choice,"Round 8,289,562 to the nearest 10",multiple_choice,"{""originalText"":""Round 8,289,562 to the nearest 10"",""type"":""place_value"",""number"":8,""operation"":""rounding""}",8289560,single_choice,"[8289560,8289550,8289562,8289570]","Identify which place value you're rounding to, then look at the digit to its right",multiple_choice; multiple-choice; number-and-place-value; year-6; op-round_to_any_place; op-estimate_calculation; op-compare_rounded; op-choose_appropriate_rounding; op-error_bounds; large-numbers,2025-11-01T15:01:40.581Z,"{""min_value"":1000000,""max_value"":10000000,""operations"":[""round_to_any_place"",""estimate_calculation"",""compare_rounded"",""choose_appropriate_rounding"",""error_bounds""],""rounding_bases"":[10,100,1000,10000,100000,1000000,10000000],""number_line_max"":10000000,""estimation_ranges"":[[0,2000000],[2000000,5000000],[5000000,8000000],[8000000,10000000]]}"

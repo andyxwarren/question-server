@@ -13,7 +13,7 @@ class QuestionApp {
         this.notificationTimeout = null; // For auto-hiding notifications
 
         this.initializeElements();
-        this.attachEventListeners();
+        this.setupUI();
         this.autoLoadQuestions();
     }
 
@@ -39,14 +39,11 @@ class QuestionApp {
         this.questionDisplay = document.getElementById('question-display');
         this.answerArea = document.getElementById('answer-area');
         this.answerInput = document.getElementById('answer-input');
-        this.submitBtn = document.getElementById('submit-btn');
         this.feedbackArea = document.getElementById('feedback-area');
-        this.prevBtn = document.getElementById('prev-btn');
-        this.nextBtn = document.getElementById('next-btn');
+        this.actionBtn = null; // Dynamically assigned
 
         // On-screen keyboard
         this.keyboard = document.getElementById('on-screen-keyboard');
-        this.keyboardDisplay = document.getElementById('keyboard-display-value');
 
         // Results section
         this.resultsSection = document.getElementById('results-section');
@@ -57,23 +54,32 @@ class QuestionApp {
     /**
      * Attach event listeners
      */
-    attachEventListeners() {
+    setupUI() {
         this.notificationClose.addEventListener('click', () => this.hideNotification());
         this.fileInput.addEventListener('change', (e) => this.handleFileUpload(e));
         this.startBtn.addEventListener('click', () => this.startQuestions());
-        this.submitBtn.addEventListener('click', () => this.submitAnswer());
-        this.prevBtn.addEventListener('click', () => this.previousQuestion());
-        this.nextBtn.addEventListener('click', () => this.nextQuestion());
         this.restartBtn.addEventListener('click', () => this.restart());
 
-        // Enter key to submit answer
-        this.answerInput.addEventListener('keypress', (e) => {
-            if (e.key === 'Enter' && !this.hasSubmittedCurrent) {
-                this.submitAnswer();
+        // Use event delegation for dynamically created elements
+        this.answerArea.addEventListener('click', (e) => {
+            if (e.target.id === 'action-btn') {
+                this.handleActionClick();
+            }
+            if (e.target.classList.contains('choice-btn')) {
+                this.selectOption(e.target);
             }
         });
 
-        // On-screen keyboard event listeners
+        document.addEventListener('keydown', (e) => {
+            if (this.questionSection.classList.contains('hidden')) return;
+
+            if (e.key === 'Enter') {
+                // Prevent default form submission behavior
+                e.preventDefault();
+                this.handleActionClick();
+            }
+        });
+
         this.attachKeyboardListeners();
     }
 
@@ -102,54 +108,34 @@ class QuestionApp {
      * Handle keyboard number/decimal input
      */
     handleKeyboardInput(value) {
-        const currentValue = this.keyboardDisplay.textContent;
-
-        // If current value is "0", replace it
-        if (currentValue === '0' && value !== '.') {
-            this.keyboardDisplay.textContent = value;
-        }
-        // Don't allow multiple decimal points
-        else if (value === '.' && currentValue.includes('.')) {
+        const currentValue = this.answerInput.value;
+        if (value === '.' && currentValue.includes('.')) {
             return;
         }
-        // Append the value
-        else {
-            this.keyboardDisplay.textContent = currentValue + value;
-        }
-
-        // Update the answer input
-        this.answerInput.value = this.keyboardDisplay.textContent;
+        this.answerInput.value += value;
     }
 
     /**
      * Handle keyboard actions (clear, backspace, negative)
      */
     handleKeyboardAction(action) {
-        const currentValue = this.keyboardDisplay.textContent;
+        let currentValue = this.answerInput.value;
 
         switch (action) {
             case 'clear':
-                this.keyboardDisplay.textContent = '0';
                 this.answerInput.value = '';
                 break;
 
             case 'backspace':
-                if (currentValue.length > 1) {
-                    this.keyboardDisplay.textContent = currentValue.slice(0, -1);
-                } else {
-                    this.keyboardDisplay.textContent = '0';
-                }
-                this.answerInput.value = this.keyboardDisplay.textContent === '0' ? '' : this.keyboardDisplay.textContent;
+                this.answerInput.value = currentValue.slice(0, -1);
                 break;
 
             case 'negative':
-                if (currentValue === '0') return;
                 if (currentValue.startsWith('-')) {
-                    this.keyboardDisplay.textContent = currentValue.substring(1);
+                    this.answerInput.value = currentValue.substring(1);
                 } else {
-                    this.keyboardDisplay.textContent = '-' + currentValue;
+                    this.answerInput.value = '-' + currentValue;
                 }
-                this.answerInput.value = this.keyboardDisplay.textContent;
                 break;
         }
     }
@@ -160,7 +146,6 @@ class QuestionApp {
     toggleKeyboard(show) {
         if (show) {
             this.keyboard.classList.remove('hidden');
-            this.keyboardDisplay.textContent = this.answerInput.value || '0';
         } else {
             this.keyboard.classList.add('hidden');
         }
@@ -218,7 +203,7 @@ class QuestionApp {
         try {
             this.showLoading(true);
 
-            const response = await fetch('questions/questions.json');
+            const response = await fetch('questions/questions-2025-11-01-1762009384526.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
@@ -340,10 +325,15 @@ class QuestionApp {
             <span class="tag tag-level tag-level-${question.level}">${question.levelName}</span>
         `;
 
-        // Display question text
-        this.questionDisplay.textContent = question.questionText;
 
         // Render appropriate answer interface
+        this.questionDisplay.classList.remove('has-number-line'); // Reset class
+        if (question.visualType === 'number_line') {
+            this.renderNumberLine(question);
+        } else {
+            this.questionDisplay.textContent = question.questionText;
+        }
+
         if (question.questionType === 'multiple_choice') {
             this.renderMultipleChoice(question);
         } else {
@@ -358,7 +348,6 @@ class QuestionApp {
                 this.highlightSelectedOption(previousAnswer.answer);
             } else {
                 this.answerInput.value = previousAnswer.answer;
-                this.keyboardDisplay.textContent = previousAnswer.answer || '0';
             }
             this.showFeedback(previousAnswer.isCorrect, question.correctAnswer);
             this.hasSubmittedCurrent = true;
@@ -366,14 +355,8 @@ class QuestionApp {
             this.feedbackArea.classList.add('hidden');
             this.hasSubmittedCurrent = false;
             // Reset keyboard display for new question
-            if (question.questionType === 'text_input') {
-                this.keyboardDisplay.textContent = '0';
-            }
         }
 
-        // Enable/disable navigation buttons
-        this.prevBtn.disabled = this.currentIndex === 0;
-        this.nextBtn.textContent = this.currentIndex === this.questions.length - 1 ? 'Finish' : 'Next →';
     }
 
     /**
@@ -381,15 +364,16 @@ class QuestionApp {
      */
     renderTextInput(question) {
         this.answerArea.innerHTML = `
-            <input type="text" id="answer-input" class="answer-input" placeholder="Use keyboard below" readonly>
-            <button id="submit-btn" class="btn btn-primary">Submit Answer</button>
+            <input type="text" id="answer-input" class="answer-input" placeholder="Enter your answer...">
+            <button id="action-btn" class="btn btn-primary">Submit Answer</button>
         `;
 
-        // Re-attach elements and listeners
+        // Re-assign element references
         this.answerInput = document.getElementById('answer-input');
-        this.submitBtn = document.getElementById('submit-btn');
+        this.actionBtn = document.getElementById('action-btn');
 
-        this.submitBtn.addEventListener('click', () => this.submitAnswer());
+        // Set focus to the input field for immediate typing
+        this.answerInput.focus();
 
         // Show on-screen keyboard for text input
         this.toggleKeyboard(true);
@@ -398,6 +382,31 @@ class QuestionApp {
     /**
      * Render multiple choice interface
      */
+    renderNumberLine(question) {
+        const { numbers } = question.questionData;
+        const correctAnswer = parseInt(question.correctAnswer, 10);
+        const min = Math.min(...numbers, correctAnswer);
+        const max = Math.max(...numbers, correctAnswer);
+
+        let html = '<div class="number-line-container">';
+        html += `<div class="question-text-normal">What number is marked on the number line?</div>`;
+        html += '<div class="number-line">';
+
+        for (let i = min; i <= max; i++) {
+            const isMarked = (i === correctAnswer);
+            html += `
+                <div class="number-line-segment">
+                    <div class="number-line-marker">${isMarked ? '▼' : ''}</div>
+                    <div class="number-line-tick"></div>
+                    <div class="number-line-label">${isMarked ? '' : i}</div>
+                </div>`;
+        }
+
+        html += '</div></div>';
+        this.questionDisplay.innerHTML = html;
+        this.questionDisplay.classList.add('has-number-line');
+    }
+
     renderMultipleChoice(question) {
         const options = question.multipleChoiceOptions || [];
 
@@ -410,21 +419,13 @@ class QuestionApp {
             `;
         });
         optionsHTML += '</div>';
-        optionsHTML += '<button id="submit-btn" class="btn btn-primary">Submit Answer</button>';
+        optionsHTML += '<button id="action-btn" class="btn btn-primary">Submit Answer</button>';
 
         this.answerArea.innerHTML = optionsHTML;
 
-        // Re-attach submit button
-        this.submitBtn = document.getElementById('submit-btn');
-        this.submitBtn.addEventListener('click', () => this.submitAnswer());
+        // Re-assign element references
+        this.actionBtn = document.getElementById('action-btn');
 
-        // Attach click handlers to choice buttons
-        const choiceBtns = document.querySelectorAll('.choice-btn');
-        choiceBtns.forEach(btn => {
-            btn.addEventListener('click', (e) => this.selectOption(e.target));
-        });
-
-        // Hide on-screen keyboard for multiple choice
         this.toggleKeyboard(false);
     }
 
@@ -459,13 +460,18 @@ class QuestionApp {
     /**
      * Submit the current answer
      */
-    submitAnswer() {
-        if (this.hasSubmittedCurrent) return;
+    handleActionClick() {
+        if (this.hasSubmittedCurrent) {
+            this.nextQuestion();
+        } else {
+            this.submitAnswer();
+        }
+    }
 
+    submitAnswer() {
         const question = this.questions[this.currentIndex];
         let userAnswer;
 
-        // Get answer based on question type
         if (question.questionType === 'multiple_choice') {
             userAnswer = this.selectedOption;
             if (!userAnswer) {
@@ -480,27 +486,15 @@ class QuestionApp {
             }
         }
 
-        // Validate answer
-        const isCorrect = AnswerValidator.validate(
-            userAnswer,
-            question.correctAnswer,
-            question.answerType
-        );
-
-        // Store result
-        this.userAnswers.set(question.id, {
-            answer: userAnswer,
-            isCorrect: isCorrect
-        });
-
+        const isCorrect = AnswerValidator.validate(userAnswer, question.correctAnswer, question.answerType);
+        this.userAnswers.set(question.id, { answer: userAnswer, isCorrect });
         this.hasSubmittedCurrent = true;
-        this.showFeedback(isCorrect, question.correctAnswer);
 
-        // Disable choice buttons after submission if multiple choice
+        this.showFeedback(isCorrect, question.correctAnswer);
+        this.actionBtn.textContent = this.currentIndex === this.questions.length - 1 ? 'Finish' : 'Next →';
+
         if (question.questionType === 'multiple_choice') {
-            document.querySelectorAll('.choice-btn').forEach(btn => {
-                btn.disabled = true;
-            });
+            document.querySelectorAll('.choice-btn').forEach(btn => { btn.disabled = true; });
         }
     }
 
@@ -516,18 +510,12 @@ class QuestionApp {
                 <span class="feedback-text">Correct!</span>
             `;
             this.feedbackArea.className = 'feedback feedback-correct';
-
-            // Show success notification
-            this.showNotification('✓ Correct! Well done!', 'success', 2000);
         } else {
             this.feedbackArea.innerHTML = `
                 <span class="feedback-icon incorrect">✗</span>
                 <span class="feedback-text">Incorrect. The correct answer is: <strong>${correctAnswer}</strong></span>
             `;
             this.feedbackArea.className = 'feedback feedback-incorrect';
-
-            // Show error notification with correct answer
-            this.showNotification(`✗ Incorrect. The correct answer is: ${correctAnswer}`, 'error', 4000);
         }
     }
 

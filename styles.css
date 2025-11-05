@@ -340,6 +340,7 @@ h1 {
 .answer-section {
     margin: 8px 0;
     flex-shrink: 0;
+    text-align: center;
 }
 
 .answer-input {
@@ -389,11 +390,7 @@ h1 {
 }
 
 .keyboard-display {
-    background: #fff;
-    border-radius: 6px;
-    padding: 8px 12px;
-    margin-bottom: 8px;
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: none;
 }
 
 .keyboard-display-value {
@@ -453,17 +450,6 @@ h1 {
     grid-column: span 2;
 }
 
-/* Responsive keyboard */
-@media (max-width: 600px) {
-    .keyboard-btn {
-        padding: 10px;
-        font-size: 16px;
-    }
-
-    .keyboard-display-value {
-        font-size: 18px;
-    }
-}
 
 /* Feedback */
 .feedback {
@@ -549,17 +535,18 @@ h1 {
 }
 
 .choice-btn:hover:not(:disabled) {
-    border-color: #667eea;
+    border-color: #764ba2;
     background: #f8f9ff;
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.2);
 }
 
 .choice-btn.selected {
     border-color: #667eea;
-    background: #667eea;
-    color: white;
-    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    background-color: #f0f2ff;
+    color: #333;
+    transform: translateY(-2px);
+    box-shadow: 0 0 0 3px #667eea;
 }
 
 .choice-btn:disabled {
@@ -665,21 +652,68 @@ h1 {
 @media (max-width: 600px) {
     body {
         padding: 5px;
+        height: -webkit-fill-available; /* Fix for mobile viewport height */
     }
 
     .section {
-        padding: 12px;
-        border-radius: 8px;
+        padding: 10px;
+        gap: 5px;
     }
 
     h1 {
-        font-size: 20px;
-        margin-bottom: 10px;
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .question-header {
+        margin-bottom: 5px;
+    }
+
+    .question-card {
+        padding: 10px;
+        flex-grow: 1;
+        min-height: 0;
     }
 
     .question-text {
         font-size: 15px;
-        max-height: 12vh;
+        margin-bottom: 8px;
+        max-height: none !important; /* Override base style */
+        overflow-y: visible !important; /* Override base style */
+    }
+
+    .number-line-container {
+        padding: 10px 5px;
+    }
+
+    .question-text-normal {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .number-line-label {
+        margin-top: 25px; /* Increased margin */
+        font-size: 18px; /* Larger font */
+    }
+
+    .answer-section {
+        margin: 5px 0;
+        flex-shrink: 0;
+    }
+
+    .keyboard {
+        margin-top: 5px;
+        padding: 5px;
+        flex-shrink: 0;
+    }
+
+    .keyboard-buttons {
+        gap: 4px;
+    }
+
+    .keyboard-btn {
+        padding: 8px;
+        font-size: 16px;
     }
 
     .score-number {
@@ -690,40 +724,70 @@ h1 {
         font-size: 18px;
     }
 
-    .score-item {
-        font-size: 14px;
-        padding: 6px 0;
-    }
-
-    .multiple-choice-options {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 6px;
-    }
-
-    .choice-btn {
-        padding: 10px;
-        font-size: 15px;
-    }
-
     .tag {
         font-size: 10px;
         padding: 3px 8px;
     }
+}
 
-    .notification-content {
-        padding: 12px 15px;
-    }
+/* Number Line Styles */
 
-    .notification-message {
-        font-size: 14px;
-    }
+.number-line-container {
+    padding: 15px 5px;
+}
 
-    .feedback {
-        padding: 8px 10px;
-        font-size: 13px;
-    }
+.question-text-normal {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 35px;
+}
 
-    .feedback-icon {
-        font-size: 18px;
-    }
+.number-line {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.number-line::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: #ccc;
+    transform: translateY(-50%);
+}
+
+.number-line-segment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+
+.number-line-tick {
+    width: 2px;
+    height: 10px;
+    background-color: #ccc;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.number-line-marker {
+    position: absolute;
+    top: -15px; /* Lowered the marker */
+    font-size: 24px;
+    color: #667eea;
+}
+
+.number-line-label {
+    margin-top: 25px;
+    font-size: 16px;
+    background: #f8f9fa; /* Match card background */
+    padding: 0 2px;
 }
