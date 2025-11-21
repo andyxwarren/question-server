@@ -1,0 +1,12 @@
+serve_id,user_id,question_id,time_served,time_submitted,is_correct,user_answer,batch_id
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+
+,bd2f5b7c-c7f8-4fd6-ad76-463ccec0de52,C04_Y1_CALC_1762321621710_ple94hz31,2025-11-21T21:57:46.683Z,2025-11-21T21:57:46.683Z,true,7,0937e45f-9b81-44a7-b7fa-2da26e367133
+,bd2f5b7c-c7f8-4fd6-ad76-463ccec0de52,C04_Y1_CALC_1762321621710_dv4kbl7rc,2025-11-21T21:57:48.722Z,2025-11-21T21:57:48.722Z,false,5,0937e45f-9b81-44a7-b7fa-2da26e367133
+,bd2f5b7c-c7f8-4fd6-ad76-463ccec0de52,C04_Y1_CALC_1762321621710_hztkts47o,2025-11-21T21:57:50.686Z,2025-11-21T21:57:50.686Z,false,3,0937e45f-9b81-44a7-b7fa-2da26e367133
+,bd2f5b7c-c7f8-4fd6-ad76-463ccec0de52,C04_Y1_CALC_1762321621710_ie1fm90an,2025-11-21T21:57:52.191Z,2025-11-21T21:57:52.191Z,false,3,0937e45f-9b81-44a7-b7fa-2da26e367133

@@ -1,0 +1,6138 @@
+{
+  "metadata": {
+    "exportDate": "2025-11-05T05:46:07.666Z",
+    "version": "1.0",
+    "generatorVersion": "1.0",
+    "questionCount": 80,
+    "moduleCount": 4
+  },
+  "questions": [
+    {
+      "id": "C01_Y1_CALC_1762321565996_hakjkakav",
+      "questionNumber": 1,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "What number do you add to 2 to make 10?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "What number do you add to 2 to make 10?",
+        "type": "generic",
+        "numbers": [
+          2,
+          10
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "8",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        7,
+        9,
+        4,
+        8
+      ],
+      "hint": "2 + 8 = 10",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 10,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub"
+        ],
+        "target_numbers": [
+          5,
+          10
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_z2g0n5zvg",
+      "questionNumber": 2,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "If 4 + 2 = 6, then What is 6 - 2?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "If 4 + 2 = 6, then What is 6 - 2?",
+        "type": "generic",
+        "numbers": [
+          4,
+          2,
+          6,
+          6,
+          2
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "4",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        3,
+        8,
+        4,
+        5
+      ],
+      "hint": "Addition and subtraction are related",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 10,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub"
+        ],
+        "target_numbers": [
+          5,
+          10
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_51xrcud7x",
+      "questionNumber": 3,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "There are 7 pennies. 3 pennies are used. How many pennies remain?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "There are 7 pennies. 3 pennies are used. How many pennies remain?",
+        "type": "generic",
+        "numbers": [
+          7,
+          3
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "4",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        3,
+        4,
+        2,
+        5
+      ],
+      "hint": "Count back from 7",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 10,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub"
+        ],
+        "target_numbers": [
+          5,
+          10
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_o0q7a9qkt",
+      "questionNumber": 4,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "If 5 - 3 = 2, then What is 3 + 2?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "If 5 - 3 = 2, then What is 3 + 2?",
+        "type": "generic",
+        "numbers": [
+          5,
+          3,
+          2,
+          3,
+          2
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "5",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        8,
+        6,
+        5,
+        4
+      ],
+      "hint": "Addition and subtraction are related",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 10,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub"
+        ],
+        "target_numbers": [
+          5,
+          10
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_s3x838jm6",
+      "questionNumber": 5,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "3 and ___ make 5",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "3 and ___ make 5",
+        "type": "generic",
+        "numbers": [
+          3,
+          5
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "2",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        4,
+        3,
+        1,
+        2
+      ],
+      "hint": "3 + 2 = 5",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 10,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub"
+        ],
+        "target_numbers": [
+          5,
+          10
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_btp6oszno",
+      "questionNumber": 1,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "Find the missing number: 8 + ___ = 20",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Find the missing number: 8 + ___ = 20",
+        "type": "generic",
+        "numbers": [
+          8,
+          20
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "12",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        12,
+        2,
+        11,
+        13
+      ],
+      "hint": "8 + 12 = 20",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families"
+        ],
+        "target_numbers": [
+          10,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_g1b74fzxa",
+      "questionNumber": 2,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "18 and ___ make 20",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "18 and ___ make 20",
+        "type": "generic",
+        "numbers": [
+          18,
+          20
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "2",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        3,
+        1,
+        2,
+        12
+      ],
+      "hint": "18 + 2 = 20",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families"
+        ],
+        "target_numbers": [
+          10,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_phig9s7ck",
+      "questionNumber": 3,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "Find the missing number: 20 + ___ = 20",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Find the missing number: 20 + ___ = 20",
+        "type": "generic",
+        "numbers": [
+          20,
+          20
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "0",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        6,
+        10,
+        0,
+        1
+      ],
+      "hint": "20 + 0 = 20",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families"
+        ],
+        "target_numbers": [
+          10,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_ltr4jbij0",
+      "questionNumber": 4,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "What number do you add to 3 to make 20?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "What number do you add to 3 to make 20?",
+        "type": "generic",
+        "numbers": [
+          3,
+          20
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "17",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        18,
+        7,
+        17,
+        16
+      ],
+      "hint": "3 + 17 = 20",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families"
+        ],
+        "target_numbers": [
+          10,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_eitl5hqz6",
+      "questionNumber": 5,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "1 + 7 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "1 + 7 = ?",
+        "type": "generic",
+        "numbers": [
+          1,
+          7
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "8",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        7,
+        8,
+        18,
+        9
+      ],
+      "hint": "Count on from 1",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families"
+        ],
+        "target_numbers": [
+          10,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_br7n1ally",
+      "questionNumber": 1,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "These facts are in the same family: 3 + 5 = 8, 8 - 3 = 5 and 8 - 5 = 3. Which fact completes the family?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "These facts are in the same family: 3 + 5 = 8, 8 - 3 = 5 and 8 - 5 = 3. Which fact completes the family?",
+        "type": "generic",
+        "numbers": [
+          3,
+          5,
+          8,
+          8,
+          3,
+          5,
+          8,
+          5,
+          3
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "5 + 3 = 8",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "5 + 3 = 8",
+        "3 + 5 = 9",
+        "3 + 5 = 7",
+        "4 + 5 = 8"
+      ],
+      "hint": "All facts use the numbers 3, 5, and 8",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_c4doku6i6",
+      "questionNumber": 2,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "Mia has 0 grams. How many more grams are needed to make 9?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Mia has 0 grams. How many more grams are needed to make 9?",
+        "type": "generic",
+        "numbers": [
+          0,
+          9
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "9",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        8,
+        10,
+        9,
+        19
+      ],
+      "hint": "Think: 0 + ___ = 9",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_j1le34728",
+      "questionNumber": 3,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "___ + 15 = 16",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "___ + 15 = 16",
+        "type": "generic",
+        "numbers": [
+          15,
+          16
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "1",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        2,
+        0,
+        1,
+        11
+      ],
+      "hint": "Think: 15 + ___ = 16",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_ubi24jcb8",
+      "questionNumber": 4,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "What number do you add to 10 to make 10?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "What number do you add to 10 to make 10?",
+        "type": "generic",
+        "numbers": [
+          10,
+          10
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "0",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        3,
+        0,
+        10,
+        1
+      ],
+      "hint": "10 + 0 = 10",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_fvxvmh8bm",
+      "questionNumber": 5,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "If 9 + 4 = 13, then What is 13 - 4?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "If 9 + 4 = 13, then What is 13 - 4?",
+        "type": "generic",
+        "numbers": [
+          9,
+          4,
+          13,
+          13,
+          4
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "9",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        9,
+        10,
+        19,
+        8
+      ],
+      "hint": "Addition and subtraction are related",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_gv1a4sgqv",
+      "questionNumber": 1,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "Harper has 3 cupcakes and Benjamin has 0 cupcakes. How many cupcakes do they have altogether?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Harper has 3 cupcakes and Benjamin has 0 cupcakes. How many cupcakes do they have altogether?",
+        "type": "generic",
+        "numbers": [
+          3,
+          0
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "3",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        13,
+        2,
+        3,
+        4
+      ],
+      "hint": "Count on from 3",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations",
+          "two_step_bonds"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "op-two_step_bonds",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_ko4lziiqf",
+      "questionNumber": 2,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "If 13 + 4 = 17, then What is 17 - 13?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "If 13 + 4 = 17, then What is 17 - 13?",
+        "type": "generic",
+        "numbers": [
+          13,
+          4,
+          17,
+          17,
+          13
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "4",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        3,
+        14,
+        4,
+        5
+      ],
+      "hint": "Addition and subtraction are related",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations",
+          "two_step_bonds"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "op-two_step_bonds",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_ygoeix5f7",
+      "questionNumber": 3,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "___ + 6 = 15",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "___ + 6 = 15",
+        "type": "generic",
+        "numbers": [
+          6,
+          15
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "9",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        10,
+        8,
+        9,
+        19
+      ],
+      "hint": "Think: 6 + ___ = 15",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations",
+          "two_step_bonds"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "op-two_step_bonds",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_wj3iaf924",
+      "questionNumber": 4,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "What is the other part when 10 is split into 2 and ___?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "What is the other part when 10 is split into 2 and ___?",
+        "type": "generic",
+        "numbers": [
+          10,
+          2
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "8",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        7,
+        9,
+        0,
+        8
+      ],
+      "hint": "2 + 8 = 10",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations",
+          "two_step_bonds"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "op-two_step_bonds",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y1_CALC_1762321565996_xow5yed0g",
+      "questionNumber": 5,
+      "moduleId": "C01_Y1_CALC",
+      "moduleName": "C01_Y1_CALC: Number Bonds to 20",
+      "moduleDescription": "Represent and use number bonds and related subtraction facts within 20",
+      "yearGroup": "Year 1",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "I have 2 red counters, 6 blue counters, and 12 green counters. How many counters altogether?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "I have 2 red counters, 6 blue counters, and 12 green counters. How many counters altogether?",
+        "type": "generic",
+        "numbers": [
+          2,
+          6,
+          12
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "20",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        7,
+        19,
+        20,
+        10
+      ],
+      "hint": "Add all three numbers",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value": 20,
+        "operations": [
+          "number_bonds",
+          "missing_part",
+          "related_facts",
+          "simple_add_sub",
+          "fact_families",
+          "mixed_operations",
+          "two_step_bonds"
+        ],
+        "target_numbers": [
+          10,
+          15,
+          20
+        ],
+        "fact_families": true,
+        "allow_zero": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "part_whole",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-1",
+        "op-number_bonds",
+        "op-missing_part",
+        "op-related_facts",
+        "op-simple_add_sub",
+        "op-fact_families",
+        "op-mixed_operations",
+        "op-two_step_bonds",
+        "numbers-to-20"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_pvm2pflvq",
+      "questionNumber": 1,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "Freya wants 15 marbles. They have 5 marbles. How many more do they need?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Freya wants 15 marbles. They have 5 marbles. How many more do they need?",
+        "type": "generic",
+        "numbers": [
+          15,
+          5
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "10",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        20,
+        11,
+        9,
+        10
+      ],
+      "hint": "15 - 5 = ?",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": false,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_cj869qj09",
+      "questionNumber": 2,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "If 6 + 1 = 7, what is 7 - 1?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "If 6 + 1 = 7, what is 7 - 1?",
+        "type": "generic",
+        "numbers": [
+          6,
+          1,
+          7,
+          7,
+          1
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "6",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        2,
+        5,
+        7,
+        6
+      ],
+      "hint": "Addition and subtraction are inverse operations",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": false,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_b78g9jzhx",
+      "questionNumber": 3,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "There are 1 rulers. 0 rulers are used. How many rulers remain?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "There are 1 rulers. 0 rulers are used. How many rulers remain?",
+        "type": "generic",
+        "numbers": [
+          1,
+          0
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "1",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        11,
+        2,
+        0,
+        1
+      ],
+      "hint": "Recall: 1 - 0",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": false,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_jkgx2vpr8",
+      "questionNumber": 4,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "Liam wants 15 books. They have 12 books. How many more do they need?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Liam wants 15 books. They have 12 books. How many more do they need?",
+        "type": "generic",
+        "numbers": [
+          15,
+          12
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "3",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        4,
+        2,
+        13,
+        3
+      ],
+      "hint": "15 - 12 = ?",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": false,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_tlclkn30z",
+      "questionNumber": 5,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "You know that 2 + 4 = 6. Use this to work out 6 - 2",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "You know that 2 + 4 = 6. Use this to work out 6 - 2",
+        "type": "generic",
+        "numbers": [
+          2,
+          4,
+          6,
+          6,
+          2
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "4",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        4,
+        3,
+        2,
+        5
+      ],
+      "hint": "Addition and subtraction are inverse operations",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": false,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_mexk79kxk",
+      "questionNumber": 1,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "To check if 3 + 3 = 6, which subtraction could you use?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "To check if 3 + 3 = 6, which subtraction could you use?",
+        "type": "generic",
+        "numbers": [
+          3,
+          3,
+          6
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "6 - 3",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "3 - 3",
+        "6 - 3",
+        "6 + 3",
+        "3 - 3"
+      ],
+      "hint": "Subtraction is the inverse of addition",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_pif61nw88",
+      "questionNumber": 2,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "If 4 + 3 = 7, what is 7 - 4?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "If 4 + 3 = 7, what is 7 - 4?",
+        "type": "generic",
+        "numbers": [
+          4,
+          3,
+          7,
+          7,
+          4
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "3",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        3,
+        4,
+        1,
+        2
+      ],
+      "hint": "Addition and subtraction are inverse operations",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_ltr7ry335",
+      "questionNumber": 3,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "Harper has 13 stickers. They give away 10 stickers. How many stickers are left?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Harper has 13 stickers. They give away 10 stickers. How many stickers are left?",
+        "type": "generic",
+        "numbers": [
+          13,
+          10
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "3",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        2,
+        4,
+        13,
+        3
+      ],
+      "hint": "Recall: 13 - 10",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_9hsoxgs1u",
+      "questionNumber": 4,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "If 0 + 3 = 3, what is 3 - 0?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "If 0 + 3 = 3, what is 3 - 0?",
+        "type": "generic",
+        "numbers": [
+          0,
+          3,
+          3,
+          3,
+          0
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "3",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "hint": "Addition and subtraction are inverse operations",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_lq1i1raww",
+      "questionNumber": 5,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "2 + ___ = 20. Use subtraction to find the missing number.",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "2 + ___ = 20. Use subtraction to find the missing number.",
+        "type": "generic",
+        "numbers": [
+          2,
+          20
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "18",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        8,
+        17,
+        18,
+        19
+      ],
+      "hint": "Try 20 - 2",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_6k7dup0jo",
+      "questionNumber": 1,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "If 4 + 2 = 6, what is 6 - 2?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "If 4 + 2 = 6, what is 6 - 2?",
+        "type": "generic",
+        "numbers": [
+          4,
+          2,
+          6,
+          6,
+          2
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "4",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        0,
+        4,
+        5,
+        3
+      ],
+      "hint": "Addition and subtraction are inverse operations",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565996_yd35u68rk",
+      "questionNumber": 2,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "Complete the fact family: 80 + 90 = 170, 90 + 80 = 170 and 170 - 80 = 90. Which fact is missing?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Complete the fact family: 80 + 90 = 170, 90 + 80 = 170 and 170 - 80 = 90. Which fact is missing?",
+        "type": "generic",
+        "numbers": [
+          80,
+          90,
+          170,
+          90,
+          80,
+          170,
+          170,
+          80,
+          90
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "170 - 90 = 80",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "170 - 80 = 100",
+        "170 - 80 = 80",
+        "170 - 90 = 80",
+        "180 - 80 = 90"
+      ],
+      "hint": "All facts use 80, 90, and 170",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.996Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565997_i6jhea0co",
+      "questionNumber": 3,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "0 + ___ = 5. Use subtraction to find the missing number.",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "0 + ___ = 5. Use subtraction to find the missing number.",
+        "type": "generic",
+        "numbers": [
+          0,
+          5
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "5",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        4,
+        15,
+        6,
+        5
+      ],
+      "hint": "Try 5 - 0",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565997_9m1ijnsh8",
+      "questionNumber": 4,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "50 + 80 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "50 + 80 = ?",
+        "type": "generic",
+        "numbers": [
+          50,
+          80
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "130",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        30,
+        130,
+        35,
+        88
+      ],
+      "hint": "Think of 5 + 8",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565997_rup3s8pk9",
+      "questionNumber": 5,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "30 + ___ = 50",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "30 + ___ = 50",
+        "type": "generic",
+        "numbers": [
+          30,
+          50
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "20",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        20,
+        30,
+        19,
+        21
+      ],
+      "hint": "50 - 30 = ?",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565997_2s4qbsicm",
+      "questionNumber": 1,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "To check if 12 - 6 = 6, which addition could you use?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "To check if 12 - 6 = 6, which addition could you use?",
+        "type": "generic",
+        "numbers": [
+          12,
+          6,
+          6
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "6 + 6",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "6 + 6",
+        "6 - 6",
+        "12 + 6",
+        "12 + 6"
+      ],
+      "hint": "Addition is the inverse of subtraction",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100",
+          "near_multiples"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100",
+        "op-near_multiples"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565997_furyc93si",
+      "questionNumber": 2,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "4 + 16 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "4 + 16 = ?",
+        "type": "generic",
+        "numbers": [
+          4,
+          16
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "20",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        20,
+        10,
+        15,
+        19
+      ],
+      "hint": "Recall: 4 + 16",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100",
+          "near_multiples"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100",
+        "op-near_multiples"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565997_jgix2a3fi",
+      "questionNumber": 3,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "6 + 5 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "6 + 5 = ?",
+        "type": "generic",
+        "numbers": [
+          6,
+          5
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "11",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        10,
+        1,
+        12,
+        11
+      ],
+      "hint": "Recall: 6 + 5",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100",
+          "near_multiples"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100",
+        "op-near_multiples"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565997_v0bzv1qor",
+      "questionNumber": 4,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "91 + 51 = ?\n\nHint: Think of 91 as 90 and 51 as 50",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "91 + 51 = ?\n\nHint: Think of 91 as 90 and 51 as 50",
+        "type": "generic",
+        "numbers": [
+          91,
+          51,
+          91,
+          90,
+          51,
+          50
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "142",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        42,
+        20,
+        67,
+        142
+      ],
+      "hint": "Step 1: 90 + 50 = 140\nStep 2: Then +2 = 142",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100",
+          "near_multiples"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100",
+        "op-near_multiples"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y2_CALC_1762321565997_a1nm8jrs1",
+      "questionNumber": 5,
+      "moduleId": "C01_Y2_CALC",
+      "moduleName": "C01_Y2_CALC: Mental Facts to 100",
+      "moduleDescription": "Recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",
+      "yearGroup": "Year 2",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "If 9 + 1 = 10, what is 10 - 9?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "If 9 + 1 = 10, what is 10 - 9?",
+        "type": "generic",
+        "numbers": [
+          9,
+          1,
+          10,
+          10,
+          9
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "1",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        0,
+        1,
+        6,
+        2
+      ],
+      "hint": "Addition and subtraction are inverse operations",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "max_value_basic": 20,
+        "max_value_derived": 100,
+        "operations": [
+          "recall_to_20",
+          "derive_to_100",
+          "missing_addend",
+          "related_subtract",
+          "inverse_operations",
+          "fact_families_100",
+          "near_multiples"
+        ],
+        "multiples_of_10": true,
+        "allow_crossing_10": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-2",
+        "op-recall_to_20",
+        "op-derive_to_100",
+        "op-missing_addend",
+        "op-related_subtract",
+        "op-inverse_operations",
+        "op-fact_families_100",
+        "op-near_multiples"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_uumnfb9hg",
+      "questionNumber": 1,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "149 + 40 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "149 + 40 = ?",
+        "type": "generic",
+        "numbers": [
+          149,
+          40
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "189",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        190,
+        199,
+        189,
+        188
+      ],
+      "hint": "Add 40 to the tens",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 300,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          50
+        ],
+        "hundreds_range": [
+          100,
+          300
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_y5cpu5jym",
+      "questionNumber": 2,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "A theatre has 236 seats. 10 seats are reserved. How many seats available?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "A theatre has 236 seats. 10 seats are reserved. How many seats available?",
+        "type": "generic",
+        "numbers": [
+          236,
+          10
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "226",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        227,
+        226,
+        236,
+        225
+      ],
+      "hint": "Subtract 10 from the tens",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 300,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          50
+        ],
+        "hundreds_range": [
+          100,
+          300
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_3ph3uggmt",
+      "questionNumber": 3,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "Mason has 108 rulers. They give away 3 rulers. How many rulers left?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Mason has 108 rulers. They give away 3 rulers. How many rulers left?",
+        "type": "generic",
+        "numbers": [
+          108,
+          3
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "105",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        105,
+        104,
+        115,
+        106
+      ],
+      "hint": "Subtract 3 from the ones digit",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 300,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          50
+        ],
+        "hundreds_range": [
+          100,
+          300
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_qzzg14ku5",
+      "questionNumber": 4,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "There are 276 people in a hall. 3 more people arrive. How many people now?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "There are 276 people in a hall. 3 more people arrive. How many people now?",
+        "type": "generic",
+        "numbers": [
+          276,
+          3
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "279",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        280,
+        279,
+        289,
+        278
+      ],
+      "hint": "Add 3 to the ones digit",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 300,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          50
+        ],
+        "hundreds_range": [
+          100,
+          300
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_03zuv0ev0",
+      "questionNumber": 5,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 25,
+      "questionType": "multiple_choice",
+      "questionText": "152 + 1 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "152 + 1 = ?",
+        "type": "generic",
+        "numbers": [
+          152,
+          1
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "153",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        153,
+        154,
+        163,
+        152
+      ],
+      "hint": "Add 1 to the ones digit",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 300,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          50
+        ],
+        "hundreds_range": [
+          100,
+          300
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_r5qi8jl1c",
+      "questionNumber": 1,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "471 - 50 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "471 - 50 = ?",
+        "type": "generic",
+        "numbers": [
+          471,
+          50
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "421",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        431,
+        420,
+        422,
+        421
+      ],
+      "hint": "Subtract 50 from the tens",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 500,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          400
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_d7a28o9e2",
+      "questionNumber": 2,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "191 + 50 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "191 + 50 = ?",
+        "type": "generic",
+        "numbers": [
+          191,
+          50
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "241",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        251,
+        242,
+        241,
+        240
+      ],
+      "hint": "Add 50 to the tens",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 500,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          400
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_1vbq2dqmn",
+      "questionNumber": 3,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "There are 274 people in a hall. 6 more people arrive. How many people now?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "There are 274 people in a hall. 6 more people arrive. How many people now?",
+        "type": "generic",
+        "numbers": [
+          274,
+          6
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "280",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        280,
+        281,
+        279,
+        290
+      ],
+      "hint": "Add 6 to the ones digit",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 500,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          400
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_gm1j8k7ao",
+      "questionNumber": 4,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "Mia has 379 stickers. They sell 10 stickers. How many stickers left?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Mia has 379 stickers. They sell 10 stickers. How many stickers left?",
+        "type": "generic",
+        "numbers": [
+          379,
+          10
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "369",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        369,
+        379,
+        368,
+        370
+      ],
+      "hint": "Subtract 10 from the tens",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 500,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          400
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_m8zjyv0s9",
+      "questionNumber": 5,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 45,
+      "questionType": "multiple_choice",
+      "questionText": "A library has 380 books. They buy 3 new books. How many books in total?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "A library has 380 books. They buy 3 new books. How many books in total?",
+        "type": "generic",
+        "numbers": [
+          380,
+          3
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "383",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        383,
+        384,
+        393,
+        382
+      ],
+      "hint": "Add 3 to the ones digit",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 500,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          400
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_2s7fzhlf4",
+      "questionNumber": 1,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "text_input",
+      "questionText": "505 - ___ = 495",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "505 - ___ = 495",
+        "type": "generic",
+        "numbers": [
+          505,
+          495
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "10",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Subtract from the tens place",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "text_input",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_2ofn7wenc",
+      "questionNumber": 2,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "Harry has 762 points. They earn 700 bonus points. Total points?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "Harry has 762 points. They earn 700 bonus points. Total points?",
+        "type": "generic",
+        "numbers": [
+          762,
+          700
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "1462",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        1462,
+        1461,
+        1463,
+        1472
+      ],
+      "hint": "Add 700 to the hundreds",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_ptfevpx5u",
+      "questionNumber": 3,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "341 - 40 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "341 - 40 = ?",
+        "type": "generic",
+        "numbers": [
+          341,
+          40
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "301",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        301,
+        311,
+        300,
+        302
+      ],
+      "hint": "Subtract 40 from the tens",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_66ys4ik2o",
+      "questionNumber": 4,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "165 + 700 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "165 + 700 = ?",
+        "type": "generic",
+        "numbers": [
+          165,
+          700
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "865",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        864,
+        865,
+        866,
+        875
+      ],
+      "hint": "Add 700 to the hundreds",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_jun5ctkcw",
+      "questionNumber": 5,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 65,
+      "questionType": "multiple_choice",
+      "questionText": "974 + 60 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "974 + 60 = ?",
+        "type": "generic",
+        "numbers": [
+          974,
+          60
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "1034",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        1034,
+        1035,
+        1033,
+        1044
+      ],
+      "hint": "Add 60 to the tens",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_d3wn955ei",
+      "questionNumber": 1,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "116 - 4 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "116 - 4 = ?",
+        "type": "generic",
+        "numbers": [
+          116,
+          4
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "112",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        113,
+        111,
+        122,
+        112
+      ],
+      "hint": "Subtract 4 from the ones digit",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations",
+          "two_step_mental"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "allow_complex_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations",
+        "op-two_step_mental"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_nuilnjb09",
+      "questionNumber": 2,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "text_input",
+      "questionText": "825 + ___ = 1325",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "825 + ___ = 1325",
+        "type": "generic",
+        "numbers": [
+          825,
+          1325
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "500",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Add to the hundreds place",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations",
+          "two_step_mental"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "allow_complex_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "text_input",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations",
+        "op-two_step_mental"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_rqe9rpua1",
+      "questionNumber": 3,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "multiple_choice",
+      "questionText": "892 - 300 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "892 - 300 = ?",
+        "type": "generic",
+        "numbers": [
+          892,
+          300
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "592",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        602,
+        591,
+        592,
+        593
+      ],
+      "hint": "Subtract 300 from the hundreds",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations",
+          "two_step_mental"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "allow_complex_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations",
+        "op-two_step_mental"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_8nxurru68",
+      "questionNumber": 4,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "text_input",
+      "questionText": "153 - ___ = 53",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "153 - ___ = 53",
+        "type": "generic",
+        "numbers": [
+          153,
+          53
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "100",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Subtract from the hundreds place",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations",
+          "two_step_mental"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "allow_complex_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "text_input",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations",
+        "op-two_step_mental"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y3_CALC_1762321565997_90h3tlykj",
+      "questionNumber": 5,
+      "moduleId": "C01_Y3_CALC",
+      "moduleName": "C01_Y3_CALC: Mental 3-Digit Calculations",
+      "moduleDescription": "Add and subtract numbers mentally, including: a three-digit number and ones, a three-digit number and tens, a three-digit number and hundreds",
+      "yearGroup": "Year 3",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 85,
+      "questionType": "text_input",
+      "questionText": "767 + ___ = 807",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "767 + ___ = 807",
+        "type": "generic",
+        "numbers": [
+          767,
+          807
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "40",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "Add to the tens place",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_3digit": 100,
+        "max_3digit": 999,
+        "operations": [
+          "add_ones",
+          "subtract_ones",
+          "add_tens",
+          "subtract_tens",
+          "add_hundreds",
+          "subtract_hundreds",
+          "mixed_operations",
+          "two_step_mental"
+        ],
+        "ones_range": [
+          1,
+          9
+        ],
+        "tens_range": [
+          10,
+          90
+        ],
+        "hundreds_range": [
+          100,
+          900
+        ],
+        "avoid_bridging": false,
+        "allow_complex_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "text_input",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-3",
+        "op-add_ones",
+        "op-subtract_ones",
+        "op-add_tens",
+        "op-subtract_tens",
+        "op-add_hundreds",
+        "op-subtract_hundreds",
+        "op-mixed_operations",
+        "op-two_step_mental"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.997Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_618pxjspg",
+      "questionNumber": 1,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 30,
+      "questionType": "multiple_choice",
+      "questionText": "A company has 3,999 coins. They receive 10 more coins. How many coins now?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "A company has 3,999 coins. They receive 10 more coins. How many coins now?",
+        "type": "generic",
+        "numbers": [
+          3,
+          999,
+          10
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "4,009",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "4,010",
+        "4,019",
+        "4,008",
+        "4,009"
+      ],
+      "hint": "Add 10 mentally",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 9999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_ones_to_4digit",
+          "subtract_ones_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_ones_to_4digit",
+        "op-subtract_ones_from_4digit",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_s0eoi91mn",
+      "questionNumber": 2,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 30,
+      "questionType": "multiple_choice",
+      "questionText": "4,560 - 90 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "4,560 - 90 = ?",
+        "type": "generic",
+        "numbers": [
+          4,
+          560,
+          90
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "4,470",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "4,470",
+        "4,469",
+        "4,480",
+        "4,471"
+      ],
+      "hint": "Subtract 90 mentally",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 9999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_ones_to_4digit",
+          "subtract_ones_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_ones_to_4digit",
+        "op-subtract_ones_from_4digit",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_3zpygq7io",
+      "questionNumber": 3,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 30,
+      "questionType": "multiple_choice",
+      "questionText": "8,632 + 5 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "8,632 + 5 = ?",
+        "type": "generic",
+        "numbers": [
+          8,
+          632,
+          5
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "8,637",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "8,638",
+        "8,647",
+        "8,637",
+        "8,636"
+      ],
+      "hint": "Add 5 to the ones place",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 9999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_ones_to_4digit",
+          "subtract_ones_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_ones_to_4digit",
+        "op-subtract_ones_from_4digit",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_a46i6ytwz",
+      "questionNumber": 4,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 30,
+      "questionType": "multiple_choice",
+      "questionText": "3,759 - 4 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "3,759 - 4 = ?",
+        "type": "generic",
+        "numbers": [
+          3,
+          759,
+          4
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "3,755",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "3,755",
+        "3,765",
+        "3,754",
+        "3,756"
+      ],
+      "hint": "Subtract 4 from the ones place",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 9999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_ones_to_4digit",
+          "subtract_ones_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_ones_to_4digit",
+        "op-subtract_ones_from_4digit",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_gqhmn9job",
+      "questionNumber": 5,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 1,
+      "levelName": "Beginning",
+      "difficultyScore": 30,
+      "questionType": "multiple_choice",
+      "questionText": "5,133 - 30 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "5,133 - 30 = ?",
+        "type": "generic",
+        "numbers": [
+          5,
+          133,
+          30
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "5,103",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "5,113",
+        "5,103",
+        "5,102",
+        "5,104"
+      ],
+      "hint": "Subtract 30 mentally",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 9999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_ones_to_4digit",
+          "subtract_ones_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": true,
+        "question_styles": [
+          "equation",
+          "word_problem"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_ones_to_4digit",
+        "op-subtract_ones_from_4digit",
+        "numbers-to-10k"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_94ztde944",
+      "questionNumber": 1,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 53,
+      "questionType": "multiple_choice",
+      "questionText": "A warehouse has 3,710 grams. They ship 3,000 grams. How many grams remain?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "A warehouse has 3,710 grams. They ship 3,000 grams. How many grams remain?",
+        "type": "generic",
+        "numbers": [
+          3,
+          710,
+          3,
+          0
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "710",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "720",
+        "709",
+        "711",
+        "710"
+      ],
+      "hint": "Subtract 3,000 mentally",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 99999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_4digit",
+          "subtract_any_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_4digit",
+        "op-subtract_any_from_4digit",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_z7fyi24t5",
+      "questionNumber": 2,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 53,
+      "questionType": "multiple_choice",
+      "questionText": "A warehouse has 9,604 pounds. They ship 600 pounds. How many pounds remain?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "A warehouse has 9,604 pounds. They ship 600 pounds. How many pounds remain?",
+        "type": "generic",
+        "numbers": [
+          9,
+          604,
+          600
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "9,004",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "9,003",
+        "9,005",
+        "9,004",
+        "9,014"
+      ],
+      "hint": "Subtract 600 mentally",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 99999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_4digit",
+          "subtract_any_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_4digit",
+        "op-subtract_any_from_4digit",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_1dr963va5",
+      "questionNumber": 3,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 53,
+      "questionType": "text_input",
+      "questionText": "38,043 + ___ = 38,113",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "38,043 + ___ = 38,113",
+        "type": "generic",
+        "numbers": [
+          38,
+          43,
+          38,
+          113
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "70",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "What was added to 38,043?",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 99999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_4digit",
+          "subtract_any_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "text_input",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_4digit",
+        "op-subtract_any_from_4digit",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_rlzntbj9p",
+      "questionNumber": 4,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 53,
+      "questionType": "text_input",
+      "questionText": "38,248 + ___ = 38,288",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "38,248 + ___ = 38,288",
+        "type": "generic",
+        "numbers": [
+          38,
+          248,
+          38,
+          288
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "40",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "What was added to 38,248?",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 99999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_4digit",
+          "subtract_any_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "text_input",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_4digit",
+        "op-subtract_any_from_4digit",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_pb2cammf3",
+      "questionNumber": 5,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 2,
+      "levelName": "Developing",
+      "difficultyScore": 53,
+      "questionType": "multiple_choice",
+      "questionText": "2,645 + 2 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "2,645 + 2 = ?",
+        "type": "generic",
+        "numbers": [
+          2,
+          645,
+          2
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "2,647",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "2,646",
+        "2,657",
+        "2,648",
+        "2,647"
+      ],
+      "hint": "Use place value to add 2",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 99999,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_4digit",
+          "subtract_any_from_4digit"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000
+        ],
+        "avoid_bridging": false,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_4digit",
+        "op-subtract_any_from_4digit",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_42tiey3ab",
+      "questionNumber": 1,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 77,
+      "questionType": "text_input",
+      "questionText": "705,416 - ___ = 705,336",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "705,416 - ___ = 705,336",
+        "type": "generic",
+        "numbers": [
+          705,
+          416,
+          705,
+          336
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "80",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "What was subtracted from 705,416?",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "text_input",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_amapzfbzj",
+      "questionNumber": 2,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 77,
+      "questionType": "text_input",
+      "questionText": "9,835 + ___ = 9,855",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "9,835 + ___ = 9,855",
+        "type": "generic",
+        "numbers": [
+          9,
+          835,
+          9,
+          855
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "20",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "What was added to 9,835?",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "text_input",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_zdwpf0dah",
+      "questionNumber": 3,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 77,
+      "questionType": "text_input",
+      "questionText": "515,217 - ___ = 514,317",
+      "visualType": "text_input",
+      "questionData": {
+        "originalText": "515,217 - ___ = 514,317",
+        "type": "generic",
+        "numbers": [
+          515,
+          217,
+          514,
+          317
+        ],
+        "hasGaps": false
+      },
+      "correctAnswer": "900",
+      "answerType": "numeric",
+      "multipleChoiceOptions": null,
+      "hint": "What was subtracted from 515,217?",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "text_input",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_j66zkqpqd",
+      "questionNumber": 4,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 77,
+      "questionType": "multiple_choice",
+      "questionText": "117,963 + 600 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "117,963 + 600 = ?",
+        "type": "generic",
+        "numbers": [
+          117,
+          963,
+          600
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "118,563",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "118,564",
+        "118,563",
+        "118,562",
+        "118,573"
+      ],
+      "hint": "Add 600 mentally",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565998_4nwurzpiu",
+      "questionNumber": 5,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 3,
+      "levelName": "Meeting",
+      "difficultyScore": 77,
+      "questionType": "multiple_choice",
+      "questionText": "There were 58,949 tickets. 10 tickets were sold. How many tickets available?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "There were 58,949 tickets. 10 tickets were sold. How many tickets available?",
+        "type": "generic",
+        "numbers": [
+          58,
+          949,
+          10
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "58,939",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "58,940",
+        "58,939",
+        "58,938",
+        "58,949"
+      ],
+      "hint": "Subtract 10 mentally",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.998Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565999_eylkwaid8",
+      "questionNumber": 1,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 97,
+      "questionType": "multiple_choice",
+      "questionText": "14,050 + 5,950 = ?\n\nHint: Round both numbers first",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "14,050 + 5,950 = ?\n\nHint: Round both numbers first",
+        "type": "generic",
+        "numbers": [
+          14,
+          50,
+          5,
+          950
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "20,000",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "20,000",
+        "20,010",
+        "20,001",
+        "19,999"
+      ],
+      "hint": "Try: (14,000 + 6,000) then adjust",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning",
+          "near_multiples_large",
+          "multi_step_mental"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "allow_complex": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "op-near_multiples_large",
+        "op-multi_step_mental",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.999Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565999_u6hiz7rk6",
+      "questionNumber": 2,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 97,
+      "questionType": "multiple_choice",
+      "questionText": "494,855 - 12 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "494,855 - 12 = ?",
+        "type": "generic",
+        "numbers": [
+          494,
+          855,
+          12
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "494,843",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "494,844",
+        "494,843",
+        "494,853",
+        "494,842"
+      ],
+      "hint": "Subtract 12 using place value",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning",
+          "near_multiples_large",
+          "multi_step_mental"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "allow_complex": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "op-near_multiples_large",
+        "op-multi_step_mental",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.999Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565999_yxvp6hdqv",
+      "questionNumber": 3,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 97,
+      "questionType": "multiple_choice",
+      "questionText": "A warehouse has 697,185 blocks. They ship 1,000 blocks. How many blocks remain?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "A warehouse has 697,185 blocks. They ship 1,000 blocks. How many blocks remain?",
+        "type": "generic",
+        "numbers": [
+          697,
+          185,
+          1,
+          0
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "696,185",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "696,184",
+        "696,185",
+        "696,186",
+        "696,195"
+      ],
+      "hint": "Subtract 1,000 mentally",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning",
+          "near_multiples_large",
+          "multi_step_mental"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "allow_complex": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "op-near_multiples_large",
+        "op-multi_step_mental",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.999Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565999_dnhcjiwrz",
+      "questionNumber": 4,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 97,
+      "questionType": "multiple_choice",
+      "questionText": "100,002 + 2,132 = ?\n\nHint: 100,002 is close to 100,000",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "100,002 + 2,132 = ?\n\nHint: 100,002 is close to 100,000",
+        "type": "generic",
+        "numbers": [
+          100,
+          2,
+          2,
+          132,
+          100,
+          2,
+          100,
+          0
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "102,134",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "102,133",
+        "102,135",
+        "102,144",
+        "102,134"
+      ],
+      "hint": "Try: 100,000 + 2,132 then adjust by 2",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning",
+          "near_multiples_large",
+          "multi_step_mental"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "allow_complex": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "op-near_multiples_large",
+        "op-multi_step_mental",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.999Z"
+    },
+    {
+      "id": "C01_Y5_CALC_1762321565999_565effnnd",
+      "questionNumber": 5,
+      "moduleId": "C01_Y5_CALC",
+      "moduleName": "C01_Y5_CALC: Mental Calculations with Large Numbers",
+      "moduleDescription": "Add and subtract numbers mentally with increasingly large numbers",
+      "yearGroup": "Year 5",
+      "strand": "Addition, subtraction, multiplication and division (calculations)",
+      "substrand": "add / subtract mentally",
+      "curriculumRef": "C1",
+      "icon": "➕",
+      "level": 4,
+      "levelName": "Exceeding",
+      "difficultyScore": 97,
+      "questionType": "multiple_choice",
+      "questionText": "82,262 + 2,000 + 800 = ?",
+      "visualType": "multiple_choice",
+      "questionData": {
+        "originalText": "82,262 + 2,000 + 800 = ?",
+        "type": "generic",
+        "numbers": [
+          82,
+          262,
+          2,
+          0,
+          800
+        ],
+        "hasGaps": true
+      },
+      "correctAnswer": "85,062",
+      "answerType": "single_choice",
+      "multipleChoiceOptions": [
+        "85,063",
+        "85,062",
+        "85,072",
+        "85,061"
+      ],
+      "hint": "Add 2,000 first, then 800",
+      "multiGapAnswers": null,
+      "generatorParameters": {
+        "min_value": 1000,
+        "max_value": 1000000,
+        "operations": [
+          "add_multiples_10",
+          "subtract_multiples_10",
+          "add_multiples_100",
+          "subtract_multiples_100",
+          "add_multiples_1000",
+          "subtract_multiples_1000",
+          "add_any_to_large",
+          "subtract_any_from_large",
+          "compensation",
+          "partitioning",
+          "near_multiples_large",
+          "multi_step_mental"
+        ],
+        "powers_of_10": [
+          10,
+          100,
+          1000,
+          10000,
+          100000
+        ],
+        "avoid_bridging": false,
+        "use_strategies": true,
+        "allow_complex": true,
+        "question_styles": [
+          "equation",
+          "word_problem",
+          "missing_number",
+          "reasoning",
+          "multi_step"
+        ]
+      },
+      "tags": [
+        "multiple_choice",
+        "multiple-choice",
+        "addition,-subtraction,-multiplication-and-division-(calculations)",
+        "year-5",
+        "op-add_multiples_10",
+        "op-subtract_multiples_10",
+        "op-add_multiples_100",
+        "op-subtract_multiples_100",
+        "op-add_multiples_1000",
+        "op-subtract_multiples_1000",
+        "op-add_any_to_large",
+        "op-subtract_any_from_large",
+        "op-compensation",
+        "op-partitioning",
+        "op-near_multiples_large",
+        "op-multi_step_mental",
+        "large-numbers"
+      ],
+      "generatedAt": "2025-11-05T05:46:05.999Z"
+    }
+  ]
+}

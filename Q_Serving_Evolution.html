@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q Serving Evolution</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+        .page-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+            background-color: #fff;
+            border-bottom: 1px solid #ddd;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .page-header .title-block {
+            flex-grow: 1;
+        }
+        .page-header h1 {
+            font-size: 24px;
+            border-bottom: none;
+            padding-bottom: 0;
+            margin-bottom: 0;
+        }
+        .session {
+            margin-top: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #fff;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        strong {
+            color: #667eea;
+        }
+        .nav {
+            text-align: right;
+        }
+        .nav-btn {
+            background-color: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            margin: 5px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            text-decoration: none;
+        }
+        .nav-btn:hover {
+            background-color: #5a67d8;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="page-header">
+        <div class="title-block">
+            <h1>Q Serving Evolution</h1>
+        </div>
+        <div class="nav">
+            <a href="#session-1" class="nav-btn">Session 1</a>
+            <a href="#session-2" class="nav-btn">Session 2</a>
+            <a href="#session-3" class="nav-btn">Session 3</a>
+            <a href="#session-4" class="nav-btn">Session 4</a>
+            <a href="#session-5" class="nav-btn">Session 5</a>
+        </div>
+    </header>
+
+    <p style="padding: 0 20px;">A working document to track all changes made to the Question Practice App.</p>
+
+    <div id="session-1" class="session">
+        <h2>Session One: November 3, 2025</h2>
+        <p>The following is a summary of all the features and fixes implemented during our first session.</p>
+
+    <h2>UI and Visuals</h2>
+    <ul>
+        <li><strong>Selected Answer Highlighting</strong>: Updated the styling so that when a user selects a multiple-choice answer, it gets a distinct blue glow while the number remains clearly visible.</li>
+        <li><strong>Streamlined Notifications</strong>: Removed the redundant notification that used to slide in from the top, leaving only the feedback message that appears below the answer.</li>
+        <li><strong>Centered Layout</strong>: Centered the main action button ("Submit/Next") for a cleaner look.</li>
+        <li><strong>Number Line Rendering</strong>: Implemented a new component to render a proper visual number line for relevant questions. After many refinements, it now displays a continuous line, tick marks, and an arrow pointing to the correct answer.</li>
+        <li><strong>Mobile Responsiveness</strong>: Fixed the mobile layout to ensure all content, including the question and the on-screen keyboard, fits on a standard phone screen without requiring a vertical scrollbar.</li>
+    </ul>
+
+    <h2>Button and Navigation Logic</h2>
+    <ul>
+        <li><strong>Unified "Submit/Next" Button</strong>: Merged the separate "Submit" and "Next" buttons into a single, dynamic action button. This prevents users from skipping questions, as the button only changes to "Next" after an answer has been submitted.</li>
+        <li><strong>Removed Navigation Buttons</strong>: Completely removed the old "Previous" and "Next" buttons from the bottom of the screen and all associated code.</li>
+    </ul>
+
+    <h2>Keyboard Functionality</h2>
+    <ul>
+        <li><strong>Fixed Keyboard Input</strong>: Resolved issues with both the on-screen and physical keyboards to ensure they reliably input numbers into the answer field.</li>
+        <li><strong>Corrected Duplicate Display</strong>: Fixed a bug where the typed answer was appearing in two places at once.</li>
+        <li><strong>Auto-Focus on Answer Box</strong>: The cursor is now automatically placed in the answer box for text-input questions when the question loads, allowing for immediate typing.</li>
+        <li><strong>Enhanced "Enter" Key</strong>: Implemented logic so the "Enter" key on the physical keyboard acts as "Submit" when an answer is being entered, and as "Next" after the answer has been submitted.</li>
+    </ul>
+
+    <h2>Question Data Analysis & Recommendations</h2>
+    <ul>
+        <li><strong>Identified Data Issues</strong>: We analyzed questions that were not displaying correctly and determined that some issues must be fixed by the question generation team. This includes:
+            <ul>
+                <li>Converting multi-answer text questions to a multiple-choice format by adding distractor options.</li>
+                <li>Adding the necessary visual data for "ten frame" questions.</li>
+            </ul>
+        </li>
+    </ul>
+
+    </div>
+
+    <div id="session-2" class="session">
+        <h2>Session Two: November 5, 2025</h2>
+        <p>This session focused on improving question readability, mobile responsiveness, and implementing a new hint system.</p>
+
+        <h3>Question Formatting</h3>
+        <ul>
+            <li><strong>Improved Equation Readability</strong>: Developed a robust function to automatically detect and reformat questions containing multiple mathematical equations. The introductory text, equations, and the final question are now separated onto different lines for clarity.</li>
+            <li><strong>Styled Equation Blocks</strong>: Added CSS to visually group the extracted equations, making them stand out from the surrounding text.</li>
+        </ul>
+
+        <h3>UI and Responsiveness</h3>
+        <ul>
+            <li><strong>Mobile Layout for Choices</strong>: Fixed the mobile layout for multiple-choice questions with four options. Instead of an awkward 3+1 arrangement, they are now displayed in a clean and symmetrical 2x2 grid.</li>
+        </ul>
+
+        <h3>Hint System</h3>
+        <ul>
+            <li><strong>Implemented Hint Button</strong>: Replaced the automatic display of hints with a dedicated "💡 Hint" button. This button only appears if a question has an associated hint.</li>
+            <li><strong>Pop-up Hints</strong>: Clicking the hint button now displays the hint in a non-intrusive pop-up notification, allowing students to try solving the question on their own first.</li>
+            <li><strong>Dynamic Hint Detection</strong>: The system now automatically detects hints from both dedicated fields in the data and those embedded directly within the question text.</li>
+            <li><strong>Styled Hint Button</strong>: The hint button is styled with a distinct color to be easily identifiable.</li>
+        </ul>
+
+        <h3>Development Workflow</h3>
+        <ul>
+            <li><strong>Isolated Question Testing</strong>: Created single-question JSON files to allow for rapid testing and verification of new features without needing to navigate through the entire question set.</li>
+        </ul>
+    </div>
+
+    <div id="session-3" class="session">
+        <h2>Session Three: November 9, 2025</h2>
+        <p>This session was dedicated to refining the user input experience, focusing on keyboard navigation for multiple-choice questions and improving the readability of large number inputs.</p>
+
+        <h3>Keyboard Input Enhancements</h3>
+        <ul>
+            <li><strong>Keyboard for Multiple Choice</strong>: Enabled the use of the physical keyboard to select answers in multiple-choice questions, providing a faster alternative to mouse or touch input.</li>
+            <li><strong>Multi-Digit Answer Logic</strong>: Implemented a sophisticated input handling system that correctly processes both single and multi-digit answers (e.g., "10"). The system intelligently waits for subsequent digits only when necessary, ensuring a responsive feel for single-digit inputs.</li>
+            <li><strong>Accessible Timing</strong>: Increased the input delay to 800ms to make the feature more accessible and comfortable for younger users who may type more slowly.</li>
+            <li><strong>Symbol and Alias Support</strong>: Expanded keyboard support to include mathematical symbols (+, -, *, /) and their common keyboard aliases (e.g., using '*' for multiplication), allowing for a consistent keyboard-only experience.</li>
+        </ul>
+
+        <h3>Text Input Formatting</h3>
+        <ul>
+            <li><strong>Real-Time Number Formatting</strong>: Implemented a live formatting feature for text input fields. As a user types a large number, it is automatically formatted with commas as thousands separators (e.g., "12345" becomes "12,345").</li>
+            <li><strong>Intelligent Cursor Positioning</strong>: The cursor's position is correctly maintained during formatting, allowing users to edit numbers in the middle of the input without the cursor jumping to the end.</li>
+            <li><strong>Robust Implementation</strong>: Fixed an issue where the formatting logic was not being applied to dynamically created input fields by using a delegated event listener, ensuring the feature works reliably across all questions.</li>
+        </ul>
+
+        <h3>Question Readability</h3>
+        <ul>
+            <li><strong>Improved Word Problem Layout</strong>: Enhanced the question formatting logic to automatically insert a line break in word problems containing two consecutive large numbers, making them significantly easier for young learners to read and parse.</li>
+        </ul>
+    </div>
+
+    <div id="session-4" class="session">
+        <h2>Session Four: November 16, 2025</h2>
+        <p>This session focused on significant UI/UX improvements to the question-serving interface. The following key issues were addressed and resolved:</p>
+
+        <h3>1. Multiple Answer Boxes for Sequence Questions</h3>
+        <ul>
+            <li><strong>Issue</strong>: Questions requiring a sequence of numbers used a single, cumbersome text field.</li>
+            <li><strong>Solution</strong>: Implemented a new `number_sequence` answer type that dynamically generates separate input boxes for each number, improving clarity and usability.</li>
+        </ul>
+
+        <h3>2. Consistent Number Formatting</h3>
+        <ul>
+            <li><strong>Issue</strong>: Numbers in question text (e.g., `1,371`) were formatted with commas, while numbers in answer choices (e.g., `1271`) were not, creating a visual inconsistency.</li>
+            <li><strong>Solution</strong>: A universal `formatNumber` function was created and applied to both question text and answer options, ensuring all numbers greater than 999 are consistently displayed with commas.</li>
+        </ul>
+
+        <h3>3. Disabled Browser Autocomplete</h3>
+        <ul>
+            <li><strong>Issue</strong>: The browser's autocomplete feature was suggesting previous answers in text input fields, which was distracting and unhelpful.</li>
+            <li><strong>Solution</strong>: The `autocomplete="off"` attribute was added to all text input fields, preventing the browser from remembering and suggesting previous entries.</li>
+        </ul>
+
+        <h3>4. Drag-and-Drop for Number Ordering</h3>
+        <ul>
+            <li><strong>Issue</strong>: For questions requiring the ordering of long, complex numbers, text entry was difficult and error-prone.</li>
+            <li><strong>Solution</strong>: The interface was upgraded in two phases:
+                <ol>
+                    <li><strong>Improved Readability</strong>: The long string of numbers was converted into a clean, easy-to-read block of styled tags.</li>
+                    <li><strong>Interactive Ordering</strong>: A new `drag_and_drop_order` answer type was introduced, which replaces the text field with a fully interactive drag-and-drop list, powered by `SortableJS`.</li>
+                </ol>
+            </li>
+        </ul>
+    </div>
+
+    <div id="session-5" class="session">
+        <h2>Session Five: November 17, 2025</h2>
+        <p>This session was dedicated to refining the presentation of questions, focusing on clarity, consistency, and usability.</p>
+
+        <h3>Question Formatting and Layout</h3>
+        <ul>
+            <li><strong>Removed Scrollbars</strong>: Eliminated unnecessary scrollbars from the question text area by removing restrictive `max-height` properties, ensuring that all question content is fully visible by default.</li>
+            <li><strong>Labeled Equation Options</strong>: For multiple-choice questions that refer to a list of equations, the system now automatically labels each equation (A, B, C, D) to correspond with the answer choices, significantly improving clarity. Legacy hardcoded labels are also automatically removed.</li>
+            <li><strong>Labeled Input Boxes</strong>: For questions requiring multi-part answers (e.g., tens and ones), the input boxes are now clearly labeled. The system extracts these labels from the question text and displays them directly above each box.</li>
+            <li><strong>Boxed Numbers in Text</strong>: To avoid confusion between thousands separators and grammatical commas, numbers that appear in introductory phrases (e.g., "In 2,834, what does...") are now displayed in a distinct, styled box, and the trailing comma is removed.</li>
+        </ul>
+
+        <h3>Input Consistency</h3>
+        <ul>
+            <li><strong>Automatic Multi-Box Input</strong>: The application now automatically detects any question with a comma-separated answer and renders the user-friendly multi-box input interface, ensuring a consistent experience for all multi-part questions.</li>
+        </ul>
+    </div>
+
+</body>
+</html>

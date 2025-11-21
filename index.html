@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Question Practice App</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
 </head>
 <body>
     <!-- Notification Component -->
@@ -28,6 +29,7 @@
             </div>
             <div id="metadata-display" class="metadata hidden"></div>
             <button id="start-btn" class="btn btn-primary hidden">Start Questions</button>
+            <button id="enable-logging-btn" class="btn btn-secondary">Enable Live Logging</button>
         </section>
 
         <!-- Question Section -->
@@ -35,6 +37,8 @@
             <div class="question-header">
                 <div id="progress-indicator" class="progress"></div>
                 <div id="question-metadata" class="metadata-tags"></div>
+                <div id="session-controls"></div>
+                <div id="hint-container"></div>
             </div>
 
             <div class="question-card">
@@ -76,7 +80,7 @@
         <section id="results-section" class="section hidden">
             <h1>Quiz Results</h1>
             <div id="results-display" class="results-card"></div>
-            <button id="restart-btn" class="btn btn-primary">Start Over</button>
+            <button id="restart-btn" class="btn btn-secondary">Restart</button>
         </section>
     </div>
 

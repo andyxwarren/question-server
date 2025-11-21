@@ -204,6 +204,25 @@ h1 {
 
 .question-header {
     flex-shrink: 0;
+    display: grid;
+    grid-template-areas:
+        "progress hint"
+        "meta meta";
+    align-items: center;
+    gap: 5px 10px;
+}
+
+#progress-indicator {
+    grid-area: progress;
+}
+
+#question-metadata {
+    grid-area: meta;
+}
+
+#hint-container {
+    grid-area: hint;
+    text-align: right;
 }
 
 .question-card {
@@ -244,6 +263,17 @@ h1 {
 
 .btn-secondary:hover:not(:disabled) {
     background: #5a6268;
+}
+
+.btn-hint {
+    background-color: #17a2b8;
+    color: white;
+    font-size: 13px;
+    padding: 6px 12px;
+}
+
+.btn-hint:hover {
+    background-color: #138496;
 }
 
 .btn:disabled {
@@ -331,9 +361,60 @@ h1 {
     color: #333;
     margin-bottom: 12px;
     font-weight: 500;
-    max-height: 15vh;
-    overflow-y: auto;
+    /* max-height and overflow-y removed to prevent scrollbars */
     flex-shrink: 0;
+}
+
+.equations-block {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    background-color: #fdfdfd;
+    line-height: 1.8;
+    font-weight: normal;
+}
+
+/* Styles for Labeled Equations */
+.labeled-equations-container {
+    margin-top: 15px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #fdfdfd;
+    padding: 10px;
+}
+
+.labeled-equation {
+    display: flex;
+    align-items: center;
+    padding: 8px 5px;
+    font-size: 1.1rem;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.labeled-equation:last-child {
+    border-bottom: none;
+}
+
+.equation-label {
+    font-weight: 600;
+    color: #667eea;
+    margin-right: 15px;
+    width: 20px;
+    text-align: center;
+}
+
+.equation-text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.boxed-number {
+    background-color: #f0f2f5;
+    border: 1px solid #d9d9d9;
+    border-radius: 6px;
+    padding: 2px 8px;
+    font-weight: 600;
+    margin: 0 4px;
 }
 
 /* Answer section */
@@ -360,13 +441,93 @@ h1 {
 }
 
 .answer-input[readonly] {
-    background: #f8f9fa;
-    cursor: default;
-    color: #333;
-    font-weight: 500;
+background: #f8f9fa;
+cursor: default;
+color: #333;
+font-size: 1.4rem;
+text-align: center;
+}
+
+/* Styles for number sequence inputs */
+.sequence-input-container {
+display: flex;
+gap: 10px;
+justify-content: center;
+margin-bottom: 15px;
+}
+
+.sequence-part {
+    width: 60px; /* Adjust width as needed */
+    padding: 10px;
+    font-size: 1.2rem;
     text-align: center;
-    font-size: 18px;
-    border-color: #667eea;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.labeled-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.input-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #555;
+    text-transform: capitalize;
+}
+
+/* Styles for number ordering questions */
+.number-tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f0f2f5;
+    border-radius: 8px;
+}
+
+.number-tag {
+    background-color: #fff;
+    border: 1px solid #d9d9d9;
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+/* Styles for Drag and Drop */
+.sortable-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px dashed #ccc;
+    border-radius: 8px;
+    min-height: 50px;
+}
+
+.sortable-item {
+    background-color: #fff;
+    border: 1px solid #d9d9d9;
+    border-radius: 6px;
+    padding: 10px 15px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.07);
+    cursor: grab;
+    user-select: none;
+}
+
+.sortable-ghost {
+    opacity: 0.4;
+    background: #c8ebfb;
 }
 
 #submit-btn {
@@ -714,6 +875,10 @@ h1 {
     .keyboard-btn {
         padding: 8px;
         font-size: 16px;
+    }
+
+    .multiple-choice-options.options-4 {
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .score-number {
