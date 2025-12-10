@@ -4,6 +4,7 @@
 
 class QuestionApp {
     constructor() {
+        this.allQuestions = []; // To store the full, unfiltered list
         this.questions = [];
         this.metadata = null;
         this.currentIndex = 0;
@@ -20,9 +21,21 @@ class QuestionApp {
         this.logFileHandle = null; // For the File System Access API
         this.logQueue = []; // A queue for log entries to be written
 
+        // Progression System Properties
+        this.schoolLevels = ['1', '2', '3', '4', '5', '6'];
+        this.pundexTiers = ['Beginning', 'Developing', 'Meeting', 'Exceeding']; // Data names
+        this.pundexDisplayNames = { 'Beginning': 'Ignition', 'Developing': 'Charging', 'Meeting': 'Ready', 'Exceeding': 'Power Up' };
+        this.currentMission = null;
+        this.currentSchoolLevel = 1;
+        this.currentPundex = 'Beginning';
+        this.pundexAnswerHistory = [];
+        this.progressionStatusEl = document.getElementById('progression-status');
+        this.powerMeterEl = document.getElementById('power-meter');
+        this.questionMetadata = document.getElementById('question-metadata'); // Re-add this reference
+
         this.initializeElements();
         this.setupUI();
-        this.autoLoadQuestions();
+        this.autoLoadFromUrl();
     }
 
     /**
@@ -38,12 +51,14 @@ class QuestionApp {
         this.fileInput = document.getElementById('json-file-input');
         this.uploadSection = document.getElementById('upload-section');
         this.metadataDisplay = document.getElementById('metadata-display');
+        this.selectTopicsBtn = document.getElementById('select-topics-btn');
         this.startBtn = document.getElementById('start-btn');
 
         // Question section
         this.questionSection = document.getElementById('question-section');
         this.progressIndicator = document.getElementById('progress-indicator');
         this.questionMetadata = document.getElementById('question-metadata');
+        this.levelIndicator = document.getElementById('level-indicator');
         this.sessionControls = document.getElementById('session-controls');
         this.hintContainer = document.getElementById('hint-container');
         this.questionDisplay = document.getElementById('question-display');
@@ -54,6 +69,12 @@ class QuestionApp {
 
         // On-screen keyboard
         this.keyboard = document.getElementById('on-screen-keyboard');
+
+        // Topic Modal
+        this.topicModal = document.getElementById('topic-modal');
+        this.closeModalBtn = document.getElementById('close-modal-btn');
+        this.topicListContainer = document.getElementById('topic-list-container');
+        this.confirmTopicsBtn = document.getElementById('confirm-topics-btn');
 
         // Results section
         this.resultsSection = document.getElementById('results-section');
@@ -68,7 +89,10 @@ class QuestionApp {
     setupUI() {
         this.notificationClose.addEventListener('click', () => this.hideNotification());
         this.fileInput.addEventListener('change', (e) => this.handleFileUpload(e));
+        this.selectTopicsBtn.addEventListener('click', () => this.openTopicModal());
         this.startBtn.addEventListener('click', () => this.startQuestions());
+        this.closeModalBtn.addEventListener('click', () => this.closeTopicModal());
+        this.confirmTopicsBtn.addEventListener('click', () => this.confirmTopicSelection());
         this.restartBtn.addEventListener('click', () => this.restart());
         this.enableLoggingBtn.addEventListener('click', () => this.enableLiveLogging());
 
@@ -301,10 +325,91 @@ class QuestionApp {
         }, 300); // Match CSS transition duration
     }
 
+    async autoLoadFromUrl() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const missionName = urlParams.get('mission');
+        const levelParam = urlParams.get('level');
+
+        if (!missionName) {
+            this.uploadSection.classList.remove('hidden');
+            this.questionSection.classList.add('hidden');
+            console.log('No mission specified in URL, showing file upload.');
+            return;
+        }
+
+        // Set the starting level if provided in URL
+        if (levelParam && this.schoolLevels.includes(levelParam)) {
+            this.currentSchoolLevel = parseInt(levelParam);
+        }
+
+        try {
+            const response = await fetch('Questions/Already Tested by Ads/Existing Missions.csv');
+            const csvText = await response.text();
+
+            // Robust CSV parser to handle quoted fields with commas
+            const parseCsvRow = (row) => {
+                const result = [];
+                let current = '';
+                let inQuotes = false;
+                for (let i = 0; i < row.length; i++) {
+                    const char = row[i];
+                    if (char === '"') {
+                        inQuotes = !inQuotes;
+                    } else if (char === ',' && !inQuotes) {
+                        result.push(current.trim());
+                        current = '';
+                    } else {
+                        current += char;
+                    }
+                }
+                result.push(current.trim());
+                return result;
+            };
+
+            const rows = csvText.split('\n').slice(1).filter(row => row.trim() !== '');
+            const missionMap = new Map();
+            rows.forEach(row => {
+                const columns = parseCsvRow(row);
+                if (columns[3] && columns[8]) { // Column 4 (index 3) is mission, Column 9 (index 8) is filename
+                    missionMap.set(columns[3], {
+                        filename: columns[8],
+                        world: columns[1],
+                        realm: columns[2]
+                    });
+                }
+            });
+
+            const missionData = missionMap.get(missionName);
+
+            if (missionData) {
+                const filePath = `Questions/Already Tested by Ads/${missionData.filename}`;
+                
+                const fileResponse = await fetch(filePath);
+                if (!fileResponse.ok) {
+                    throw new Error(`Failed to fetch question file: ${filePath}`);
+                }
+                const data = await fileResponse.json();
+                this.allQuestions = data.questions;
+                this.currentMission = missionName;
+                this.currentWorld = missionData.world;
+                this.currentRealm = missionData.realm;
+                this.setQuestionPool();
+                this.startQuestions();
+            } else {
+                throw new Error(`Mission '${missionName}' not found in CSV.`);
+            }
+        } catch (error) {
+            console.error('Failed to auto-load mission:', error);
+            this.showNotification('Error: Could not load the selected mission.', 'error');
+            this.uploadSection.classList.remove('hidden');
+            this.questionSection.classList.add('hidden');
+        }
+    }
+
     /**
      * Automatically load questions from questions/questions.json
      */
-    async autoLoadQuestions() {
+    async autoLoadQuestions(isMissionMode = false) {
         try {
             this.showLoading(true);
 
@@ -321,11 +426,18 @@ class QuestionApp {
             }
 
             this.metadata = data.metadata;
-            this.questions = data.questions;
+            this.allQuestions = data.questions;
 
-            this.showLoading(false);
-            this.displayMetadata();
-            this.startBtn.classList.remove('hidden');
+            if (isMissionMode) {
+                this.setQuestionPool();
+                this.startQuestions();
+            } else {
+                this.questions = data.questions;
+                this.showLoading(false);
+                this.displayMetadata();
+                this.selectTopicsBtn.classList.remove('hidden');
+                this.startBtn.classList.remove('hidden');
+            }
 
             console.log(`Loaded ${this.questions.length} questions successfully`);
 
@@ -381,9 +493,11 @@ class QuestionApp {
             }
 
             this.metadata = data.metadata;
-            this.questions = data.questions;
+            this.allQuestions = data.questions; // Store the full list
+            this.questions = data.questions; // By default, all questions are selected
 
             this.displayMetadata();
+            this.selectTopicsBtn.classList.remove('hidden');
             this.startBtn.classList.remove('hidden');
 
         } catch (error) {
@@ -411,13 +525,52 @@ class QuestionApp {
     /**
      * Start the question sequence
      */
+    openTopicModal() {
+        this.displayTopics();
+        this.topicModal.classList.remove('hidden');
+    }
+
+    closeTopicModal() {
+        this.topicModal.classList.add('hidden');
+    }
+
+    displayTopics() {
+        const topics = [...new Set(this.allQuestions.map(q => q.moduleName))];
+        this.topicListContainer.innerHTML = topics.map(topic => `
+            <div class="topic-item">
+                <input type="checkbox" id="${topic}" name="topic" value="${topic}" checked>
+                <label for="${topic}">${topic}</label>
+            </div>
+        `).join('');
+    }
+
+    confirmTopicSelection() {
+        const selectedTopics = Array.from(this.topicListContainer.querySelectorAll('input[name="topic"]:checked'))
+            .map(checkbox => checkbox.value);
+
+        if (selectedTopics.length === 0) {
+            this.showNotification('Please select at least one topic.', 'warning');
+            return;
+        }
+
+        this.questions = this.allQuestions.filter(q => selectedTopics.includes(q.moduleName));
+        this.metadata.questionCount = this.questions.length; // Update the count
+        this.displayMetadata();
+        this.closeTopicModal();
+    }
+
     startQuestions() {
+        if (this.questions.length === 0) {
+            this.showNotification('No questions selected. Please select topics first.', 'warning');
+            return;
+        }
         this.uploadSection.classList.add('hidden');
         this.questionSection.classList.remove('hidden');
         this.currentIndex = 0;
         this.userAnswers.clear();
         // this.adventureLog = []; // No longer needed for live logging
         this.displayQuestion();
+        this.updateProgressionUI();
     }
 
     /**
@@ -435,15 +588,11 @@ class QuestionApp {
         // Live logging is now handled upon answer submission.
 
         // Update progress and render session controls
-        this.progressIndicator.textContent = `Question ${this.currentIndex + 1} of ${this.questions.length}`;
+        this.progressIndicator.textContent = `Q ${this.currentIndex + 1} of ${this.questions.length}`;
         this.sessionControls.innerHTML = '<button id="end-session-btn" class="btn btn-secondary">Save & End</button>';
 
-        // Display metadata tags
-        this.questionMetadata.innerHTML = `
-            <span class="tag tag-module">${question.moduleName}</span>
-            <span class="tag tag-year">${question.yearGroup}</span>
-            <span class="tag tag-level tag-level-${question.level}">${question.levelName}</span>
-        `;
+        // Metadata now shown in level indicator bar
+        this.updateProgressionUI();
 
 
         // Handle hints
@@ -714,6 +863,10 @@ class QuestionApp {
         // Add the adventure to the log queue
         this.logAdventure(question.id, userAnswer, isCorrect);
 
+        // Update progression
+        this.pundexAnswerHistory.push(isCorrect);
+        this.checkProgression();
+
         this.showFeedback(isCorrect, question.correctAnswer);
         this.actionBtn.textContent = this.currentIndex === this.questions.length - 1 ? 'Finish' : 'Next →';
 
@@ -963,6 +1116,138 @@ class QuestionApp {
     /**
      * Show results summary
      */
+    updateProgressionUI() {
+        const totalInHistory = this.pundexAnswerHistory.length;
+        const correctInHistory = this.pundexAnswerHistory.filter(c => c).length;
+        const correctInLast10 = this.pundexAnswerHistory.slice(-10).filter(c => c).length;
+
+        // Build 10-box progress bar with question numbers
+        // The window shifts when moving to a NEW question beyond 10, not when answering
+        // So we base the window on currentIndex (next question to answer), not totalInHistory
+        const nextQuestionNum = this.currentIndex + 1; // 1-indexed question number user is on/going to
+        const windowStart = Math.max(0, nextQuestionNum - 10); // Start of the 10-question window
+        const startDisplayNum = windowStart + 1; // 1-indexed display number
+        
+        let boxesHTML = '<div class="progress-boxes">';
+        for (let i = 0; i < 10; i++) {
+            const historyIndex = windowStart + i; // Index into pundexAnswerHistory
+            let innerClass = 'progress-box-inner';
+            if (historyIndex < totalInHistory) {
+                // This question has been answered
+                innerClass += this.pundexAnswerHistory[historyIndex] ? ' correct' : ' incorrect';
+            }
+            const questionNum = startDisplayNum + i;
+            boxesHTML += `<div class="progress-box">
+                <div class="${innerClass}"></div>
+                <span class="progress-box-number">${questionNum}</span>
+            </div>`;
+        }
+        boxesHTML += '</div>';
+
+        let countersHTML = '';
+        if (nextQuestionNum <= 10) {
+            // Stage 1: Single counter for the first 10 questions
+            countersHTML = `<div class="progress-counters"><span>Score: <strong>${correctInHistory}/${totalInHistory}</strong></span></div>`;
+        } else {
+            // Stage 2: Two counters after moving to question 11+
+            countersHTML = `
+                <div class="progress-counters">
+                    <span class="progress-overall">Overall: <strong>${correctInHistory}/${totalInHistory}</strong></span>
+                    <span class="progress-rolling-score">Rolling Score: <strong>${correctInLast10}/10</strong></span>
+                </div>
+            `;
+        }
+
+        this.progressionStatusEl.innerHTML = boxesHTML + countersHTML;
+
+        // Update Level Indicator above power meter (includes World > Realm > Mission > Level)
+        const worldRealm = this.currentWorld && this.currentRealm && this.currentWorld !== this.currentRealm 
+            ? `${this.currentWorld} > ${this.currentRealm}` 
+            : (this.currentWorld || this.currentRealm || '');
+        const pathParts = [worldRealm, this.currentMission, `Level ${this.currentSchoolLevel}`].filter(p => p);
+        this.levelIndicator.innerHTML = pathParts.join(' > ');
+
+        // Rebuild Power Meter HTML
+        const currentPundexIndex = this.pundexTiers.indexOf(this.currentPundex);
+        const colors = ['red', 'amber', 'green', 'purple'];
+        const powerMeterHTML = this.pundexTiers.map((tier, index) => {
+            const displayName = this.pundexDisplayNames[tier] || tier;
+            let stateClass = '';
+            if (index < currentPundexIndex) {
+                stateClass = 'on'; // Mastered
+            } else if (index === currentPundexIndex) {
+                stateClass = 'flashing'; // Current
+            }
+            return `<div class="power-light ${colors[index]} ${stateClass}">${displayName}</div>`;
+        }).join('');
+        this.powerMeterEl.innerHTML = powerMeterHTML;
+    }
+
+    checkProgression() {
+        this.updateProgressionUI(); // Update UI before checking
+
+        const totalAnswered = this.pundexAnswerHistory.length;
+        const totalCorrect = this.pundexAnswerHistory.filter(c => c).length;
+        
+        let shouldLevelUp = false;
+        
+        if (totalAnswered <= 10) {
+            // First 10 questions: level up as soon as they get 7 correct
+            if (totalCorrect >= 7) {
+                shouldLevelUp = true;
+            }
+        } else {
+            // After 10 questions: rolling window - need 7 out of last 10
+            const last10 = this.pundexAnswerHistory.slice(-10);
+            const correctInLast10 = last10.filter(c => c).length;
+            if (correctInLast10 >= 7) {
+                shouldLevelUp = true;
+            }
+        }
+
+        if (shouldLevelUp) {
+            const currentPundexIndex = this.pundexTiers.indexOf(this.currentPundex);
+
+            if (currentPundexIndex < this.pundexTiers.length - 1) {
+                // Level up Pundex
+                this.currentPundex = this.pundexTiers[currentPundexIndex + 1];
+                const nextPundexName = this.pundexDisplayNames[this.currentPundex] || this.currentPundex;
+                this.showNotification(`Level Up! Now at ${nextPundexName} Pundex.`, 'success');
+            } else {
+                // Level up School Year
+                const currentSchoolLevelIndex = this.schoolLevels.indexOf(String(this.currentSchoolLevel));
+                if (currentSchoolLevelIndex < this.schoolLevels.length - 1) {
+                    this.currentSchoolLevel = parseInt(this.schoolLevels[currentSchoolLevelIndex + 1]);
+                    this.currentPundex = this.pundexTiers[0]; // Reset to Ignition
+                    this.showNotification(`School Year Up! Now at Level ${this.currentSchoolLevel}.`, 'success');
+                } else {
+                    // Mission Complete
+                    this.showNotification('Congratulations! Mission Complete!', 'success');
+                    this.endSession();
+                    return;
+                }
+            }
+
+            this.pundexAnswerHistory = []; // Reset for the new level
+            this.userAnswers.clear(); // CRITICAL: Reset stored answers for the new level
+            this.setQuestionPool();
+            this.currentIndex = 0; // Start from the first question of the new pool
+            this.displayQuestion(); // Display the new question
+        }
+        this.updateProgressionUI();
+    }
+
+    setQuestionPool() {
+        this.questions = this.allQuestions.filter(q => 
+            q.yearGroup === `Year ${this.currentSchoolLevel}` && 
+            q.levelName === this.currentPundex
+        );
+
+        if (this.questions.length === 0) {
+            this.showNotification(`No questions found for Level ${this.currentSchoolLevel}, ${this.currentPundex} Pundex.`, 'warning');
+        }
+    }
+
     async endSession() {
         await this.processLogQueue();
         await this.showResults();

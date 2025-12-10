@@ -28,6 +28,7 @@
                 </label>
             </div>
             <div id="metadata-display" class="metadata hidden"></div>
+            <button id="select-topics-btn" class="btn btn-secondary hidden">Select Topics</button>
             <button id="start-btn" class="btn btn-primary hidden">Start Questions</button>
             <button id="enable-logging-btn" class="btn btn-secondary">Enable Live Logging</button>
         </section>
@@ -36,7 +37,10 @@
         <section id="question-section" class="section hidden">
             <div class="question-header">
                 <div id="progress-indicator" class="progress"></div>
+                <div id="progression-status"></div>
                 <div id="question-metadata" class="metadata-tags"></div>
+                <div id="level-indicator" class="level-indicator"></div>
+                <div id="power-meter" class="power-meter"></div>
                 <div id="session-controls"></div>
                 <div id="hint-container"></div>
             </div>
@@ -82,6 +86,16 @@
             <div id="results-display" class="results-card"></div>
             <button id="restart-btn" class="btn btn-secondary">Restart</button>
         </section>
+    </div>
+
+    <!-- Topic Selector Modal -->
+    <div id="topic-modal" class="modal hidden">
+        <div class="modal-content">
+            <span id="close-modal-btn" class="close-btn">&times;</span>
+            <h2>Select Topics</h2>
+            <div id="topic-list-container"></div>
+            <button id="confirm-topics-btn" class="btn btn-primary">Confirm Selection</button>
+        </div>
     </div>
 
     <script src="validator.js"></script>

@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number and Place Value Arcade</title>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+        body {
+            font-family: 'Press Start 2P', cursive;
+            background-color: #111;
+            color: #0f0; /* Neon green text */
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            min-height: 100vh;
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+            text-align: center;
+            overflow-x: hidden;
+        }
+
+        .container {
+            margin: 20px auto; /* Adjusted to match Pathway_Selector.html */
+            border: 5px solid #0f0;
+            padding: 20px; /* Matches Pathway_Selector.html */
+            background-color: #222;
+            box-shadow: 0 0 20px #0f0, 0 0 30px #0f0 inset;
+            width: 90%;
+            max-width: 800px;
+            max-height: 90vh;
+            min-height: 60vh;
+            box-sizing: border-box;
+            overflow-y: auto; /* Allow scrolling if content overflows */
+        }
+
+        .page {
+            display: none; /* Hidden by default */
+        }
+
+        .page.active {
+            display: block;
+        }
+
+        h1, h2 {
+            color: #ff00ff; /* Neon pink */
+            text-shadow: 0 0 5px #ff00ff;
+        }
+
+        .coin-slot-button-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .coin-slot-button {
+            background: linear-gradient(145deg, #555, #333);
+            border: 3px solid #777;
+            color: #fff;
+            padding: 15px 10px;
+            font-family: 'Press Start 2P', cursive;
+            font-size: 0.8em;
+            cursor: pointer;
+            border-radius: 10px;
+            box-shadow: 0 5px #222;
+            position: relative;
+            transition: all 0.1s ease;
+        }
+        .coin-slot-button:hover {
+            background: linear-gradient(145deg, #666, #444);
+        }
+        .coin-slot-button:active {
+            box-shadow: 0 2px #222;
+            transform: translateY(3px);
+        }
+        .coin-slot-button::before { /* Coin slot illusion */
+            content: '';
+            position: absolute;
+            top: 5px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 5px;
+            background-color: #222;
+            border-radius: 2px;
+        }
+        .coin-slot-button.disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+
+        #powerMeter {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px 0;
+            gap: 10px;
+            min-height: 60px; /* Ensure consistent height */
+        }
+
+        .power-light {
+            padding: 15px 5px; /* Reduced side padding to fit text */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 60px;
+            box-sizing: border-box;
+            border: 2px solid #555;
+            border-radius: 5px;
+            font-size: 0.7em;
+            min-width: 100px; /* Increased minimum width to fit text */
+            text-align: center;
+        }
+
+        .power-light.red { background-color: #400; color: #a33; border-color: #a33; }
+        .power-light.amber { background-color: #440; color: #aa3; border-color: #aa3; }
+        .power-light.green { background-color: #040; color: #3a3; border-color: #3a3; }
+        .power-light.purple { background-color: #303; color: #a3a; border-color: #a3a; }
+
+        .power-light.on.red { background-color: #f00; color: #fff; box-shadow: 0 0 10px #f00; border-color: #f55; }
+        .power-light.on.amber { background-color: #fa0; color: #000; box-shadow: 0 0 10px #fa0; border-color: #fb5; }
+        .power-light.on.green { background-color: #0f0; color: #000; box-shadow: 0 0 10px #0f0; border-color: #5f5; }
+        .power-light.on.purple { background-color: #f0f; color: #fff; box-shadow: 0 0 10px #f0f; border-color: #f5f; }
+
+        .flashing {
+            animation: flashAnimation 1s infinite;
+        }
+
+        @keyframes flashAnimation {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+
+        #questionArea {
+            margin-top: 20px;
+            padding: 15px;
+            border: 2px dashed #0f0;
+            background-color: #1a1a1a;
+        }
+
+        #questionText {
+            font-size: 1.2em;
+            color: #ff0; /* Yellow for question */
+            margin-bottom: 15px;
+            min-height: 40px; /* To prevent layout jumps */
+        }
+
+        #answerInput {
+            font-family: 'Press Start 2P', cursive;
+            background-color: #333;
+            color: #fff;
+            border: 2px solid #0f0;
+            padding: 10px;
+            font-size: 1em;
+            width: 50%;
+            margin-right: 10px;
+            text-align: center;
+        }
+
+        #submitAnswerBtn {
+            font-family: 'Press Start 2P', cursive;
+            background-color: #00f; /* Blue button */
+            color: #fff;
+            border: 2px solid #55f;
+            padding: 10px 15px;
+            font-size: 1em;
+            cursor: pointer;
+            box-shadow: 0 3px #005;
+        }
+        #submitAnswerBtn:hover { background-color: #33f; }
+        #submitAnswerBtn:active { box-shadow: 0 1px #005; transform: translateY(2px); }
+
+        #feedbackArea {
+            margin-top: 15px;
+            font-size: 1em;
+            min-height: 20px; /* Prevent layout jump */
+        }
+        .feedback-correct { color: #0f0; }
+        .feedback-incorrect { color: #f00; }
+
+        /* Power Meter Flyout Animation */
+        @keyframes flyOut {
+            0% {
+                transform: scale(1) translateY(0);
+                opacity: 1;
+            }
+            100% {
+                transform: scale(10) translateY(-100vh);
+                opacity: 0;
+            }
+        }
+        
+        .power-light.fly-out {
+            animation: flyOut 0.8s ease-out forwards;
+            position: relative;
+            z-index: 1000;
+            pointer-events: none;
+        }
+
+        /* Fireworks */
+        #fireworksContainer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 9999;
+            overflow: hidden; /* Ensure particles are contained */
+        }
+
+        .particle {
+            position: absolute;
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            opacity: 0;
+            animation: explode 0.8s forwards;
+        }
+
+        @keyframes explode {
+            0% { transform: scale(0.5); opacity: 1; }
+            100% { transform: scale(1.5) translate(var(--tx), var(--ty)); opacity: 0; }
+        }
+
+        .breadcrumb-container {
+            display: flex;
+            align-items: center; /* Vertically center breadcrumb items */
+            flex-wrap: wrap; /* Allows wrapping on small screens */
+            min-height: 40px; /* Ensures consistent height */
+            padding: 5px 0; /* Equal vertical padding */
+            margin-bottom: 15px; /* Space below the bar */
+            border-bottom: 3px solid #0f0; /* Adds to the bar look */
+        }
+        .breadcrumb-button {
+            padding: 10px 15px;
+            background-color: #ff9800;
+            color: #111;
+            border: 4px solid #000;
+            border-radius: 8px;
+            font-family: 'Press Start 2P', cursive;
+            font-weight: bold;
+            text-transform: uppercase;
+            cursor: pointer;
+            box-shadow: 0 5px 0 #c66900;
+            transition: all 0.1s;
+            transform: translateY(-6px);
+            font-size: 0.75em;
+        }
+        .breadcrumb-button:hover {
+            background-color: #f57c00;
+        }
+        .breadcrumb-button:active {
+            transform: translateY(-2px);
+            box-shadow: 0 2px 0 #c66900;
+        }
+
+        .dramatic-particle {
+            position: absolute;
+            border-radius: 50%;
+            pointer-events: none;
+            transform: translate(-50%, -50%);
+            animation: dramaticParticle var(--duration, 2s) ease-out forwards;
+            will-change: transform, opacity;
+            box-shadow: 0 0 10px currentColor, 0 0 20px currentColor;
+        }
+        
+        @keyframes dramaticParticle {
+            0% {
+                transform: translate(0, 0) scale(1);
+                opacity: 1;
+                filter: brightness(1.5);
+            }
+            50% {
+                filter: brightness(2);
+            }
+            100% {
+                transform: translate(var(--tx, 0), var(--ty, 0)) scale(0.2);
+                opacity: 0;
+                filter: brightness(0.5);
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header Row: Quit Button & Mission Title -->
+        <div class="breadcrumb-container">
+            <button id="quitGameBtn" class="breadcrumb-button" style="width: 110px; line-height: 1.2; padding-top: 2px; padding-bottom: 2px;">QUIT<br>MISSION</button>
+            <div style="flex-grow: 1; text-align: center; font-family: 'Press Start 2P',cursive; color:#fff; font-size:1.2em; letter-spacing:1px;">Mission: <span style='color:#0ff;'>Counting</span></div>
+        </div>
+        <!-- Main Game Area -->
+        <div id="levelPage">
+            <h2 id="levelTitle" style="text-align:center;">Level X</h2>
+            <div id="powerMeter">
+                <div id="pmIgnition" class="power-light red">Ignition</div>
+                <div id="pmCharging" class="power-light amber">Charging</div>
+                <div id="pmReady" class="power-light green">Ready</div>
+                <div id="pmPowerUp" class="power-light purple">PowerUp</div>
+            </div>
+            <div id="questionArea">
+                <p id="questionText">Question will appear here...</p>
+                <input type="text" id="answerInput" placeholder="Your Answer" autocomplete="off">
+                <button id="submitAnswerBtn">Submit</button>
+            </div>
+            <div id="feedbackArea"></div>
+        </div>
+        <!-- Final Win Screen -->
+        <div id="winScreen">
+            <h1>CONGRATULATIONS!</h1>
+            <p style="color: #0ff; font-size:1.2em;">You've mastered all levels!</p>
+            <p style="color: #fff; margin-top: 20px;">HIGH SCORE: MAXIMUM!</p>
+            <button id="playAgainBtn" class="coin-slot-button" style="margin-top:30px; background-color: #0f0; color:#111;">Play Again?</button>
+        </div>
+        <!-- Mission Complete Screen Preview -->
+        <div id="missionCompleteScreen" class="page">
+            <h1 style="color:#0ff; text-shadow:0 0 8px #0ff, 0 0 16px #0ff;">CONGRATULATIONS!</h1>
+            <p style="color:#fff; font-size:1.2em; margin-top:20px;">
+                You have completed the mission.
+            </p>
+            <p style="color:#ff0; font-size:1.1em; margin-top:18px;">
+                Level 7-9 will be released in the future.
+            </p>
+            <p style="color:#fff; margin-top:22px; font-size:1em;">
+                Please quit game and commence another mission when you are ready.
+            </p>
+        </div>
+
+    </div>
+
+    <div id="fireworksContainer"></div>
+
+    <script>
+        // --- Supabase Initialization ---
+        const SUPABASE_URL = 'https://aguoxnxygbeochznszgb.supabase.co';
+        const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFndW94bnh5Z2Jlb2Noem5zemdiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA5Mzk0MDcsImV4cCI6MjA2NjUxNTQwN30.IfY9TbM5Kmvsow88vCHfeIjQfjyWdC3ufhLjTPN8GGQ';
+        const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+        // Game State
+        let gameState = {
+            currentPage: 'homePage',
+            currentLevel: 1,      // Start at Level 1
+            powerMeterIndex: 0,   // Start at Ignition
+            correctStreak: 0,       // Start with 0 correct answers
+            currentQuestion: null,
+            questionsForBatch: [],
+            currentQuestionInBatchIndex: 0,
+            powerMeterStates: [false, false, false, false]
+        };
+
+        const POWER_LEVELS = ['ignition', 'charging', 'ready', 'powerup'];
+        const PM_LIGHT_IDS = ['pmIgnition', 'pmCharging', 'pmReady', 'pmPowerUp'];
+
+        // DOM Elements
+        const pages = {
+            level: document.getElementById('levelPage'),
+            win: document.getElementById('winScreen')
+        };
+        const levelTitleEl = document.getElementById('levelTitle');
+        const powerLightEls = PM_LIGHT_IDS.map(id => document.getElementById(id));
+        const questionTextEl = document.getElementById('questionText');
+
+        const feedbackAreaEl = document.getElementById('feedbackArea');
+        const fireworksContainer = document.getElementById('fireworksContainer');
+
+        // --- Question Definitions ---
+        const rand = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+        const shuffleArray = (array) => {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        };
+
+        const SKILL_DEFINITIONS = {
+            year1: {
+                title: "Year 1 Skills",
+                skills: [
+                    { id: "Y1S1", name: "Count to/across 100", generators: {
+                        ignition: Array(12).fill(null).map((_, i) => () => { // This one was already correct
+                            if (i % 3 === 0) { const n = rand(0,18); return { q: `What number comes after ${n}?`, a: (n+1).toString() }; }
+                            if (i % 3 === 1) { const n = rand(1,20); return { q: `What number comes before ${n}?`, a: (n-1).toString() }; }
+                            const s = rand(0,15); return { q: `Count: ${s}, ${s+1}, ${s+2}, ?`, a: (s+3).toString() };
+                        }),
+                        charging: Array(12).fill(null).map((_, i) => () => {
+                            if (i % 3 === 0) { const n = rand(20,48); return { q: `What number comes after ${n}?`, a: (n+1).toString() }; }
+                            if (i % 3 === 1) { const n = rand(21,50); return { q: `What number comes before ${n}?`, a: (n-1).toString() }; }
+                            const s = rand(20,45); return { q: `Count: ${s}, ${s+1}, __, ${s+3}`, a: (s+2).toString() };
+                        }),
+                        ready: Array(12).fill(null).map((_, i) => () => {
+                            if (i % 3 === 0) { const n = rand(50,98); return { q: `After ${n} is?`, a: (n+1).toString() }; }
+                            if (i % 3 === 1) { const n = rand(51,99); return { q: `Before ${n} is?`, a: (n-1).toString() }; }
+                            const s = rand(80,95); return { q: `Count: ${s}, ${s+1}, ${s+2}, ?`, a: (s+3).toString() };
+                        }),
+                        powerup: Array(12).fill(null).map((_, i) => () => {
+                            if (i % 3 === 0) return { q: `What comes after 99?`, a: "100" };
+                            if (i % 3 === 1) { const n = rand(95,99); return { q: `Start at ${n}, count forward 3. Last number?`, a: (n+3).toString() }; }
+                            const s = rand(90,96); return { q: `Sequence: ${s+2}, ${s+1}, ${s}, ?`, a: (s-1).toString() };
+                        }),
+                    }},
+                    { id: "Y1S2", name: "Count, read, write to 100; multiples 2,5,10", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => {
+                            if (i%3===0) { const n =[['one',1],['seven',7],['ten',10]][rand(0,2)]; return {q:`Write '${n[0]}' as a number.`, a:n[1].toString()};}
+                            if (i%3===1) { const n=rand(1,5)*2; return {q:`Count by 2s: ${n}, ${n+2}, ?`, a:(n+4).toString()};}
+                            const n=rand(1,5)*10; return {q:`Count by 10s: ${n}, ${n+10}, ?`, a:(n+20).toString()};
+                        }),
+                        charging: Array(12).fill(null).map((_,i) => () => {
+                            if (i%3===0) { const n =[['twelve',12],['twenty-five',25],['fifty',50]][rand(0,2)]; return {q:`Write '${n[0]}' as a number.`, a:n[1].toString()};}
+                            if (i%3===1) { const n=rand(1,8)*5; return {q:`Count by 5s: ${n}, ${n+5}, ?`, a:(n+10).toString()};}
+                            const n=rand(3,7)*10; return {q:`10, 20, __, 40. Fill blank (10s).`, a:"30"};
+                        }),
+                        ready: Array(12).fill(null).map((_,i) => () => {
+                            if (i%3===0) { const n =[['sixty-two',62],['eighty-nine',89],['ninety-one',91]][rand(0,2)]; return {q:`Write '${n[0]}' as a number.`, a:n[1].toString()};}
+                            if (i%3===1) { const n=rand(5,15)*2; return {q:`Next multiple of 2 after ${n-2}?`, a:n.toString()};}
+                            return {q:`How many 5s in 25?`, a:"5"};
+                        }),
+                        powerup: Array(12).fill(null).map((_,i) => () => {
+                            if (i%2===0) return {q:`Write 'one hundred' as a number.`, a:"100"};
+                            return {q:`Next multiple of 10 after 70?`, a:"80"};
+                        }),
+                    }},
+                    { id: "Y1S3", name: "One more/less", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => {
+                            const n = rand(1,9);
+                            return (i%2===0) ? {q:`One more than ${n} is?`, a:(n+1).toString()} : {q:`One less than ${n} is?`, a:(n-1).toString()};
+                        }),
+                        charging: Array(12).fill(null).map((_,i) => () => {
+                            const n = rand(10,19);
+                            return (i%2===0) ? {q:`One more than ${n} is?`, a:(n+1).toString()} : {q:`One less than ${n} is?`, a:(n-1).toString()};
+                        }),
+                        ready: Array(12).fill(null).map((_,i) => () => {
+                            const n = rand(20,98);
+                            return (i%2===0) ? {q:`One more than ${n} is?`, a:(n+1).toString()} : {q:`One less than ${n} is?`, a:(n-1).toString()};
+                        }),
+                        powerup: Array(12).fill(null).map((_,i) => () => {
+                            if (i%2===0) return {q:`One more than 99 is?`, a:"100"};
+                            return {q:`One less than 100 is?`, a:"99"};
+                        }),
+                    }},
+                ]
+            },
+            year2: {
+                title: "Year 2 Skills",
+                skills: [
+                    { id: "Y2S1", name: "Count in steps of 2,3,5 from 0; 10s from any", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => {
+                            if(i%3===0) {const s=rand(0,5)*2; return {q:`0,2,4... Count by 2s: Next is? (after ${s+2})`, a:(s+4).toString()};}
+                            if(i%3===1) {const s=rand(0,5)*5; return {q:`0,5,10... Count by 5s: Next is? (after ${s+5})`, a:(s+10).toString()};}
+                            const s=rand(20,50); return {q:`Count by 10s from ${s}: ${s}, ${s+10}, ?`, a:(s+20).toString()};
+                        }),
+                        charging: Array(12).fill(null).map((_,i) => () => {
+                             if(i%3===0) {const s=rand(0,5)*3; return {q:`0,3,6... Count by 3s: Next is? (after ${s+3})`, a:(s+6).toString()};}
+                             if(i%3===1) {const s=rand(60,90); return {q:`Count by 10s back from ${s}: ${s}, ${s-10}, ?`, a:(s-20).toString()};}
+                             return {q:`0, 5, __, 15. Fill blank (5s).`, a:"10"};
+                        }),
+                        ready: Array(12).fill(null).map((_,i) => () => {
+                            if(i%2===0) {return {q:`Start 0, 4 steps of 3. Land on?`, a:(4*3).toString()};}
+                            const s=rand(50,80); return {q:`Start ${s}, count back 3 tens. Land on?`, a:(s-30).toString()};
+                        }),
+                        powerup: Array(12).fill(null).map((_,i) => () => {
+                            if(i%2===0) {const s=rand(20,30); return {q:`Continue by 2s: ${s}, ${s+2}, ?`, a:(s+4).toString()};}
+                            const s=rand(70,90); return {q:`Continue by 10s back: ${s}, ${s-10}, ?`, a:(s-20).toString()};
+                        }),
+                    }},
+                    // Add other Y2 skills here with corrected generator structure if they were added
+                ]
+            },
+            year3: {
+                title: "Year 3 Skills",
+                skills: [
+                     { id: "Y3S1", name: "Count from 0 in multiples of 4,8,50,100", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => (i%2===0) ? {q:`0,4,8,? (mult of 4)`,a:"12"} : {q:`0,100,200,? (mult of 100)`,a:"300"}),
+                        charging: Array(12).fill(null).map((_,i) => () => (i%2===0) ? {q:`0,8,16,? (mult of 8)`,a:"24"} : {q:`0,50,100,? (mult of 50)`,a:"150"}),
+                        ready: Array(12).fill(null).map((_,i) => () => (i%2===0) ? {q:`5th multiple of 4 is? (4x5)`,a:"20"} : {q:`150,200,250,? (mult of 50)`,a:"300"}),
+                        powerup: Array(12).fill(null).map((_,i) => () => (i%2===0) ? {q:`Is 24 multiple of 8? (yes/no)`,a:"yes"} : {q:`List first 3 mult of 4 (start 4): 4,8,?`,a:"12"}),
+                    }},
+                    { id: "Y3S2", name: "10/100 more/less", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => {const n=rand(20,80); return (i%2===0)?{q:`10 more than ${n}?`,a:(n+10).toString()}:{q:`10 less than ${n}?`,a:(n-10).toString()};}),
+                        charging: Array(12).fill(null).map((_,i) => () => {const n=rand(100,500); return (i%2===0)?{q:`100 more than ${n}?`,a:(n+100).toString()}:{q:`100 less than ${n}?`,a:(n-100).toString()};}),
+                        ready: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`10 less than 203?`,a:"193"}:{q:`10 more than 895?`,a:"905"}),
+                        powerup: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Number 345. 100 less?`,a:"245"}:{q:`Number 89. 10 more?`,a:"99"}),
+                    }},
+                ]
+            },
+            year4: {
+                title: "Year 4 Skills",
+                skills: [
+                    { id: "Y4S1", name: "Count bwd thru zero", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`2,1,0,?`,a:"-1"}:{q:`Count back from 1: 1,0,?`,a:"-1"}),
+                        charging: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`1,0,-1,?`,a:"-2"}:{q:`1 less than 0?`,a:"-1"}),
+                        ready: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Start at 2, count back 3. Land?`,a:"-1"}:{q:`3 less than 1?`,a:"-2"}),
+                        powerup: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`2,0,-2,?`,a:"-4"}:{q:`Before -3 (counting back)?`,a:"-4"}),
+                    }},
+                    { id: "Y4S2", name: "Count mult 6,7,9,25,1000", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`0,6,12,? (mult 6)`,a:"18"}:{q:`0,1000,2000,? (mult 1000)`,a:"3000"}),
+                        charging: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`0,7,14,? (mult 7)`,a:"21"}:{q:`0,25,50,? (mult 25)`,a:"75"}),
+                        ready: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`0,9,18,? (mult 9)`,a:"27"}:{q:`4th multiple of 25? (25x4)`,a:"100"}),
+                        powerup: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`45,54,63,? (mult 9)`,a:"72"}:{q:`Is 42 mult of 6? (yes/no)`,a:"yes"}),
+                    }},
+                    { id: "Y4S3", name: "1000 more/less", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => {const n=rand(2000,8000); return (i%2===0)?{q:`1000 more than ${n}?`,a:(n+1000).toString()}:{q:`1000 less than ${n}?`,a:(n-1000).toString()};}),
+                        charging: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`1000 more than 950?`,a:"1950"}:{q:`1000 less than 1700?`,a:"700"}),
+                        ready: Array(12).fill(null).map((_,i) => () => {const n=rand(10000,20000); return (i%2===0)?{q:`1000 more than ${n}?`,a:(n+1000).toString()}:{q:`1000 less than ${n}?`,a:(n-1000).toString()};}),
+                        powerup: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Num 8900. 1000 less?`,a:"7900"}:{q:`Num 350. 1000 more?`,a:"1350"}),
+                    }},
+                ]
+            },
+            year5: {
+                title: "Year 5 Skills",
+                skills: [
+                    { id: "Y5S1", name: "Neg numbers context, count", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Temp -2C, rises 1C. New?`,a:"-1"}:{q:`Count: -3, -2, -1, ?`,a:"0"}),
+                        charging: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Temp 3C, falls 5C. New?`,a:"-2"}:{q:`Count back: 1, 0, -1, ?`,a:"-2"}),
+                        ready: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`4 more than -2?`,a:"2"}:{q:`5 less than 1?`,a:"-4"}),
+                        powerup: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Start -5, count fwd 7. Land?`,a:"2"}:{q:`Start 3, count back 8. Land?`,a:"-5"}),
+                    }},
+                    { id: "Y5S2", name: "Count powers of 10 up to 1M", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`12340 + 10?`,a:"12350"}:{q:`4500 + 100?`,a:"4600"}),
+                        charging: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`25000 - 1000?`,a:"24000"}:{q:`85000 + 10000?`,a:"95000"}),
+                        ready: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`123456 + 1000?`,a:"124456"}:{q:`789012 - 100?`,a:"788912"}),
+                        powerup: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`999500 + 1000?`,a:"1000500"}:{q:`567890 - 100000?`,a:"467890"}),
+                    }},
+                ]
+            },
+            year6: {
+                title: "Year 6 Skills",
+                skills: [
+                    { id: "Y6S1", name: "Neg numbers context, intervals across zero", generators: { // CORRECTED
+                        ignition: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Temp -1C rises to 2C. Rise?`,a:"3"}:{q:`Diff between -2 and 0?`,a:"2"}),
+                        charging: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Interval -3 to 3?`,a:"6"}:{q:`-50m ascends to -20m. Ascended?`,a:"30"}),
+                        ready: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Interval -7 to 4?`,a:"11"}:{q:`Temp -4C, now 5C. Change?`,a:"9"}),
+                        powerup: Array(12).fill(null).map((_,i) => () => (i%2===0)?{q:`Balance -£20, deposit £50. New?`,a:"30"}:{q:`8 units from -2 (positive dir)?`,a:"6"}),
+                    }},
+                ]
+            }
+        };
+        // --- End Question Definitions ---
+
+
+        function showPage(pageId) {
+            Object.values(pages).forEach(p => p.classList.remove('active'));
+            pages[pageId].classList.add('active');
+            gameState.currentPage = pageId;
+        }
+
+        function updatePowerMeterDisplay() {
+            powerLightEls.forEach((el, index) => {
+                el.classList.remove('on', 'flashing'); // Reset classes first
+
+                if (gameState.powerMeterStates[index]) {
+                    // This level is permanently achieved, so make it solid.
+                    el.classList.add('on');
+                } else if (index === gameState.powerMeterIndex) {
+                    // This is the current goal, make it flash.
+                    el.classList.add('flashing');
+                }
+            });
+        }
+        
+        function generateQuestionBatch() {
+            const yearKey = `year${gameState.currentLevel}`;
+            const yearSkillsData = SKILL_DEFINITIONS[yearKey];
+            if (!yearSkillsData || !yearSkillsData.skills) {
+                console.error(`No skills defined for ${yearKey}`);
+                gameState.questionsForBatch = [];
+                return;
+            }
+            const yearSkills = yearSkillsData.skills;
+            const powerLevelName = POWER_LEVELS[gameState.powerMeterIndex];
+            
+            let batch = [];
+            yearSkills.forEach(skill => {
+                if (skill.generators && skill.generators[powerLevelName]) {
+                    const generators = skill.generators[powerLevelName];
+                    generators.forEach(genFunc => {
+                        if (typeof genFunc === 'function') {
+                            batch.push(genFunc());
+                        } else {
+                            console.error(`Generator for skill ${skill.id}, level ${powerLevelName} is not a function.`);
+                        }
+                    });
+                } else {
+                    console.error(`No generators found for skill ${skill.id} at power level ${powerLevelName}`);
+                }
+            });
+            shuffleArray(batch);
+            gameState.questionsForBatch = batch;
+            gameState.currentQuestionInBatchIndex = 0;
+        }
+
+        function displayQuestion() {
+            if (gameState.questionsForBatch.length === 0 || gameState.currentQuestionInBatchIndex >= gameState.questionsForBatch.length) {
+                // This might happen if all questions in a batch are answered or if generation failed.
+                // Regenerate if needed, or handle end of batch for current power level.
+                // For now, if we're out of questions and haven't advanced, regenerate.
+                // This scenario should ideally be handled by advancing power level or level.
+                // If it happens *before* advancing, it means not enough questions per batch per power level.
+                // Current design: 12q per skill * num_skills_per_year. Should be enough.
+                generateQuestionBatch(); 
+                if (gameState.questionsForBatch.length === 0) { 
+                    questionTextEl.textContent = "Error: No more questions for this section.";
+                     // Potentially move to next level or show error. For now, this is a fallback.
+                    return;
+                }
+            }
+            gameState.currentQuestion = gameState.questionsForBatch[gameState.currentQuestionInBatchIndex];
+            if (!gameState.currentQuestion) { // Safeguard
+                console.error("Current question is undefined after trying to fetch from batch.");
+                questionTextEl.textContent = "Error loading question.";
+                return;
+            }
+            questionTextEl.textContent = gameState.currentQuestion.q;
+            answerInputEl.value = '';
+            answerInputEl.focus();
+        }
+
+        function checkAnswer() {
+            const userAnswerStr = answerInputEl.value.trim();
+            if (userAnswerStr === '') {
+                feedbackAreaEl.textContent = 'Please enter an answer.';
+                feedbackAreaEl.style.color = '#ff0';
+                return;
+            }
+
+            const correctAnswer = gameState.currentQuestion.a;
+
+            if (userAnswerStr.toLowerCase() === correctAnswer.toLowerCase()) {
+                // CORRECT ANSWER
+                feedbackAreaEl.textContent = 'Correct!';
+                feedbackAreaEl.style.color = '#0f0';
+                gameState.correctStreak++;
+
+                if (gameState.correctStreak >= 5) {
+                    gameState.correctStreak = 0;
+
+                    // Mark the current power level as achieved BEFORE incrementing the index.
+                    if (gameState.powerMeterIndex < gameState.powerMeterStates.length) {
+                        gameState.powerMeterStates[gameState.powerMeterIndex] = true;
+                    }
+                    
+                    gameState.powerMeterIndex++;
+                    updatePowerMeterDisplay();
+
+                    if (gameState.powerMeterIndex >= 4) {
+                        // Level Up!
+                        gameState.powerMeterIndex = 0; // Reset for next level
+                        gameState.currentLevel++;
+                        
+                        if (gameState.currentLevel > 6) {
+                            // Mission Complete!
+                            triggerDramaticFireworks(() => {
+                                document.getElementById('levelPage').style.display = 'none';
+                                document.getElementById('winScreen').style.display = '';
+                            });
+                            return;
+                        } else {
+                            // Load Next Level with fireworks
+                            triggerDramaticFireworks(() => {
+                                loadLevel(gameState.currentLevel);
+                            });
+                            return;
+                        }
+                    }
+                }
+            } else {
+                // INCORRECT ANSWER
+                feedbackAreaEl.textContent = `Incorrect. The answer is ${correctAnswer}`;
+                feedbackAreaEl.style.color = '#f00';
+                gameState.correctStreak = 0;
+            }
+
+            gameState.currentQuestionInBatchIndex++;
+            if (gameState.currentQuestionInBatchIndex >= gameState.questionsForBatch.length) {
+                generateQuestionBatch();
+            }
+            
+            displayQuestion();
+        }
+        
+        function loadLevel(levelNum) {
+            gameState.currentLevel = levelNum;
+            gameState.powerMeterIndex = 0;
+            gameState.correctStreak = 0;
+            gameState.powerMeterStates = [false, false, false, false];
+            
+            const yearKey = `year${levelNum}`;
+            if (!SKILL_DEFINITIONS[yearKey] || !SKILL_DEFINITIONS[yearKey].title) {
+                console.error("Failed to load level data for: " + yearKey);
+                levelTitleEl.textContent = `Error Loading Level ${levelNum}`;
+                questionTextEl.textContent = "Could not load questions for this level.";
+                showPage('level'); // Show the level page, even with an error message
+                return;
+            }
+
+            levelTitleEl.textContent = `Level ${levelNum}`;
+            updatePowerMeterDisplay(); // Update meter before generating questions
+            generateQuestionBatch();
+            displayQuestion();
+            showPage('level');
+        }
+
+        function startGame() {
+            loadLevel(1);
+        }
+
+        function createDramaticBurst(container, x, y, colors, count) {
+            for (let i = 0; i < count; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'dramatic-particle';
+                container.appendChild(particle);
+
+                const angle = Math.random() * Math.PI * 2;
+                const velocity = 2 + Math.random() * 4;
+                const size = 4 + Math.random() * 6;
+                const duration = 1 + Math.random() * 2;
+                const color = colors[Math.floor(Math.random() * colors.length)];
+
+                particle.style.left = `${x}px`;
+                particle.style.top = `${y}px`;
+                particle.style.width = `${size}px`;
+                particle.style.height = `${size}px`;
+                particle.style.backgroundColor = color;
+                particle.style.setProperty('--tx', `${Math.cos(angle) * 200}px`);
+                particle.style.setProperty('--ty', `${Math.sin(angle) * 200}px`);
+                particle.style.setProperty('--duration', `${duration}s`);
+
+                // Remove particle after animation
+                setTimeout(() => {
+                    if (particle.parentNode === container) {
+                        container.removeChild(particle);
+                    }
+                }, duration * 1000);
+            }
+        }
+
+        function triggerDramaticFireworks(callback) {
+            const totalDuration = 4000; // 4 seconds total (slightly longer for indicator animation)
+            const particleCount = 200;
+            const colors = ['#ff0000', '#00ff00', '#0000ff', '#ffff00', '#ff00ff', '#00ffff'];
+            const container = document.getElementById('fireworksContainer');
+            const powerLights = document.querySelectorAll('.power-light');
+            
+            // Clear any existing fireworks
+            container.innerHTML = '';
+            
+            // Hide the quit button during animation
+            const quitButton = document.getElementById('quitGameBtn');
+            if (quitButton) quitButton.style.visibility = 'hidden';
+            
+            // Make power meter lights fly out one by one
+            powerLights.forEach((light, index) => {
+                setTimeout(() => {
+                    light.classList.add('fly-out');
+                    // Create a burst at the light's position
+                    const rect = light.getBoundingClientRect();
+                    createDramaticBurst(
+                        container, 
+                        rect.left + rect.width / 2, 
+                        rect.top + rect.height / 2, 
+                        colors, 
+                        particleCount
+                    );
+                }, index * 500); // 500ms between each light
+            });
+            
+            // Create additional bursts at random positions
+            const burstCount = 5;
+            const burstDelay = 500; // ms between bursts
+            
+            for (let i = 0; i < burstCount; i++) {
+                setTimeout(() => {
+                    const x = 100 + Math.random() * (window.innerWidth - 200);
+                    const y = 100 + Math.random() * (window.innerHeight - 200);
+                    createDramaticBurst(container, x, y, colors, particleCount);
+                }, i * burstDelay);
+            }
+            
+            // Hide power meter and show mission complete
+            setTimeout(() => {
+                const powerMeter = document.getElementById('powerMeter');
+                if (powerMeter) {
+                    powerMeter.style.visibility = 'hidden';
+                }
+                
+                // Show quit button when showing mission complete
+                if (quitButton) quitButton.style.visibility = 'visible';
+                
+                // Execute callback to show mission complete screen
+                if (callback) {
+                    callback();
+                }
+            }, 2000); // After all indicators have flown out
+        }
+
+        function triggerFireworks(callback) {
+            fireworksContainer.innerHTML = ''; 
+            fireworksContainer.style.display = 'block';
+            let particlesCreated = 0;
+            const totalParticles = 50;
+
+            for (let i = 0; i < totalParticles; i++) {
+                setTimeout(() => {
+                    const particle = document.createElement('div');
+                    particle.classList.add('particle');
+                    
+                    const x = Math.random() * window.innerWidth;
+                    const y = Math.random() * window.innerHeight * 0.7; 
+                    particle.style.left = `${x}px`;
+                    particle.style.top = `${y}px`;
+
+                    const angle = Math.random() * Math.PI * 2;
+                    const distance = Math.random() * 100 + 50;
+                    particle.style.setProperty('--tx', `${Math.cos(angle) * distance}px`);
+                    particle.style.setProperty('--ty', `${Math.sin(angle) * distance}px`);
+                    
+                    const r = Math.floor(Math.random() * 256);
+                    const g = Math.floor(Math.random() * 256);
+                    const b = Math.floor(Math.random() * 256);
+                    particle.style.backgroundColor = `rgb(${r},${g},${b})`;
+                    
+                    fireworksContainer.appendChild(particle);
+                    particlesCreated++;
+
+                    if (particlesCreated === totalParticles) {
+                        setTimeout(() => {
+                            fireworksContainer.style.display = 'none';
+                            if (callback) callback();
+                        }, 1000); 
+                    }
+                }, Math.random() * 500); 
+            }
+        }
+
+        // Start the game immediately on load
+        // Global DOM element references to be assigned on DOM load
+        let submitAnswerBtn, answerInputEl, playAgainBtn, quitGameBtn;
+
+        window.addEventListener('DOMContentLoaded', function() {
+            console.log('DOM Content Loaded. Initializing mission...');
+
+            // --- Assign DOM Elements ---
+            submitAnswerBtn = document.getElementById('submitAnswerBtn');
+            answerInputEl = document.getElementById('answerInput');
+            playAgainBtn = document.getElementById('playAgainBtn');
+            quitGameBtn = document.getElementById('quitGameBtn');
+
+            // --- DIAGNOSTIC LOGS ---
+            console.log('Quit Button Element:', quitGameBtn);
+            console.log('Submit Button Element:', submitAnswerBtn);
+            console.log('Answer Input Element:', answerInputEl);
+
+            // --- Initial Game Setup ---
+            // 1. Force reset the game state to ensure a fresh start.
+            gameState.currentLevel = 1;
+            gameState.powerMeterIndex = 0;
+            gameState.correctStreak = 0;
+            gameState.powerMeterStates = [false, false, false, false];
+
+            // 2. Ensure the correct page elements are visible.
+            document.getElementById('winScreen').style.display = 'none';
+            document.getElementById('levelPage').style.display = ''; // Make sure game area is visible
+
+            // 3. Load Level 1 to start the game.
+            loadLevel(1);
+
+            // --- Event Listeners ---
+            
+            // Quit Button
+            if (quitGameBtn) {
+                console.log('Attaching click listener to Quit Button.');
+                quitGameBtn.addEventListener('click', function() {
+                    console.log('Quit button clicked!');
+                    // Navigate back to the main selection page
+                    window.location.href = "Pathway_Selector.html";
+                });
+            } else {
+                console.error('Quit Button not found, cannot attach listener.');
+            }
+
+            // Submit Answer Button
+            if (submitAnswerBtn) {
+                console.log('Attaching click listener to Submit Button.');
+                submitAnswerBtn.addEventListener('click', checkAnswer);
+            } else {
+                console.error('Submit Button not found, cannot attach listener.');
+            }
+            
+            // Answer Input (Enter Key)
+            if (answerInputEl) {
+                answerInputEl.addEventListener('keypress', function(event) {
+                    if (event.key === 'Enter') {
+                        checkAnswer();
+                    }
+                });
+            }
+            
+            // Play Again Button (on the win screen)
+            if (playAgainBtn) {
+                playAgainBtn.addEventListener('click', () => {
+                    // Reset state and start game from Level 1
+                    loadLevel(1);
+                });
+            }
+        });
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+topic_id,original_pundex,question_id,Question,correct_answer
+1,1,1555,What is the number before 1?,0
+1,1,1550,What number comes before 2?,1
+1,1,1536,What number comes after 1?,2
+1,1,1537,What number comes after 3?,4
+1,1,1538,What number comes after 5?,6
+1,1,1540,What number comes after 9?,10
+1,1,1541,What number comes after 6?,7
+1,1,1542,What number comes after 0?,1
+1,1,1543,What is the next number after 9?,10
+1,1,1545,What number comes after 8?,9
+1,1,1546,What number comes before 9?,8
+1,1,1547,What number comes before 7?,6
+1,1,1548,What number comes before 10?,9
+1,1,1552,What number comes before 3?,2
+1,1,1553,What is the number before 3?,2
+1,1,1558,What is the next number after 6?,7
+1,1,1559,Which number comes before 3?,2
+1,1,1539,What is one more than 7?,8
+1,1,1544,What number is one more than 2?,3
+1,1,1549,What is one less than 5?,4
+1,1,1551,What number comes just before 10?,9
+1,1,1554,What is one less than 10?,9
+1,1,1556,What is one more than 0?,1
+1,1,1557,What is one less than 1?,0
+1,1,1560,What number is just after 4?,5
+1,2,1564,What number comes before 19?,18
+1,2,1577,What number comes after 6?,7
+1,2,1584,What number comes after 8?,9
+1,2,1568,What number comes before 19?,18
+1,2,1571,Which number comes after 9?,10
+1,2,1579,What number comes after 16?,17
+1,2,1561,Start at 15 and count backwards. What is the next number?,14
+1,2,1562,"What number is missing? 18, 19, __",20
+1,2,1563,Start at 11 and count forwards. What number comes next?,12
+1,2,1565,What is one more than 16?,17
+1,2,1566,What is one less than 13?,12
+1,2,1567,"Fill in the missing number: 14, __, 16",15
+1,2,1569,Count on from 13. What is the next number?,14
+1,2,1570,"What number is missing? 17, 16, __",15
+1,2,1572,Count backwards from 12. What is the next number?,11
+1,2,1573,"Fill in the missing number: 9, 10, __",11
+1,2,1574,What is one more than 19?,20
+1,2,1575,Start at 14 and count backwards. What number do you say next?,13
+1,2,1576,What is one less than 20?,19
+1,2,1578,"Fill in the missing number: __, 12, 13",11
+1,2,1580,Count backwards from 18. What number is next?,17
+1,2,1581,"What number is missing? 19, __, 17",18
+1,2,1582,What is one more than 11?,12
+1,2,1583,What is one less than 15?,14
+1,2,1585,Count backwards from 9. What is the next number?,8
+1,3,1587,What is the number before 43?,42
+1,3,1592,What is the next number after 29?,30
+1,3,1605,What is the next number after 45?,46
+1,3,1595,What number comes after 41?,42
+1,3,1596,What number comes before 50?,49
+1,3,1610,What number comes after 39?,40
+1,3,1586,Start at 25 and count forwards. What number comes next?,26
+1,3,1588,"What number is missing? 33, 34, __, 36",35
+1,3,1589,What is one more than 49?,50
+1,3,1590,What is one less than 30?,29
+1,3,1591,"Fill in the missing number: 48, __, 46, 45",47
+1,3,1593,Count backwards from 38. What is the next number?,37
+1,3,1594,"What are the missing numbers? 21, 22, __, __, 25","23, 24"
+1,3,1597,Start at 31 and count back. What is the next number?,30
+1,3,1598,What is one more than 22?,23
+1,3,1599,What is one less than 41?,40
+1,3,1600,"Fill in the missing number: 18, 19, __, 21",20
+1,3,1601,What number comes between 37 and 39?,38
+1,3,1602,Count backwards from 24. What number comes next?,23
+1,3,1603,"Fill in the missing number: 49, __, 47",48
+1,3,1604,What is one more than 39?,40
+1,3,1606,"What number is missing? 26, 27, __",28
+1,3,1607,What are the two numbers after 35?,"36, 37"
+1,3,1608,What are the two numbers before 21?,"20, 19"
+1,3,1609,Count backwards from 15. What number do you say after 14?,13
+1,4,1617,What is the number before 62?,61
+1,4,1626,Which is 3 more than 85?,88
+1,4,1623,What number comes after 59?,60
+1,4,1634,What number comes after 53?,54
+1,4,1611,Start at 78 and count forwards 2 numbers. What number do you land on?,80
+1,4,1612,What number is 1 less than 91?,90
+1,4,1613,"Fill in the missing number: 55, 56, __, 58",57
+1,4,1614,Count backwards 3 numbers from 100. What number are you on?,97
+1,4,1615,What is one more than 99?,100
+1,4,1616,"What number is missing from this sequence: 88, 89, __, 91, 92",90
+1,4,1618,What is the number just before 80?,79
+1,4,1619,Count forwards from 96. What are the next two numbers?,"97, 98"
+1,4,1620,"If you have 70 items and add one more, how many do you have?",71
+1,4,1621,Count backwards from 61. What number comes next?,60
+1,4,1622,"What number is missing? 75, __, 73, 72",74
+1,4,1624,What is 1 more than 89?,90
+1,4,1625,What is 1 less than 100?,99
+1,4,1627,"Fill in the missing number: __, 99, 100",98
+1,4,1628,You are on square 51. You move back one square. What square are you on?,50
+1,4,1629,What number is between 66 and 68?,67
+1,4,1630,Start at 90 and count back 2 numbers. What number do you land on?,88
+1,4,1631,What is the number just after 79?,80
+1,4,1632,What are the two numbers before 60?,"59, 58"
+1,4,1633,Start at 80 and count backwards. What is the next number?,79
+1,4,1635,"If a page number is 98, what is the next page number?",99

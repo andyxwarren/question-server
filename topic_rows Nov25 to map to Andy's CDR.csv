@@ -1,0 +1,268 @@
+topic_id,world,realm,mission,level,code,module_description,Content Domain Reference
+1,Number,Place Value,Counting,1,N-PV-C-1a,"count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number",1N1a
+2,Number,Place Value,Counting,2,N-PV-C-2b,"count in steps of 2, 3, and 5 from 0, and in tens from any number, forward or backward",2N1
+3,Number,Place Value,Counting,3,N-PV-C-3b,"count from 0 in multiples of 4, 8, 50 and 100",3N1b
+4,Number,Place Value,Counting,4,N-PV-C-4a,count backwards through zero to include negative numbers,4N5
+5,Number,Place Value,Counting,5,N-PV-C-5a,"interpret negative numbers in context, count forwards and backwards with positive and negative whole numbers, including through zero",5N5
+6,Number,Place Value,Counting,6,N-PV-C-6a,"use negative numbers in context, and calculate intervals across zero",6N5
+7,Number,Place Value,Comparing Numbers,1,N-PV-CN-1a,"use the language of: equal to, more than, less than (fewer), most, least",1N4
+8,Number,Place Value,Comparing Numbers,2,N-PV-CN-2a,"compare and order numbers from 0 up to 100; use <, > and = signs",2N2b
+9,Number,Place Value,Comparing Numbers,3,N-PV-CN-3a,compare and order numbers up to 1000,3N2a
+10,Number,Place Value,Comparing Numbers,4,N-PV-CN-4a,order and compare numbers beyond 1000,4N2a
+11,Number,Place Value,Comparing Numbers,5,N-PV-CN-5a,"read, write, order and compare numbers to at least 1 000 000 and determine the value of each digit (appears also in Reading and Writing Numbers)",5N2
+12,Number,Place Value,Comparing Numbers,6,N-PV-CN-6a,"read, write, order and compare numbers up to 10 000 000 and determine the value of each digit (appears also in Reading and Writing Numbers)",6N2
+13,Number,Place Value,"Identifying, Representing and Estimating Numbers",1,N-PV-IRE-1a,"Identify and represent numbers to 20 using objects and pictorial representations, and reason about their location on a number line.",1N4
+14,Number,Place Value,"Identifying, Representing and Estimating Numbers",2,N-PV-IRE-2a,"Identify, represent, and estimate two-digit numbers using different representations, and reason about their location on a 0-100 number line.",2N4
+15,Number,Place Value,"Identifying, Representing and Estimating Numbers",3,N-PV-IRE-3a,"Identify, represent, and estimate three-digit numbers using different representations, and reason about their location on a 0-1000 number line.",3N4
+16,Number,Place Value,"Identifying, Representing and Estimating Numbers",4,N-PV-IRE-4a,"Identify, represent, and estimate four-digit numbers using different representations, and reason about their location in the linear number system.",4N4a
+19,Number,Place Value,Reading and Writing Numbers,1,N-PV-RWN-1a,read and write numbers from 1 to 20 in numerals and words.,1N2c
+20,Number,Place Value,Reading and Writing Numbers,2,N-PV-RWN-2a,read and write numbers to at least 100 in numerals and in words,2N2a
+21,Number,Place Value,Reading and Writing Numbers,3,N-PV-RWN-3a,read and write numbers up to 1000 in numerals and in words,3N2a
+23,Number,Place Value,Reading and Writing Numbers,5,N-PV-RWN-5a,"read, write, order and compare numbers to at least 1 000 000 and determine the value of each digit (appears also in Comparing Numbers)",5N2
+24,Number,Place Value,Reading and Writing Numbers,6,N-PV-RWN-6a,"read, write, order and compare numbers up to 10 000 000 and determine the value of each digit (appears also in Understanding Place Value)",6N2
+26,Number,Place Value,Understanding Place Value,2,N-PV-PV-2a,"recognise the place value of each digit in a two-digit number (tens, ones)",2N3
+27,Number,Place Value,Understanding Place Value,3,N-PV-PV-3a,"recognise the place value of each digit in a three-digit number (hundreds, tens, ones)",3N3
+28,Number,Place Value,Understanding Place Value,4,N-PV-PV-4a,"recognise the place value of each digit in a four-digit number (thousands, hundreds, tens, and ones)",4N3a
+29,Number,Place Value,Understanding Place Value,5,N-PV-PV-5a,"read, write, order and compare numbers to at least 1 000 000 and determine the value of each digit (appears also in Reading and Writing Numbers)",5N2
+30,Number,Place Value,Understanding Place Value,6,N-PV-PV-6a,"read, write, order and compare numbers up to 10 000 000 and determine the value of each digit (appears also in Reading and Writing Numbers)",6N2
+34,Number,Place Value,Rounding,4,N-PV-R-4a,"round any number to the nearest 10, 100 or 1000",4N4b
+35,Number,Place Value,Rounding,5,N-PV-R-5a,"round any number up to 1 000 000 to the nearest 10, 100, 1000, 10 000 and 100 000",5N4
+36,Number,Place Value,Rounding,6,N-PV-R-6a,round any whole number to a required degree of accuracy,6N4
+37,Number,Addition and Subtraction,Number Bonds,1,N-AS-NB-1a,represent and use number bonds and related subtraction facts within 20,1C1
+38,Number,Addition and Subtraction,Number Bonds,2,N-AS-NB-2a,"recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100",2C1
+43,Number,Addition and Subtraction,Mental Calculation (A&S),1,N-AS-MC-1a,"add and subtract one-digit and two-digit numbers to 20, including zero",1C2a
+44,Number,Addition and Subtraction,Mental Calculation (A&S),2,N-AS-MC-2a,"add and subtract numbers using concrete objects, pictorial representations, and mentally, including: * a two-digit number and ones * a two-digit number and tens * two two-digit numbers * adding three one-digit numbers",2C2a
+45,Number,Addition and Subtraction,Mental Calculation (A&S),3,N-AS-MC-3a,"add and subtract numbers mentally, including: * a three-digit number and ones * a three-digit number and tens * a three-digit number and hundreds",3C1
+46,Number,Addition and Subtraction,Mental Calculation (A&S),4,N-AS-MC-4a,add and subtract numbers mentally with increasingly large numbers,5C1
+48,Number,Addition and Subtraction,Mental Calculation (A&S),6,N-AS-MC-6a,"perform mental calculations, including with mixed operations and large numbers",6C6
+49,Number,Addition and Subtraction,Written Methods,1,N-AS-WM-1a,"read, write and interpret mathematical statements involving addition (+), subtraction (-) and equals (=) signs (appears also in Mental Calculation)",1C2b
+51,Number,Addition and Subtraction,Written Methods,3,N-AS-WM-3a,"add and subtract numbers with up to three digits, using formal written methods of columnar addition and subtraction",3C2
+52,Number,Addition and Subtraction,Written Methods,4,N-AS-WM-4a,add and subtract numbers with up to 4 digits using the formal written methods of columnar addition and subtraction where appropriate,4C2
+53,Number,Addition and Subtraction,Written Methods,5,N-AS-WM-5a,"add and subtract whole numbers with more than 4 digits, including using formal written methods (columnar addition and subtraction)",5C2
+56,Number,Addition and Subtraction,"Inverse Operations, Estimating and Checking Answers",2,N-AS-IOC-2a,recognise and use the inverse relationship between addition and subtraction and use this to check calculations and solve missing number problems.,2C3
+57,Number,Addition and Subtraction,"Inverse Operations, Estimating and Checking Answers",3,N-AS-IOC-3a,estimate the answer to a calculation and use inverse operations to check answers,3C3
+58,Number,Addition and Subtraction,"Inverse Operations, Estimating and Checking Answers",4,N-AS-IOC-4a,estimate and use inverse operations to check answers to a calculation,4C3
+59,Number,Addition and Subtraction,"Inverse Operations, Estimating and Checking Answers",5,N-AS-IOC-5a,"use rounding to check answers to calculations and determine, in the context of a problem, levels of accuracy",5C3
+60,Number,Addition and Subtraction,"Inverse Operations, Estimating and Checking Answers",6,N-AS-IOC-6a,"use estimation to check answers to calculations and determine, in the context of a problem, levels of accuracy.",6C3
+61,Number,Multiplication and Division,Multiplication & Division Facts,1,N-MD-MDF-1a,"count in multiples of twos, fives and tens (copied from Number and Place Value)",1N1b
+62,Number,Multiplication and Division,Multiplication & Division Facts,2,N-MD-MDF-2b,"recall and use multiplication and division facts for the 2, 5 and 10 multiplication tables, including recognising odd and even numbers",2C6
+63,Number,Multiplication and Division,Multiplication & Division Facts,3,N-MD-MDF-3b,"recall and use multiplication and division facts for the 3, 4 and 8 multiplication tables",3C6
+64,Number,Multiplication and Division,Multiplication & Division Facts,4,N-MD-MDF-4b,recall multiplication and division facts for multiplication tables up to 12 x 12,4C6a
+65,Number,Multiplication and Division,Multiplication & Division Facts,5,N-MD-MDF-5a,count forwards or backwards in steps of powers of 10 for any given number up to 1 000 000 (copied from Number and Place Value),5N1
+68,Number,Multiplication and Division,Mental Calculation (M&D),2,N-MD-MC-2a,show that multiplication of two numbers can be done in any order (commutative) and division of one number by another cannot,2C9a
+69,Number,Multiplication and Division,Mental Calculation (M&D),3,N-MD-MC-3a,"write and calculate mathematical statements for multiplication and division using the multiplication tables that they know, including for two-digit numbers times one-digit numbers, using mental and progressing to formal written methods (appears also in Written Methods)",3C7
+70,Number,Multiplication and Division,Mental Calculation (M&D),4,N-MD-MC-4a,"use place value, known and derived facts to multiply and divide mentally, including: multiplying by 0 and 1; dividing by 1; multiplying together three numbers",4C6b
+71,Number,Multiplication and Division,Mental Calculation (M&D),5,N-MD-MC-5a,multiply and divide numbers mentally drawing upon known facts,5C6a
+72,Number,Multiplication and Division,Mental Calculation (M&D),6,N-MD-MC-6a,"perform mental calculations, including with mixed operations and large numbers",6C6
+74,Number,Multiplication and Division,Written Calculation,2,N-MD-WC-2a,"calculate mathematical statements for multiplication and division within the multiplication tables and write them using the multiplication (x), division (�) and equals (=) signs",2C7
+75,Number,Multiplication and Division,Written Calculation,3,N-MD-WC-3a,"write and calculate mathematical statements for multiplication and division using the multiplication tables that they know, including for two-digit numbers times one-digit numbers, using mental and progressing to formal written methods (appears also in Mental Methods)",3C7
+76,Number,Multiplication and Division,Written Calculation,4,N-MD-WC-4a,multiply two-digit and three-digit numbers by a one-digit number using formal written layout,4C7
+77,Number,Multiplication and Division,Written Calculation,5,N-MD-WC-5a,"multiply numbers up to 4 digits by a one- or two-digit number using a formal written method, including long multiplication for two-digit numbers",5C7a
+78,Number,Multiplication and Division,Written Calculation,6,N-MD-WC-6a,multiply multi-digit numbers up to 4 digits by a two-digit whole number using the formal written method of long multiplication,6C7a
+82,Number,Multiplication and Division,Properties of Numbers,4,N-MD-PN-4a,recognise and use factor pairs and commutativity in mental calculations (repeated),4C6c
+83,Number,Multiplication and Division,Properties of Numbers,5,N-MD-PN-5a,"identify multiples and factors, including finding all factor pairs of a number, and common factors of two numbers.",5C5a
+84,Number,Multiplication and Division,Properties of Numbers,6,N-MD-PN-6a,"identify common factors, common multiples and prime numbers",6C5
+90,Number,Multiplication and Division,Order of Operations,6,N-MD-OO-6a,use their knowledge of the order of operations to carry out calculations involving the four operations,6C9
+93,Number,Multiplication and Division,Inverse Operations & Checking,3,N-MD-IOC-3a,estimate the answer to a calculation and use inverse operations to check answers (copied from Addition and Subtraction),3C3
+94,Number,Multiplication and Division,Inverse Operations & Checking,4,N-MD-IOC-4a,estimate and use inverse operations to check answers to a calculation (copied from Addition and Subtraction),4C3
+96,Number,Multiplication and Division,Inverse Operations & Checking,6,N-MD-IOC-6a,"use estimation to check answers to calculations and determine, in the context of a problem, levels of accuracy",6C3
+97,Number,"Fractions, Decimals and Percentages",Counting in Fractional Steps,2,N-FDP-CIFS-2a,"Pupils should count in fractions up to 10, starting from any number and using the1/2 and 2/4 equivalence on the number line (Non Statutory Guidance)",NO_MATCH
+98,Number,"Fractions, Decimals and Percentages",Counting in Fractional Steps,3,N-FDP-CIFS-3a,count up and down in tenths,3F1a
+99,Number,"Fractions, Decimals and Percentages",Counting in Fractional Steps,4,N-FDP-CIFS-4a,count up and down in hundredths,4F1
+100,Number,"Fractions, Decimals and Percentages",Recognising Fractions,1,N-FDP-RF-1a,"recognise, find and name a half as one of two equal parts of an object, shape or quantity",1F1a
+101,Number,"Fractions, Decimals and Percentages",Recognising Fractions,2,N-FDP-RF-2a,"recognise, find, name and write fractions 1/3, 1/4, 2/4 and 3/4 of a length, shape, set of objects or quantity",2F1a
+102,Number,"Fractions, Decimals and Percentages",Recognising Fractions,3,N-FDP-RF-3a,"recognise, find and write fractions of a discrete set of objects: unit fractions and non-unit fractions with small denominators",3F1b
+109,Number,"Fractions, Decimals and Percentages",Comparing Fractions,3,N-FDP-CF-3a,"compare and order unit fractions, and fractions with the same denominators",3F3
+110,Number,"Fractions, Decimals and Percentages",Comparing Fractions,5,N-FDP-CF-5a,compare and order fractions whose denominators are all multiples of the same number,5F3
+111,Number,"Fractions, Decimals and Percentages",Comparing Fractions,6,N-FDP-CF-6a,"compare and order fractions, including fractions >1",6F3
+115,Number,"Fractions, Decimals and Percentages",Addition and Subtraction of Fractions,3,N-FDP-ASF-3a,add and subtract fractions with the same denominator within one whole (e.g. 5/7 + 1/7 = 6/7),3F4
+116,Number,"Fractions, Decimals and Percentages",Addition and Subtraction of Fractions,4,N-FDP-ASF-4a,add and subtract fractions with the same denominator,4F4
+117,Number,"Fractions, Decimals and Percentages",Addition and Subtraction of Fractions,5,N-FDP-ASF-5a,add and subtract fractions with the same denominator and multiples of the same number,5F4
+118,Number,"Fractions, Decimals and Percentages",Addition and Subtraction of Fractions,6,N-FDP-ASF-6a,"add and subtract fractions with different denominators and mixed numbers, using the concept of equivalent fractions",6F4
+121,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Fractions,5,N-FDP-MDF-5a,"multiply proper fractions and mixed numbers by whole numbers, supported by materials and diagrams",5F5
+122,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Fractions,6,N-FDP-MDF-6a,"multiply simple pairs of proper fractions, writing the answer in its simplest form (e.g. 1/4 x 1/2 = 1/8)",6F5a
+139,Number,"Fractions, Decimals and Percentages",Comparing Decimals,4,N-FDP-CD-4a,compare numbers with the same number of decimal places up to two decimal places,4F8
+140,Number,"Fractions, Decimals and Percentages",Comparing Decimals,5,N-FDP-CD-5a,"read, write, order and compare numbers with up to three decimal places",5F8
+141,Number,"Fractions, Decimals and Percentages",Comparing Decimals,6,N-FDP-CD-6a,identify the value of each digit in numbers given to three decimal places,6F9a
+145,Number,"Fractions, Decimals and Percentages",Rounding Including Decimals,4,N-FDP-RID-4a,round decimals with one decimal place to the nearest whole number,4F7
+146,Number,"Fractions, Decimals and Percentages",Rounding Including Decimals,5,N-FDP-RID-5a,round decimals with two decimal places to the nearest whole number and to one decimal place,5F7
+147,Number,"Fractions, Decimals and Percentages",Rounding Including Decimals,6,N-FDP-RID-6a,solve problems which require answers to be rounded to specified degrees of accuracy,6F10
+163,Number,"Fractions, Decimals and Percentages",Equivalence,2,N-FDP-E-2a,write simple fractions e.g. 1/2 of 6 = 3 and recognise the equivalence of 2/4 and 1/2,2F1b
+164,Number,"Fractions, Decimals and Percentages",Equivalence,3,N-FDP-E-3a,"recognise and show, using diagrams, equivalent fractions with small denominators",3F2
+165,Number,"Fractions, Decimals and Percentages",Equivalence,4,N-FDP-E-4a,"recognise and show, using diagrams, families of common equivalent fractions",4F2
+166,Number,"Fractions, Decimals and Percentages",Equivalence,5,N-FDP-E-5a,"identify, name and write equivalent fractions of a given fraction, represented visually, including tenths and hundredths",5F2b
+167,Number,"Fractions, Decimals and Percentages",Equivalence,6,N-FDP-E-6a,use common factors to simplify fractions; use common multiples to express fractions in the same denomination,6F2
+168,Number,"Fractions, Decimals and Percentages",Equivalence,6,N-FDP-E-6c,"recall and use equivalences between simple fractions, decimals and percentages, including in different contexts.",6F11
+199,Ratio and Proportion,Ratio and Proportion,Ratio and Proportion,6,RAP-RAP-P-6a,solve problems involving the relative sizes of two quantities where missing values can be found by using integer multiplication and division facts,6R1
+200,Ratio and Proportion,Ratio and Proportion,Ratio and Proportion,6,RAP-RAP-P-6b,"solve problems involving the calculation of percentages [for example, of measures, and such as 15% of 360] and the use of percentages for comparison",6R2
+201,Ratio and Proportion,Ratio and Proportion,Ratio and Proportion,6,RAP-RAP-P-6c,solve problems involving similar shapes where the scale factor is known or can be found,6R3
+202,Ratio and Proportion,Ratio and Proportion,Ratio and Proportion,6,RAP-RAP-P-6d,solve problems involving unequal sharing and grouping using knowledge of fractions and multiples.,6R4
+229,Measurement,Measurement,Measuring and Calculating,1,M-M-MC-1a,"measure and begin to record the following: * lengths and heights * mass/weight * capacity and volume * time (hours, minutes, seconds)",1M2
+230,Measurement,Measurement,Measuring and Calculating,2,M-M-MC-2a,"choose and use appropriate standard units to estimate and measure length/height in any direction (m/cm); mass (kg/g); temperature (�C); capacity (litres/ml) to the nearest appropriate unit, using rulers, scales, thermometers and measuring vessels",2M2
+231,Measurement,Measurement,Measuring and Calculating,3,M-M-MC-3a,"measure, compare, add and subtract: lengths (m/cm/mm); mass (kg/g); volume/capacity (l/ml)",NO_MATCH
+232,Measurement,Measurement,Measuring and Calculating,4,M-M-MC-4a,"estimate, compare and calculate different measures, including money in pounds and pence (appears also in Comparing)",4M2
+233,Measurement,Measurement,Measuring and Calculating,5,M-M-MC-5a,"use all four operations to solve problems involving measure (e.g. length, mass, volume, money) using decimal notation including scaling.",5M9a
+234,Measurement,Measurement,Measuring and Calculating,6,M-M-MC-6a,"solve problems involving the calculation and conversion of units of measure, using decimal notation up to three decimal places where appropriate (appears also in Converting)",6M9
+255,Measurement,Measurement,Measuring and Calculating,3,M-M-MC-3b,measure the perimeter of simple 2-D shapes,3M7
+256,Measurement,Measurement,Measuring and Calculating,4,M-M-MC-4b,measure and calculate the perimeter of a rectilinear figure (including squares) in centimetres and metres,4M7a
+257,Measurement,Measurement,Measuring and Calculating,5,M-M-MC-5b,measure and calculate the perimeter of composite rectilinear shapes in centimetres and metres,5M7a
+258,Measurement,Measurement,Measuring and Calculating,6,M-M-MC-6b,recognise that shapes with the same areas can have different perimeters and vice versa,6M7a
+262,Measurement,Measurement,Measuring and Calculating,4,M-M-MC-4c,find the area of rectilinear shapes by counting squares,4M7b
+263,Measurement,Measurement,Measuring and Calculating,5,M-M-MC-5c,"calculate and compare the area of squares and rectangles including using standard units, square centimetres (cm�) and square metres (m�) and estimate the area of irregular shapes",5M7b
+264,Measurement,Measurement,Measuring and Calculating,6,M-M-MC-6c,calculate the area of parallelograms and triangles,6M7b
+270,Measurement,Measurement,Measuring and Calculating,6,M-M-MC-6d,"calculate, estimate and compare volume of cubes and cuboids using standard units, including cubic centimetres (cm�) and cubic metres (m�), and extending to other units [e.g. mm� and km�].",6M8a
+271,Measurement,Measurement,Measuring and Calculating,1,M-M-MC-1b,recognise and know the value of different denominations of coins and notes,1M3
+272,Measurement,Measurement,Measuring and Calculating,2,M-M-MC-2b,recognise and use symbols for pounds (�) and pence (p); combine amounts to make a particular value,2M3a
+273,Measurement,Measurement,Measuring and Calculating,3,M-M-MC-3c,"add and subtract amounts of money to give change, using both � and p in practical contexts",3M9a
+277,Measurement,Measurement,Telling the Time,1,M-M-TT-1a,tell the time to the hour and half past the hour and draw the hands on a clock face to show these times.,1M4a
+278,Measurement,Measurement,Telling the Time,2,M-M-TT-2a,"tell and write the time to five minutes, including quarter past/to the hour and draw the hands on a clock face to show these times.",2M4a
+279,Measurement,Measurement,Telling the Time,3,M-M-TT-3a,"tell and write the time from an analogue clock, including using Roman numerals from I to XII, and 12-hour and 24-hour clocks",3M4c
+280,Measurement,Measurement,Telling the Time,4,M-M-TT-4a,"read, write and convert time between analogue and digital 12 and 24-hour clocks (appears also in Converting)",4M4a
+281,Measurement,Measurement,Telling the Time,5,M-M-TT-5a,solve problems involving converting between units of time,5M4
+332,Statistics,Statistics,"Interpreting, Constructing and Presenting Data",2,S-S-ICPD-2a,"interpret and construct simple pictograms, tally charts, block diagrams and simple tables",2S1
+333,Statistics,Statistics,"Interpreting, Constructing and Presenting Data",3,S-S-ICPD-3a,"interpret and present data using bar charts, pictograms and tables",3S1
+334,Statistics,Statistics,"Interpreting, Constructing and Presenting Data",4,S-S-ICPD-4a,"interpret and present discrete and continuous data using appropriate graphical methods, including bar charts and time graphs",4S1
+335,Statistics,Statistics,"Interpreting, Constructing and Presenting Data",5,S-S-ICPD-5a,"complete, read and interpret information in tables, including timetables",5S1
+336,Statistics,Statistics,"Interpreting, Constructing and Presenting Data",6,S-S-ICPD-6a,interpret and construct pie charts and line graphs and use these to solve problems,6S1
+372,Statistics,Statistics,Solving Problems,6,S-S-SP-6a,calculate and interpret the mean as an average,6S3
+379,Number,Place Value,Counting,1,N-PV-C-1b,"count, read and write numbers to 100 in numerals; count in multiples of twos, fives and tens",1N2a
+380,Number,Place Value,Counting,1,N-PV-C-1c,"given a number, identify one more and one less",1N2b
+381,Number,Place Value,Counting,3,N-PV-C-3c,find 10 or 100 more or less than a given number,3N2b
+382,Number,Place Value,Counting,4,N-PV-C-4b,"count in multiples of 6, 7, 9, 25 and 1000",4N1
+383,Number,Place Value,Counting,4,N-PV-C-4c,find 1000 more or less than a given number,4N2b
+384,Number,Place Value,Counting,5,N-PV-C-5b,count forwards or backwards in steps of powers of 10 for any given number up to 1000000,5N1
+385,Number,Place Value,Comparing Numbers,4,N-PV-CN-4b,compare numbers with the same number of decimal places up to two decimal places (copied from Fractions),4F8
+386,Number,Place Value,Reading and Writing Numbers,3,N-PV-RWN-3b,"tell and write the time from an analogue clock, including using Roman numerals from I to XII, and 12-hour and 24-hour clocks (copied from Measurement)",3M4c
+387,Number,Place Value,Reading and Writing Numbers,4,N-PV-RWN-4b,"read Roman numerals to 100 (I to C) and know that over time, the numeral system changed to include the concept of zero and place value.",4N3b
+388,Number,Place Value,Reading and Writing Numbers,5,N-PV-RWN-5b,read Roman numerals to 1000 (M) and recognise years written in Roman numerals.,5N3b
+389,Number,Place Value,Understanding Place Value,4,N-PV-PV-4b,"find the effect of dividing a one- or two-digit number by 10 and 100, identifying the value of the digits in the answer as units, tenths and hundredths (copied from Fractions)",4F9
+390,Number,Place Value,Understanding Place Value,5,N-PV-PV-5b,"recognise and use thousandths and relate them to tenths, hundredths and decimal equivalents (copied from Fractions)",5F6b
+391,Number,Place Value,Understanding Place Value,6,N-PV-PV-6b,"identify the value of each digit to three decimal places and multiply and divide numbers by 10, 100 and 1000 where the answers are up to three decimal places (copied from Fractions)",6F9a
+392,Number,Place Value,Rounding,4,N-PV-R-4b,round decimals with one decimal place to the nearest whole number (copied from Fractions),4F7
+393,Number,Place Value,Rounding,5,N-PV-R-5b,round decimals with two decimal places to the nearest whole number and to one decimal place (copied from Fractions),5F7
+394,Number,Place Value,Rounding,6,N-PV-R-6b,solve problems which require answers to be rounded to specified degrees of accuracy (copied from Fractions),6F10
+395,Number,Place Value,Problem Solving (PV),2,N-PV-PS-2a,use place value and number facts to solve problems,2N6
+396,Number,Place Value,Problem Solving (PV),3,N-PV-PS-3a,solve number problems and practical problems involving these ideas.,3N6
+397,Number,Place Value,Problem Solving (PV),4,N-PV-PS-4a,solve number problems and practical problems that involve all of the above and with increasingly large positive numbers,4N6
+398,Number,Place Value,Problem Solving (PV),5,N-PV-PS-5a,solve number problems and practical problems that involve all of the above,5N6
+399,Number,Place Value,Problem Solving (PV),6,N-PV-PS-6a,solve number and practical problems that involve all of the above,6N6
+400,Number,Addition and Subtraction,Mental Calculation (A&S),1,N-AS-MC-1b,"read, write and interpret mathematical statements involving addition (+), subtraction (-) and equals (=) signs (appears also in Written Methods)",1C2b
+401,Number,Addition and Subtraction,Mental Calculation (A&S),2,N-AS-MC-2b,show that addition of two numbers can be done in any order (commutative) and subtraction of one number from another cannot,2C9a
+402,Number,Addition and Subtraction,Mental Calculation (A&S),6,N-AS-MC-6b,use their knowledge of the order of operations to carry out calculations involving the four operations,6C9
+403,Number,Addition and Subtraction,Problem Solving (A&S),1,N-AS-PS-1a,"solve one-step problems that involve addition and subtraction, using concrete objects and pictorial representations, and missing number problems such as 7 = ? - 9",1C4
+404,Number,Addition and Subtraction,Problem Solving (A&S),2,N-AS-PS-2a,"solve problems with addition and subtraction: * using concrete objects and pictorial representations, including those involving numbers, quantities and measures * applying their increasing knowledge of mental and written methods",2C4
+405,Number,Addition and Subtraction,Problem Solving (A&S),2,N-AS-PS-2b,"solve simple problems in a practical context involving addition and subtraction of money of the same unit, including giving change (copied from Measurement)",2M9
+406,Number,Addition and Subtraction,Problem Solving (A&S),3,N-AS-PS-3a,"solve problems, including missing number problems, using number facts, place value, and more complex addition and subtraction",3C4
+407,Number,Addition and Subtraction,Problem Solving (A&S),4,N-AS-PS-4a,"solve addition and subtraction two-step problems in contexts, deciding which operations and methods to use and why",4C4
+408,Number,Addition and Subtraction,Problem Solving (A&S),5,N-AS-PS-5a,"solve addition and subtraction multi-step problems in contexts, deciding which operations and methods to use and why",5C4
+409,Number,Addition and Subtraction,Problem Solving (A&S),6,N-AS-PS-6a,"solve addition and subtraction multi-step problems in contexts, deciding which operations and methods to use and why",6C4
+410,Number,Addition and Subtraction,Problem Solving (A&S),6,N-AS-PS-6b,"solve problems involving addition, subtraction, multiplication and division",6C8
+411,Number,Multiplication and Division,Multiplication & Division Facts,2,N-MD-MDF-2a,"count in steps of 2, 3, and 5 from 0, and in tens from any number, forward or backward (copied from Number and Place Value)",2N1
+412,Number,Multiplication and Division,Multiplication & Division Facts,3,N-MD-MDF-3a,"count from 0 in multiples of 4, 8, 50 and 100 (copied from Number and Place Value)",3N1b
+413,Number,Multiplication and Division,Multiplication & Division Facts,4,N-MD-MDF-4a,"count in multiples of 6, 7, 9, 25 and 1000 (copied from Number and Place Value)",4N1
+414,Number,Multiplication and Division,Mental Calculation (M&D),4,N-MD-MC-4b,recognise and use factor pairs and commutativity in mental calculations (appears also in Properties of Numbers),4C6c
+415,Number,Multiplication and Division,Mental Calculation (M&D),5,N-MD-MC-5b,"multiply and divide whole numbers and those involving decimals by 10, 100 and 1000",5C6b
+416,Number,Multiplication and Division,Mental Calculation (M&D),6,N-MD-MC-6b,associate a fraction with division and calculate decimal fraction equivalents (e.g. 0.375) for a simple fraction (e.g. �/8) (copied from Fractions),6F6
+417,Number,Multiplication and Division,Written Calculation,5,N-MD-WC-5b,divide numbers up to 4 digits by a one-digit number using the formal written method of short division and interpret remainders appropriately for the context,5C7b
+418,Number,Multiplication and Division,Written Calculation,6,N-MD-WC-6b,"divide numbers up to 4-digits by a two-digit whole number using the formal written method of short division where appropriate for the context divide numbers up to 4 digits by a two-digit whole number using the formal written method of long division, and interpret remainders as whole number remainders, fractions, or by rounding, as appropriate for the context",6C7b
+419,Number,Multiplication and Division,Written Calculation,6,N-MD-WC-6c,use written division methods in cases where the answer has up to two decimal places (copied from Fractions (including decimals)),6F9c
+420,Number,Multiplication and Division,Properties of Numbers,5,N-MD-PN-5b,"know and use the vocabulary of prime numbers, prime factors and composite (non-prime) numbers",5C5b
+421,Number,Multiplication and Division,Properties of Numbers,5,N-MD-PN-5c,establish whether a number up to 100 is prime and recall prime numbers up to 19,5C5c
+422,Number,Multiplication and Division,Properties of Numbers,5,N-MD-PN-5d,"recognise and use square numbers and cube numbers, and the notation for squared (�) and cubed (�)",5C5d
+423,Number,Multiplication and Division,Properties of Numbers,6,N-MD-PN-6b,use common factors to simplify fractions; use common multiples to express fractions in the same denomination (copied from Fractions),6F2
+424,Number,Multiplication and Division,Properties of Numbers,6,N-MD-PN-6c,"calculate, estimate and compare volume of cubes and cuboids using standard units, including centimetre cubed (cm�) and cubic metres (m�), and extending to other units such as mm� and km� (copied from Measures)",6M8a
+425,Number,Multiplication and Division,Problem Solving (M&D),1,N-MD-PS-1a,"solve one-step problems involving multiplication and division, by calculating the answer using concrete objects, pictorial representations and arrays with the support of the teacher",1C8
+426,Number,Multiplication and Division,Problem Solving (M&D),2,N-MD-PS-2a,"solve problems involving multiplication and division, using materials, arrays, repeated addition, mental methods, and multiplication and division facts, including problems in contexts",2C8
+427,Number,Multiplication and Division,Problem Solving (M&D),3,N-MD-PS-3a,"solve problems, including missing number problems, involving multiplication and division, including positive integer scaling problems and correspondence problems in which n objects are connected to m objects",3C8
+428,Number,Multiplication and Division,Problem Solving (M&D),4,N-MD-PS-4a,"solve problems involving multiplying and adding, including using the distributive law to multiply two digit numbers by one digit, integer scaling problems and harder correspondence problems such as n objects are connected to m objects",4C8
+429,Number,Multiplication and Division,Problem Solving (M&D),5,N-MD-PS-5a,"solve problems involving multiplication and division including using their knowledge of factors and multiples, squares and cubes",5C8a
+430,Number,Multiplication and Division,Problem Solving (M&D),5,N-MD-PS-5b,"solve problems involving addition, subtraction, multiplication and division and a combination of these, including understanding the meaning of the equals sign",5C8b
+431,Number,Multiplication and Division,Problem Solving (M&D),5,N-MD-PS-5c,"solve problems involving multiplication and division, including scaling by simple fractions and problems involving simple rates",5C8c
+432,Number,Multiplication and Division,Problem Solving (M&D),6,N-MD-PS-6a,"solve problems involving addition, subtraction, multiplication and division",6C8
+433,Number,Multiplication and Division,Problem Solving (M&D),6,N-MD-PS-6b,solve problems involving similar shapes where the scale factor is known or can be found (copied from Ratio and Proportion),6R3
+434,Number,"Fractions, Decimals and Percentages",Recognising Fractions,1,N-FDP-RF-1b,"recognise, find and name a quarter as one of four equal parts of an object, shape or quantity",1F1b
+435,Number,"Fractions, Decimals and Percentages",Recognising Fractions,3,N-FDP-RF-3b,recognise that tenths arise from dividing an object into 10 equal parts and in dividing one - digit numbers or quantities by 10.,3F1a
+436,Number,"Fractions, Decimals and Percentages",Recognising Fractions,3,N-FDP-RF-3c,recognise and use fractions as numbers: unit fractions and non-unit fractions with small denominators,3F1c
+437,Number,"Fractions, Decimals and Percentages",Recognising Fractions,4,N-FDP-RF-4a,recognise that hundredths arise when dividing an object by one hundred and dividing tenths by ten,4F1
+438,Number,"Fractions, Decimals and Percentages",Recognising Fractions,5,N-FDP-RF-5a,"recognise and use thousandths and relate them to tenths, hundredths and decimal equivalents (appears also in Equivalence)",5F6b
+439,Number,"Fractions, Decimals and Percentages",Equivalence,4,N-FDP-E-4b,recognise and write decimal equivalents of any number of tenths or hundredths,4F6b
+440,Number,"Fractions, Decimals and Percentages",Equivalence,4,N-FDP-E-4c,recognise and write decimal equivalents to 1/4; 1/2; 3/4,4F6a
+441,Number,"Fractions, Decimals and Percentages",Equivalence,5,N-FDP-E-5b,read and write decimal numbers as fractions (e.g. 0.71 = 71/100),5F6a
+442,Number,"Fractions, Decimals and Percentages",Equivalence,5,N-FDP-E-5c,"recognise and use thousandths and relate them to tenths, hundredths and decimal equivalents",5F6b
+443,Number,"Fractions, Decimals and Percentages",Equivalence,5,N-FDP-E-5d,"recognise the per cent symbol (%) and understand that per cent relates to ""number of parts per hundred"", and write percentages as a fraction with denominator 100 as a decimal fraction",5F11
+444,Number,"Fractions, Decimals and Percentages",Equivalence,6,N-FDP-E-6b,associate a fraction with division and calculate decimal fraction equivalents (e.g. 0.375) for a simple fraction (e.g. 3/8),6F6
+445,Number,"Fractions, Decimals and Percentages",Addition and Subtraction of Fractions,5,N-FDP-ASF-5b,recognise mixed numbers and improper fractions and convert from one form to the other and write mathematical statements > 1 as a mixed number (e.g. 2/5 + 4/5 = 6/5 = 1 1/5),5F2a
+446,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Fractions,6,N-FDP-MDF-6b,multiply one-digit numbers with up to two decimal places by whole numbers,6F9b
+447,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Fractions,6,N-FDP-MDF-6c,divide proper fractions by whole numbers (e.g. 1/3 � 2 = 1/6),6F5b
+448,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Decimals,4,N-FDP-MDD-4a,"find the effect of dividing a one- or two-digit number by 10 and 100, identifying the value of the digits in the answer as ones, tenths and hundredths",4F9
+449,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Decimals,6,N-FDP-MDD-6a,multiply one-digit numbers with up to two decimal places by whole numbers,6F9b
+450,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Decimals,6,N-FDP-MDD-6b,"multiply and divide numbers by 10, 100 and 1000 where the answers are up to three decimal places",6F9a
+451,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Decimals,6,N-FDP-MDD-6c,"identify the value of each digit to three decimal places and multiply and divide numbers by 10, 100 and 1000 where the answers are up to three decimal places",6F9a
+452,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Decimals,6,N-FDP-MDD-6d,associate a fraction with division and calculate decimal fraction equivalents (e.g. 0.375) for a simple fraction (e.g. 3/8),6F6
+453,Number,"Fractions, Decimals and Percentages",Multiplication and Division of Decimals,6,N-FDP-MDD-6e,use written division methods in cases where the answer has up to two decimal places,6F9c
+454,Number,"Fractions, Decimals and Percentages",Problem Solving (FDP),3,N-FDP-PS-3a,solve problems that involve all of the above,3F10
+455,Number,"Fractions, Decimals and Percentages",Problem Solving (FDP),4,N-FDP-PS-4a,"solve problems involving increasingly harder fractions to calculate quantities, and fractions to divide quantities, including non-unit fractions where the answer is a whole number",4F10a
+456,Number,"Fractions, Decimals and Percentages",Problem Solving (FDP),4,N-FDP-PS-4b,solve simple measure and money problems involving fractions and decimals to two decimal places.,4F10b
+457,Number,"Fractions, Decimals and Percentages",Problem Solving (FDP),5,N-FDP-PS-5a,solve problems involving numbers up to three decimal places,5F10
+458,Number,"Fractions, Decimals and Percentages",Problem Solving (FDP),5,N-FDP-PS-5b,"solve problems which require knowing percentage and decimal equivalents of 1/2, 1/4, 1/5, 2/5, 4/5 and those with a denominator of a multiple of 10 or 25.",5F12
+459,Geometry,Properties of Shapes,Identifying Shapes and Their Properties,2,G-POS-ISTP-2b,"identify and describe the properties of 3-D shapes, including the number of edges, vertices and faces",2G2b
+460,Geometry,Properties of Shapes,Identifying Shapes and Their Properties,2,G-POS-ISTP-2c,"identify 2-D shapes on the surface of 3-D shapes, [for example, a circle on a cylinder and a triangle on a pyramid]",2G3
+461,Geometry,Properties of Shapes,Identifying Shapes and Their Properties,6,G-POS-ISTP-6b,"illustrate and name parts of circles, including radius, diameter and circumference and know that the diameter is twice the radius",6G5
+462,Geometry,Properties of Shapes,Drawing and Constructing,3,G-POS-DAC-3a,draw 2-D shapes and make 3-D shapes using modelling materials; recognise 3-D shapes in different orientations and describe them,3G3b
+463,Geometry,Properties of Shapes,Drawing and Constructing,4,G-POS-DAC-4a,complete a simple symmetric figure with respect to a specific line of symmetry,4G2c
+464,Geometry,Properties of Shapes,Drawing and Constructing,5,G-POS-DAC-5a,"draw given angles, and measure them in degrees ()",5G4c
+465,Geometry,Properties of Shapes,Drawing and Constructing,6,G-POS-DAC-6a,draw 2-D shapes using given dimensions and angles,6G3a
+466,Geometry,Properties of Shapes,Drawing and Constructing,6,G-POS-DAC-6b,"recognise, describe and build simple 3-D shapes, including making nets (appears also in Identifying Shapes and Their Properties)",6G3b
+467,Geometry,Properties of Shapes,Comparing and Classifying,2,G-POS-CAC-2a,compare and sort common 2-D and 3-D shapes and everyday objects,2G1a
+468,Geometry,Properties of Shapes,Comparing and Classifying,4,G-POS-CAC-4a,"compare and classify geometric shapes, including quadrilaterals and triangles, based on their properties and sizes",4G2a
+469,Geometry,Properties of Shapes,Comparing and Classifying,5,G-POS-CAC-5a,use the properties of rectangles to deduce related facts and find missing lengths and angles,5G2a
+470,Geometry,Properties of Shapes,Comparing and Classifying,5,G-POS-CAC-5b,distinguish between regular and irregular polygons based on reasoning about equal sides and angles,5G2b
+471,Geometry,Properties of Shapes,Comparing and Classifying,6,G-POS-CAC-6a,"compare and classify geometric shapes based on their properties and sizes and find unknown angles in any triangles, quadrilaterals, and regular polygons",6G2a
+472,Geometry,Properties of Shapes,Angles,3,G-POS-A-3b,"identify right angles, recognise that two right angles make a half-turn, three make three quarters of a turn and four a complete turn; identify whether angles are greater than or less than a right angle",3G4b
+473,Geometry,Properties of Shapes,Angles,3,G-POS-A-3c,identify horizontal and vertical lines and pairs of perpendicular and parallel lines,3G2
+474,Geometry,Properties of Shapes,Angles,5,G-POS-A-5b,identify: * angles at a point and one whole turn (total 360�) * angles at a point on a straight line and � a turn (total 180�) * other multiples of 90�,5G4b
+475,Geometry,Position and Direction,"Position, Direction and Movement",4,G-PD-PDM-4b,describe movements between positions as translations of a given unit to the left/right and up/down,4P2
+476,Geometry,Position and Direction,"Position, Direction and Movement",4,G-PD-PDM-4c,plot specified points and draw sides to complete a given polygon,4P3b
+477,Geometry,Position and Direction,"Position, Direction and Movement",6,G-PD-PDM-6b,"draw and translate simple shapes on the coordinate plane, and reflect them in the axes.",6P2
+478,Geometry,Position and Direction,Pattern,2,G-PD-P-2a,order and arrange combinations of mathematical objects in patterns and sequences,2P1
+479,Statistics,Statistics,"Interpreting, Constructing and Presenting Data",2,S-S-ICPD-2b,ask and answer simple questions by counting the number of objects in each category and sorting the categories by quantity,2S2a
+480,Statistics,Statistics,"Interpreting, Constructing and Presenting Data",2,S-S-ICPD-2c,ask and answer questions about totalling and comparing categorical data,2S2b
+481,Statistics,Statistics,Solving Problems,3,S-S-SP-3a,solve one-step and two-step questions [e.g. 'How many more?' and 'How many fewer?'] using information presented in scaled bar charts and pictograms and tables.,3S2
+482,Statistics,Statistics,Solving Problems,4,S-S-SP-4a,"solve comparison, sum and difference problems using information presented in bar charts, pictograms, tables and other graphs.",4S2
+483,Statistics,Statistics,Solving Problems,5,S-S-SP-5a,"solve comparison, sum and difference problems using information presented in a line graph",5S2
+484,Measurement,Measurement,Comparing and Estimating,1,M-M-CE-1a,"compare, describe and solve practical problems for: * lengths and heights * mass/weight * capacity and volume * time",1M1
+485,Measurement,Measurement,Comparing and Estimating,1,M-M-CE-1b,"sequence events in chronological order using language [e.g. before and after, next, first, today, yesterday, tomorrow, morning, afternoon and evening]",1M4c
+486,Measurement,Measurement,Comparing and Estimating,2,M-M-CE-2a,"compare and order lengths, mass, volume/capacity and record the results using >, < and =",2M1
+487,Measurement,Measurement,Comparing and Estimating,2,M-M-CE-2b,compare and sequence intervals of time,2M4b
+488,Measurement,Measurement,Comparing and Estimating,3,M-M-CE-3a,"compare durations of events, for example to calculate the time taken by particular events or tasks",3M4f
+489,Measurement,Measurement,Comparing and Estimating,3,M-M-CE-3b,"estimate and read time with increasing accuracy to the nearest minute; record and compare time in terms of seconds, minutes, hours and o'clock; use vocabulary such as a.m./p.m., morning, afternoon, noon and midnight (appears also in Telling the Time)",3M4d
+490,Measurement,Measurement,Comparing and Estimating,4,M-M-CE-4a,"estimate, compare and calculate different measures, including money in pounds and pence (also included in Measuring)",4M2
+491,Measurement,Measurement,Comparing and Estimating,5,M-M-CE-5a,"calculate and compare the area of squares and rectangles including using standard units, square centimetres (cm�) and square metres (m�) and estimate the area of irregular shapes (also included in measuring)",5M7b
+492,Measurement,Measurement,Comparing and Estimating,5,M-M-CE-5b,estimate volume (e.g. using 1 cm� blocks to build cubes and cuboids) and capacity (e.g. using water),5M8
+493,Measurement,Measurement,Comparing and Estimating,6,M-M-CE-6a,"calculate, estimate and compare volume of cubes and cuboids using standard units, including centimetre cubed (cm�) and cubic metres (m�), and extending to other units such as mm� and km�.",6M8a
+494,Measurement,Measurement,Measuring and Calculating,2,M-M-MC-2c,find different combinations of coins that equal the same amounts of money,2M3b
+495,Measurement,Measurement,Measuring and Calculating,2,M-M-MC-2d,"solve simple problems in a practical context involving addition and subtraction of money of the same unit, including giving change",2M9
+496,Measurement,Measurement,Measuring and Calculating,5,M-M-MC-5d,"recognise and use square numbers and cube numbers, and the notation for squared (�) and cubed (�) (copied from Multiplication and Division)",5C5d
+497,Measurement,Measurement,Measuring and Calculating,6,M-M-MC-6e,recognise when it is possible to use formulae for area and volume of shapes,6M8b
+498,Measurement,Measurement,Telling the Time,1,M-M-TT-1b,"recognise and use language relating to dates, including days of the week, weeks, months and years",1M4b
+499,Measurement,Measurement,Telling the Time,2,M-M-TT-2b,know the number of minutes in an hour and the number of hours in a day. (appears also in Converting),2M4c
+500,Measurement,Measurement,Telling the Time,3,M-M-TT-3b,"estimate and read time with increasing accuracy to the nearest minute; record and compare time in terms of seconds, minutes, hours and o'clock; use vocabulary such as a.m./p.m., morning, afternoon, noon and midnight (appears also in Comparing and Estimating)",3M4d
+501,Measurement,Measurement,Telling the Time,4,M-M-TT-4b,solve problems involving converting from hours to minutes; minutes to seconds; years to months; weeks to days (appears also in Converting),4M4c
+502,Measurement,Measurement,Converting,2,M-M-C-2a,know the number of minutes in an hour and the number of hours in a day. (appears also in Telling the Time),2M4c
+503,Measurement,Measurement,Converting,3,M-M-C-3a,"know the number of seconds in a minute and the number of days in each month, year and leap year",3M4e
+504,Measurement,Measurement,Converting,4,M-M-C-4a,convert between different units of measure (e.g. kilometre to metre; hour to minute),4M5
+505,Measurement,Measurement,Converting,4,M-M-C-4b,"read, write and convert time between analogue and digital 12 and 24-hour clocks (appears also in Converting)",4M4b
+506,Measurement,Measurement,Converting,4,M-M-C-4c,solve problems involving converting from hours to minutes; minutes to seconds; years to months; weeks to days (appears also in Telling the Time),4M4c
+507,Measurement,Measurement,Converting,5,M-M-C-5a,convert between different units of metric measure (e.g. kilometre and metre; centimetre and metre; centimetre and millimetre; gram and kilogram; litre and millilitre),5M5
+508,Measurement,Measurement,Converting,5,M-M-C-5b,solve problems involving converting between units of time,5M4
+509,Measurement,Measurement,Converting,5,M-M-C-5c,"understand and use equivalences between metric units and common imperial units such as inches, pounds and pints",5M6
+510,Measurement,Measurement,Converting,6,M-M-C-6a,"use, read, write and convert between standard units, converting measurements of length, mass, volume and time from a smaller unit of measure to a larger unit, and vice versa, using decimal notation to up to three decimal places",6M5
+511,Measurement,Measurement,Converting,6,M-M-C-6b,"solve problems involving the calculation and conversion of units of measure, using decimal notation up to three decimal places where appropriate (appears also in Measuring and Calculating)",6M9
+512,Measurement,Measurement,Converting,6,M-M-C-6c,convert between miles and kilometres,6M6
+513,Algebra,Algebra,Equations,1,A-A-E-1b,represent and use number bonds and related subtraction facts within 20 (copied from Addition and Subtraction),1C1
+514,Algebra,Algebra,Equations,2,A-A-E-2b,"recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100 (copied from Addition and Subtraction)",2C1
+515,Algebra,Algebra,Equations,3,A-A-E-3b,"solve problems, including missing number problems, involving multiplication and division, including integer scaling (copied from Multiplication and Division)",3C8
+516,Algebra,Algebra,Equations,6,A-A-E-6b,find pairs of numbers that satisfy number sentences involving two unknowns,6A4
+517,Algebra,Algebra,Equations,6,A-A-E-6c,enumerate all possibilities of combinations of two variables,6A5
+518,Algebra,Algebra,Formulae,6,A-A-F-6b,recognise when it is possible to use formulae for area and volume of shapes (copied from Measurement),6M8b
+519,Algebra,Algebra,Sequences,2,A-A-S-2b,order and arrange combinations of mathematical objects in patterns (copied from Geometry: position and direction),2P1

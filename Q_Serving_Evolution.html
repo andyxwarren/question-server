@@ -48,6 +48,7 @@
             border: 1px solid #ccc;
             border-radius: 8px;
             background-color: #fff;
+            scroll-margin-top: 80px;
         }
         h1 {
             color: #333;
@@ -66,20 +67,28 @@
         }
         .nav {
             text-align: right;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            justify-content: flex-end;
         }
         .nav-btn {
             background-color: #667eea;
             color: white;
             border: none;
-            padding: 10px 15px;
-            margin: 5px;
-            border-radius: 5px;
+            padding: 5px 8px;
+            border-radius: 4px;
             cursor: pointer;
-            font-size: 14px;
+            font-size: 11px;
             text-decoration: none;
+            white-space: nowrap;
         }
         .nav-btn:hover {
             background-color: #5a67d8;
+        }
+        .nav-btn.active {
+            background-color: #434190;
+            box-shadow: 0 0 0 2px #fff, 0 0 0 4px #434190;
         }
     </style>
 </head>
@@ -90,11 +99,15 @@
             <h1>Q Serving Evolution</h1>
         </div>
         <div class="nav">
-            <a href="#session-1" class="nav-btn">Session 1</a>
-            <a href="#session-2" class="nav-btn">Session 2</a>
-            <a href="#session-3" class="nav-btn">Session 3</a>
-            <a href="#session-4" class="nav-btn">Session 4</a>
-            <a href="#session-5" class="nav-btn">Session 5</a>
+            <a href="#session-1" class="nav-btn active">S1</a>
+            <a href="#session-2" class="nav-btn">S2</a>
+            <a href="#session-3" class="nav-btn">S3</a>
+            <a href="#session-4" class="nav-btn">S4</a>
+            <a href="#session-5" class="nav-btn">S5</a>
+            <a href="#session-6" class="nav-btn">S6</a>
+            <a href="#session-7" class="nav-btn">S7</a>
+            <a href="#session-8" class="nav-btn">S8</a>
+            <a href="#session-9" class="nav-btn">S9</a>
         </div>
     </header>
 
@@ -245,5 +258,194 @@
         </ul>
     </div>
 
+    <div id="session-6" class="session">
+        <h2>Session Six: November 21, 2025</h2>
+        <p>This session was dedicated to implementing a robust, real-time user adventure logging system and resolving all outstanding version control issues.</p>
+
+        <h3>Live User Adventure Logging</h3>
+        <ul>
+            <li><strong>File System Access API</strong>: Implemented a modern, secure logging system using the File System Access API. This allows the application to write directly to a local file with the user's explicit permission.</li>
+            <li><strong>"Enable Live Logging" Workflow</strong>: Added an "Enable Live Logging" button that prompts the user to select the `user_adventure.csv` file, granting the application persistent read/write access for the session.</li>
+            <li><strong>"Save & End" Button</strong>: Introduced a "Save & End" button, allowing users to gracefully exit a question batch at any time. This action writes all queued log data to the file before showing the results screen.</li>
+            <li><strong>Asynchronous File Writing</strong>: Refined the file-writing process to be fully asynchronous and decoupled from UI updates. This fixed a critical bug where the Live Server would cause a page refresh by detecting file changes during a question transition.</li>
+        </ul>
+
+        <h3>Version Control and Workflow</h3>
+        <ul>
+            <li><strong>Git Configuration</strong>: Diagnosed and resolved a `git commit` failure by guiding the user to set their global Git user name and email address.</li>
+            <li><strong>Successful Push to Remote</strong>: After configuring the user's Git identity, all pending changes were successfully committed and pushed to the remote repository, ensuring the project is fully up to date.</li>
+        </ul>
+    </div>
+
+    <div id="session-7" class="session">
+        <h2>Session Seven: November 24, 2025</h2>
+        <p>This session was dedicated to a major architectural evolution: integrating the <strong>Pathway Selector</strong> as the main entry point and building a sophisticated, multi-layered user progression system.</p>
+
+        <h3>Pathway Selector Integration</h3>
+        <ul>
+            <li><strong>Seamless Navigation</strong>: The <code>Pathway_Selector.html</code> page is now fully integrated. Clicking a mission button (e.g., "Counting") seamlessly redirects the user to the main quiz application.</li>
+            <li><strong>URL-Based Mission Loading</strong>: The chosen mission is passed to the main application via a URL parameter (e.g., <code>index.html?mission=Counting</code>), allowing for automatic, targeted quiz sessions.</li>
+            <li><strong>Automatic Quiz Start</strong>: The application now detects the mission parameter on load, automatically filters the question pool, and starts the quiz immediately, bypassing all manual setup screens.</li>
+        </ul>
+
+        <h3>Mastery-Based Progression System</h3>
+        <ul>
+            <li><strong>Multi-Layered Progression</strong>: Implemented a robust progression engine that guides users through a structured learning path, first by <strong>School Year (Level)</strong> and then by <strong>Pundex (Difficulty Tier)</strong>.</li>
+            <li><strong>"7 out of 10" Mastery Rule</strong>: Users must now answer at least 7 of their last 10 questions correctly to master a Pundex tier before the system automatically advances them.</li>
+            <li><strong>Gamified Pundex Tiers</strong>: Replaced the internal difficulty names with more engaging, gamified names: <strong>Ignition</strong>, <strong>Charging</strong>, <strong>Ready</strong>, and <strong>Power Up</strong>.</li>
+        </ul>
+
+        <h3>UI and Visual Enhancements</h3>
+        <ul>
+            <li><strong>Visual Power Meter</strong>: The old text-based tags were replaced with a dynamic, visual "Power Meter" that clearly displays the user's progression through the Pundex tiers.</li>
+            <li><strong>Visual State Feedback</strong>: The Power Meter provides clear visual cues for the user's status:
+                <ul>
+                    <li><strong>Glowing</strong>: The current Pundex tier has a subtle, pulsing glow.</li>
+                    <li><strong>Solid</strong>: Mastered Pundex tiers are displayed in a solid color.</li>
+                    <li><strong>Transparent</strong>: Future, un-started tiers are visible but faded.</li>
+                </ul>
+            </li>
+            <li><strong>Custom Color Scheme</strong>: Applied a custom red, yellow, green, and purple color scheme to the Power Meter, inspired by the user's UI model.</li>
+            <li><strong>Unified Header Display</strong>: Consolidated all key information (CDR Code, Mission Name, and Level) into a clean, unified block of tags above the Power Meter.</li>
+        </ul>
+    </div>
+
+    <div id="session-8" class="session">
+        <h2>Session Eight: December 7, 2025</h2>
+        <p>This session focused on fixing the Pathway Selector integration, improving the progression system, converting question data formats, and significantly overhauling the UI layout.</p>
+
+        <h3>Pathway Selector Button Activation</h3>
+        <ul>
+            <li><strong>Dynamic CSV Matching (Initial Approach)</strong>: Attempted to dynamically enable mission buttons based on matching mission names from <code>Existing Missions.csv</code>. This involved building a robust CSV parser and flexible text normalization (handling &amp; vs AND, line breaks, punctuation differences).</li>
+            <li><strong>Manual Button Activation</strong>: Due to persistent matching issues with the temporary CSV file, switched to manually activating three specific mission buttons: "Identifying, Representing &amp; Estimating", "Multiplication &amp; Division Facts", and "Equations". This involved adding <code>onclick</code> handlers and removing the <code>disabled</code> class and greyed-out styling.</li>
+            <li><strong>Global Click Listener Fix</strong>: Fixed an issue where manually activated buttons were still showing a "Mission Coming Soon" popup. The global <code>document.addEventListener('click', ...)</code> was modified to check <code>btn.hasAttribute('onclick')</code> and skip buttons that have their own click handlers.</li>
+            <li><strong>Button Styling</strong>: Ensured manually activated buttons have full opacity and a pointer cursor, overriding the default greyed-out appearance.</li>
+        </ul>
+
+        <h3>Mission Loading Fixes</h3>
+        <ul>
+            <li><strong>CSV Parsing Fix</strong>: Fixed the mission loading in <code>app.js</code> by implementing a robust CSV parser that correctly handles quoted fields containing commas. This resolved the "Could not load the selected mission" error.</li>
+            <li><strong>Question Pool Initialization</strong>: Added the missing <code>setQuestionPool()</code> call before <code>startQuestions()</code> in the auto-load function, fixing the "No questions selected" error.</li>
+        </ul>
+
+        <h3>Question Data Analysis & Conversion</h3>
+        <ul>
+            <li><strong>Question Count Analysis</strong>: Analyzed all JSON files in the "Already Tested by Ads" folder and discovered a critical mismatch: each Year + Pundex combination only had 5 questions, but the mastery system requires 10 questions for the 7-out-of-10 rule.</li>
+            <li><strong>CSV to JSON Converter</strong>: Built a converter to transform <code>1N1a (Ads Counting Qs).csv</code> into a compatible JSON format with 100 questions (25 per Pundex tier), all for Year 1. This provides sufficient questions for the mastery system.</li>
+            <li><strong>Updated Mission Mapping</strong>: Updated <code>Existing Missions.csv</code> to point the Counting mission to the new JSON file.</li>
+        </ul>
+
+        <h3>Progression System Improvements</h3>
+        <ul>
+            <li><strong>Early Mastery Detection</strong>: Modified the progression logic so that during the first 10 questions, users level up immediately upon getting 7 correct (could be after question 7, 8, 9, or 10). After 10 questions, the rolling window logic applies.</li>
+            <li><strong>World & Realm from CSV</strong>: The application now extracts and stores World and Realm information from the CSV when loading a mission, enabling richer metadata display.</li>
+        </ul>
+
+        <h3>Visual Progress Bar</h3>
+        <ul>
+            <li><strong>10-Box Progress Indicator</strong>: Replaced the text-based progress counter with a visual 10-box horizontal bar. Boxes turn green for correct answers and red for incorrect answers.</li>
+            <li><strong>Question Numbers</strong>: Added small question numbers underneath each box that update as the user progresses.</li>
+            <li><strong>Rolling Window Display</strong>: After 10 questions, the boxes and numbers shift left to show the rolling window of the last 10 answers, with the rightmost box white for the next unanswered question.</li>
+            <li><strong>Deferred Shift</strong>: The window only shifts when clicking "Next" to move to a new question, not immediately upon answering.</li>
+            <li><strong>Rolling Score Display</strong>: The "Rolling Score" counter only appears after moving to question 11, not when answering question 10.</li>
+        </ul>
+
+        <h3>UI Layout Overhaul</h3>
+        <ul>
+            <li><strong>Unified Info Bar</strong>: Combined World, Realm, Mission, and Level into a single purple bar above the Power Meter (e.g., "NUMBER > PLACE VALUE > COUNTING > LEVEL 1").</li>
+            <li><strong>Removed Metadata Tags</strong>: Removed the separate module ID and mission tags that were previously displayed.</li>
+            <li><strong>Repositioned Progress Status</strong>: Moved the 10-box progress bar and score counters below the Power Meter.</li>
+            <li><strong>Compact Top Row</strong>: Reorganized the top row to include:
+                <ul>
+                    <li><strong>Q Counter</strong>: Green box showing "Q 1 of 25" (shortened from "Question").</li>
+                    <li><strong>Save & End</strong>: Centered button matching the Hint button height.</li>
+                    <li><strong>Hint</strong>: Right-aligned hint button.</li>
+                </ul>
+            </li>
+            <li><strong>Consistent Button Styling</strong>: All top-row buttons now have matching heights and padding.</li>
+        </ul>
+    </div>
+
+    <div id="session-9" class="session">
+        <h2>Session Nine: December 9-10, 2025</h2>
+        <p>This session focused on building a comprehensive Progress Dashboard and enhancing the mission loading system with level support.</p>
+
+        <h3>Progress Dashboard Creation</h3>
+        <ul>
+            <li><strong>New Dashboard Page</strong>: Created <code>Progress_Dashboard.html</code>, a visual overview showing student mastery across all Worlds, Realms, and Missions.</li>
+            <li><strong>Hierarchical Table Structure</strong>: Built a table displaying all 45 missions organized by World (Number, Algebra, Measurement, Geometry, Ratio, Statistics) and Realm, with 6 Level columns.</li>
+            <li><strong>Pundex Progress Indicators</strong>: Each mission/level cell displays 4 small colored boxes representing the Pundex tiers (Ignition, Charging, Ready, Power Up), with completed tiers shown in solid color.</li>
+            <li><strong>Sticky Headers</strong>: Implemented sticky column headers that remain visible when scrolling through the table.</li>
+            <li><strong>Column Width Optimization</strong>: Adjusted the first column width to 340px to accommodate long mission names like "Interpreting, Constructing & Presenting Data".</li>
+        </ul>
+
+        <h3>Unavailable Level Indicators</h3>
+        <ul>
+            <li><strong>Zero-Module Detection</strong>: Read the <code>Mission Summary.xlsx</code> spreadsheet to identify which mission/level combinations have zero modules.</li>
+            <li><strong>Visual Obscuring</strong>: Created an <code>unavailable</code> CSS class that greys out cells and displays a "—" dash where no modules exist.</li>
+            <li><strong>Applied to All Missions</strong>: Systematically updated all 45 mission rows to mark unavailable levels based on the spreadsheet data.</li>
+        </ul>
+
+        <h3>Module Tooltips</h3>
+        <ul>
+            <li><strong>Hover Tooltips</strong>: Added tooltips that appear when hovering over any mission/level cell, displaying the module descriptions from <code>topic_rows Nov25 to map to Andy's CDR.csv</code>.</li>
+            <li><strong>Dynamic Positioning</strong>: Implemented smart tooltip positioning that shows above the cell normally, but below the cell when near the top of the viewport.</li>
+            <li><strong>Left-Justified Text</strong>: Styled tooltips with left-aligned text and width matching the column for better readability.</li>
+            <li><strong>Cursor Behavior</strong>: Pointer cursor only appears on "current level" cells (where student is actively working), not on completed or future levels.</li>
+        </ul>
+
+        <h3>Launch Functionality</h3>
+        <ul>
+            <li><strong>Clickable Current Level</strong>: The cell representing the student's current level (in progress or next to start) is clickable and navigates to the quiz.</li>
+            <li><strong>Launch Buttons</strong>: Added a "Launch" button right-justified in each mission row that loads the quiz at the current level for that mission.</li>
+            <li><strong>URL Level Parameter</strong>: Extended <code>app.js</code> to accept a <code>level</code> URL parameter (e.g., <code>index.html?mission=Counting&level=2</code>), allowing direct navigation to specific levels.</li>
+        </ul>
+
+        <h3>Legend Updates</h3>
+        <ul>
+            <li><strong>Reordered Legend</strong>: Moved "Not Started" to the left side of the legend for logical progression.</li>
+            <li><strong>No Modules Indicator</strong>: Added a "No Modules" legend item showing the grey dash style used for unavailable levels.</li>
+        </ul>
+    </div>
+
+    <script>
+        const sessions = document.querySelectorAll('.session');
+        const navBtns = document.querySelectorAll('.nav-btn');
+
+        function updateCurrentSession() {
+            let currentSession = null;
+            const headerHeight = document.querySelector('.page-header').offsetHeight;
+            
+            sessions.forEach(session => {
+                const rect = session.getBoundingClientRect();
+                if (rect.top <= headerHeight + 50 && rect.bottom > headerHeight) {
+                    currentSession = session.id;
+                }
+            });
+            
+            if (currentSession) {
+                // Update active button
+                navBtns.forEach(btn => {
+                    btn.classList.remove('active');
+                    if (btn.getAttribute('href') === '#' + currentSession) {
+                        btn.classList.add('active');
+                    }
+                });
+            }
+        }
+
+        // Update on scroll
+        window.addEventListener('scroll', updateCurrentSession);
+        
+        // Update on click (with slight delay for scroll to complete)
+        navBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                setTimeout(updateCurrentSession, 100);
+            });
+        });
+        
+        // Initial update
+        updateCurrentSession();
+    </script>
 </body>
 </html>

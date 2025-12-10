@@ -1,0 +1,11 @@
+topic_id,world,realm,mission,level,code,module_description,Content Domain Reference,filename
+37,Number,Addition and Subtraction,Number Bonds,1,N-AS-NB-1a,represent and use number bonds and related subtraction facts within 20,1C1,1C1 (5Nov).json
+513,Algebra,Algebra,Equations,1,A-A-E-1b,represent and use number bonds and related subtraction facts within 20 (copied from Addition and Subtraction),1C1,1C1 (5Nov).json
+43,Number,Addition and Subtraction,Mental Calculation (A&S),1,N-AS-MC-1a,"add and subtract one-digit and two-digit numbers to 20, including zero",1C2a,1C2a 1C2b (8Nov).json
+49,Number,Addition and Subtraction,Written Methods,1,N-AS-WM-1a,"read, write and interpret mathematical statements involving addition (+), subtraction (-) and equals (=) signs (appears also in Mental Calculation)",1C2b,1C2a 1C2b (8Nov).json
+400,Number,Addition and Subtraction,Mental Calculation (A&S),1,N-AS-MC-1b,"read, write and interpret mathematical statements involving addition (+), subtraction (-) and equals (=) signs (appears also in Written Methods)",1C2b,1C2a 1C2b (8Nov).json
+403,Number,Addition and Subtraction,Problem Solving (A&S),1,N-AS-PS-1a,"solve one-step problems that involve addition and subtraction, using concrete objects and pictorial representations, and missing number problems such as 7 = ? - 9",1C4,1C4.json
+1,Number,Place Value,Counting,1,N-PV-C-1a,"count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number",1N1a,1N1a (Ads Counting Qs).json
+61,Number,Multiplication and Division,Multiplication & Division Facts,1,N-MD-MDF-1a,"count in multiples of twos, fives and tens (copied from Number and Place Value)",1N1b,1N1a 1N1b (1Nov).json
+7,Number,Place Value,Comparing Numbers,1,N-PV-CN-1a,"use the language of: equal to, more than, less than (fewer), most, least",1N4,1N4 (Ive split into 2) (1Nov).json
+13,Number,Place Value,"Identifying, Representing and Estimating Numbers",1,N-PV-IRE-1a,"Identify and represent numbers to 20 using objects and pictorial representations, and reason about their location on a number line.",1N4,1N4 (Ive split into 2) (1Nov).json
