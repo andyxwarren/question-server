@@ -108,6 +108,7 @@
             <a href="#session-7" class="nav-btn">S7</a>
             <a href="#session-8" class="nav-btn">S8</a>
             <a href="#session-9" class="nav-btn">S9</a>
+            <a href="#session-10" class="nav-btn">S10</a>
         </div>
     </header>
 
@@ -405,6 +406,101 @@
         <ul>
             <li><strong>Reordered Legend</strong>: Moved "Not Started" to the left side of the legend for logical progression.</li>
             <li><strong>No Modules Indicator</strong>: Added a "No Modules" legend item showing the grey dash style used for unavailable levels.</li>
+        </ul>
+    </div>
+
+    <div id="session-10" class="session">
+        <h2>Session Ten: December 12, 2025</h2>
+        <p>Major mobile layout refinements for the question practice interface (index.html).</p>
+
+        <h3>User Panel Replacement</h3>
+        <ul>
+            <li><strong>Compact Hamburger Menu</strong>: Replaced the verbose user panel with a compact avatar circle and hamburger menu button containing user info, Progress, Change Mission, and Logout options.</li>
+            <li><strong>Inline Header Integration</strong>: Added a second user header inside the question-header grid (<code>#header-user-menu</code>) so it appears inline with the level indicator during questions.</li>
+            <li><strong>Fixed Header Hidden</strong>: The fixed position user header is now hidden when the question section is active, replaced by the inline version.</li>
+        </ul>
+
+        <h3>Responsive Level Indicator</h3>
+        <ul>
+            <li><strong>Full/Short Versions</strong>: Level indicator now contains both full path (World > Realm > Mission > Level) and short version (Mission L#) wrapped in spans with classes <code>.level-full</code> and <code>.level-short</code>.</li>
+            <li><strong>Mobile Display</strong>: On phone, only the short version displays to save horizontal space.</li>
+        </ul>
+
+        <h3>Mobile-Specific Simplifications</h3>
+        <ul>
+            <li><strong>Active Pundex Only</strong>: Initially showed only the active/flashing pundex indicator on mobile (later changed to show all four as small circles).</li>
+            <li><strong>Keyboard Toggle Hidden</strong>: Hidden the keyboard toggle button on phone since the on-screen keyboard is always visible.</li>
+            <li><strong>Reduced Padding</strong>: Tightened header gaps and padding on mobile for more compact display.</li>
+        </ul>
+
+        <h3>Hamburger Menu Enhancements</h3>
+        <ul>
+            <li><strong>Save & End in Menu</strong>: Moved "Save & End" button into the hamburger dropdown menu for all devices.</li>
+            <li><strong>Question Progress in Menu</strong>: Added question progress indicator (Q 1 of 25) to the hamburger menu header area with cyan color styling.</li>
+            <li><strong>Avatar + Menu Merge</strong>: Combined the user avatar and hamburger menu icon into a single pill-shaped button to reduce confusion and save space.</li>
+        </ul>
+
+        <h3>Mobile Question Header Layout</h3>
+        <ul>
+            <li><strong>Level Indicator Stretching</strong>: Fixed the mission/level indicator to stretch full width from left edge to the avatar button using flexbox layout.</li>
+            <li><strong>Two-Row Header</strong>: Reorganized mobile header into two rows:
+                <ul>
+                    <li>Row 1: Mission indicator (stretches) + Avatar/Menu button</li>
+                    <li>Row 2: Pundex indicator (left) + Hint button (right)</li>
+                </ul>
+            </li>
+            <li><strong>Abbreviated Pundex Indicators</strong>: On mobile, all four pundex indicators display as small circles with abbreviated text (I, C, R, PU) instead of hiding inactive ones.</li>
+        </ul>
+
+        <h3>Progress Display on Mobile</h3>
+        <ul>
+            <li><strong>Full-Width Score Boxes</strong>: The 10-box progress indicator now stretches to fill the full screen width on mobile.</li>
+            <li><strong>Larger Fonts</strong>: Increased font sizes for box numbers (11px) and score counter (14px) for better readability on mobile.</li>
+            <li><strong>Score Boxes on Third Row</strong>: Moved the progress boxes to their own row below the pundex/hint row.</li>
+        </ul>
+
+        <h3>Tablet and Laptop Layout Fixes</h3>
+        <ul>
+            <li><strong>Consistent Grid Layout</strong>: Applied same header grid structure to both tablet and laptop views:
+                <ul>
+                    <li>Row 1: Level indicator + Keyboard toggle + Avatar/Menu</li>
+                    <li>Row 2: Pundex/Progress (centered) + Hint button (right)</li>
+                </ul>
+            </li>
+            <li><strong>Keyboard Toggle Positioning</strong>: Moved keyboard toggle button to top row near hamburger menu for easier access.</li>
+            <li><strong>Reduced Vertical Gap</strong>: Tightened spacing between header rows and question content.</li>
+        </ul>
+
+        <h3>Code Improvements</h3>
+        <ul>
+            <li><strong>Dual Header Updates</strong>: Modified <code>app.js</code> to update hamburger menu items in both fixed and inline header containers to ensure consistency.</li>
+            <li><strong>Display Contents</strong>: Used CSS <code>display: contents</code> on header-center-group to flatten the DOM for better flex alignment on mobile.</li>
+            <li><strong>Hidden Elements</strong>: Used <code>position: absolute</code> on hidden elements (#progress-indicator, #session-controls, #question-metadata) to remove them from grid flow.</li>
+        </ul>
+
+        <h3>On-Screen Keyboard Visibility</h3>
+        <ul>
+            <li><strong>Full Keyboard Visible</strong>: Fixed mobile layout to ensure the on-screen keyboard is fully visible without being cut off at the bottom of the screen.</li>
+            <li><strong>No Scrolling Required</strong>: Eliminated vertical scrolling on mobile - all content (question, answer input, keyboard) fits within the viewport.</li>
+        </ul>
+
+        <h3>Left/Right Handed Mode</h3>
+        <ul>
+            <li><strong>Account Setup Option</strong>: Added left-handed/right-handed preference selection during account creation in <code>login.html</code>.</li>
+            <li><strong>Keyboard Positioning</strong>: On tablet, the on-screen keyboard appears on the left or right side based on the user's handedness preference.</li>
+            <li><strong>Stored in User Profile</strong>: Handedness preference is saved with the user account and applied automatically on login.</li>
+        </ul>
+
+        <h3>Autofill Clearing</h3>
+        <ul>
+            <li><strong>Clear Autofill Data</strong>: Added functionality to clear browser autofill suggestions from form fields to prevent interference with the login process.</li>
+        </ul>
+
+        <h3>Power Up and Level Up Animations</h3>
+        <ul>
+            <li><strong>Power Up Animation</strong>: Created a celebratory overlay animation that plays when completing all four Pundex tiers (Ignition → Charging → Ready → Power Up), showing the meter filling and flashing.</li>
+            <li><strong>Level Up Animation</strong>: Added a distinct animation when advancing to the next level after completing Power Up, with visual feedback showing progression.</li>
+            <li><strong>Sequenced Effects</strong>: Animations use timed sequences with CSS transitions to show lights filling, flashing, and the overlay fading out.</li>
         </ul>
     </div>
 

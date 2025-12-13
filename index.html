@@ -40,23 +40,29 @@
         <section id="question-section" class="section hidden">
             <div class="question-header">
                 <div id="progress-indicator" class="progress"></div>
-                <div id="progression-status"></div>
                 <div id="question-metadata" class="metadata-tags"></div>
                 <div id="level-indicator" class="level-indicator"></div>
-                <div id="power-meter" class="power-meter"></div>
                 <div id="session-controls"></div>
-                <button id="keyboard-toggle-btn" class="keyboard-toggle-btn active" title="Toggle on-screen keyboard">⌨️</button>
+                <div id="header-user-menu"></div>
+                <button id="keyboard-toggle-btn" class="keyboard-toggle-btn" title="Toggle on-screen keyboard">⌨️</button>
                 <div id="hint-container"></div>
+                <div class="header-center-group">
+                    <div id="power-meter" class="power-meter"></div>
+                    <div id="progression-status"></div>
+                </div>
             </div>
 
-            <div class="question-card">
-                <div id="question-display" class="question-text"></div>
+            <!-- Main content area (for tablet side-by-side layout) -->
+            <div class="question-content-wrapper">
+                <div class="question-card">
+                    <div id="question-display" class="question-text"></div>
 
-                <div id="answer-area" class="answer-section">
-                    <!-- This area will be dynamically populated by app.js -->
+                    <div id="answer-area" class="answer-section">
+                        <!-- This area will be dynamically populated by app.js -->
+                    </div>
+
+                    <div id="feedback-area" class="feedback hidden"></div>
                 </div>
-
-                <div id="feedback-area" class="feedback hidden"></div>
 
                 <!-- On-Screen Keyboard -->
                 <div id="on-screen-keyboard" class="keyboard hidden">
@@ -110,12 +116,20 @@
             // Check if user is logged in (but don't force redirect for now)
             const user = UserAuth.getCurrentUser();
             if (user) {
-                // Add user header
+                // Add user header to fixed container (for non-question views)
                 const headerContainer = document.getElementById('userHeaderContainer');
                 const userHeader = UserAuth.createUserHeader();
                 if (userHeader) {
                     headerContainer.appendChild(userHeader);
                 }
+                
+                // Also add to inline header (for question view)
+                const inlineHeaderContainer = document.getElementById('header-user-menu');
+                const inlineUserHeader = UserAuth.createUserHeader();
+                if (inlineUserHeader && inlineHeaderContainer) {
+                    inlineHeaderContainer.appendChild(inlineUserHeader);
+                }
+                
                 console.log('Logged in as:', UserAuth.getFullName(user), '- Year', user.yearGroup);
             } else {
                 console.log('No user logged in');

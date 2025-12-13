@@ -71,7 +71,12 @@ class QuestionApp {
         // On-screen keyboard
         this.keyboard = document.getElementById('on-screen-keyboard');
         this.keyboardToggleBtn = document.getElementById('keyboard-toggle-btn');
-        this.keyboardVisible = true; // Default to visible
+        // Default keyboard visibility based on device type
+        // Laptop: > 1024px width (keyboard OFF)
+        // Tablet: 768-1024px width (keyboard ON, side-by-side layout)
+        // Phone: < 768px width (keyboard ON, stacked layout)
+        this.isLaptop = window.matchMedia('(min-width: 1025px)').matches;
+        this.keyboardVisible = !this.isLaptop; // Hidden on laptop, visible on tablet/phone
 
         // Topic Modal
         this.topicModal = document.getElementById('topic-modal');
@@ -99,6 +104,9 @@ class QuestionApp {
         this.restartBtn.addEventListener('click', () => this.restart());
         this.enableLoggingBtn.addEventListener('click', () => this.enableLiveLogging());
         this.keyboardToggleBtn.addEventListener('click', () => this.toggleKeyboardVisibility());
+
+        // Initialize keyboard state and device-specific classes
+        this.initializeDeviceLayout();
 
         // Use event delegation for dynamically created elements
         this.hintContainer.addEventListener('click', (e) => {
@@ -284,6 +292,94 @@ class QuestionApp {
             this.keyboard.classList.add('hidden');
             if (!show) {
                 // Question type doesn't need keyboard
+                this.keyboardToggleBtn.classList.remove('active');
+            }
+        }
+    }
+
+    /**
+     * Initialize device-specific layout
+     * Breakpoints:
+     * - Laptop: > 1024px (1920x1080) - keyboard OFF, standard layout
+     * - Tablet: 768-1024px (1024x768 landscape) - keyboard ON, side-by-side
+     * - Phone: < 768px (360x780 portrait) - keyboard ON, stacked
+     */
+    initializeDeviceLayout() {
+        // Detect device type based on width
+        const width = window.innerWidth;
+        const isTablet = width >= 768 && width <= 1024;
+        const isPhone = width < 768;
+        
+        // Add device class to body for CSS targeting
+        document.body.classList.remove('device-laptop', 'device-tablet', 'device-phone');
+        if (this.isLaptop) {
+            document.body.classList.add('device-laptop');
+        } else if (isTablet) {
+            document.body.classList.add('device-tablet');
+        } else if (isPhone) {
+            document.body.classList.add('device-phone');
+        }
+        
+        // Apply user's handedness preference (for tablet keyboard position)
+        if (this.currentUser && this.currentUser.handedness === 'left') {
+            document.body.classList.add('left-handed');
+        } else {
+            document.body.classList.remove('left-handed');
+        }
+        
+        // Set initial keyboard visibility
+        if (this.keyboardVisible) {
+            this.keyboard.classList.remove('hidden');
+            this.keyboardToggleBtn.classList.add('active');
+        } else {
+            this.keyboard.classList.add('hidden');
+            this.keyboardToggleBtn.classList.remove('active');
+        }
+        
+        // Listen for resize changes
+        window.addEventListener('resize', () => this.handleDeviceChange());
+        
+        // Listen for pointer/touch changes (for DevTools device switching)
+        const pointerQuery = window.matchMedia('(pointer: coarse)');
+        pointerQuery.addEventListener('change', () => this.handleDeviceChange(true));
+        
+        // Listen for width breakpoint changes
+        const laptopQuery = window.matchMedia('(min-width: 1025px)');
+        laptopQuery.addEventListener('change', () => this.handleDeviceChange(true));
+    }
+
+    /**
+     * Handle device change (resize, orientation, or DevTools device switch)
+     * @param {boolean} resetKeyboard - If true, reset keyboard visibility to device default
+     */
+    handleDeviceChange(resetKeyboard = false) {
+        const wasLaptop = this.isLaptop;
+        
+        // Update laptop detection
+        this.isLaptop = window.matchMedia('(min-width: 1025px)').matches;
+        
+        // Update device classes based on width
+        const width = window.innerWidth;
+        const isTablet = width >= 768 && width <= 1024;
+        const isPhone = width < 768;
+        
+        document.body.classList.remove('device-laptop', 'device-tablet', 'device-phone');
+        if (this.isLaptop) {
+            document.body.classList.add('device-laptop');
+        } else if (isTablet) {
+            document.body.classList.add('device-tablet');
+        } else if (isPhone) {
+            document.body.classList.add('device-phone');
+        }
+        
+        // Reset keyboard visibility when device type changes (e.g., DevTools switch)
+        if (resetKeyboard || (wasLaptop !== this.isLaptop)) {
+            this.keyboardVisible = !this.isLaptop;
+            if (this.keyboardVisible) {
+                this.keyboard.classList.remove('hidden');
+                this.keyboardToggleBtn.classList.add('active');
+            } else {
+                this.keyboard.classList.add('hidden');
                 this.keyboardToggleBtn.classList.remove('active');
             }
         }
@@ -558,6 +654,11 @@ class QuestionApp {
         }
         this.uploadSection.classList.add('hidden');
         this.questionSection.classList.remove('hidden');
+        
+        // Hide fixed user header (now using inline one in question header)
+        const fixedHeader = document.getElementById('userHeaderContainer');
+        if (fixedHeader) fixedHeader.style.display = 'none';
+        
         this.currentIndex = 0;
         this.userAnswers.clear();
         // this.adventureLog = []; // No longer needed for live logging
@@ -579,9 +680,36 @@ class QuestionApp {
 
         // Live logging is now handled upon answer submission.
 
-        // Update progress and render session controls
-        this.progressIndicator.textContent = `Q ${this.currentIndex + 1} of ${this.questions.length}`;
-        this.sessionControls.innerHTML = '<button id="end-session-btn" class="btn btn-secondary">Save & End</button>';
+        // Update progress - now shown in hamburger menu
+        const questionProgress = `Q ${this.currentIndex + 1} of ${this.questions.length}`;
+        this.progressIndicator.textContent = questionProgress;
+        
+        // Update hamburger menu items in BOTH headers (fixed and inline)
+        const menuContainers = [
+            document.getElementById('userHeaderContainer'),
+            document.getElementById('header-user-menu')
+        ];
+        
+        menuContainers.forEach(container => {
+            if (!container) return;
+            const menuQuestionProgress = container.querySelector('#menuQuestionProgress');
+            const menuQuestionCount = container.querySelector('#menuQuestionCount');
+            const menuSaveEndBtn = container.querySelector('#menuSaveEndBtn');
+            
+            if (menuQuestionProgress && menuQuestionCount) {
+                menuQuestionProgress.style.display = 'block';
+                menuQuestionCount.textContent = questionProgress;
+            }
+            if (menuSaveEndBtn) {
+                menuSaveEndBtn.style.display = 'flex';
+                menuSaveEndBtn.onclick = () => this.endSession();
+            }
+        });
+        
+        // Hide original controls (now in menu)
+        this.progressIndicator.style.display = 'none';
+        this.sessionControls.innerHTML = '';
+        this.sessionControls.style.display = 'none';
 
         // Metadata now shown in level indicator bar
         this.updateProgressionUI();
@@ -1159,20 +1287,31 @@ class QuestionApp {
             ? `${this.currentWorld} > ${this.currentRealm}` 
             : (this.currentWorld || this.currentRealm || '');
         const pathParts = [worldRealm, this.currentMission, `Level ${this.currentSchoolLevel}`].filter(p => p);
-        this.levelIndicator.innerHTML = pathParts.join(' > ');
+        const fullPath = pathParts.join(' > ');
+        // Short version for mobile: just mission + level
+        const shortPath = `${this.currentMission || 'Mission'} L${this.currentSchoolLevel}`;
+        this.levelIndicator.innerHTML = `
+            <span class="level-full">${fullPath}</span>
+            <span class="level-short">${shortPath}</span>
+        `;
 
         // Rebuild Power Meter HTML
         const currentPundexIndex = this.pundexTiers.indexOf(this.currentPundex);
         const colors = ['red', 'amber', 'green', 'purple'];
+        const shortNames = ['I', 'C', 'R', 'PU']; // Abbreviated for mobile
         const powerMeterHTML = this.pundexTiers.map((tier, index) => {
             const displayName = this.pundexDisplayNames[tier] || tier;
+            const shortName = shortNames[index];
             let stateClass = '';
             if (index < currentPundexIndex) {
                 stateClass = 'on'; // Mastered
             } else if (index === currentPundexIndex) {
                 stateClass = 'flashing'; // Current
             }
-            return `<div class="power-light ${colors[index]} ${stateClass}">${displayName}</div>`;
+            return `<div class="power-light ${colors[index]} ${stateClass}">
+                <span class="pundex-full">${displayName}</span>
+                <span class="pundex-short">${shortName}</span>
+            </div>`;
         }).join('');
         this.powerMeterEl.innerHTML = powerMeterHTML;
     }
@@ -1211,16 +1350,16 @@ class QuestionApp {
                 const nextPundexName = this.pundexDisplayNames[this.currentPundex] || this.currentPundex;
                 this.showPowerUpAnimation(currentPundexIndex, currentPundexIndex + 1);
             } else {
-                // Level up School Year - all pundex tiers complete for this level
+                // Level up - all pundex tiers complete for this level
                 const currentSchoolLevelIndex = this.schoolLevels.indexOf(String(this.currentSchoolLevel));
                 if (currentSchoolLevelIndex < this.schoolLevels.length - 1) {
+                    const oldLevel = this.currentSchoolLevel;
                     this.currentSchoolLevel = parseInt(this.schoolLevels[currentSchoolLevelIndex + 1]);
                     this.currentPundex = this.pundexTiers[0]; // Reset to Ignition
-                    this.showNotification(`School Year Up! Now at Level ${this.currentSchoolLevel}.`, 'success');
+                    this.showLevelUpAnimation(oldLevel, this.currentSchoolLevel);
                 } else {
                     // Mission Complete
-                    this.showNotification('Congratulations! Mission Complete!', 'success');
-                    this.endSession();
+                    this.showMissionCompleteAnimation();
                     return;
                 }
             }
@@ -1297,6 +1436,59 @@ class QuestionApp {
                 this.updateProgressionUI(); // Update the actual UI
             }, 500);
         }, 2000);
+    }
+
+    /**
+     * Show Level Up animation when advancing to next level
+     */
+    showLevelUpAnimation(oldLevel, newLevel) {
+        const overlay = document.createElement('div');
+        overlay.className = 'level-up-overlay';
+        overlay.innerHTML = `
+            <div class="level-up-content">
+                <div class="level-up-stars">⭐ ⭐ ⭐</div>
+                <div class="level-up-text">LEVEL UP!</div>
+                <div class="level-up-numbers">
+                    <span class="old-level">${oldLevel}</span>
+                    <span class="level-arrow">→</span>
+                    <span class="new-level">${newLevel}</span>
+                </div>
+                <div class="level-up-message">Amazing work! Keep going!</div>
+            </div>
+        `;
+        document.body.appendChild(overlay);
+
+        // Animate the level numbers
+        setTimeout(() => {
+            overlay.querySelector('.old-level').classList.add('shrink');
+            overlay.querySelector('.new-level').classList.add('grow');
+        }, 300);
+
+        // Remove overlay after animation
+        setTimeout(() => {
+            overlay.classList.add('fade-out');
+            setTimeout(() => {
+                overlay.remove();
+                this.updateProgressionUI();
+            }, 500);
+        }, 2500);
+    }
+
+    /**
+     * Show Mission Complete animation
+     */
+    showMissionCompleteAnimation() {
+        const overlay = document.createElement('div');
+        overlay.className = 'mission-complete-overlay';
+        overlay.innerHTML = `
+            <div class="mission-complete-content">
+                <div class="mission-complete-stars">🏆</div>
+                <div class="mission-complete-text">MISSION COMPLETE!</div>
+                <div class="mission-complete-message">You've mastered ${this.currentMission}!</div>
+                <button class="mission-complete-btn" onclick="this.parentElement.parentElement.remove(); window.location.href='Pathway_Selector.html';">Choose Next Mission</button>
+            </div>
+        `;
+        document.body.appendChild(overlay);
     }
 
     /**

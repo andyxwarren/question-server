@@ -143,7 +143,7 @@ const UserAuth = {
 
     /**
      * Create a user header element for pages
-     * @returns {HTMLElement} Header element with user info and logout
+     * @returns {HTMLElement} Header element with avatar and hamburger menu
      */
     createUserHeader() {
         const user = this.getCurrentUser();
@@ -155,20 +155,29 @@ const UserAuth = {
             <style>
                 .user-header {
                     display: flex;
-                    flex-direction: column;
+                    align-items: center;
+                    position: relative;
+                }
+                .user-header-menu-btn {
+                    display: flex;
                     align-items: center;
                     gap: 6px;
-                    padding: 8px 12px;
+                    padding: 4px 10px 4px 4px;
+                    border-radius: 20px;
                     background: rgba(0, 0, 0, 0.7);
                     border: 2px solid #0f0;
-                    border-radius: 8px;
-                    box-shadow: 0 0 10px rgba(0, 255, 0, 0.3);
-                    min-width: 80px;
-                    margin-top: 5vh;
+                    color: #0f0;
+                    font-size: 18px;
+                    cursor: pointer;
+                    transition: all 0.2s;
+                    box-shadow: 0 0 8px rgba(0, 255, 0, 0.3);
+                }
+                .user-header-menu-btn:hover {
+                    background: rgba(0, 255, 0, 0.2);
                 }
                 .user-header-avatar {
-                    width: 32px;
-                    height: 32px;
+                    width: 28px;
+                    height: 28px;
                     border-radius: 50%;
                     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
                     color: white;
@@ -176,67 +185,128 @@ const UserAuth = {
                     align-items: center;
                     justify-content: center;
                     font-weight: 600;
+                    font-size: 11px;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                }
+                .user-header-dropdown {
+                    position: absolute;
+                    top: 100%;
+                    right: 0;
+                    margin-top: 8px;
+                    background: rgba(0, 0, 0, 0.95);
+                    border: 2px solid #0f0;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 20px rgba(0, 255, 0, 0.3);
+                    min-width: 160px;
+                    display: none;
+                    flex-direction: column;
+                    overflow: hidden;
+                    z-index: 1001;
+                }
+                .user-header-dropdown.open {
+                    display: flex;
+                }
+                .user-header-dropdown-header {
+                    padding: 12px;
+                    border-bottom: 1px solid rgba(0, 255, 0, 0.3);
+                    text-align: center;
+                }
+                .user-header-dropdown-name {
+                    font-weight: 600;
+                    color: #0f0;
                     font-size: 12px;
                     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
                 }
-                .user-header-info {
-                    text-align: center;
-                    margin-top: 4px;
-                }
-                .user-header-name {
-                    font-weight: 600;
-                    color: #0f0;
+                .user-header-dropdown-year {
                     font-size: 10px;
-                    font-family: 'Press Start 2P', cursive, monospace;
-                    margin-bottom: 6px;
-                }
-                .user-header-year {
-                    font-size: 8px;
                     color: #0f0;
                     opacity: 0.7;
-                    font-family: 'Press Start 2P', cursive, monospace;
+                    margin-top: 2px;
                 }
-                .user-header-btn {
-                    padding: 4px 8px;
+                .user-header-dropdown-progress {
+                    font-size: 11px;
+                    color: #0ff;
+                    margin-top: 6px;
+                    padding-top: 6px;
+                    border-top: 1px solid rgba(0, 255, 0, 0.2);
+                }
+                .user-header-dropdown-btn {
+                    padding: 12px 16px;
                     background: transparent;
-                    border: 1px solid #0f0;
-                    border-radius: 4px;
+                    border: none;
                     cursor: pointer;
-                    font-size: 7px;
+                    font-size: 13px;
                     color: #0f0;
-                    font-family: 'Press Start 2P', cursive, monospace;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
                     transition: all 0.2s;
-                    width: 100%;
-                }
-                .user-header-btn:hover {
-                    background: #0f0;
-                    color: #000;
-                }
-                .user-header-buttons {
+                    text-align: left;
                     display: flex;
-                    flex-direction: column;
-                    gap: 4px;
-                    width: 100%;
-                    margin-top: 4px;
+                    align-items: center;
+                    gap: 10px;
+                }
+                .user-header-dropdown-btn:hover {
+                    background: rgba(0, 255, 0, 0.2);
+                }
+                .user-header-dropdown-btn:not(:last-child) {
+                    border-bottom: 1px solid rgba(0, 255, 0, 0.1);
+                }
+                .user-header-dropdown-info {
+                    padding: 12px 16px;
+                    font-size: 13px;
+                    color: #0f0;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                    display: flex;
+                    align-items: center;
+                    gap: 10px;
+                    border-bottom: 1px solid rgba(0, 255, 0, 0.1);
+                    background: rgba(0, 255, 0, 0.05);
                 }
             </style>
-            <div class="user-header-avatar">${this.getInitials(user)}</div>
-            <div class="user-header-info">
-                <div class="user-header-name">${user.firstName}</div>
-                <div class="user-header-year">Y${user.yearGroup}</div>
-            </div>
-            <div class="user-header-buttons">
-                <button class="user-header-btn" onclick="window.location.href='Progress_Dashboard_dynamic_levels.html';">
-                    Progress
+            <button class="user-header-menu-btn" id="userMenuBtn" title="Menu">
+                <span class="user-header-avatar">${this.getInitials(user)}</span>
+                <span>☰</span>
+            </button>
+            <div class="user-header-dropdown" id="userMenuDropdown">
+                <div class="user-header-dropdown-header">
+                    <div class="user-header-dropdown-name">${user.firstName} ${user.lastName}</div>
+                    <div class="user-header-dropdown-year">Year ${user.yearGroup}</div>
+                    <div class="user-header-dropdown-progress" id="menuQuestionProgress" style="display:none;">
+                        📝 <span id="menuQuestionCount">Q 1 of 25</span>
+                    </div>
+                </div>
+                <button class="user-header-dropdown-btn" id="menuSaveEndBtn" style="display:none;">
+                    💾 Save & End
                 </button>
-                <button class="user-header-btn" onclick="window.location.href='Pathway_Selector.html';">
-                    Change Mission
+                <button class="user-header-dropdown-btn" onclick="window.location.href='Progress_Dashboard_dynamic_levels.html';">
+                    📊 Progress
                 </button>
-                <button class="user-header-btn" onclick="UserAuth.logout(); window.location.href='login.html';">
-                    Logout
+                <button class="user-header-dropdown-btn" id="menuKeyBtn" style="display:none;">
+                    🔑 Key
+                </button>
+                <button class="user-header-dropdown-btn" onclick="window.location.href='Pathway_Selector.html';">
+                    🎯 Change Mission
+                </button>
+                <button class="user-header-dropdown-btn" onclick="UserAuth.logout(); window.location.href='login.html';">
+                    🚪 Logout
                 </button>
             </div>
         `;
+
+        // Add click handler for hamburger menu
+        const menuBtn = header.querySelector('#userMenuBtn');
+        const dropdown = header.querySelector('#userMenuDropdown');
+        
+        menuBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            dropdown.classList.toggle('open');
+        });
+
+        // Close dropdown when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!header.contains(e.target)) {
+                dropdown.classList.remove('open');
+            }
+        });
 
         return header;
     }

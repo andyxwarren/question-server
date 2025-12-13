@@ -12,8 +12,8 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    height: 100vh;
-    overflow: hidden;
+    min-height: 100vh;
+    overflow-y: auto;
     padding: 10px;
     color: #333;
     margin: 0;
@@ -139,8 +139,8 @@ body {
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: column;
-    height: 100%;
-    overflow: hidden;
+    min-height: 100%;
+    overflow: visible;
 }
 
 h1 {
@@ -206,60 +206,82 @@ h1 {
     flex-shrink: 0;
     display: grid;
     grid-template-areas:
-        "progress controls keyboard hint"
-        "level level level level"
-        "power power power power"
-        "status status status status";
-    grid-template-columns: auto 1fr auto auto;
+        "level usermenu"
+        "hint center";
+    grid-template-columns: 1fr auto;
     align-items: center;
-    gap: 5px 10px;
+    gap: 8px 10px;
+}
+
+#header-user-menu {
+    grid-area: usermenu;
+    justify-self: end;
+}
+
+.header-center-group {
+    grid-area: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
 }
 
 #progress-indicator {
-    grid-area: progress;
+    display: none !important; /* Now in hamburger menu */
+    position: absolute;
 }
 
 #question-metadata {
-    display: none;
+    display: none !important;
+    position: absolute;
+}
+
+#session-controls {
+    display: none !important; /* Now in hamburger menu */
+    position: absolute;
 }
 
 #hint-container {
     grid-area: hint;
-    text-align: right;
+    text-align: left;
+}
+
+#keyboard-toggle-btn {
+    display: none; /* Hidden by default, shown on tablet/laptop */
 }
 
 #progression-status {
-    grid-area: status;
+    text-align: center;
 }
 
 #level-indicator {
     grid-area: level;
+    justify-self: stretch;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
 }
 
-#power-meter {
-    grid-area: power;
+#level-indicator.level-indicator {
+    max-width: none;
+    width: 100%;
 }
 
-#session-controls {
-    grid-area: controls;
-    justify-self: center;
-}
-
-#keyboard-toggle-btn {
-    grid-area: keyboard;
-}
-
-#session-controls .btn {
-    font-size: 13px;
-    padding: 6px 12px;
+.question-content-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: visible;
+    min-height: 0;
 }
 
 .question-card {
     flex: 1;
     display: flex;
     flex-direction: column;
-    overflow: hidden;
-    min-height: 0;
+    overflow: visible;
 }
 
 /* Buttons */
@@ -406,13 +428,13 @@ h1 {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    padding: 6px 0;
+    padding: 6px 12px;
     border-radius: 8px;
-    text-align: center;
+    text-align: left;
     margin: 4px 0;
-    justify-self: center;
+    display: block;
     width: 100%;
-    max-width: 340px; /* Spans across all 4 power lights */
+    box-sizing: border-box;
 }
 
 /* Power Meter Styles */
@@ -433,6 +455,10 @@ h1 {
     border: 2px solid transparent;
     color: #fff;
     opacity: 0.3; /* Default to off */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .power-light.red { --glow-color: #f00; background-color: var(--glow-color); }
@@ -1051,12 +1077,14 @@ margin-bottom: 15px;
 @media (max-width: 600px) {
     body {
         padding: 5px;
-        height: -webkit-fill-available; /* Fix for mobile viewport height */
+        min-height: -webkit-fill-available; /* Fix for mobile viewport height */
+        overflow-y: auto;
     }
 
     .section {
         padding: 10px;
         gap: 5px;
+        overflow: visible;
     }
 
     h1 {
@@ -1071,7 +1099,7 @@ margin-bottom: 15px;
     .question-card {
         padding: 10px;
         flex-grow: 1;
-        min-height: 0;
+        overflow: visible;
     }
 
     .question-text {
@@ -1374,4 +1402,540 @@ margin-bottom: 15px;
         box-shadow: 0 0 30px #8800ff, 0 0 50px #8800ff;
         border-color: #8800ff;
     }
+}
+
+/* ===========================================
+   DEVICE-SPECIFIC LAYOUTS
+   =========================================== */
+
+/* TABLET LAYOUT - Side by side (keyboard on right) */
+.device-tablet .question-header {
+    display: grid;
+    grid-template-areas:
+        "level keyboard usermenu"
+        "center center hint";
+    grid-template-columns: 1fr auto auto;
+    gap: 5px 10px;
+}
+
+.device-tablet #level-indicator {
+    grid-area: level;
+    justify-self: start;
+}
+
+.device-tablet #header-user-menu {
+    grid-area: usermenu;
+}
+
+.device-tablet .header-center-group {
+    grid-area: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.device-tablet #hint-container {
+    grid-area: hint;
+    justify-self: end;
+}
+
+.device-tablet #keyboard-toggle-btn {
+    grid-area: keyboard;
+    justify-self: end;
+    display: flex;
+}
+
+.device-tablet .question-content-wrapper {
+    flex-direction: row;
+    gap: 15px;
+    align-items: stretch;
+}
+
+.device-tablet .question-card {
+    flex: 1;
+    min-width: 0;
+}
+
+.device-tablet #on-screen-keyboard {
+    width: 260px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 0;
+    height: fit-content;
+    align-self: center;
+}
+
+.device-tablet .keyboard-btn {
+    padding: 18px;
+    font-size: 22px;
+}
+
+/* Left-handed mode for tablet */
+.device-tablet.left-handed .question-content-wrapper {
+    flex-direction: row-reverse;
+}
+
+/* PHONE LAYOUT - Stacked, compact, no scroll */
+.device-phone #question-section {
+    height: calc(100vh - 20px);
+    overflow: hidden;
+}
+
+.device-phone .question-content-wrapper {
+    flex-direction: column;
+    flex: 1;
+    min-height: 0;
+}
+
+.device-phone .question-header {
+    flex-shrink: 0;
+    padding: 5px;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 5px;
+    width: 100% !important;
+    align-items: stretch;
+}
+
+/* First row: level indicator stretches, user menu fixed */
+.device-phone #level-indicator {
+    flex: 1 1 0 !important;
+    min-width: 0 !important;
+    width: auto !important;
+    max-width: calc(100% - 90px) !important;
+    order: 1;
+}
+
+.device-phone #header-user-menu {
+    flex: 0 0 auto;
+    order: 2;
+}
+
+/* Line break before second row */
+.device-phone .question-header::before {
+    content: '';
+    flex: 0 0 100%;
+    height: 0;
+    order: 5;
+}
+
+/* Second row: pundex left, hint right */
+.device-phone #hint-container {
+    order: 11 !important;
+    margin-left: auto !important;
+}
+
+.device-phone #hint-container .btn-hint {
+    padding: 8px 14px !important;
+    font-size: 13px !important;
+    line-height: 1 !important;
+    box-sizing: border-box !important;
+}
+
+.device-phone .header-center-group {
+    order: 10 !important;
+    display: contents !important;
+}
+
+.device-phone #power-meter {
+    order: 10 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    flex: 1 !important;
+    gap: 6px !important;
+}
+
+/* Pundex full/short text visibility */
+.pundex-short {
+    display: none;
+}
+
+/* Show all pundex as small circles with abbreviated text on phone */
+.device-phone .power-light {
+    display: flex !important;
+    width: 32px !important;
+    height: 32px !important;
+    min-width: 32px !important;
+    padding: 0 !important;
+    border-radius: 50% !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.device-phone .power-light.flashing {
+    box-shadow: 0 0 10px var(--glow-color);
+}
+
+.device-phone .pundex-full {
+    display: none !important;
+}
+
+.device-phone .pundex-short {
+    display: inline !important;
+}
+
+/* Media query fallback for phone */
+@media (max-width: 767px) {
+    #hint-container {
+        order: 10 !important;
+    }
+    
+    .header-center-group {
+        flex: 0 0 auto !important;
+        order: 10 !important;
+        flex-direction: row !important;
+    }
+}
+
+/* Third row: score boxes full width */
+.device-phone #progression-status {
+    order: 20 !important;
+    display: flex !important;
+    flex: 0 0 100% !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 0 !important;
+}
+
+/* Hide keyboard toggle on phone - keyboard is always visible */
+.device-phone #keyboard-toggle-btn {
+    display: none;
+}
+
+.device-phone .question-card {
+    flex: 1;
+    min-height: 0;
+    overflow: auto;
+}
+
+.device-phone #on-screen-keyboard {
+    flex-shrink: 0;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.device-phone .keyboard-buttons {
+    gap: 4px;
+}
+
+.device-phone .keyboard-btn {
+    padding: 14px;
+    font-size: 20px;
+}
+
+/* Compact header for phone */
+/* On phone, only show the active (flashing) pundex indicator */
+.device-phone .power-light {
+    display: none;
+}
+
+.device-phone .power-light.flashing {
+    display: flex;
+    width: auto;
+    min-width: 80px;
+    height: 26px;
+    font-size: 10px;
+    padding: 0 12px;
+}
+
+.device-phone #level-indicator,
+.device-phone #level-indicator.level-indicator {
+    font-size: 11px;
+    padding: 4px 8px;
+    width: 100% !important;
+    max-width: none !important;
+    display: block !important;
+    box-sizing: border-box;
+    justify-self: stretch;
+    align-self: center;
+}
+
+.device-phone #level-indicator .level-short {
+    display: block !important;
+    width: 100%;
+}
+
+/* Level indicator: show short version on phone, full on larger screens */
+.level-short {
+    display: none;
+}
+
+.device-phone .level-full {
+    display: none;
+}
+
+.device-phone .level-short {
+    display: inline;
+}
+
+.device-phone .progress-boxes {
+    width: 100% !important;
+    justify-content: space-between !important;
+}
+
+.device-phone .progress-box {
+    flex: 1 !important;
+    width: auto !important;
+    max-width: none !important;
+}
+
+.device-phone .progress-box-inner {
+    width: 100% !important;
+    height: 24px !important;
+}
+
+.device-phone .progress-box-number {
+    font-size: 11px;
+}
+
+.device-phone .progress-counters {
+    font-size: 14px;
+}
+
+/* LAPTOP LAYOUT - No keyboard by default, side-by-side when shown */
+.device-laptop .question-header {
+    display: grid;
+    grid-template-areas:
+        "level keyboard usermenu"
+        "center center hint";
+    grid-template-columns: 1fr auto auto;
+    gap: 5px 10px;
+}
+
+.device-laptop #level-indicator {
+    grid-area: level;
+    justify-self: start;
+}
+
+.device-laptop #header-user-menu {
+    grid-area: usermenu;
+}
+
+.device-laptop .header-center-group {
+    grid-area: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.device-laptop #hint-container {
+    grid-area: hint;
+    justify-self: end;
+}
+
+.device-laptop #keyboard-toggle-btn {
+    grid-area: keyboard;
+    justify-self: end;
+    display: flex;
+}
+
+.device-laptop #question-section {
+    max-height: calc(100vh - 40px);
+}
+
+.device-laptop .question-content-wrapper {
+    flex-direction: row;
+    gap: 20px;
+    align-items: stretch;
+}
+
+.device-laptop .question-card {
+    flex: 1;
+    min-width: 0;
+}
+
+/* Keyboard on right side when shown on laptop */
+.device-laptop #on-screen-keyboard:not(.hidden) {
+    width: 280px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 0;
+    height: fit-content;
+    align-self: center;
+}
+
+.device-laptop .keyboard-btn {
+    padding: 14px;
+    font-size: 18px;
+}
+
+/* Left-handed mode for laptop */
+.device-laptop.left-handed .question-content-wrapper {
+    flex-direction: row-reverse;
+}
+
+/* Show keyboard toggle on laptop */
+.device-laptop #keyboard-toggle-btn {
+    display: flex;
+}
+
+/* Level Up Animation Overlay */
+.level-up-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+    animation: fadeIn 0.3s ease-out;
+}
+
+.level-up-overlay.fade-out {
+    animation: fadeOut 0.5s ease-out forwards;
+}
+
+.level-up-content {
+    text-align: center;
+}
+
+.level-up-stars {
+    font-size: 40px;
+    margin-bottom: 20px;
+    animation: starBounce 0.6s ease-in-out infinite alternate;
+}
+
+@keyframes starBounce {
+    from { transform: scale(1); }
+    to { transform: scale(1.2); }
+}
+
+.level-up-text {
+    font-size: 56px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 0 20px #00ff88, 0 0 40px #00ff88, 0 0 60px #00cc66;
+    margin-bottom: 30px;
+    animation: levelPulse 0.4s ease-in-out infinite alternate;
+}
+
+@keyframes levelPulse {
+    from { 
+        text-shadow: 0 0 20px #00ff88, 0 0 40px #00ff88, 0 0 60px #00cc66;
+        transform: scale(1);
+    }
+    to { 
+        text-shadow: 0 0 30px #00ff88, 0 0 60px #00ff88, 0 0 90px #00cc66;
+        transform: scale(1.05);
+    }
+}
+
+.level-up-numbers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 25px;
+}
+
+.old-level, .new-level {
+    font-size: 72px;
+    font-weight: bold;
+    color: #fff;
+    transition: all 0.5s ease;
+}
+
+.old-level {
+    opacity: 0.5;
+}
+
+.old-level.shrink {
+    transform: scale(0.7);
+    opacity: 0.3;
+}
+
+.new-level {
+    color: #00ff88;
+    text-shadow: 0 0 20px #00ff88;
+}
+
+.new-level.grow {
+    transform: scale(1.3);
+    text-shadow: 0 0 30px #00ff88, 0 0 50px #00ff88;
+}
+
+.level-arrow {
+    font-size: 48px;
+    color: #00ff88;
+    animation: arrowPulse 0.5s ease-in-out infinite alternate;
+}
+
+@keyframes arrowPulse {
+    from { opacity: 0.5; transform: translateX(-5px); }
+    to { opacity: 1; transform: translateX(5px); }
+}
+
+.level-up-message {
+    font-size: 20px;
+    color: #aaa;
+    font-weight: 500;
+}
+
+/* Mission Complete Animation Overlay */
+.mission-complete-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.95) 0%, rgba(118, 75, 162, 0.95) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+    animation: fadeIn 0.3s ease-out;
+}
+
+.mission-complete-content {
+    text-align: center;
+}
+
+.mission-complete-stars {
+    font-size: 80px;
+    margin-bottom: 20px;
+    animation: trophyBounce 0.8s ease-in-out infinite;
+}
+
+@keyframes trophyBounce {
+    0%, 100% { transform: scale(1) rotate(-5deg); }
+    50% { transform: scale(1.1) rotate(5deg); }
+}
+
+.mission-complete-text {
+    font-size: 48px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    margin-bottom: 20px;
+}
+
+.mission-complete-message {
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 40px;
+}
+
+.mission-complete-btn {
+    padding: 15px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background: #fff;
+    color: #667eea;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.mission-complete-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
