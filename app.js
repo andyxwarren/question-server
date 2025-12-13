@@ -16,7 +16,8 @@ class QuestionApp {
         this.mcInputTimeout = null; // Timeout for the buffer
         this.activeInput = null; // For on-screen keyboard targeting
         this.adventureLog = []; // Log for CSV export
-        this.userId = this.generateUUID(); // Generate a consistent user ID for the session
+        this.currentUser = typeof UserAuth !== 'undefined' ? UserAuth.getCurrentUser() : null; // Get logged in user
+        this.userId = this.currentUser ? this.currentUser.id : this.generateUUID(); // Use user ID if logged in
         this.batchId = this.generateUUID(); // Generate a consistent batch ID for the session
         this.logFileHandle = null; // For the File System Access API
         this.logQueue = []; // A queue for log entries to be written
@@ -69,6 +70,8 @@ class QuestionApp {
 
         // On-screen keyboard
         this.keyboard = document.getElementById('on-screen-keyboard');
+        this.keyboardToggleBtn = document.getElementById('keyboard-toggle-btn');
+        this.keyboardVisible = true; // Default to visible
 
         // Topic Modal
         this.topicModal = document.getElementById('topic-modal');
@@ -95,6 +98,7 @@ class QuestionApp {
         this.confirmTopicsBtn.addEventListener('click', () => this.confirmTopicSelection());
         this.restartBtn.addEventListener('click', () => this.restart());
         this.enableLoggingBtn.addEventListener('click', () => this.enableLiveLogging());
+        this.keyboardToggleBtn.addEventListener('click', () => this.toggleKeyboardVisibility());
 
         // Use event delegation for dynamically created elements
         this.hintContainer.addEventListener('click', (e) => {
@@ -270,13 +274,33 @@ class QuestionApp {
     }
 
     /**
-     * Show or hide on-screen keyboard
+     * Show or hide on-screen keyboard (based on question type and user preference)
      */
     toggleKeyboard(show) {
-        if (show) {
+        if (show && this.keyboardVisible) {
             this.keyboard.classList.remove('hidden');
+            this.keyboardToggleBtn.classList.add('active');
         } else {
             this.keyboard.classList.add('hidden');
+            if (!show) {
+                // Question type doesn't need keyboard
+                this.keyboardToggleBtn.classList.remove('active');
+            }
+        }
+    }
+
+    /**
+     * Toggle keyboard visibility preference (user toggle)
+     */
+    toggleKeyboardVisibility() {
+        this.keyboardVisible = !this.keyboardVisible;
+        
+        if (this.keyboardVisible) {
+            this.keyboard.classList.remove('hidden');
+            this.keyboardToggleBtn.classList.add('active');
+        } else {
+            this.keyboard.classList.add('hidden');
+            this.keyboardToggleBtn.classList.remove('active');
         }
     }
 
@@ -343,64 +367,32 @@ class QuestionApp {
         }
 
         try {
-            const response = await fetch('Questions/Already Tested by Ads/Existing Missions.csv');
-            const csvText = await response.text();
-
-            // Robust CSV parser to handle quoted fields with commas
-            const parseCsvRow = (row) => {
-                const result = [];
-                let current = '';
-                let inQuotes = false;
-                for (let i = 0; i < row.length; i++) {
-                    const char = row[i];
-                    if (char === '"') {
-                        inQuotes = !inQuotes;
-                    } else if (char === ',' && !inQuotes) {
-                        result.push(current.trim());
-                        current = '';
-                    } else {
-                        current += char;
-                    }
-                }
-                result.push(current.trim());
-                return result;
-            };
-
-            const rows = csvText.split('\n').slice(1).filter(row => row.trim() !== '');
-            const missionMap = new Map();
-            rows.forEach(row => {
-                const columns = parseCsvRow(row);
-                if (columns[3] && columns[8]) { // Column 4 (index 3) is mission, Column 9 (index 8) is filename
-                    missionMap.set(columns[3], {
-                        filename: columns[8],
-                        world: columns[1],
-                        realm: columns[2]
-                    });
-                }
-            });
-
-            const missionData = missionMap.get(missionName);
-
-            if (missionData) {
-                const filePath = `Questions/Already Tested by Ads/${missionData.filename}`;
-                
-                const fileResponse = await fetch(filePath);
-                if (!fileResponse.ok) {
-                    throw new Error(`Failed to fetch question file: ${filePath}`);
-                }
-                const data = await fileResponse.json();
-                this.allQuestions = data.questions;
-                this.currentMission = missionName;
-                this.currentWorld = missionData.world;
-                this.currentRealm = missionData.realm;
-                this.setQuestionPool();
-                this.startQuestions();
-            } else {
-                throw new Error(`Mission '${missionName}' not found in CSV.`);
+            // Convert mission name to filename format (replace spaces/special chars with underscores)
+            const filename = missionName.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, '_') + '.json';
+            const filePath = `Questions/${filename}`;
+            
+            const fileResponse = await fetch(filePath);
+            if (!fileResponse.ok) {
+                throw new Error(`Failed to fetch question file: ${filePath}`);
             }
+            const data = await fileResponse.json();
+            this.allQuestions = data.questions;
+            this.currentMission = missionName;
+            
+            // Get world/realm from first question if available
+            if (data.questions.length > 0) {
+                this.currentWorld = data.questions[0].strand;
+                this.currentRealm = data.questions[0].substrand;
+            }
+            
+            // Load user's saved progress for this mission (overrides URL level param)
+            this.loadUserProgress();
+            
+            this.setQuestionPool();
+            this.startQuestions();
         } catch (error) {
             console.error('Failed to auto-load mission:', error);
-            this.showNotification('Error: Could not load the selected mission.', 'error');
+            this.showNotification(`Error: Could not load mission "${missionName}".`, 'error');
             this.uploadSection.classList.remove('hidden');
             this.questionSection.classList.add('hidden');
         }
@@ -997,9 +989,11 @@ class QuestionApp {
      */
     logAdventure(questionId, userAnswer, isCorrect) {
         const now = new Date().toISOString();
+        const userName = this.currentUser ? `${this.currentUser.firstName} ${this.currentUser.lastName}` : 'Guest';
         const logEntry = {
             serve_id: '',
             user_id: this.userId,
+            user_name: userName,
             question_id: questionId,
             time_served: now, // Simplification
             time_submitted: now,
@@ -1207,14 +1201,17 @@ class QuestionApp {
 
         if (shouldLevelUp) {
             const currentPundexIndex = this.pundexTiers.indexOf(this.currentPundex);
+            
+            // Save the completed pundex tier to user progress
+            this.saveProgress(this.currentMission, this.currentSchoolLevel, this.currentPundex, true);
 
             if (currentPundexIndex < this.pundexTiers.length - 1) {
                 // Level up Pundex
                 this.currentPundex = this.pundexTiers[currentPundexIndex + 1];
                 const nextPundexName = this.pundexDisplayNames[this.currentPundex] || this.currentPundex;
-                this.showNotification(`Level Up! Now at ${nextPundexName} Pundex.`, 'success');
+                this.showPowerUpAnimation(currentPundexIndex, currentPundexIndex + 1);
             } else {
-                // Level up School Year
+                // Level up School Year - all pundex tiers complete for this level
                 const currentSchoolLevelIndex = this.schoolLevels.indexOf(String(this.currentSchoolLevel));
                 if (currentSchoolLevelIndex < this.schoolLevels.length - 1) {
                     this.currentSchoolLevel = parseInt(this.schoolLevels[currentSchoolLevelIndex + 1]);
@@ -1246,6 +1243,116 @@ class QuestionApp {
         if (this.questions.length === 0) {
             this.showNotification(`No questions found for Level ${this.currentSchoolLevel}, ${this.currentPundex} Pundex.`, 'warning');
         }
+    }
+
+    /**
+     * Show Power Up animation when advancing pundex tier
+     */
+    showPowerUpAnimation(completedIndex, nextIndex) {
+        // Create overlay
+        const overlay = document.createElement('div');
+        overlay.className = 'power-up-overlay';
+        overlay.innerHTML = `
+            <div class="power-up-content">
+                <div class="power-up-text">POWER UP!</div>
+                <div class="power-up-meter">
+                    ${this.pundexTiers.map((tier, index) => {
+                        const displayName = this.pundexDisplayNames[tier] || tier;
+                        const colors = ['red', 'amber', 'green', 'purple'];
+                        let stateClass = '';
+                        if (index < completedIndex) {
+                            stateClass = 'on';
+                        } else if (index === completedIndex) {
+                            stateClass = 'filling'; // About to fill
+                        } else if (index === nextIndex) {
+                            stateClass = 'next-glow'; // Will start glowing
+                        }
+                        return `<div class="power-up-light ${colors[index]} ${stateClass}" data-index="${index}">${displayName}</div>`;
+                    }).join('')}
+                </div>
+            </div>
+        `;
+        document.body.appendChild(overlay);
+
+        // Animate: fill the completed one, then glow the next
+        setTimeout(() => {
+            const lights = overlay.querySelectorAll('.power-up-light');
+            // Fill the completed pundex
+            lights[completedIndex].classList.remove('filling');
+            lights[completedIndex].classList.add('on');
+        }, 300);
+
+        setTimeout(() => {
+            const lights = overlay.querySelectorAll('.power-up-light');
+            // Start glowing the next pundex
+            lights[nextIndex].classList.remove('next-glow');
+            lights[nextIndex].classList.add('flashing');
+        }, 800);
+
+        // Remove overlay after animation
+        setTimeout(() => {
+            overlay.classList.add('fade-out');
+            setTimeout(() => {
+                overlay.remove();
+                this.updateProgressionUI(); // Update the actual UI
+            }, 500);
+        }, 2000);
+    }
+
+    /**
+     * Save user progress for a mission/level/pundex
+     */
+    saveProgress(mission, level, pundex, completed) {
+        if (!this.currentUser || typeof UserAuth === 'undefined') {
+            console.log('No user logged in, progress not saved');
+            return;
+        }
+
+        // Get current progress for this mission/level
+        const existingProgress = UserAuth.getProgress(mission, level) || {
+            pundexCompleted: {}
+        };
+
+        // Mark this pundex as completed
+        existingProgress.pundexCompleted[pundex] = {
+            completed: completed,
+            completedAt: new Date().toISOString()
+        };
+
+        // Save back to user
+        UserAuth.updateProgress(mission, level, existingProgress);
+        console.log(`Progress saved: ${mission} Level ${level} - ${pundex} completed`);
+    }
+
+    /**
+     * Load user progress for current mission and set starting point
+     */
+    loadUserProgress() {
+        if (!this.currentUser || !this.currentMission || typeof UserAuth === 'undefined') {
+            return;
+        }
+
+        // Find the user's current position in this mission
+        for (let levelIdx = 0; levelIdx < this.schoolLevels.length; levelIdx++) {
+            const level = parseInt(this.schoolLevels[levelIdx]);
+            const levelProgress = UserAuth.getProgress(this.currentMission, level);
+
+            for (let pundexIdx = 0; pundexIdx < this.pundexTiers.length; pundexIdx++) {
+                const pundex = this.pundexTiers[pundexIdx];
+                const isCompleted = levelProgress?.pundexCompleted?.[pundex]?.completed;
+
+                if (!isCompleted) {
+                    // This is where the user should start
+                    this.currentSchoolLevel = level;
+                    this.currentPundex = pundex;
+                    console.log(`Loaded progress: Starting at Level ${level}, ${pundex}`);
+                    return;
+                }
+            }
+        }
+
+        // If we get here, user has completed everything
+        console.log('User has completed all levels for this mission');
     }
 
     async endSession() {

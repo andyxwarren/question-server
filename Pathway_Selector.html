@@ -365,6 +365,9 @@
     </style>
 </head>
 <body>
+    <!-- User Header -->
+    <div id="userHeaderContainer" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+    
     <div class="container">
         <!-- Page 0: Maths Mode Selection -->
         <div id="mathsModePage" class="page active">
@@ -974,6 +977,23 @@
                     button.classList.add('has-text');
                 }
             });
+        });
+    </script>
+    
+    <!-- User Authentication -->
+    <script src="user-auth.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Require login
+            const user = UserAuth.requireLogin();
+            if (!user) return; // Will redirect to login
+            
+            // Add user header
+            const headerContainer = document.getElementById('userHeaderContainer');
+            const userHeader = UserAuth.createUserHeader();
+            if (userHeader) {
+                headerContainer.appendChild(userHeader);
+            }
         });
     </script>
 </body>

@@ -8,6 +8,9 @@
     <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
 </head>
 <body>
+    <!-- User Header -->
+    <div id="userHeaderContainer" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+    
     <!-- Notification Component -->
     <div id="notification" class="notification hidden">
         <div class="notification-content">
@@ -42,6 +45,7 @@
                 <div id="level-indicator" class="level-indicator"></div>
                 <div id="power-meter" class="power-meter"></div>
                 <div id="session-controls"></div>
+                <button id="keyboard-toggle-btn" class="keyboard-toggle-btn active" title="Toggle on-screen keyboard">⌨️</button>
                 <div id="hint-container"></div>
             </div>
 
@@ -99,6 +103,24 @@
     </div>
 
     <script src="validator.js"></script>
+    <script src="user-auth.js"></script>
     <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Check if user is logged in (but don't force redirect for now)
+            const user = UserAuth.getCurrentUser();
+            if (user) {
+                // Add user header
+                const headerContainer = document.getElementById('userHeaderContainer');
+                const userHeader = UserAuth.createUserHeader();
+                if (userHeader) {
+                    headerContainer.appendChild(userHeader);
+                }
+                console.log('Logged in as:', UserAuth.getFullName(user), '- Year', user.yearGroup);
+            } else {
+                console.log('No user logged in');
+            }
+        });
+    </script>
 </body>
 </html>
