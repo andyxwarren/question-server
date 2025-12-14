@@ -1,0 +1,4002 @@
+[
+    {
+        "question_id": 11157,
+        "question_text": "A pencil is about 15cm long. A rubber is about 3cm long. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "The pencil",
+        "alternative_answer_1": "Pencil",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11158,
+        "question_text": "An apple weighs about 150g. A grape weighs about 5g. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "The apple",
+        "alternative_answer_1": "Apple",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11159,
+        "question_text": "A bottle holds 500ml of water. A spoon holds 5ml. Which has a larger capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "The bottle",
+        "alternative_answer_1": "Bottle",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11160,
+        "question_text": "A chocolate bar costs £1. A packet of crisps costs 50p. Which item is more expensive?",
+        "answer_type": "text_input",
+        "correct_answer": "The chocolate bar",
+        "alternative_answer_1": "Chocolate bar",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11161,
+        "question_text": "A ruler is 30cm long. A book is 25cm long. Which is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "The book",
+        "alternative_answer_1": "Book",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11162,
+        "question_text": "If a bag of sugar is 1kg and a bag of crisps is 30g, which item has a lighter weight?",
+        "answer_type": "text_input",
+        "correct_answer": "The bag of crisps",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11163,
+        "question_text": "A jug holds 1 litre of juice. A glass holds 200ml. Which holds less?",
+        "answer_type": "text_input",
+        "correct_answer": "The glass",
+        "alternative_answer_1": "Glass",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11164,
+        "question_text": "A toy car costs £5. A real car costs £5000. Which costs more?",
+        "answer_type": "text_input",
+        "correct_answer": "The real car",
+        "alternative_answer_1": "Real car",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11165,
+        "question_text": "What is the total cost of an apple at 30p and a banana at 20p?",
+        "answer_type": "text_input",
+        "correct_answer": "50p",
+        "alternative_answer_1": "50 pence",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11166,
+        "question_text": "A piece of string is 10cm long. Another piece is 8cm long. What is their total length?",
+        "answer_type": "text_input",
+        "correct_answer": "18cm",
+        "alternative_answer_1": "18 cm",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11167,
+        "question_text": "You pour 100ml of water and 50ml of juice into a glass. What is the total volume of liquid?",
+        "answer_type": "text_input",
+        "correct_answer": "150ml",
+        "alternative_answer_1": "150 ml",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11168,
+        "question_text": "A bag of sweets weighs 200g. You eat 50g. How much do the remaining sweets weigh?",
+        "answer_type": "text_input",
+        "correct_answer": "150g",
+        "alternative_answer_1": "150 grams",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11169,
+        "question_text": "You have £1. You spend 50p. How much money do you have left?",
+        "answer_type": "text_input",
+        "correct_answer": "50p",
+        "alternative_answer_1": "50 pence",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11170,
+        "question_text": "A rope is 20m long. You cut off 5m. How much rope is left?",
+        "answer_type": "text_input",
+        "correct_answer": "15m",
+        "alternative_answer_1": "15 metres",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11171,
+        "question_text": "A bottle contained 500ml of milk. You drank 100ml. How much milk is left?",
+        "answer_type": "text_input",
+        "correct_answer": "400ml",
+        "alternative_answer_1": "400 ml",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11172,
+        "question_text": "Which is a reasonable estimate for the height of a classroom door: 2 metres or 20 metres?",
+        "answer_type": "text_input",
+        "correct_answer": "2 metres",
+        "alternative_answer_1": "2m",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11173,
+        "question_text": "Which is a reasonable estimate for the weight of an adult cat: 4 grams or 4 kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "4 kilograms",
+        "alternative_answer_1": "4kg",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11174,
+        "question_text": "Estimate the capacity of a kitchen sink. Is it closer to 10 litres or 100 litres?",
+        "answer_type": "text_input",
+        "correct_answer": "10 litres",
+        "alternative_answer_1": "10L",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11175,
+        "question_text": "You buy a comic for £2 and a magazine for £3. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£5",
+        "alternative_answer_1": "5 pounds",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11176,
+        "question_text": "A fence panel is 2m wide. You put two panels side-by-side. What is the total width?",
+        "answer_type": "text_input",
+        "correct_answer": "4m",
+        "alternative_answer_1": "4 metres",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11177,
+        "question_text": "An orange weighs 150g and a lemon weighs 100g. What is their total weight?",
+        "answer_type": "text_input",
+        "correct_answer": "250g",
+        "alternative_answer_1": "250 grams",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11178,
+        "question_text": "You have £10. You get £5 for your birthday. How much do you have in total?",
+        "answer_type": "text_input",
+        "correct_answer": "£15",
+        "alternative_answer_1": "15 pounds",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11179,
+        "question_text": "A book is 3cm thick. Another book is 4cm thick. What is the total thickness?",
+        "answer_type": "text_input",
+        "correct_answer": "7cm",
+        "alternative_answer_1": "7 cm",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11180,
+        "question_text": "A cup holds 250ml. You pour out 50ml. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "200ml",
+        "alternative_answer_1": "200 ml",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11181,
+        "question_text": "A bar of chocolate weighs 100g. You eat a 20g piece. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "80g",
+        "alternative_answer_1": "80 grams",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11182,
+        "question_text": "A garden is 8m long and 5m wide. What is the total distance if you walk all the way around the edge (the perimeter)?",
+        "answer_type": "text_input",
+        "correct_answer": "26m",
+        "alternative_answer_1": "26 metres",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11183,
+        "question_text": "You buy two items costing £1.50 and £2.00. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£3.50",
+        "alternative_answer_1": "3.5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11184,
+        "question_text": "A plank of wood is 2m long. You cut off a piece that is 50cm long. How much is left in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5m",
+        "alternative_answer_1": "1.5 metres",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11185,
+        "question_text": "A bag of flour weighs 1kg. You use 300g for a recipe. How much is left in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "700g",
+        "alternative_answer_1": "700 grams",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11186,
+        "question_text": "A bottle contains 1 litre of juice. You pour a 250ml glass and a 200ml glass. How much is left in the bottle in ml?",
+        "answer_type": "text_input",
+        "correct_answer": "550ml",
+        "alternative_answer_1": "550 ml",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11187,
+        "question_text": "What is the total cost of three pens at 60p each?",
+        "answer_type": "text_input",
+        "correct_answer": "£1.80",
+        "alternative_answer_1": "180p",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11188,
+        "question_text": "You have a £10 note and buy a book for £6.50. How much change do you receive?",
+        "answer_type": "text_input",
+        "correct_answer": "£3.50",
+        "alternative_answer_1": "3.5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11189,
+        "question_text": "Estimate the total length of 4 pencils, if one pencil is about 15cm long.",
+        "answer_type": "text_input",
+        "correct_answer": "60cm",
+        "alternative_answer_1": "about 60cm",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11190,
+        "question_text": "Which is heavier: 3 bags of apples weighing 500g each, or a 1kg bag of sugar?",
+        "answer_type": "text_input",
+        "correct_answer": "3 bags of apples",
+        "alternative_answer_1": "The apples",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11191,
+        "question_text": "A recipe needs 1 litre of milk. You have a 750ml carton. How much more milk do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "250ml",
+        "alternative_answer_1": "250 ml",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11192,
+        "question_text": "How many 20p coins make £2?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11193,
+        "question_text": "A fence is made of 5 panels, each 2m long. What is the total length of the fence?",
+        "answer_type": "text_input",
+        "correct_answer": "10m",
+        "alternative_answer_1": "10 metres",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11194,
+        "question_text": "A box contains 8 books, each weighing 200g. What is the total weight of the books in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "1600g",
+        "alternative_answer_1": "1.6kg",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11195,
+        "question_text": "You pour three 250ml glasses of water from a 1 litre bottle. How much water is left?",
+        "answer_type": "text_input",
+        "correct_answer": "250ml",
+        "alternative_answer_1": "250 ml",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11196,
+        "question_text": "Which is a better estimate for the weight of a bicycle: 15kg or 150kg?",
+        "answer_type": "text_input",
+        "correct_answer": "15kg",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11197,
+        "question_text": "A ribbon is 3m long. You cut it into 6 equal pieces. How long is each piece in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "50cm",
+        "alternative_answer_1": "50 cm",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11198,
+        "question_text": "A shopping bill is £8.75. You pay with a £10 note. What is your change?",
+        "answer_type": "text_input",
+        "correct_answer": "£1.25",
+        "alternative_answer_1": "1.25",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11199,
+        "question_text": "A jug contains 1.5 litres of water. You pour out 800ml. How much is left in ml?",
+        "answer_type": "text_input",
+        "correct_answer": "700ml",
+        "alternative_answer_1": "700 ml",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11200,
+        "question_text": "A bag of 4 apples weighs 600g. Estimate the weight of one apple.",
+        "answer_type": "text_input",
+        "correct_answer": "150g",
+        "alternative_answer_1": "about 150g",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11201,
+        "question_text": "You run 500m every day. How many kilometres do you run in 10 days?",
+        "answer_type": "text_input",
+        "correct_answer": "5km",
+        "alternative_answer_1": "5 kilometres",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11202,
+        "question_text": "Which costs more: 4 sweets at 20p each, or 1 chocolate bar at 90p?",
+        "answer_type": "text_input",
+        "correct_answer": "1 chocolate bar",
+        "alternative_answer_1": "The chocolate bar",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11203,
+        "question_text": "How many 250ml glasses can you fill from a 1.5 litre bottle?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11204,
+        "question_text": "A tower is built with 10 blocks, each 5cm tall. How tall is the tower?",
+        "answer_type": "text_input",
+        "correct_answer": "50cm",
+        "alternative_answer_1": "50 cm",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11205,
+        "question_text": "A car has 4 litres of fuel. The journey uses 2500ml. How much fuel is left in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5L",
+        "alternative_answer_1": "1.5 litres",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11206,
+        "question_text": "A recipe requires 1.2kg of potatoes. You have a 2kg bag. How much will be left over in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "800g",
+        "alternative_answer_1": "800 grams",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11207,
+        "question_text": "You need 2.5kg of flour for a large cake. You have one 1kg bag and one 800g bag. How much more flour do you need in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "700g",
+        "alternative_answer_1": "700 grams",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11208,
+        "question_text": "A family drinks 1.5 litres of milk per day. How many millilitres do they drink in a week?",
+        "answer_type": "text_input",
+        "correct_answer": "10500ml",
+        "alternative_answer_1": "10500",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11209,
+        "question_text": "A rectangular room is 4m long and 3.5m wide. What is its perimeter?",
+        "answer_type": "text_input",
+        "correct_answer": "15m",
+        "alternative_answer_1": "15 metres",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11210,
+        "question_text": "A shopping trip costs £23.45. You pay with a £20 note and a £5 note. How much change do you get?",
+        "answer_type": "text_input",
+        "correct_answer": "£1.55",
+        "alternative_answer_1": "1.55",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11211,
+        "question_text": "A long journey is 450km. If you travel at an average speed of 90km per hour, how many hours will the journey take?",
+        "answer_type": "text_input",
+        "correct_answer": "5 hours",
+        "alternative_answer_1": "5",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11212,
+        "question_text": "A box contains 12 tins of soup, each weighing 400g. If the box itself weighs 200g, what is the total weight in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "5kg",
+        "alternative_answer_1": "5",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11213,
+        "question_text": "Petrol costs £1.50 per litre. You put 20 litres in your car. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£30",
+        "alternative_answer_1": "30",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11214,
+        "question_text": "Which is the better value: a 2-litre bottle of cola for £2.00, or a 1.5-litre bottle for £1.80?",
+        "answer_type": "text_input",
+        "correct_answer": "The 2-litre bottle",
+        "alternative_answer_1": "2 litre bottle",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11215,
+        "question_text": "A tap drips 5ml of water every minute. How much water does it waste in a full day, in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "7.2L",
+        "alternative_answer_1": "7.2 litres",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11216,
+        "question_text": "A running track is 400m long. To run 5km, how many full laps do you need to complete?",
+        "answer_type": "text_input",
+        "correct_answer": "12.5",
+        "alternative_answer_1": "12 and a half",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11217,
+        "question_text": "You need to make 3 litres of squash. The instructions say to use 1 part concentrate to 4 parts water. How much concentrate do you need in ml?",
+        "answer_type": "text_input",
+        "correct_answer": "600ml",
+        "alternative_answer_1": "600",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11218,
+        "question_text": "A pack of 8 batteries costs £5.60. What is the cost per battery?",
+        "answer_type": "text_input",
+        "correct_answer": "70p",
+        "alternative_answer_1": "£0.70",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11219,
+        "question_text": "A plank is 5m long. You cut it into pieces that are 80cm long. How many full 80cm pieces can you cut?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11220,
+        "question_text": "A car travels 12km on 1 litre of fuel. If it has 5 litres in the tank, how far can it travel?",
+        "answer_type": "text_input",
+        "correct_answer": "60km",
+        "alternative_answer_1": "60 kilometres",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11221,
+        "question_text": "Estimate the total weight of a class of 30 children, if the average child weighs about 40kg.",
+        "answer_type": "text_input",
+        "correct_answer": "1200kg",
+        "alternative_answer_1": "1.2 tonnes",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11222,
+        "question_text": "A phone bill is £15 per month plus 10p per minute for extra calls. If you make 30 minutes of extra calls, what is the total bill?",
+        "answer_type": "text_input",
+        "correct_answer": "£18",
+        "alternative_answer_1": "18 pounds",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11223,
+        "question_text": "A garden measures 10m by 12m. What is its area in square metres?",
+        "answer_type": "text_input",
+        "correct_answer": "120 square metres",
+        "alternative_answer_1": "120m²",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11224,
+        "question_text": "A train travels 200km in 2.5 hours. What is its average speed in km per hour?",
+        "answer_type": "text_input",
+        "correct_answer": "80km/h",
+        "alternative_answer_1": "80",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11225,
+        "question_text": "You mix 500g of flour with 250g of sugar and 150g of butter. What is the total weight of the mixture in kg?",
+        "answer_type": "text_input",
+        "correct_answer": "0.9kg",
+        "alternative_answer_1": "0.9",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11226,
+        "question_text": "A swimming pool is 25m long. How many lengths do you need to swim to complete 1km?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "Forty",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11227,
+        "question_text": "A film starts at 18:45 and ends at 21:05. How long is the film in hours and minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "2 hours and 20 minutes",
+        "alternative_answer_1": "140 minutes",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11228,
+        "question_text": "A cube has a side length of 10cm. What is its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "1000 cubic centimetres",
+        "alternative_answer_1": "1000cm³",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11229,
+        "question_text": "You get a 10% discount on a £40 item. How much do you pay?",
+        "answer_type": "text_input",
+        "correct_answer": "£36",
+        "alternative_answer_1": "36",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11230,
+        "question_text": "A map has a scale where 1cm represents 2km. The distance on the map is 8.5cm. What is the real distance?",
+        "answer_type": "text_input",
+        "correct_answer": "17km",
+        "alternative_answer_1": "17",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11231,
+        "question_text": "A water tank holds 500 litres. It is 75% full. How many litres of water are in the tank?",
+        "answer_type": "text_input",
+        "correct_answer": "375 litres",
+        "alternative_answer_1": "375L",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11232,
+        "question_text": "A rectangular field is 120m long and has a perimeter of 400m. What is its width?",
+        "answer_type": "text_input",
+        "correct_answer": "80m",
+        "alternative_answer_1": "80 metres",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11233,
+        "question_text": "A car's fuel tank holds 50 litres. It uses fuel at a rate of 8 litres per 100km. If you start with a full tank and drive 350km, how much fuel is left?",
+        "answer_type": "text_input",
+        "correct_answer": "22 litres",
+        "alternative_answer_1": "22L",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11234,
+        "question_text": "The exchange rate is £1 = €1.15. You want to buy a camera that costs €230. How much will it cost in pounds?",
+        "answer_type": "text_input",
+        "correct_answer": "£200",
+        "alternative_answer_1": "200 pounds",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11235,
+        "question_text": "A recipe for 4 people requires 500g of pasta. How much pasta would you need for 10 people?",
+        "answer_type": "text_input",
+        "correct_answer": "1250g",
+        "alternative_answer_1": "1.25kg",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11236,
+        "question_text": "You invest £2000 in a savings account with 5% annual interest. How much money will you have after one year?",
+        "answer_type": "text_input",
+        "correct_answer": "£2100",
+        "alternative_answer_1": "2100",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11237,
+        "question_text": "A fish tank is a cuboid measuring 80cm long, 50cm wide, and 40cm high. What is its volume in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "160 litres",
+        "alternative_answer_1": "160L",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11238,
+        "question_text": "A runner completes a 10km race in 45 minutes. What was their average speed in kilometres per hour?",
+        "answer_type": "text_input",
+        "correct_answer": "13.33 km/h",
+        "alternative_answer_1": "13.3",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11239,
+        "question_text": "A shop offers a buy 2 get 1 free deal on T-shirts that cost £12 each. What is the effective cost per T-shirt if you get 3?",
+        "answer_type": "text_input",
+        "correct_answer": "£8",
+        "alternative_answer_1": "8 pounds",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11240,
+        "question_text": "A cylindrical water butt is 1.5m high and has a volume of 300 litres. If it currently contains 120 litres, how high is the water level in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "60cm",
+        "alternative_answer_1": "60 cm",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11241,
+        "question_text": "A car is sold for £8,000, which is a 20% loss on its original price. What was the original price?",
+        "answer_type": "text_input",
+        "correct_answer": "£10,000",
+        "alternative_answer_1": "10000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11242,
+        "question_text": "The population of a town grew from 25,000 to 28,000. What was the percentage increase?",
+        "answer_type": "text_input",
+        "correct_answer": "12%",
+        "alternative_answer_1": "12 percent",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11243,
+        "question_text": "A map scale is 1:50,000. The distance between two points on the map is 6cm. What is the real distance in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "3km",
+        "alternative_answer_1": "3",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11244,
+        "question_text": "A bath is being filled at a rate of 15 litres per minute. It has a capacity of 120 litres. How long will it take to fill?",
+        "answer_type": "text_input",
+        "correct_answer": "8 minutes",
+        "alternative_answer_1": "8",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11245,
+        "question_text": "A circular pond has a radius of 5m. What is its area? (Use π ≈ 3.14)",
+        "answer_type": "text_input",
+        "correct_answer": "78.5 m²",
+        "alternative_answer_1": "78.5",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11246,
+        "question_text": "A company's share price increased by 15% from £2.00. What is the new share price?",
+        "answer_type": "text_input",
+        "correct_answer": "£2.30",
+        "alternative_answer_1": "2.3",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11247,
+        "question_text": "A room requires 24 square metres of carpet. The carpet costs £18 per square metre. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£432",
+        "alternative_answer_1": "432",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11248,
+        "question_text": "A recipe needs flour, sugar, and butter in the ratio 3:2:1. If you use 150g of butter, how much flour do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "450g",
+        "alternative_answer_1": "450",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11249,
+        "question_text": "A car depreciates in value by 20% in its first year. If it was bought for £15,000, what is its value after one year?",
+        "answer_type": "text_input",
+        "correct_answer": "£12,000",
+        "alternative_answer_1": "12000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11250,
+        "question_text": "You mix 2 litres of orange juice with 500ml of pineapple juice. What is the percentage of pineapple juice in the final mixture?",
+        "answer_type": "text_input",
+        "correct_answer": "20%",
+        "alternative_answer_1": "20 percent",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11251,
+        "question_text": "A journey of 200 miles takes 4 hours. How long would a journey of 350 miles take at the same average speed?",
+        "answer_type": "text_input",
+        "correct_answer": "7 hours",
+        "alternative_answer_1": "7",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11252,
+        "question_text": "A phone costs £500 plus 20% VAT. What is the total price?",
+        "answer_type": "text_input",
+        "correct_answer": "£600",
+        "alternative_answer_1": "600",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11253,
+        "question_text": "A builder mixes sand and cement in a 4:1 ratio. If he uses 80kg of sand, how much cement does he need?",
+        "answer_type": "text_input",
+        "correct_answer": "20kg",
+        "alternative_answer_1": "20",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11254,
+        "question_text": "The area of a rectangle is 48 cm². Its length is 8cm. What is its perimeter?",
+        "answer_type": "text_input",
+        "correct_answer": "28cm",
+        "alternative_answer_1": "28",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11255,
+        "question_text": "A water tank is a cylinder with a radius of 1m and a height of 2m. What is its volume in cubic metres? (Use π ≈ 3.14)",
+        "answer_type": "text_input",
+        "correct_answer": "6.28 m³",
+        "alternative_answer_1": "6.28",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 11256,
+        "question_text": "A train travels at 120km/h. How many kilometres does it travel in 2 hours and 15 minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "270km",
+        "alternative_answer_1": "270",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 490
+    },
+    {
+        "question_id": 19952,
+        "question_text": "Which is longer, a pencil or a table?",
+        "answer_type": "text_input",
+        "correct_answer": "a table",
+        "alternative_answer_1": "table",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19953,
+        "question_text": "Which is heavier, a feather or a book?",
+        "answer_type": "text_input",
+        "correct_answer": "a book",
+        "alternative_answer_1": "book",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19954,
+        "question_text": "Which takes a longer time: brushing your teeth or sleeping at night?",
+        "answer_type": "text_input",
+        "correct_answer": "sleeping at night",
+        "alternative_answer_1": "sleeping",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19955,
+        "question_text": "Look at your hand and your foot. Which one is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "foot",
+        "alternative_answer_1": "my foot",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19956,
+        "question_text": "What unit might you use to measure the length of your finger if you did not have a ruler?",
+        "answer_type": "text_input",
+        "correct_answer": "paperclips",
+        "alternative_answer_1": "cubes",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19957,
+        "question_text": "Is a car heavier or lighter than a bicycle?",
+        "answer_type": "text_input",
+        "correct_answer": "heavier",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19958,
+        "question_text": "Which container holds more water: a cup or a bucket?",
+        "answer_type": "text_input",
+        "correct_answer": "a bucket",
+        "alternative_answer_1": "bucket",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19959,
+        "question_text": "Does it take a shorter time to clap your hands or to eat your lunch?",
+        "answer_type": "text_input",
+        "correct_answer": "clap your hands",
+        "alternative_answer_1": "clapping",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19960,
+        "question_text": "My book is 5 blocks long. Your book is 7 blocks long. Whose book is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "your book",
+        "alternative_answer_1": "yours",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19961,
+        "question_text": "An apple is put on a balance scale with a stone. The apple goes up. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "the stone",
+        "alternative_answer_1": "stone",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19962,
+        "question_text": "Which event takes longer: watching a film or tying your shoelaces?",
+        "answer_type": "text_input",
+        "correct_answer": "watching a film",
+        "alternative_answer_1": "the film",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19963,
+        "question_text": "To measure how tall a door is, would it be better to use paperclips or footsteps?",
+        "answer_type": "text_input",
+        "correct_answer": "footsteps",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19964,
+        "question_text": "Which is lighter: a chair or a sofa?",
+        "answer_type": "text_input",
+        "correct_answer": "a chair",
+        "alternative_answer_1": "chair",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19965,
+        "question_text": "Which holds less: a teaspoon or a jug?",
+        "answer_type": "text_input",
+        "correct_answer": "a teaspoon",
+        "alternative_answer_1": "teaspoon",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19966,
+        "question_text": "Which happens in a shorter amount of time: blinking or reading a book?",
+        "answer_type": "text_input",
+        "correct_answer": "blinking",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19967,
+        "question_text": "A tower is 10 cubes high. A car is 3 cubes high. Which is taller?",
+        "answer_type": "text_input",
+        "correct_answer": "the tower",
+        "alternative_answer_1": "tower",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19968,
+        "question_text": "A bag of sugar feels heavier than a bag of crisps. Which has more mass?",
+        "answer_type": "text_input",
+        "correct_answer": "the bag of sugar",
+        "alternative_answer_1": "sugar",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19969,
+        "question_text": "Which takes a very short time: counting to 3 or counting to 100?",
+        "answer_type": "text_input",
+        "correct_answer": "counting to 3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19970,
+        "question_text": "Which is taller, a giraffe or a cat?",
+        "answer_type": "text_input",
+        "correct_answer": "a giraffe",
+        "alternative_answer_1": "giraffe",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19971,
+        "question_text": "A brick and a sponge are the same size. Which do you think is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "the brick",
+        "alternative_answer_1": "brick",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19972,
+        "question_text": "Does a swimming pool hold more or less water than a bath?",
+        "answer_type": "text_input",
+        "correct_answer": "more",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19973,
+        "question_text": "What is a long time for a journey: one minute or one hour?",
+        "answer_type": "text_input",
+        "correct_answer": "one hour",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19974,
+        "question_text": "My desk is 8 handspans wide. The window is 12 handspans wide. Which is wider?",
+        "answer_type": "text_input",
+        "correct_answer": "the window",
+        "alternative_answer_1": "window",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19975,
+        "question_text": "You have a bag of feathers and a bag of stones. Which is lighter?",
+        "answer_type": "text_input",
+        "correct_answer": "the bag of feathers",
+        "alternative_answer_1": "feathers",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19976,
+        "question_text": "Which is a short time: one second or one hour?",
+        "answer_type": "text_input",
+        "correct_answer": "one second",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19977,
+        "question_text": "A pencil measures 15 centimetres. Write this measurement down.",
+        "answer_type": "text_input",
+        "correct_answer": "15 cm",
+        "alternative_answer_1": "15cm",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19978,
+        "question_text": "A bag of flour weighs 1 kilogram. Write this measurement down.",
+        "answer_type": "text_input",
+        "correct_answer": "1 kg",
+        "alternative_answer_1": "1kg",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19979,
+        "question_text": "A bottle holds 500 millilitres of water. Write this measurement down.",
+        "answer_type": "text_input",
+        "correct_answer": "500 ml",
+        "alternative_answer_1": "500ml",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19980,
+        "question_text": "You look at an analogue clock. The big hand is on the 12 and the little hand is on the 3. What time is it?",
+        "answer_type": "text_input",
+        "correct_answer": "3 o'clock",
+        "alternative_answer_1": "03:00",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19981,
+        "question_text": "A ruler shows a line is 8 cm long. How do you write this?",
+        "answer_type": "text_input",
+        "correct_answer": "8 cm",
+        "alternative_answer_1": "8cm",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19982,
+        "question_text": "A scale shows a weight of 5 kilograms. How do you write this?",
+        "answer_type": "text_input",
+        "correct_answer": "5 kg",
+        "alternative_answer_1": "5kg",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19983,
+        "question_text": "A measuring jug has 1 litre of liquid. How do you write this?",
+        "answer_type": "text_input",
+        "correct_answer": "1 litre",
+        "alternative_answer_1": "1 l",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19984,
+        "question_text": "An event takes 30 seconds. Write this measurement of time.",
+        "answer_type": "text_input",
+        "correct_answer": "30 seconds",
+        "alternative_answer_1": "30s",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19985,
+        "question_text": "You measure a book to be 25 cm high. How do you record this?",
+        "answer_type": "text_input",
+        "correct_answer": "25 cm",
+        "alternative_answer_1": "25cm",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19986,
+        "question_text": "The mass of a cat is 4 kg. How would you write that down?",
+        "answer_type": "text_input",
+        "correct_answer": "4 kg",
+        "alternative_answer_1": "4kg",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19987,
+        "question_text": "A swimming race took 58 seconds. Record this time.",
+        "answer_type": "text_input",
+        "correct_answer": "58 seconds",
+        "alternative_answer_1": "58s",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19988,
+        "question_text": "A carton of juice holds 1 litre. How would you record this capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "1 litre",
+        "alternative_answer_1": "1 l",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19989,
+        "question_text": "Which is a unit of length: kilograms or metres?",
+        "answer_type": "text_input",
+        "correct_answer": "metres",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19990,
+        "question_text": "Which is a unit of mass: seconds or grams?",
+        "answer_type": "text_input",
+        "correct_answer": "grams",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19991,
+        "question_text": "Which is a unit of capacity: litres or centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "litres",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19992,
+        "question_text": "Which is a unit of time: kilograms or minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19993,
+        "question_text": "A door is about 2 metres tall. Write this measurement.",
+        "answer_type": "text_input",
+        "correct_answer": "2 metres",
+        "alternative_answer_1": "2m",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19994,
+        "question_text": "A small bag of sugar is 500 grams. Write this mass.",
+        "answer_type": "text_input",
+        "correct_answer": "500 grams",
+        "alternative_answer_1": "500g",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19995,
+        "question_text": "The clock shows half past four. How would you write this digitally?",
+        "answer_type": "text_input",
+        "correct_answer": "04:30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19996,
+        "question_text": "Which is heavier, 1 kilogram or 1 gram?",
+        "answer_type": "text_input",
+        "correct_answer": "1 kilogram",
+        "alternative_answer_1": "1kg",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19997,
+        "question_text": "Which is longer, 1 centimetre or 1 metre?",
+        "answer_type": "text_input",
+        "correct_answer": "1 metre",
+        "alternative_answer_1": "1m",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19998,
+        "question_text": "Which is more, 1 litre or 1 millilitre?",
+        "answer_type": "text_input",
+        "correct_answer": "1 litre",
+        "alternative_answer_1": "1l",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 19999,
+        "question_text": "A lesson lasts for 1 hour. Write this down.",
+        "answer_type": "text_input",
+        "correct_answer": "1 hour",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20000,
+        "question_text": "A ruler is 30 centimetres long. Record this length.",
+        "answer_type": "text_input",
+        "correct_answer": "30 cm",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20001,
+        "question_text": "A bag of apples weighs 2 kg. Record this mass.",
+        "answer_type": "text_input",
+        "correct_answer": "2 kg",
+        "alternative_answer_1": "2kg",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20002,
+        "question_text": "A piece of wood is 1 metre and 25 centimetres long. Record its length in metres.",
+        "answer_type": "text_input",
+        "correct_answer": "1.25m",
+        "alternative_answer_1": "1.25",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20003,
+        "question_text": "A weight is 2 kilograms and 500 grams. Record this mass in kilograms.",
+        "answer_type": "text_input",
+        "correct_answer": "2.5 kg",
+        "alternative_answer_1": "2.5",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20004,
+        "question_text": "A jug holds 1 litre and 500 millilitres. Record this capacity in litres.",
+        "answer_type": "text_input",
+        "correct_answer": "1.5 litres",
+        "alternative_answer_1": "1.5",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20005,
+        "question_text": "A film lasts for 1 hour and 30 minutes. How many minutes is this in total?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90 minutes",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20006,
+        "question_text": "A snake is 1m 10cm long. Write its length in centimetres only.",
+        "answer_type": "text_input",
+        "correct_answer": "110",
+        "alternative_answer_1": "110 cm",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20007,
+        "question_text": "A bag contains 3kg 50g of potatoes. How many grams is this in total?",
+        "answer_type": "text_input",
+        "correct_answer": "3050",
+        "alternative_answer_1": "3050g",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20008,
+        "question_text": "A bucket holds 2l 250ml of water. How many millilitres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "2250",
+        "alternative_answer_1": "2250ml",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20009,
+        "question_text": "A meeting starts at 9:00 AM and finishes at 10:15 AM. How long did it last in minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "75 minutes",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20010,
+        "question_text": "A table is 1.5 metres long. What is this length in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150 cm",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20011,
+        "question_text": "A box weighs 2.2 kg. What is this weight in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "2200",
+        "alternative_answer_1": "2200 g",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20012,
+        "question_text": "A bottle contains 1.75 litres of juice. What is this capacity in millilitres?",
+        "answer_type": "text_input",
+        "correct_answer": "1750",
+        "alternative_answer_1": "1750 ml",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20013,
+        "question_text": "A race took 2 minutes and 10 seconds. How many seconds was the race?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "130 seconds",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20014,
+        "question_text": "Record the length one and a quarter metres in centimetres.",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "125 cm",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20015,
+        "question_text": "Record the mass three and a half kilograms in grams.",
+        "answer_type": "text_input",
+        "correct_answer": "3500",
+        "alternative_answer_1": "3500 g",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20016,
+        "question_text": "A journey took 120 minutes. How many hours is this?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2 hours",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20017,
+        "question_text": "A fence is 300 cm long. Record its length in metres.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 m",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20018,
+        "question_text": "A bag of sand weighs 5000 grams. Record its mass in kilograms.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5 kg",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20019,
+        "question_text": "A large pot holds 4000 ml. Record its capacity in litres.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4 litres",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20020,
+        "question_text": "A song is 180 seconds long. How many minutes is this?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 minutes",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20021,
+        "question_text": "A boy is 1.4 metres tall. What is his height in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "140",
+        "alternative_answer_1": "140 cm",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20022,
+        "question_text": "A cake needs 250g of butter. How many kilograms is this?",
+        "answer_type": "text_input",
+        "correct_answer": "0.25",
+        "alternative_answer_1": "0.25 kg",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20023,
+        "question_text": "A race starts at 2:30 PM and ends at 3:00 PM. How many seconds did it last?",
+        "answer_type": "text_input",
+        "correct_answer": "1800",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20024,
+        "question_text": "Which is longer: 1200 metres or 1 kilometre?",
+        "answer_type": "text_input",
+        "correct_answer": "1200 metres",
+        "alternative_answer_1": "1200m",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20025,
+        "question_text": "Which is heavier: 1.5 kilograms or 1600 grams?",
+        "answer_type": "text_input",
+        "correct_answer": "1600 grams",
+        "alternative_answer_1": "1600g",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20026,
+        "question_text": "Which holds more: 2.5 litres or 2400 millilitres?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5 litres",
+        "alternative_answer_1": "2.5l",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20027,
+        "question_text": "A runner completes a lap in 1 minute and 15 seconds. If she runs 4 laps at the same pace, what is her total time in minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5 minutes",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20028,
+        "question_text": "A carpenter has a piece of wood 2 metres long. He cuts off 75cm. How much is left, in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.25",
+        "alternative_answer_1": "1.25 m",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20029,
+        "question_text": "A box contains 12 cans, each weighing 400g. What is the total weight of the cans in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "4.8",
+        "alternative_answer_1": "4.8 kg",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20030,
+        "question_text": "A tap drips 5ml of water every minute. How much water does it drip in one hour, in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.3",
+        "alternative_answer_1": "0.3 l",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20031,
+        "question_text": "A train journey starts at 09:45 and ends at 11:15. How long was the journey in hours?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "1 1/2 hours",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20032,
+        "question_text": "The perimeter of a square field is 2 kilometres. What is the length of one side in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "500 m",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20033,
+        "question_text": "A bag of potatoes weighs 2.5 kg. A bag of carrots weighs 800g. What is their total weight in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "3.3",
+        "alternative_answer_1": "3.3 kg",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20034,
+        "question_text": "A swimming pool is filled at a rate of 100 litres per hour. How long will it take to fill a 1,500 litre pool?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 hours",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20035,
+        "question_text": "A film lasts 135 minutes. If it starts at 7:00 PM, what time does it finish?",
+        "answer_type": "text_input",
+        "correct_answer": "9:15 PM",
+        "alternative_answer_1": "09:15",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20036,
+        "question_text": "A path is 1.8km long. If you walk 2/3 of the path, how many metres have you walked?",
+        "answer_type": "text_input",
+        "correct_answer": "1200",
+        "alternative_answer_1": "1200 m",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20037,
+        "question_text": "A cake recipe needs 0.25kg of flour. How many cakes can you make from a 2kg bag of flour?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20038,
+        "question_text": "A bottle contains 1.5 litres of liquid. You pour out 3 glasses of 200ml each. How much is left in the bottle in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.9",
+        "alternative_answer_1": "0.9 l",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20039,
+        "question_text": "A flight takes 4 hours and 45 minutes. How many minutes is the flight?",
+        "answer_type": "text_input",
+        "correct_answer": "285",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20040,
+        "question_text": "A rectangle has a length of 2m and a width of 50cm. What is its perimeter in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5 m",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20041,
+        "question_text": "A box weighs 1.2kg. It contains 10 books, each weighing 100g. What is the total weight of the box and books in kg?",
+        "answer_type": "text_input",
+        "correct_answer": "2.2",
+        "alternative_answer_1": "2.2 kg",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20042,
+        "question_text": "A container holds 5 litres. It is 3/4 full. How many millilitres of liquid are in the container?",
+        "answer_type": "text_input",
+        "correct_answer": "3750",
+        "alternative_answer_1": "3750 ml",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20043,
+        "question_text": "A meeting was scheduled to last 90 minutes. It overran by 25%. How long did the meeting last in minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "112.5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20044,
+        "question_text": "A spider crawls 50cm in 30 seconds. If it keeps this pace, how far will it crawl in 5 minutes in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5 m",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20045,
+        "question_text": "A recipe for 4 people needs 500g of pasta. How much pasta is needed for 5 people, in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "0.625",
+        "alternative_answer_1": "0.625 kg",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20046,
+        "question_text": "A car travels at 60 miles per hour. How long does it take to travel 15 miles, in minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20047,
+        "question_text": "A jug contains 2 litres of water. 25% is used. How many millilitres are left?",
+        "answer_type": "text_input",
+        "correct_answer": "1500",
+        "alternative_answer_1": "1500 ml",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20048,
+        "question_text": "The total length of 8 identical pipes is 12 metres. What is the length of one pipe in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150 cm",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20049,
+        "question_text": "A bucket weighs 5.2kg when full of water. When half full, it weighs 3.1kg. What is the weight of the empty bucket?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1 kg",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20050,
+        "question_text": "A movie is 2.5 hours long. If you are 40% of the way through, how many minutes have you watched?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20051,
+        "question_text": "A tank is 2m long, 50cm wide, and 50cm deep. What is its volume in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "500 litres",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 229
+    },
+    {
+        "question_id": 20731,
+        "question_text": "To measure the length of a pencil, would you use metres or centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "centimetres",
+        "alternative_answer_1": "cm",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20732,
+        "question_text": "To measure the weight of an apple, would you use kilograms or grams?",
+        "answer_type": "text_input",
+        "correct_answer": "grams",
+        "alternative_answer_1": "g",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20733,
+        "question_text": "What is a good estimate for the length of a classroom: 10 centimetres or 10 metres?",
+        "answer_type": "text_input",
+        "correct_answer": "10 metres",
+        "alternative_answer_1": "10m",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20734,
+        "question_text": "You are measuring a small book. Would 20 cm or 20 m be a better estimate for its length?",
+        "answer_type": "text_input",
+        "correct_answer": "20 cm",
+        "alternative_answer_1": "20cm",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20735,
+        "question_text": "To weigh a person, should you use grams or kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "kilograms",
+        "alternative_answer_1": "kg",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20736,
+        "question_text": "A ruler is used to measure length. What is the standard unit marked on a small school ruler?",
+        "answer_type": "text_input",
+        "correct_answer": "centimetres",
+        "alternative_answer_1": "cm",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20737,
+        "question_text": "A bag of sugar feels quite heavy. Would you expect it to weigh 1 gram or 1 kilogram?",
+        "answer_type": "text_input",
+        "correct_answer": "1 kilogram",
+        "alternative_answer_1": "1kg",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20738,
+        "question_text": "Which unit would you use to measure the height of a door?",
+        "answer_type": "text_input",
+        "correct_answer": "metres",
+        "alternative_answer_1": "m",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20739,
+        "question_text": "Which unit is best for measuring the weight of a single crisp?",
+        "answer_type": "text_input",
+        "correct_answer": "grams",
+        "alternative_answer_1": "g",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20740,
+        "question_text": "Is the height of a house more likely to be 10 metres or 10 centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "10 metres",
+        "alternative_answer_1": "10m",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20741,
+        "question_text": "To weigh a large dog, which unit is more appropriate: g or kg?",
+        "answer_type": "text_input",
+        "correct_answer": "kg",
+        "alternative_answer_1": "kilograms",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20742,
+        "question_text": "You are measuring the width of your thumbnail. Which unit should you use, metres or centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "centimetres",
+        "alternative_answer_1": "cm",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20743,
+        "question_text": "What does a scale measure?",
+        "answer_type": "text_input",
+        "correct_answer": "mass",
+        "alternative_answer_1": "weight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20744,
+        "question_text": "Estimate the length of a new pencil. Is it closer to 15cm or 15m?",
+        "answer_type": "text_input",
+        "correct_answer": "15cm",
+        "alternative_answer_1": "15 cm",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20745,
+        "question_text": "A large bottle of water is likely to weigh 2 grams or 2 kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "2 kilograms",
+        "alternative_answer_1": "2kg",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20746,
+        "question_text": "What tool do you use to measure length in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "a ruler",
+        "alternative_answer_1": "ruler",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20747,
+        "question_text": "Which is a better unit for the length of a bus: cm or m?",
+        "answer_type": "text_input",
+        "correct_answer": "m",
+        "alternative_answer_1": "metres",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20748,
+        "question_text": "Which unit would you use for the weight of a feather?",
+        "answer_type": "text_input",
+        "correct_answer": "grams",
+        "alternative_answer_1": "g",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20749,
+        "question_text": "Estimate the height of a coffee mug. Is it about 10cm or 10m?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10 cm",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20750,
+        "question_text": "You want to weigh a lorry. What unit should you use?",
+        "answer_type": "text_input",
+        "correct_answer": "tonnes",
+        "alternative_answer_1": "kilograms",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20751,
+        "question_text": "What is the most appropriate unit to measure the length of an ant?",
+        "answer_type": "text_input",
+        "correct_answer": "millimetres",
+        "alternative_answer_1": "mm",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20752,
+        "question_text": "A single grape would be weighed in grams or kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "grams",
+        "alternative_answer_1": "g",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20753,
+        "question_text": "To measure the length of a football pitch, what is the best unit to use?",
+        "answer_type": "text_input",
+        "correct_answer": "metres",
+        "alternative_answer_1": "m",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20754,
+        "question_text": "What tool do you use to measure your weight?",
+        "answer_type": "text_input",
+        "correct_answer": "a scale",
+        "alternative_answer_1": "scales",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20755,
+        "question_text": "A small paperclip weighs about 1 gram. A bag of apples weighs about 1 kilogram. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "the bag of apples",
+        "alternative_answer_1": "1 kilogram",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20756,
+        "question_text": "To measure the water in a swimming pool, would you use millilitres or litres?",
+        "answer_type": "text_input",
+        "correct_answer": "litres",
+        "alternative_answer_1": "l",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20757,
+        "question_text": "What tool do you use to measure temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "a thermometer",
+        "alternative_answer_1": "thermometer",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20758,
+        "question_text": "A hot day in the UK might be 25 degrees what? (Celsius or kilograms)",
+        "answer_type": "text_input",
+        "correct_answer": "Celsius",
+        "alternative_answer_1": "°C",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20759,
+        "question_text": "A small glass of juice might hold 200 millilitres or 200 litres? Which is a better estimate?",
+        "answer_type": "text_input",
+        "correct_answer": "200 millilitres",
+        "alternative_answer_1": "200ml",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20760,
+        "question_text": "What does a measuring jug measure?",
+        "answer_type": "text_input",
+        "correct_answer": "capacity",
+        "alternative_answer_1": "volume",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20761,
+        "question_text": "Which is a hotter temperature for a sunny day: 5°C or 20°C?",
+        "answer_type": "text_input",
+        "correct_answer": "20°C",
+        "alternative_answer_1": "20",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20762,
+        "question_text": "To measure the amount of medicine on a spoon, which unit is best: litres or millilitres?",
+        "answer_type": "text_input",
+        "correct_answer": "millilitres",
+        "alternative_answer_1": "ml",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20763,
+        "question_text": "A reading on a thermometer is 10°C. Is it likely to be a hot summer day or a cool autumn day?",
+        "answer_type": "text_input",
+        "correct_answer": "a cool autumn day",
+        "alternative_answer_1": "autumn day",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20764,
+        "question_text": "A bathtub holds about 150 litres. A swimming pool holds about 150,000 litres. Which unit is better for both?",
+        "answer_type": "text_input",
+        "correct_answer": "litres",
+        "alternative_answer_1": "l",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20765,
+        "question_text": "What is the freezing point of water in degrees Celsius?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "0°C",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20766,
+        "question_text": "A can of fizzy drink holds 330ml. Is this more or less than a 1 litre bottle?",
+        "answer_type": "text_input",
+        "correct_answer": "less",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20767,
+        "question_text": "What is a typical room temperature in degrees Celsius? (10°C, 20°C, 30°C)",
+        "answer_type": "text_input",
+        "correct_answer": "20°C",
+        "alternative_answer_1": "20",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20768,
+        "question_text": "Which is the best tool to measure 500ml of water: a ruler, a scale, or a measuring jug?",
+        "answer_type": "text_input",
+        "correct_answer": "a measuring jug",
+        "alternative_answer_1": "measuring jug",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20769,
+        "question_text": "A large bottle of cola is typically 2 litres or 2 millilitres?",
+        "answer_type": "text_input",
+        "correct_answer": "2 litres",
+        "alternative_answer_1": "2l",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20770,
+        "question_text": "A thermometer shows the temperature is -5°C. Is it cold enough for snow?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20771,
+        "question_text": "To measure the amount of fuel in a car, what unit would be used?",
+        "answer_type": "text_input",
+        "correct_answer": "litres",
+        "alternative_answer_1": "l",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20772,
+        "question_text": "Estimate the capacity of a teacup. Is it closer to 250ml or 250l?",
+        "answer_type": "text_input",
+        "correct_answer": "250ml",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20773,
+        "question_text": "What is the boiling point of water in degrees Celsius?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100°C",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20774,
+        "question_text": "A carton of milk is usually 1 litre. A small carton of cream is usually 300ml. Which holds more?",
+        "answer_type": "text_input",
+        "correct_answer": "the milk",
+        "alternative_answer_1": "1 litre",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20775,
+        "question_text": "The temperature inside a fridge should be around 4°C. Is this warmer or colder than the freezing point of water?",
+        "answer_type": "text_input",
+        "correct_answer": "warmer",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20776,
+        "question_text": "Which unit would you use to measure a dose of cough syrup?",
+        "answer_type": "text_input",
+        "correct_answer": "millilitres",
+        "alternative_answer_1": "ml",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20777,
+        "question_text": "If you are measuring water for a recipe, what vessel would you use?",
+        "answer_type": "text_input",
+        "correct_answer": "a measuring jug",
+        "alternative_answer_1": "measuring vessel",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20778,
+        "question_text": "A hot oven might be at 200°C. Is this hotter or colder than boiling water?",
+        "answer_type": "text_input",
+        "correct_answer": "hotter",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20779,
+        "question_text": "A fish tank contains 60 litres of water. A puddle contains 600ml. Which contains less water?",
+        "answer_type": "text_input",
+        "correct_answer": "the puddle",
+        "alternative_answer_1": "600ml",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20780,
+        "question_text": "What unit is represented by the symbol °C?",
+        "answer_type": "text_input",
+        "correct_answer": "degrees Celsius",
+        "alternative_answer_1": "Celsius",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20781,
+        "question_text": "A ruler shows a line is exactly 8 centimetres long. How would you record this?",
+        "answer_type": "text_input",
+        "correct_answer": "8 cm",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20782,
+        "question_text": "A recipe requires 250g of flour. What tool would you use to measure this?",
+        "answer_type": "text_input",
+        "correct_answer": "a weighing scale",
+        "alternative_answer_1": "scale",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20783,
+        "question_text": "A thermometer reads exactly halfway between 20°C and 30°C. What is the temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "25°C",
+        "alternative_answer_1": "25",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20784,
+        "question_text": "A measuring jug is filled to the 500ml mark. What is this volume in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.5",
+        "alternative_answer_1": "0.5l",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20785,
+        "question_text": "To measure the width of a room, which tool is most appropriate: a 30cm ruler or a 5m tape measure?",
+        "answer_type": "text_input",
+        "correct_answer": "a 5m tape measure",
+        "alternative_answer_1": "tape measure",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20786,
+        "question_text": "A bag of apples weighs 1.2 kg. How many grams is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1200",
+        "alternative_answer_1": "1200g",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20787,
+        "question_text": "A line on a ruler starts at the 2cm mark and ends at the 9cm mark. How long is the line?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "7cm",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20788,
+        "question_text": "A thermometer shows the temperature is -2°C. How many degrees below freezing is this?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2 degrees",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20789,
+        "question_text": "A jug has markings every 100ml. If the water level is on the 4th mark, how much water is in the jug?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "400ml",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20790,
+        "question_text": "You need to measure a football pitch. Would you choose metres or centimetres, and why?",
+        "answer_type": "text_input",
+        "correct_answer": "Metres, because it is a large distance.",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20791,
+        "question_text": "A digital scale reads 0.75 kg. What is this in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "750",
+        "alternative_answer_1": "750g",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20792,
+        "question_text": "The temperature drops from 5°C to -3°C. How many degrees has it fallen?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8 degrees",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20793,
+        "question_text": "You pour three 200ml glasses of water from a 1 litre bottle. How much is left in the bottle?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "400ml",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20794,
+        "question_text": "A piece of ribbon is 1.5 metres long. How many 10cm pieces can you cut from it?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20795,
+        "question_text": "A scale is marked in kilograms. The needle is exactly between 2kg and 3kg. What is the weight in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "2500",
+        "alternative_answer_1": "2500g",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20796,
+        "question_text": "What is a sensible estimate for the capacity of a car's fuel tank: 50ml or 50 litres?",
+        "answer_type": "text_input",
+        "correct_answer": "50 litres",
+        "alternative_answer_1": "50l",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20797,
+        "question_text": "A fence is made of 5 sections, each 1.2m long. What is the total length of the fence?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6m",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20798,
+        "question_text": "The temperature of ice is -10°C. The temperature of boiling water is 100°C. What is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "110",
+        "alternative_answer_1": "110°C",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20799,
+        "question_text": "A recipe requires 0.25 litres of milk. Your measuring jug is marked in millilitres. How much do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "250ml",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20800,
+        "question_text": "A room is 4.2 metres wide. Your tape measure is in centimetres. What should the measurement be?",
+        "answer_type": "text_input",
+        "correct_answer": "420",
+        "alternative_answer_1": "420cm",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20801,
+        "question_text": "Which is heavier: a 2kg bag of sugar or a 1500g bag of flour?",
+        "answer_type": "text_input",
+        "correct_answer": "the sugar",
+        "alternative_answer_1": "2kg bag",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20802,
+        "question_text": "A thermometer reads 12°C. If it gets 15 degrees warmer, what will the new temperature be?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "27°C",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20803,
+        "question_text": "A bottle of medicine holds 100ml. Each dose is 5ml. How many doses are in the bottle?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20804,
+        "question_text": "A book is 2.5cm thick. What is this measurement in millimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "25mm",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20805,
+        "question_text": "A bag of rice weighs 500g. How many of these bags would you need to have 3kg of rice?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20806,
+        "question_text": "A rectangular garden is 8m long and 5m wide. What is its perimeter?",
+        "answer_type": "text_input",
+        "correct_answer": "26",
+        "alternative_answer_1": "26m",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20807,
+        "question_text": "A cake weighs 1.2kg. If it is cut into 8 equal slices, what is the weight of one slice in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150g",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20808,
+        "question_text": "The temperature was -5°C at dawn and rose to 12°C by noon. By how many degrees did the temperature rise?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "17°C",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20809,
+        "question_text": "A jug contains 1.5 litres of water. You pour out 300ml. How many litres are left in the jug?",
+        "answer_type": "text_input",
+        "correct_answer": "1.2",
+        "alternative_answer_1": "1.2l",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20810,
+        "question_text": "A race starts at 10:50 AM and finishes at 1:20 PM. How long did the race last in hours and minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "2 hours and 30 minutes",
+        "alternative_answer_1": "2.5 hours",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20811,
+        "question_text": "A room's floor is a square with a side length of 4m. What is the area of the floor in square metres?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "16 sq m",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20812,
+        "question_text": "A box contains 24 cans, each weighing 300g. The box itself weighs 500g. What is the total weight in kg?",
+        "answer_type": "text_input",
+        "correct_answer": "7.7",
+        "alternative_answer_1": "7.7kg",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20813,
+        "question_text": "If water flows into a tank at 20 litres per minute, how long will it take to fill a 1 kilolitre tank? (1kl = 1000l)",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50 minutes",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20814,
+        "question_text": "A TV programme is 45 minutes long. If it has 3 equal ad breaks that take up 1/5 of the total time, how long is each ad break?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 minutes",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20815,
+        "question_text": "Which is greater: the perimeter of a 6cm square or the perimeter of a 7cm by 4cm rectangle?",
+        "answer_type": "text_input",
+        "correct_answer": "the rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20816,
+        "question_text": "Which is greater: the perimeter of a 6cm square or the perimeter of a 8cm by 5cm rectangle?",
+        "answer_type": "text_input",
+        "correct_answer": "the rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20817,
+        "question_text": "You mix 500g of flour with 0.2kg of sugar and 50g of butter. What is the total weight of the mix in kg?",
+        "answer_type": "text_input",
+        "correct_answer": "0.75",
+        "alternative_answer_1": "0.75kg",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20818,
+        "question_text": "The temperature in a freezer is -18°C. The room temperature is 22°C. What is the temperature difference?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40°C",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20819,
+        "question_text": "A bottle holds 2 litres. How many 125ml glasses can be filled from it?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20820,
+        "question_text": "A runner runs at an average speed of 10 km/h. How many metres does she run in 6 minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1000m",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20821,
+        "question_text": "What is the area of a rectangle with a length of 1.2m and a width of 50cm?",
+        "answer_type": "text_input",
+        "correct_answer": "0.6 sq m",
+        "alternative_answer_1": "6000 sq cm",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20822,
+        "question_text": "A recipe for 6 people needs 450g of flour. How much flour is needed for 8 people?",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "600g",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20823,
+        "question_text": "An athlete trains for 45 minutes every day. How many hours does she train in a week?",
+        "answer_type": "text_input",
+        "correct_answer": "5.25",
+        "alternative_answer_1": "5 1/4 hours",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20824,
+        "question_text": "A bottle of water has a capacity of 750ml. What is the total capacity of 8 of these bottles in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6l",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20825,
+        "question_text": "A train travels 30 miles in 20 minutes. What is its speed in miles per hour?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90 mph",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20826,
+        "question_text": "The area of a square is 25 square cm. What is its perimeter?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20cm",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20827,
+        "question_text": "A bag contains 5kg of potatoes. 20% of the potatoes are bad. What is the weight of the good potatoes in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "4000",
+        "alternative_answer_1": "4000g",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20828,
+        "question_text": "A plane flies from 14:30 to 18:00. If its average speed is 500 mph, what is the distance of the flight?",
+        "answer_type": "text_input",
+        "correct_answer": "1750",
+        "alternative_answer_1": "1750 miles",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20829,
+        "question_text": "A tap fills a 10 litre bucket in 4 minutes. What is the flow rate in litres per minute?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "2.5 l/min",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 20830,
+        "question_text": "You mix 1.2 litres of juice with 800ml of water. What is the total volume of the drink?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2 litres",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 230
+    },
+    {
+        "question_id": 21333,
+        "question_text": "A book is 18.2cm long. Estimate its length to the nearest whole centimetre.",
+        "answer_type": "text_input",
+        "correct_answer": "18cm",
+        "alternative_answer_1": "18",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21334,
+        "question_text": "Which is heavier: 350g or 305g?",
+        "answer_type": "text_input",
+        "correct_answer": "350g",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21335,
+        "question_text": "What is the total of 250ml and 100ml?",
+        "answer_type": "text_input",
+        "correct_answer": "350ml",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21336,
+        "question_text": "An apple costs 30p and a banana costs 40p. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "70p",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21337,
+        "question_text": "A weight is 2.9kg. Estimate this to the nearest whole kilogram.",
+        "answer_type": "text_input",
+        "correct_answer": "3kg",
+        "alternative_answer_1": "3",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21338,
+        "question_text": "A comic costs £1.99 and a magazine costs £2.95. Estimate the total cost by rounding to the nearest pound.",
+        "answer_type": "text_input",
+        "correct_answer": "£5",
+        "alternative_answer_1": "5",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21339,
+        "question_text": "What is 800g - 150g?",
+        "answer_type": "text_input",
+        "correct_answer": "650g",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21340,
+        "question_text": "Which is shorter: 1.2m or 1.8m?",
+        "answer_type": "text_input",
+        "correct_answer": "1.2m",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21341,
+        "question_text": "A bottle holds 1.1 litres. Estimate its capacity to the nearest whole litre.",
+        "answer_type": "text_input",
+        "correct_answer": "1 litre",
+        "alternative_answer_1": "1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21342,
+        "question_text": "You have a 5m rope and a 3m rope. What is their combined length?",
+        "answer_type": "text_input",
+        "correct_answer": "8m",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21343,
+        "question_text": "Which holds more: a 500ml jug or a 450ml glass?",
+        "answer_type": "text_input",
+        "correct_answer": "500ml jug",
+        "alternative_answer_1": "the jug",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21344,
+        "question_text": "A pen costs 80p. A pencil costs 25p. What is the difference in price?",
+        "answer_type": "text_input",
+        "correct_answer": "55p",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21345,
+        "question_text": "A book weighs 0.8kg. Estimate its weight to the nearest whole kg.",
+        "answer_type": "text_input",
+        "correct_answer": "1kg",
+        "alternative_answer_1": "1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21346,
+        "question_text": "Calculate the total of 5.2m and 3.1m.",
+        "answer_type": "text_input",
+        "correct_answer": "8.3m",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21347,
+        "question_text": "Compare 1.5 litres and 1.8 litres. Which is smaller?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5 litres",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21348,
+        "question_text": "You have £5. You spend £2.50. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "£2.50",
+        "alternative_answer_1": "2.5",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21349,
+        "question_text": "A cat weighs 4.6kg. What is this to the nearest whole kg?",
+        "answer_type": "text_input",
+        "correct_answer": "5kg",
+        "alternative_answer_1": "5",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21350,
+        "question_text": "Which is the greater amount of money: £9.50 or £9.05?",
+        "answer_type": "text_input",
+        "correct_answer": "£9.50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21351,
+        "question_text": "A bottle contains 750ml. You drink 150ml. What is the remaining volume?",
+        "answer_type": "text_input",
+        "correct_answer": "600ml",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21352,
+        "question_text": "A fence post is 2.1m tall. Estimate its height to the nearest metre.",
+        "answer_type": "text_input",
+        "correct_answer": "2m",
+        "alternative_answer_1": "2",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21353,
+        "question_text": "Which is lighter: 0.7kg or 0.9kg?",
+        "answer_type": "text_input",
+        "correct_answer": "0.7kg",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21354,
+        "question_text": "A juice carton costs 99p. A bottle of water costs £1.50. Estimate the total to the nearest pound.",
+        "answer_type": "text_input",
+        "correct_answer": "£3",
+        "alternative_answer_1": "3",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21355,
+        "question_text": "What is the sum of 120g and 130g?",
+        "answer_type": "text_input",
+        "correct_answer": "250g",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21356,
+        "question_text": "Which is longer: 25cm or 20cm?",
+        "answer_type": "text_input",
+        "correct_answer": "25cm",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21357,
+        "question_text": "A bag of apples weighs 1.7kg. Estimate its weight to the nearest kg.",
+        "answer_type": "text_input",
+        "correct_answer": "2kg",
+        "alternative_answer_1": "2",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21358,
+        "question_text": "Which is longer: 1.2m or 130cm?",
+        "answer_type": "text_input",
+        "correct_answer": "130cm",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21359,
+        "question_text": "What is 1kg - 400g? Give your answer in grams.",
+        "answer_type": "text_input",
+        "correct_answer": "600g",
+        "alternative_answer_1": "600",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21360,
+        "question_text": "You buy a comic for £2.50 and a drink for 80p. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£3.30",
+        "alternative_answer_1": "3.3",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21361,
+        "question_text": "A bottle contains 2 litres of water. You pour out 750ml. How much is left in the bottle?",
+        "answer_type": "text_input",
+        "correct_answer": "1250ml",
+        "alternative_answer_1": "1.25l",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21362,
+        "question_text": "Which is heavier: 2.5kg or 2400g?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5kg",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21363,
+        "question_text": "A builder has a plank of wood 3 metres long. He cuts off 80cm. How much is left in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "2.2m",
+        "alternative_answer_1": "2.2",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21364,
+        "question_text": "You have a £10 note. You buy a book for £6.50. How much change do you get?",
+        "answer_type": "text_input",
+        "correct_answer": "£3.50",
+        "alternative_answer_1": "3.5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21365,
+        "question_text": "What is the total of 1.5 litres and 800ml?",
+        "answer_type": "text_input",
+        "correct_answer": "2.3l",
+        "alternative_answer_1": "2300ml",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21366,
+        "question_text": "Which is shorter: 205cm or 2.5m?",
+        "answer_type": "text_input",
+        "correct_answer": "205cm",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21367,
+        "question_text": "A bag of flour weighs 1.5kg. A bag of sugar weighs 800g. What is the difference in their weight in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "700g",
+        "alternative_answer_1": "700",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21368,
+        "question_text": "You have £5. You buy a magazine for £3.20 and a chocolate bar for 90p. How much change do you get?",
+        "answer_type": "text_input",
+        "correct_answer": "90p",
+        "alternative_answer_1": "£0.90",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21369,
+        "question_text": "Add 90cm to 0.7m. Give your answer in metres.",
+        "answer_type": "text_input",
+        "correct_answer": "1.6m",
+        "alternative_answer_1": "1.6",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21370,
+        "question_text": "A bucket holds 5 litres. A jug holds 800ml. What is the difference in their capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "4.2l",
+        "alternative_answer_1": "4200ml",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21371,
+        "question_text": "Which is heavier: a 2kg weight or three 700g weights?",
+        "answer_type": "text_input",
+        "correct_answer": "three 700g weights",
+        "alternative_answer_1": "the three weights",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21372,
+        "question_text": "A journey is 3km long. You walk 800m. How much further do you have to go?",
+        "answer_type": "text_input",
+        "correct_answer": "2.2km",
+        "alternative_answer_1": "2200m",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21373,
+        "question_text": "An item costs £8.75. You pay with a £10 note. What is your change?",
+        "answer_type": "text_input",
+        "correct_answer": "£1.25",
+        "alternative_answer_1": "1.25",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21374,
+        "question_text": "What is the total length of a 1.8m plank and a 40cm plank?",
+        "answer_type": "text_input",
+        "correct_answer": "2.2m",
+        "alternative_answer_1": "220cm",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21375,
+        "question_text": "A bottle of juice is 1.5 litres. A glass is 200ml. If you pour one glass, how much juice is left in the bottle?",
+        "answer_type": "text_input",
+        "correct_answer": "1.3l",
+        "alternative_answer_1": "1300ml",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21376,
+        "question_text": "Which is lighter: 0.9kg or 1100g?",
+        "answer_type": "text_input",
+        "correct_answer": "0.9kg",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21377,
+        "question_text": "You have a £1 coin. You buy a sweet for 45p. How much change do you get?",
+        "answer_type": "text_input",
+        "correct_answer": "55p",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21378,
+        "question_text": "What is 2kg - 1200g?",
+        "answer_type": "text_input",
+        "correct_answer": "800g",
+        "alternative_answer_1": "0.8kg",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21379,
+        "question_text": "A can holds 330ml. A bottle holds 0.5l. What is their total capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "830ml",
+        "alternative_answer_1": "0.83l",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21380,
+        "question_text": "A fence is 5m long. A gate that is 90cm wide is put in the middle. What is the total length now?",
+        "answer_type": "text_input",
+        "correct_answer": "5.9m",
+        "alternative_answer_1": "590cm",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21381,
+        "question_text": "A bag of shopping weighs 3.2kg. You take out a 500g item. What is the new weight?",
+        "answer_type": "text_input",
+        "correct_answer": "2.7kg",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21382,
+        "question_text": "What is the change from £5 for items costing £1.50 and £2.10?",
+        "answer_type": "text_input",
+        "correct_answer": "£1.40",
+        "alternative_answer_1": "1.4",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21383,
+        "question_text": "A runner runs 1.5km, then 800m, then 1.2km. What is the total distance in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "3.5km",
+        "alternative_answer_1": "3.5",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21384,
+        "question_text": "You have £100. You spend £45.50 and are given back £5.20. How much do you have now?",
+        "answer_type": "text_input",
+        "correct_answer": "£59.70",
+        "alternative_answer_1": "59.7",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21385,
+        "question_text": "A bucket holding 5 litres of water has a leak. It loses 200ml every hour. How much is left after 5 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "4 litres",
+        "alternative_answer_1": "4000ml",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21386,
+        "question_text": "A rectangular garden is 8m long and 4.5m wide. What is its perimeter?",
+        "answer_type": "text_input",
+        "correct_answer": "25m",
+        "alternative_answer_1": "25",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21387,
+        "question_text": "Estimate the total weight of three items weighing 1.9kg, 2.8kg, and 0.9kg by rounding first.",
+        "answer_type": "text_input",
+        "correct_answer": "6kg",
+        "alternative_answer_1": "6",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21388,
+        "question_text": "A cafe sells coffee for £2.80 and cake for £3.50. You buy two coffees and one cake. What is the total?",
+        "answer_type": "text_input",
+        "correct_answer": "£9.10",
+        "alternative_answer_1": "9.1",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21389,
+        "question_text": "A box contains 1.2kg of nails. If 100 nails weigh 200g, how many nails are in the box?",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21390,
+        "question_text": "Which is the better value: a 2 litre bottle of juice for £3.00 or a 750ml bottle for £1.00?",
+        "answer_type": "text_input",
+        "correct_answer": "the 750ml bottle",
+        "alternative_answer_1": "750ml",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21391,
+        "question_text": "A trip is 5km. You walk 1200m and then run for 2.5km. How much of the trip is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1.3km",
+        "alternative_answer_1": "1300m",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21392,
+        "question_text": "A container holds 2.5 litres. If it is 4/5 full, how many ml of liquid are in it?",
+        "answer_type": "text_input",
+        "correct_answer": "2000ml",
+        "alternative_answer_1": "2l",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21393,
+        "question_text": "A builder buys 5 bags of cement, each weighing 25kg. The total cost is £20. What is the cost per kg?",
+        "answer_type": "text_input",
+        "correct_answer": "16p",
+        "alternative_answer_1": "£0.16",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21394,
+        "question_text": "You have £50. You buy a jumper for £22.99 and a shirt for £15.50. How much money do you have left?",
+        "answer_type": "text_input",
+        "correct_answer": "£11.51",
+        "alternative_answer_1": "11.51",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21395,
+        "question_text": "Find the difference between 3.2km and 1800m.",
+        "answer_type": "text_input",
+        "correct_answer": "1.4km",
+        "alternative_answer_1": "1400m",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21396,
+        "question_text": "A recipe for 4 people needs 0.5kg of meat. How much meat is needed for 6 people?",
+        "answer_type": "text_input",
+        "correct_answer": "0.75kg",
+        "alternative_answer_1": "750g",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21397,
+        "question_text": "Three parcels weigh 1.2kg, 950g, and 1.5kg. What is their average weight in kg?",
+        "answer_type": "text_input",
+        "correct_answer": "1.217kg",
+        "alternative_answer_1": "1.22kg",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21398,
+        "question_text": "Three parcels weigh 1.2kg, 900g, and 1.5kg. What is their average weight in kg?",
+        "answer_type": "text_input",
+        "correct_answer": "1.2kg",
+        "alternative_answer_1": "1.2",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21399,
+        "question_text": "A train travels 50 miles in 30 minutes. What is its speed in miles per hour?",
+        "answer_type": "text_input",
+        "correct_answer": "100 mph",
+        "alternative_answer_1": "100",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21400,
+        "question_text": "A square garden has a perimeter of 18m. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "20.25 sq m",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21401,
+        "question_text": "A tank holds 80 litres. It is 30% full. How many more litres are needed to make it 75% full?",
+        "answer_type": "text_input",
+        "correct_answer": "36 litres",
+        "alternative_answer_1": "36l",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21402,
+        "question_text": "Which is heavier: 20% of 5kg, or 75% of 1kg?",
+        "answer_type": "text_input",
+        "correct_answer": "20% of 5kg",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21403,
+        "question_text": "A bottle of 1 litre of olive oil costs £8. A can of 750ml costs £6.50. Which is better value for money?",
+        "answer_type": "text_input",
+        "correct_answer": "The bottle",
+        "alternative_answer_1": "1 litre bottle",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21404,
+        "question_text": "A race starts at 11:40 and lasts for 1 hour and 35 minutes. What time does it finish?",
+        "answer_type": "text_input",
+        "correct_answer": "13:15",
+        "alternative_answer_1": "1:15 PM",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21405,
+        "question_text": "A builder needs 5kg of cement. He has one bag of 2.5kg and one of 1800g. How much more does he need?",
+        "answer_type": "text_input",
+        "correct_answer": "0.7kg",
+        "alternative_answer_1": "700g",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21406,
+        "question_text": "A cube has a side length of 10cm. What is its volume in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "1 litre",
+        "alternative_answer_1": "1",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21407,
+        "question_text": "A shop reduces a £80 coat by 25%. What is the sale price?",
+        "answer_type": "text_input",
+        "correct_answer": "£60",
+        "alternative_answer_1": "60",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21408,
+        "question_text": "A car has a fuel efficiency of 50 miles per gallon. The tank holds 10 gallons. Fuel costs £1.50 per litre. How much does it cost to fill the tank from empty? (1 gallon ≈ 4.5 litres)",
+        "answer_type": "text_input",
+        "correct_answer": "£67.50",
+        "alternative_answer_1": "67.5",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21409,
+        "question_text": "A rectangular swimming pool is 10m long, 4m wide and 1.5m deep. It is 80% full. What is the volume of water in the pool in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "48000",
+        "alternative_answer_1": "48000l",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21410,
+        "question_text": "Tom runs at 8 km/h. Jane starts 15 minutes after him from the same point, running at 10 km/h. How long does it take Jane to catch Tom?",
+        "answer_type": "text_input",
+        "correct_answer": "1 hour",
+        "alternative_answer_1": "60 minutes",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21411,
+        "question_text": "A shop buys a coat for £40. They add a 50% markup. Then they offer a 20% discount in a sale. What is the final price?",
+        "answer_type": "text_input",
+        "correct_answer": "£48",
+        "alternative_answer_1": "48",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21412,
+        "question_text": "A cube has a volume of 8 cubic cm. Its side length is 2cm. If you double the side length, what is the new volume?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "64 cubic cm",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21413,
+        "question_text": "Justify your choice of units (mm, cm, m, km) for measuring: a) the thickness of a coin, b) the length of a bus, c) the distance to the next city.",
+        "answer_type": "text_input",
+        "correct_answer": "mm, m, km",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21414,
+        "question_text": "Find the error: A room is 3m by 4m, so its perimeter is 12m.",
+        "answer_type": "text_input",
+        "correct_answer": "That is the area, not perimeter",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21415,
+        "question_text": "You have 5 litres of a 10% salt solution. How many grams of salt are in the solution if 1 litre of water weighs 1kg?",
+        "answer_type": "text_input",
+        "correct_answer": "500g",
+        "alternative_answer_1": "500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21416,
+        "question_text": "An empty lorry weighs 2.5 tonnes. It is loaded with 50 boxes, each weighing 20kg. What is the total weight of the loaded lorry?",
+        "answer_type": "text_input",
+        "correct_answer": "3.5 tonnes",
+        "alternative_answer_1": "3500kg",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21417,
+        "question_text": "A plane travels at 500 mph. How many minutes does it take to travel 125 miles?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 minutes",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21418,
+        "question_text": "A recipe for 12 cookies needs 150g of sugar. You want to make 30 cookies. How much sugar do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "375g",
+        "alternative_answer_1": "375",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21419,
+        "question_text": "You have £50. You buy a shirt for £15.99 and shoes for £24.99. You think you have about £10 left. Is your estimate reasonable? Explain.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21420,
+        "question_text": "A tap fills a 20-litre bucket in 5 minutes. A hole at the bottom leaks 1 litre per minute. How long will it take to fill the bucket?",
+        "answer_type": "text_input",
+        "correct_answer": "6.67 minutes",
+        "alternative_answer_1": "6 minutes 40 seconds",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21421,
+        "question_text": "A square has an area of 64 sq m. A smaller square has a perimeter that is half of the first square. What is the area of the smaller square?",
+        "answer_type": "text_input",
+        "correct_answer": "16 sq m",
+        "alternative_answer_1": "16",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21422,
+        "question_text": "A train leaves at 08:30 and arrives at 11:00. It travels 150 miles. What was its average speed?",
+        "answer_type": "text_input",
+        "correct_answer": "60 mph",
+        "alternative_answer_1": "60",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21423,
+        "question_text": "A 2kg bag of flour costs £1.20. A 1.5kg bag costs 93p. Which is better value?",
+        "answer_type": "text_input",
+        "correct_answer": "the 1.5kg bag",
+        "alternative_answer_1": "1.5kg",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21424,
+        "question_text": "A 2kg bag of flour costs £1.20. A 1.5kg bag costs 84p. Which is better value?",
+        "answer_type": "text_input",
+        "correct_answer": "the 1.5kg bag",
+        "alternative_answer_1": "1.5kg",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21425,
+        "question_text": "A fish tank is 50cm long, 30cm wide, and 40cm high. It is filled to 2cm from the top. What is the volume of water in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "57",
+        "alternative_answer_1": "57l",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21426,
+        "question_text": "A bill is £80 + 20% VAT. You have a voucher for 10% off the total price. What do you pay?",
+        "answer_type": "text_input",
+        "correct_answer": "£86.40",
+        "alternative_answer_1": "86.4",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21427,
+        "question_text": "What is the most appropriate estimate for the mass of a large car: 1500g, 150kg, or 1.5 tonnes?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5 tonnes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21428,
+        "question_text": "An object has a volume of 50 cm³. The material weighs 8g per cm³. What is the total mass of the object in kg?",
+        "answer_type": "text_input",
+        "correct_answer": "0.4kg",
+        "alternative_answer_1": "0.4",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21429,
+        "question_text": "A garden is 10m by 12m. 25% of it is patio. What is the area of the lawn?",
+        "answer_type": "text_input",
+        "correct_answer": "90 sq m",
+        "alternative_answer_1": "90",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21430,
+        "question_text": "A plane flies for 3 hours. For the first hour, it travels 400 miles. For the next two, 500 mph. What is the average speed for the whole journey?",
+        "answer_type": "text_input",
+        "correct_answer": "466.67 mph",
+        "alternative_answer_1": "467 mph",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21431,
+        "question_text": "A 1 litre bottle of water freezes and expands by 10%. What is the new volume in cm³?",
+        "answer_type": "text_input",
+        "correct_answer": "1100",
+        "alternative_answer_1": "1100 cm³",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    },
+    {
+        "question_id": 21432,
+        "question_text": "You have a £100 gift card. You buy items costing £12.50, £35.99, and £42.00. How much is left on the card?",
+        "answer_type": "text_input",
+        "correct_answer": "£9.51",
+        "alternative_answer_1": "9.51",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 232
+    }
+]

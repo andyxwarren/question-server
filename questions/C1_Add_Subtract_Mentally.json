@@ -1,0 +1,6002 @@
+[
+    {
+        "question_id": 12900,
+        "question_text": "To find the volume of a pyramid, can you use the formula length x width x height?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 12901,
+        "question_text": "A square has a perimeter of 20cm. Can you use this information to find its area with a formula?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 14226,
+        "question_text": "Is the volume formula for a cuboid suitable for a sphere (a ball)?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 14227,
+        "question_text": "A cube has a volume of 27 cm³. Can you use a formula to find its side length?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 16744,
+        "question_text": "What number do you add to 3 to make 5?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16745,
+        "question_text": "Fill in the blank: 4 + __ = 5.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16746,
+        "question_text": "I have 5 sweets. I eat 2. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16747,
+        "question_text": "What is 5 - 1?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16748,
+        "question_text": "Complete the number sentence: __ + 0 = 5.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16749,
+        "question_text": "I have 2 red counters and 3 blue counters. How many counters are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16750,
+        "question_text": "Start with 5. Take away 4. What is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16751,
+        "question_text": "What is 1 + 4?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16752,
+        "question_text": "Fill in the blank: 5 - 3 = __.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16753,
+        "question_text": "I need 5 cakes for a party. I already have 1. How many more do I need?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16754,
+        "question_text": "What is 5 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16755,
+        "question_text": "What is 5 - 0?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16756,
+        "question_text": "Complete the number bond: 3 + __ = 5.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16757,
+        "question_text": "A part-whole model has a whole of 5 and one part of 1. What is the other part?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16758,
+        "question_text": "A part-whole model has two parts: 2 and 3. What is the whole?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16759,
+        "question_text": "What is the missing number? 5 - __ = 5",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16760,
+        "question_text": "What is the missing number? __ - 2 = 3",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16761,
+        "question_text": "What is 0 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16762,
+        "question_text": "What is 2 + 3?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16763,
+        "question_text": "There are 5 birds on a wire. 1 flies away. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16764,
+        "question_text": "What number is missing? 1 + __ = 5.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16765,
+        "question_text": "What is 5 take away 2?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16766,
+        "question_text": "What is 5 take away 3?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16767,
+        "question_text": "I have 5 fingers. I hide 4. How many can you see?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16768,
+        "question_text": "I have one apple. How many more to make five?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16769,
+        "question_text": "What number do you add to 7 to make 10?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16770,
+        "question_text": "Fill in the blank: 6 + __ = 10.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16771,
+        "question_text": "I have 10 sweets. I eat 8. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16772,
+        "question_text": "What is 10 - 1?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16773,
+        "question_text": "Complete the number sentence: __ + 5 = 10.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16774,
+        "question_text": "I have 1 red counter and 9 blue counters. How many counters are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16775,
+        "question_text": "Start with 10. Take away 6. What is left?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16776,
+        "question_text": "Calculate the sum of 8 and 2.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16777,
+        "question_text": "Fill in the blank: 10 - 7 = __.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16778,
+        "question_text": "I need 10 cakes for a party. I already have 4. How many more do I need?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16779,
+        "question_text": "What is 10 - 10?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16780,
+        "question_text": "What is 10 - 0?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16781,
+        "question_text": "Complete the number bond: 2 + __ = 10.",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16782,
+        "question_text": "A part-whole model has a whole of 10 and one part of 1. What is the other part?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16783,
+        "question_text": "A part-whole model has two parts: 6 and 4. What is the whole?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16784,
+        "question_text": "What is the missing number? 10 - __ = 10",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16785,
+        "question_text": "What is the missing number? __ - 2 = 8",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16786,
+        "question_text": "What is 0 + 10?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16787,
+        "question_text": "What is 3 + 7?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16788,
+        "question_text": "There are 10 birds on a wire. 4 fly away. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16789,
+        "question_text": "What number is missing? 9 + __ = 10.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16790,
+        "question_text": "What is 10 take away 2?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16791,
+        "question_text": "What is 10 take away 3?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16792,
+        "question_text": "I have ten fingers. I hide four. How many can you see?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16793,
+        "question_text": "I have three apples. How many more to make ten?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16794,
+        "question_text": "What number do you add to 12 to make 20?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16795,
+        "question_text": "Fill in the blank: 16 + __ = 20.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16796,
+        "question_text": "I have 20 sweets. I eat 11. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16797,
+        "question_text": "What is 20 - 1?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "Nineteen",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16798,
+        "question_text": "Complete the number sentence: __ + 5 = 20.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16799,
+        "question_text": "I have 3 red counters and 17 blue counters. How many counters are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16800,
+        "question_text": "Start with 20. Take away 6. What is left?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16801,
+        "question_text": "What is 18 + 2?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16802,
+        "question_text": "Fill in the blank: 20 - 7 = __.",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16803,
+        "question_text": "I need 20 cakes for a party. I have 4. How many more do I need?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16804,
+        "question_text": "What is 20 - 15?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16805,
+        "question_text": "What is 20 - 0?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16806,
+        "question_text": "Complete the number bond: 2 + __ = 20.",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16807,
+        "question_text": "A part-whole model has a whole of 20 and one part of 1. What is the other part?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16808,
+        "question_text": "A part-whole model has two parts: 6 and 14. What is the whole?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16809,
+        "question_text": "What is the missing number? 20 - __ = 10",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16810,
+        "question_text": "What is the missing number? __ - 2 = 18",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16811,
+        "question_text": "What is 10 + 10?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16812,
+        "question_text": "What is 13 + 7?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16813,
+        "question_text": "There are 20 birds on a wire. 14 fly away. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16814,
+        "question_text": "What number is missing? 9 + __ = 20.",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16815,
+        "question_text": "What is 20 take away 2?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16816,
+        "question_text": "What is 20 take away 13?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16817,
+        "question_text": "I have twenty fingers and toes. I hide four. How many can you see?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16818,
+        "question_text": "I have three apples. How many more to make twenty?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16819,
+        "question_text": "If you know that 12 + 8 = 20, what is 20 - 8?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16820,
+        "question_text": "A number bond is 15 + 5 = 20. Write a related subtraction fact.",
+        "answer_type": "text_input",
+        "correct_answer": "20 - 5 = 15",
+        "alternative_answer_1": "20 - 15 = 5",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16821,
+        "question_text": "I have 5 sweets and need to make 10. How many more do I need?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16822,
+        "question_text": "The number sentence is 20 - 12 = 8. What is the related addition fact?",
+        "answer_type": "text_input",
+        "correct_answer": "8 + 12 = 20",
+        "alternative_answer_1": "12 + 8 = 20",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16823,
+        "question_text": "Find the error: 11 + 8 = 20.",
+        "answer_type": "text_input",
+        "correct_answer": "The sum is 19",
+        "alternative_answer_1": "8 should be 9",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16824,
+        "question_text": "Use a number bond to 10 to help solve 12 - 2.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16825,
+        "question_text": "Use a number bond to help solve 15 - 5.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16826,
+        "question_text": "I have 14 pencils. How many more do I need to make 20?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16827,
+        "question_text": "Fill in the missing number: 20 - __ = 1.",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16828,
+        "question_text": "If 7 + 3 = 10, what other addition fact do you know?",
+        "answer_type": "text_input",
+        "correct_answer": "3 + 7 = 10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16829,
+        "question_text": "If 20 - 9 = 11, what other subtraction fact do you know?",
+        "answer_type": "text_input",
+        "correct_answer": "20 - 11 = 9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16830,
+        "question_text": "What is 10 - 6?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16831,
+        "question_text": "A farmer has 20 sheep. He sells 18. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16832,
+        "question_text": "A storybook has 20 pages. I have read 13. How many pages are left?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16833,
+        "question_text": "Use a number bond to 10 to solve 8 + 5.",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16834,
+        "question_text": "Find the error: 20 - 15 = 4.",
+        "answer_type": "text_input",
+        "correct_answer": "The answer should be 5",
+        "alternative_answer_1": "4 is wrong",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16835,
+        "question_text": "What do I add to 1 to make 20?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16836,
+        "question_text": "What do I take from 10 to leave 1?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16837,
+        "question_text": "I have 12 stickers. My friend gives me 8 more. How many do I have now?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16838,
+        "question_text": "There are 10 green bottles. 7 fall down. How many are standing?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16839,
+        "question_text": "Use a number bond to 20 to solve 11 + 9.",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16840,
+        "question_text": "What is 20 - 17?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16841,
+        "question_text": "I have 5p. How much more do I need to make 20p?",
+        "answer_type": "text_input",
+        "correct_answer": "15p",
+        "alternative_answer_1": "15",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16842,
+        "question_text": "A bus has 20 seats. 16 are full. How many are empty?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 16843,
+        "question_text": "If 6 + 14 = 20, what is 20 - 14?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 37
+    },
+    {
+        "question_id": 17146,
+        "question_text": "What is 8 + 2?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17147,
+        "question_text": "What is 10 - 7?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17148,
+        "question_text": "If 3 + 2 = 5, what is 30 + 20?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17149,
+        "question_text": "If 4 + 1 = 5, what is 40 + 10?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17150,
+        "question_text": "What is 5 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17151,
+        "question_text": "What is 9 - 4?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17152,
+        "question_text": "If 5 - 2 = 3, what is 50 - 20?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17153,
+        "question_text": "If 3 + 1 = 4, what is 30 + 10?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17154,
+        "question_text": "Complete the fact: 6 + __ = 10.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17155,
+        "question_text": "What is 8 - 8?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17156,
+        "question_text": "If 2 + 2 = 4, what is 20 + 20?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17157,
+        "question_text": "What is 7 + 1?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17158,
+        "question_text": "What is 6 - 2?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17159,
+        "question_text": "If 4 - 3 = 1, what is 40 - 30?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17160,
+        "question_text": "Fill in the blank: 10 - __ = 1.",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17161,
+        "question_text": "What is 1 + 9?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17162,
+        "question_text": "If 1 + 2 = 3, what is 10 + 20?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17163,
+        "question_text": "What is 6 - 0?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17164,
+        "question_text": "What is 30 + 20?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17165,
+        "question_text": "What is 50 - 10?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17166,
+        "question_text": "What is 4 + 4?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17167,
+        "question_text": "What is 7 - 3?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17168,
+        "question_text": "If 2 + 3 = 5, what is 20 + 30?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17169,
+        "question_text": "What is 11 - 11?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17170,
+        "question_text": "What is 10 + 40?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17171,
+        "question_text": "What is 8 + 8?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17172,
+        "question_text": "What is 15 - 7?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17173,
+        "question_text": "If 7 + 3 = 10, what is 70 + 30?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17174,
+        "question_text": "If 9 - 4 = 5, what is 90 - 40?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17175,
+        "question_text": "A boy has 12 sweets and eats 5. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "7 sweets",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17176,
+        "question_text": "What is 9 + 9?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17177,
+        "question_text": "What is 17 - 8?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17178,
+        "question_text": "If 8 - 2 = 6, what is 80 - 20?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17179,
+        "question_text": "If 6 + 4 = 10, what is 60 + 40?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17180,
+        "question_text": "There are 11 players on a team. 3 are sick. How many can play?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8 players",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17181,
+        "question_text": "What is 13 - 9?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17182,
+        "question_text": "What is 7 + 8?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17183,
+        "question_text": "If 10 - 3 = 7, what is 100 - 30?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17184,
+        "question_text": "Fill in the blank: 20 - __ = 11.",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17185,
+        "question_text": "What is 6 + 7?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17186,
+        "question_text": "If 5 + 4 = 9, what is 50 + 40?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17187,
+        "question_text": "What is 19 - 9?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17188,
+        "question_text": "What is 50 + 50?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17189,
+        "question_text": "What is 80 - 30?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17190,
+        "question_text": "What is 14 - 8?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17191,
+        "question_text": "If 3 + 4 = 7, what is 30 + 40?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17192,
+        "question_text": "What is 20 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17193,
+        "question_text": "What is 20 + 80?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17194,
+        "question_text": "What is 90 - 90?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17195,
+        "question_text": "What is 7 + 7?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17196,
+        "question_text": "If you know 8 + 5 = 13, what is 28 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "33",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17197,
+        "question_text": "If you know 7 + 9 = 16, what is 37 + 9?",
+        "answer_type": "text_input",
+        "correct_answer": "46",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17198,
+        "question_text": "If you know 15 - 6 = 9, what is 45 - 6?",
+        "answer_type": "text_input",
+        "correct_answer": "39",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17199,
+        "question_text": "If you know 12 - 7 = 5, what is 82 - 7?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17200,
+        "question_text": "What is 45 + 30?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17201,
+        "question_text": "What is 88 - 50?",
+        "answer_type": "text_input",
+        "correct_answer": "38",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17202,
+        "question_text": "What is 62 + 4?",
+        "answer_type": "text_input",
+        "correct_answer": "66",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17203,
+        "question_text": "What is 97 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "92",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17204,
+        "question_text": "Find the error: If 8 + 4 = 12, then 58 + 4 = 61.",
+        "answer_type": "text_input",
+        "correct_answer": "61",
+        "alternative_answer_1": "The answer should be 62",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17205,
+        "question_text": "Find the error: If 13 - 5 = 8, then 73 - 5 = 67.",
+        "answer_type": "text_input",
+        "correct_answer": "67",
+        "alternative_answer_1": "The answer should be 68",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17206,
+        "question_text": "What is 38 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "43",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17207,
+        "question_text": "What is 54 - 9?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17208,
+        "question_text": "If 9 + 2 = 11, what is 90 + 2?",
+        "answer_type": "text_input",
+        "correct_answer": "92",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17209,
+        "question_text": "If 10 - 6 = 4, what is 100 - 60?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17210,
+        "question_text": "What is 40 + 53?",
+        "answer_type": "text_input",
+        "correct_answer": "93",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17211,
+        "question_text": "What is 99 - 70?",
+        "answer_type": "text_input",
+        "correct_answer": "29",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17212,
+        "question_text": "What is 21 + 8?",
+        "answer_type": "text_input",
+        "correct_answer": "29",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17213,
+        "question_text": "What is 76 - 3?",
+        "answer_type": "text_input",
+        "correct_answer": "73",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17214,
+        "question_text": "What is 81 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "76",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17215,
+        "question_text": "What is 67 + 6?",
+        "answer_type": "text_input",
+        "correct_answer": "73",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17216,
+        "question_text": "If 6 + 8 = 14, what is 60 + 8?",
+        "answer_type": "text_input",
+        "correct_answer": "68",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17217,
+        "question_text": "If 11 - 4 = 7, what is 51 - 4?",
+        "answer_type": "text_input",
+        "correct_answer": "47",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17218,
+        "question_text": "What is 20 + 78?",
+        "answer_type": "text_input",
+        "correct_answer": "98",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17219,
+        "question_text": "What is 95 - 40?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17220,
+        "question_text": "What is 33 + 6?",
+        "answer_type": "text_input",
+        "correct_answer": "39",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17221,
+        "question_text": "If you know 17 - 9 = 8, how does that help you solve 77 - 9?",
+        "answer_type": "text_input",
+        "correct_answer": "The ones digit will be 8",
+        "alternative_answer_1": "The answer is 68",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17222,
+        "question_text": "A shop has 42 red apples and 8 green apples. How many apples are there altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50 apples",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17223,
+        "question_text": "You have 63p. You spend 7p. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "56p",
+        "alternative_answer_1": "56",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17224,
+        "question_text": "Explain how knowing 6 + 7 = 13 helps you find 60 + 70.",
+        "answer_type": "text_input",
+        "correct_answer": "6 tens + 7 tens = 13 tens",
+        "alternative_answer_1": "The answer is 130",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17225,
+        "question_text": "Solve 92 - 8 mentally.",
+        "answer_type": "text_input",
+        "correct_answer": "84",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17226,
+        "question_text": "Solve 56 + 9 mentally.",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17227,
+        "question_text": "A pack of cards has 52 cards. 5 are lost. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "47",
+        "alternative_answer_1": "47 cards",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17228,
+        "question_text": "What is 100 - 80?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17229,
+        "question_text": "I have 80p. I find another 20p. How much do I have?",
+        "answer_type": "text_input",
+        "correct_answer": "100p",
+        "alternative_answer_1": "£1",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17230,
+        "question_text": "Use the fact 11 - 3 = 8 to solve 101 - 3.",
+        "answer_type": "text_input",
+        "correct_answer": "98",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17231,
+        "question_text": "What is 49 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "54",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17232,
+        "question_text": "What is 83 - 4?",
+        "answer_type": "text_input",
+        "correct_answer": "79",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17233,
+        "question_text": "Is 45 + 55 equal to 100?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17234,
+        "question_text": "There are 28 children in one class and 7 in another group. What is the total?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "35 children",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17235,
+        "question_text": "A plant is 74cm tall. 6cm is cut off. How tall is it now?",
+        "answer_type": "text_input",
+        "correct_answer": "68cm",
+        "alternative_answer_1": "68",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17236,
+        "question_text": "What is 60 - 8?",
+        "answer_type": "text_input",
+        "correct_answer": "52",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17237,
+        "question_text": "What is 90 - 11?",
+        "answer_type": "text_input",
+        "correct_answer": "79",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17238,
+        "question_text": "If 9+8=17, what is 90+80?",
+        "answer_type": "text_input",
+        "correct_answer": "170",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17239,
+        "question_text": "What is 35 + 8?",
+        "answer_type": "text_input",
+        "correct_answer": "43",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17240,
+        "question_text": "What is 22 - 6?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17241,
+        "question_text": "How does knowing 16-7=9 help you solve 46-7?",
+        "answer_type": "text_input",
+        "correct_answer": "The ones digit will be 9",
+        "alternative_answer_1": "The answer is 39",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17242,
+        "question_text": "I have 65ml of water. I add 9ml. What is the new volume?",
+        "answer_type": "text_input",
+        "correct_answer": "74ml",
+        "alternative_answer_1": "74",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17243,
+        "question_text": "A rope is 91cm long. I cut off 4cm. How long is it now?",
+        "answer_type": "text_input",
+        "correct_answer": "87cm",
+        "alternative_answer_1": "87",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17244,
+        "question_text": "What is 50 + 35?",
+        "answer_type": "text_input",
+        "correct_answer": "85",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 17245,
+        "question_text": "What is 100 - 25?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 38
+    },
+    {
+        "question_id": 18449,
+        "question_text": "What is 123 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "128",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18450,
+        "question_text": "What is 128 - 3?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18451,
+        "question_text": "What is 123 + 10?",
+        "answer_type": "text_input",
+        "correct_answer": "133",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18452,
+        "question_text": "What is 128 - 20?",
+        "answer_type": "text_input",
+        "correct_answer": "108",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18453,
+        "question_text": "What is 123 + 100?",
+        "answer_type": "text_input",
+        "correct_answer": "223",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18454,
+        "question_text": "What is 323 - 100?",
+        "answer_type": "text_input",
+        "correct_answer": "223",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18455,
+        "question_text": "Calculate 311 + 6.",
+        "answer_type": "text_input",
+        "correct_answer": "317",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18456,
+        "question_text": "Calculate 499 - 7.",
+        "answer_type": "text_input",
+        "correct_answer": "492",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18457,
+        "question_text": "Calculate 150 + 30.",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18458,
+        "question_text": "Calculate 360 - 10.",
+        "answer_type": "text_input",
+        "correct_answer": "350",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18459,
+        "question_text": "Calculate 250 + 200.",
+        "answer_type": "text_input",
+        "correct_answer": "450",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18460,
+        "question_text": "Calculate 480 - 300.",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18461,
+        "question_text": "Add 20 to 222.",
+        "answer_type": "text_input",
+        "correct_answer": "242",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18462,
+        "question_text": "Subtract 30 from 431.",
+        "answer_type": "text_input",
+        "correct_answer": "401",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18463,
+        "question_text": "What is 111 + 4?",
+        "answer_type": "text_input",
+        "correct_answer": "115",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18464,
+        "question_text": "What is 196 - 6?",
+        "answer_type": "text_input",
+        "correct_answer": "190",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18465,
+        "question_text": "What is 100 + 345?",
+        "answer_type": "text_input",
+        "correct_answer": "445",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18466,
+        "question_text": "What is 450 - 400?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18467,
+        "question_text": "Add 2 to 333.",
+        "answer_type": "text_input",
+        "correct_answer": "335",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18468,
+        "question_text": "Subtract 4 from 288.",
+        "answer_type": "text_input",
+        "correct_answer": "284",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18469,
+        "question_text": "What is 300 + 199?",
+        "answer_type": "text_input",
+        "correct_answer": "499",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18470,
+        "question_text": "What is 220 - 10?",
+        "answer_type": "text_input",
+        "correct_answer": "210",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18471,
+        "question_text": "What is 400 + 20?",
+        "answer_type": "text_input",
+        "correct_answer": "420",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18472,
+        "question_text": "What is 500 - 200?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18473,
+        "question_text": "What is 1 + 266?",
+        "answer_type": "text_input",
+        "correct_answer": "267",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18474,
+        "question_text": "What is 127 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "132",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18475,
+        "question_text": "What is 132 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "127",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18476,
+        "question_text": "What is 195 + 8?",
+        "answer_type": "text_input",
+        "correct_answer": "203",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18477,
+        "question_text": "What is 203 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "198",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18478,
+        "question_text": "What is 950 + 70?",
+        "answer_type": "text_input",
+        "correct_answer": "1020",
+        "alternative_answer_1": "1,020",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18479,
+        "question_text": "What is 1020 - 50?",
+        "answer_type": "text_input",
+        "correct_answer": "970",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18480,
+        "question_text": "Calculate 480 + 80.",
+        "answer_type": "text_input",
+        "correct_answer": "560",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18481,
+        "question_text": "Calculate 560 - 80.",
+        "answer_type": "text_input",
+        "correct_answer": "480",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18482,
+        "question_text": "What is 900 + 300?",
+        "answer_type": "text_input",
+        "correct_answer": "1200",
+        "alternative_answer_1": "1,200",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18483,
+        "question_text": "What is 1100 - 200?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18484,
+        "question_text": "What is 399 + 3?",
+        "answer_type": "text_input",
+        "correct_answer": "402",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18485,
+        "question_text": "What is 402 - 3?",
+        "answer_type": "text_input",
+        "correct_answer": "399",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18486,
+        "question_text": "What is 700 + 500?",
+        "answer_type": "text_input",
+        "correct_answer": "1200",
+        "alternative_answer_1": "1,200",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18487,
+        "question_text": "What is 1200 - 400?",
+        "answer_type": "text_input",
+        "correct_answer": "800",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18488,
+        "question_text": "What is 650 + 70?",
+        "answer_type": "text_input",
+        "correct_answer": "720",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18489,
+        "question_text": "What is 720 - 70?",
+        "answer_type": "text_input",
+        "correct_answer": "650",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18490,
+        "question_text": "What is 950 + 100?",
+        "answer_type": "text_input",
+        "correct_answer": "1050",
+        "alternative_answer_1": "1,050",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18491,
+        "question_text": "What is 1050 - 100?",
+        "answer_type": "text_input",
+        "correct_answer": "950",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18492,
+        "question_text": "What is 880 + 90?",
+        "answer_type": "text_input",
+        "correct_answer": "970",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18493,
+        "question_text": "What is 970 - 90?",
+        "answer_type": "text_input",
+        "correct_answer": "880",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18494,
+        "question_text": "What is 995 + 8?",
+        "answer_type": "text_input",
+        "correct_answer": "1003",
+        "alternative_answer_1": "1,003",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18495,
+        "question_text": "What is 1002 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "997",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18496,
+        "question_text": "What is 800 + 800?",
+        "answer_type": "text_input",
+        "correct_answer": "1600",
+        "alternative_answer_1": "1,600",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18497,
+        "question_text": "What is 1000 - 20?",
+        "answer_type": "text_input",
+        "correct_answer": "980",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18498,
+        "question_text": "What is 990 + 20?",
+        "answer_type": "text_input",
+        "correct_answer": "1010",
+        "alternative_answer_1": "1,010",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18499,
+        "question_text": "What is 234 + 20, then + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "259",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18500,
+        "question_text": "What is 587 - 50, then - 2?",
+        "answer_type": "text_input",
+        "correct_answer": "535",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18501,
+        "question_text": "A book has 350 pages. You read 10 pages on Monday and 8 pages on Tuesday. How many pages are left?",
+        "answer_type": "text_input",
+        "correct_answer": "332",
+        "alternative_answer_1": "332 pages",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18502,
+        "question_text": "Start with 800. Subtract 100, then add 5. What is the result?",
+        "answer_type": "text_input",
+        "correct_answer": "705",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18503,
+        "question_text": "Which is the most efficient way to solve 199 + 8?",
+        "answer_type": "text_input",
+        "correct_answer": "Add 1 to 199 then add 7",
+        "alternative_answer_1": "200 + 7",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18504,
+        "question_text": "Which is the most efficient way to solve 302 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "Subtract 2 then subtract 3",
+        "alternative_answer_1": "300 - 3",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18505,
+        "question_text": "What is 998 + 7?",
+        "answer_type": "text_input",
+        "correct_answer": "1005",
+        "alternative_answer_1": "1,005",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18506,
+        "question_text": "What is 1001 - 4?",
+        "answer_type": "text_input",
+        "correct_answer": "997",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18507,
+        "question_text": "I have 450ml of juice. I drink 20ml, then pour another 100ml. What is the final volume?",
+        "answer_type": "text_input",
+        "correct_answer": "530ml",
+        "alternative_answer_1": "530",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18508,
+        "question_text": "What is 10 less than 305?",
+        "answer_type": "text_input",
+        "correct_answer": "295",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18509,
+        "question_text": "What is 100 more than 899?",
+        "answer_type": "text_input",
+        "correct_answer": "999",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18510,
+        "question_text": "Solve mentally: 570 + 50.",
+        "answer_type": "text_input",
+        "correct_answer": "620",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18511,
+        "question_text": "Solve mentally: 620 - 50.",
+        "answer_type": "text_input",
+        "correct_answer": "570",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18512,
+        "question_text": "What is 200 + 8 + 70?",
+        "answer_type": "text_input",
+        "correct_answer": "278",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18513,
+        "question_text": "What is 900 - 100 - 1?",
+        "answer_type": "text_input",
+        "correct_answer": "799",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18514,
+        "question_text": "A bike costs £250. You have saved £100. Then you save another £20. How much more do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "£130",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18515,
+        "question_text": "What is 390 + 20?",
+        "answer_type": "text_input",
+        "correct_answer": "410",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18516,
+        "question_text": "What is 410 - 20?",
+        "answer_type": "text_input",
+        "correct_answer": "390",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18517,
+        "question_text": "Start with 1000. Subtract 1, then subtract 10.",
+        "answer_type": "text_input",
+        "correct_answer": "989",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18518,
+        "question_text": "What is 888 + 100?",
+        "answer_type": "text_input",
+        "correct_answer": "988",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18519,
+        "question_text": "What is 888 - 10?",
+        "answer_type": "text_input",
+        "correct_answer": "878",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18520,
+        "question_text": "What is 888 - 1?",
+        "answer_type": "text_input",
+        "correct_answer": "887",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18521,
+        "question_text": "What is 1 more than 999?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1,000",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18522,
+        "question_text": "What is 10 more than 990?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1,000",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18523,
+        "question_text": "What is 100 more than 900?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1,000",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18524,
+        "question_text": "Solve mentally: 995 + 8.",
+        "answer_type": "text_input",
+        "correct_answer": "1003",
+        "alternative_answer_1": "1,003",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18525,
+        "question_text": "Solve mentally: 1002 - 5.",
+        "answer_type": "text_input",
+        "correct_answer": "997",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18526,
+        "question_text": "A farmer has 250 sheep. He sells 100, then buys 8. How many sheep does he have?",
+        "answer_type": "text_input",
+        "correct_answer": "158",
+        "alternative_answer_1": "158 sheep",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18527,
+        "question_text": "Identify the most efficient strategy to solve 498 + 135.",
+        "answer_type": "text_input",
+        "correct_answer": "Add 500 then subtract 2",
+        "alternative_answer_1": "Round and adjust",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18528,
+        "question_text": "Identify the most efficient strategy to solve 603 - 199.",
+        "answer_type": "text_input",
+        "correct_answer": "Subtract 200 then add 1",
+        "alternative_answer_1": "Round and adjust",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18529,
+        "question_text": "What is 10 more than 995?",
+        "answer_type": "text_input",
+        "correct_answer": "1005",
+        "alternative_answer_1": "1,005",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18530,
+        "question_text": "What is 100 less than 1050?",
+        "answer_type": "text_input",
+        "correct_answer": "950",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18531,
+        "question_text": "What is 1 less than 1000?",
+        "answer_type": "text_input",
+        "correct_answer": "999",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18532,
+        "question_text": "You have £1000. You spend £10, then £1. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "989",
+        "alternative_answer_1": "£989",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18533,
+        "question_text": "What number is 100 more than 901?",
+        "answer_type": "text_input",
+        "correct_answer": "1001",
+        "alternative_answer_1": "1,001",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18534,
+        "question_text": "Solve mentally: 875 + 100.",
+        "answer_type": "text_input",
+        "correct_answer": "975",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18535,
+        "question_text": "Solve mentally: 975 - 100.",
+        "answer_type": "text_input",
+        "correct_answer": "875",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18536,
+        "question_text": "What is 200 + 80 + 7 + 10?",
+        "answer_type": "text_input",
+        "correct_answer": "297",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18537,
+        "question_text": "What is 900 - 10 - 100?",
+        "answer_type": "text_input",
+        "correct_answer": "790",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18538,
+        "question_text": "I start with 350. I add 50, then take away 9. What is my final number?",
+        "answer_type": "text_input",
+        "correct_answer": "391",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18539,
+        "question_text": "What is 399 + 100?",
+        "answer_type": "text_input",
+        "correct_answer": "499",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18540,
+        "question_text": "What is 410 - 200?",
+        "answer_type": "text_input",
+        "correct_answer": "210",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18541,
+        "question_text": "What is the effect of adding 100 to the number 234?",
+        "answer_type": "text_input",
+        "correct_answer": "The hundreds digit increases by 1",
+        "alternative_answer_1": "It becomes 334",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18542,
+        "question_text": "What is the effect of subtracting 10 from the number 505?",
+        "answer_type": "text_input",
+        "correct_answer": "The hundreds digit decreases by 1 and the tens digit becomes 9",
+        "alternative_answer_1": "It becomes 495",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18543,
+        "question_text": "Solve mentally: 999 + 2.",
+        "answer_type": "text_input",
+        "correct_answer": "1001",
+        "alternative_answer_1": "1,001",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18544,
+        "question_text": "Solve mentally: 1000 - 11.",
+        "answer_type": "text_input",
+        "correct_answer": "989",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18545,
+        "question_text": "What number is 10 more than 999?",
+        "answer_type": "text_input",
+        "correct_answer": "1009",
+        "alternative_answer_1": "1,009",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18546,
+        "question_text": "What number is 100 less than 1000?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18547,
+        "question_text": "A plane is flying at 800m. It ascends 200m then descends 50m. What is its final altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "950m",
+        "alternative_answer_1": "950",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 18548,
+        "question_text": "What is 1 more than 9 hundreds, 9 tens and 9 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1,000",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 45
+    },
+    {
+        "question_id": 19050,
+        "question_text": "What is 1234 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "1239",
+        "alternative_answer_1": "1,239",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19051,
+        "question_text": "What is 4328 - 3?",
+        "answer_type": "text_input",
+        "correct_answer": "4325",
+        "alternative_answer_1": "4,325",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19052,
+        "question_text": "What is 1234 + 10?",
+        "answer_type": "text_input",
+        "correct_answer": "1244",
+        "alternative_answer_1": "1,244",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19053,
+        "question_text": "What is 4328 - 20?",
+        "answer_type": "text_input",
+        "correct_answer": "4308",
+        "alternative_answer_1": "4,308",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19054,
+        "question_text": "What is 1234 + 100?",
+        "answer_type": "text_input",
+        "correct_answer": "1334",
+        "alternative_answer_1": "1,334",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19055,
+        "question_text": "What is 4328 - 300?",
+        "answer_type": "text_input",
+        "correct_answer": "4028",
+        "alternative_answer_1": "4,028",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19056,
+        "question_text": "What is 1234 + 1000?",
+        "answer_type": "text_input",
+        "correct_answer": "2234",
+        "alternative_answer_1": "2,234",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19057,
+        "question_text": "What is 4328 - 2000?",
+        "answer_type": "text_input",
+        "correct_answer": "2328",
+        "alternative_answer_1": "2,328",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19058,
+        "question_text": "Calculate 3110 + 60.",
+        "answer_type": "text_input",
+        "correct_answer": "3170",
+        "alternative_answer_1": "3,170",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19059,
+        "question_text": "Calculate 4990 - 70.",
+        "answer_type": "text_input",
+        "correct_answer": "4920",
+        "alternative_answer_1": "4,920",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19060,
+        "question_text": "Calculate 1500 + 300.",
+        "answer_type": "text_input",
+        "correct_answer": "1800",
+        "alternative_answer_1": "1,800",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19061,
+        "question_text": "Calculate 3600 - 1000.",
+        "answer_type": "text_input",
+        "correct_answer": "2600",
+        "alternative_answer_1": "2,600",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19062,
+        "question_text": "Add 200 to 2222.",
+        "answer_type": "text_input",
+        "correct_answer": "2422",
+        "alternative_answer_1": "2,422",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19063,
+        "question_text": "Subtract 3000 from 4321.",
+        "answer_type": "text_input",
+        "correct_answer": "1321",
+        "alternative_answer_1": "1,321",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19064,
+        "question_text": "What is 1111 + 4?",
+        "answer_type": "text_input",
+        "correct_answer": "1115",
+        "alternative_answer_1": "1,115",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19065,
+        "question_text": "What is 1996 - 6?",
+        "answer_type": "text_input",
+        "correct_answer": "1990",
+        "alternative_answer_1": "1,990",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19066,
+        "question_text": "What is 1000 + 3456?",
+        "answer_type": "text_input",
+        "correct_answer": "4456",
+        "alternative_answer_1": "4,456",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19067,
+        "question_text": "What is 4500 - 4000?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19068,
+        "question_text": "Add 20 to 3333.",
+        "answer_type": "text_input",
+        "correct_answer": "3353",
+        "alternative_answer_1": "3,353",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19069,
+        "question_text": "Subtract 400 from 2888.",
+        "answer_type": "text_input",
+        "correct_answer": "2488",
+        "alternative_answer_1": "2,488",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19070,
+        "question_text": "What is 3000 + 1999?",
+        "answer_type": "text_input",
+        "correct_answer": "4999",
+        "alternative_answer_1": "4,999",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19071,
+        "question_text": "What is 2200 - 100?",
+        "answer_type": "text_input",
+        "correct_answer": "2100",
+        "alternative_answer_1": "2,100",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19072,
+        "question_text": "What is 4000 + 2?",
+        "answer_type": "text_input",
+        "correct_answer": "4002",
+        "alternative_answer_1": "4,002",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19073,
+        "question_text": "What is 5000 - 2000?",
+        "answer_type": "text_input",
+        "correct_answer": "3000",
+        "alternative_answer_1": "3,000",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19074,
+        "question_text": "What is 1 + 2666?",
+        "answer_type": "text_input",
+        "correct_answer": "2667",
+        "alternative_answer_1": "2,667",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19075,
+        "question_text": "What is 1297 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "1302",
+        "alternative_answer_1": "1,302",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19076,
+        "question_text": "What is 4302 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "4297",
+        "alternative_answer_1": "4,297",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19077,
+        "question_text": "What is 9950 + 70?",
+        "answer_type": "text_input",
+        "correct_answer": "10020",
+        "alternative_answer_1": "10,020",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19078,
+        "question_text": "What is 10020 - 50?",
+        "answer_type": "text_input",
+        "correct_answer": "9970",
+        "alternative_answer_1": "9,970",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19079,
+        "question_text": "What is 45 + 32?",
+        "answer_type": "text_input",
+        "correct_answer": "77",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19080,
+        "question_text": "What is 78 - 25?",
+        "answer_type": "text_input",
+        "correct_answer": "53",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19081,
+        "question_text": "Calculate 4800 + 800.",
+        "answer_type": "text_input",
+        "correct_answer": "5600",
+        "alternative_answer_1": "5,600",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19082,
+        "question_text": "Calculate 5600 - 800.",
+        "answer_type": "text_input",
+        "correct_answer": "4800",
+        "alternative_answer_1": "4,800",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19083,
+        "question_text": "What is 9000 + 3000?",
+        "answer_type": "text_input",
+        "correct_answer": "12000",
+        "alternative_answer_1": "12,000",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19084,
+        "question_text": "What is 11000 - 2000?",
+        "answer_type": "text_input",
+        "correct_answer": "9000",
+        "alternative_answer_1": "9,000",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19085,
+        "question_text": "What is 3999 + 3?",
+        "answer_type": "text_input",
+        "correct_answer": "4002",
+        "alternative_answer_1": "4,002",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19086,
+        "question_text": "What is 4002 - 3?",
+        "answer_type": "text_input",
+        "correct_answer": "3999",
+        "alternative_answer_1": "3,999",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19087,
+        "question_text": "What is 80 + 50?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19088,
+        "question_text": "What is 130 - 40?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "Ninety",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19089,
+        "question_text": "What is 65 + 23?",
+        "answer_type": "text_input",
+        "correct_answer": "88",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19090,
+        "question_text": "What is 72 - 31?",
+        "answer_type": "text_input",
+        "correct_answer": "41",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19091,
+        "question_text": "What is 9500 + 1000?",
+        "answer_type": "text_input",
+        "correct_answer": "10500",
+        "alternative_answer_1": "10,500",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19092,
+        "question_text": "What is 10500 - 1000?",
+        "answer_type": "text_input",
+        "correct_answer": "9500",
+        "alternative_answer_1": "9,500",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19093,
+        "question_text": "What is 88 + 11?",
+        "answer_type": "text_input",
+        "correct_answer": "99",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19094,
+        "question_text": "What is 97 - 45?",
+        "answer_type": "text_input",
+        "correct_answer": "52",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19095,
+        "question_text": "What is 9995 + 8?",
+        "answer_type": "text_input",
+        "correct_answer": "10003",
+        "alternative_answer_1": "10,003",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19096,
+        "question_text": "What is 10002 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "9997",
+        "alternative_answer_1": "9,997",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19097,
+        "question_text": "What is 80 + 80?",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19098,
+        "question_text": "What is 100 - 22?",
+        "answer_type": "text_input",
+        "correct_answer": "78",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19099,
+        "question_text": "What is 99 + 11?",
+        "answer_type": "text_input",
+        "correct_answer": "110",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19100,
+        "question_text": "What is 234 + 56?",
+        "answer_type": "text_input",
+        "correct_answer": "290",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19101,
+        "question_text": "What is 456 - 78?",
+        "answer_type": "text_input",
+        "correct_answer": "378",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19102,
+        "question_text": "Calculate mentally: 250 + 350.",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19103,
+        "question_text": "Calculate mentally: 800 - 150.",
+        "answer_type": "text_input",
+        "correct_answer": "650",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19104,
+        "question_text": "A farmer has 320 sheep. He buys 75 more. How many does he have now?",
+        "answer_type": "text_input",
+        "correct_answer": "395",
+        "alternative_answer_1": "395 sheep",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19105,
+        "question_text": "A book has 500 pages. You have read 85. How many are left to read?",
+        "answer_type": "text_input",
+        "correct_answer": "415",
+        "alternative_answer_1": "415 pages",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19106,
+        "question_text": "What is 498 + 25?",
+        "answer_type": "text_input",
+        "correct_answer": "523",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19107,
+        "question_text": "What is 603 - 24?",
+        "answer_type": "text_input",
+        "correct_answer": "579",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19108,
+        "question_text": "What is 610 + 280?",
+        "answer_type": "text_input",
+        "correct_answer": "890",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19109,
+        "question_text": "What is 990 - 450?",
+        "answer_type": "text_input",
+        "correct_answer": "540",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19110,
+        "question_text": "What is 700 - 33?",
+        "answer_type": "text_input",
+        "correct_answer": "667",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19111,
+        "question_text": "A baker makes 150 loaves on Monday and 250 on Tuesday. What is the total?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "400 loaves",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19112,
+        "question_text": "You have £750. You spend £320. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "430",
+        "alternative_answer_1": "£430",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19113,
+        "question_text": "What is 800 - 510?",
+        "answer_type": "text_input",
+        "correct_answer": "290",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19114,
+        "question_text": "What is 130 + 450?",
+        "answer_type": "text_input",
+        "correct_answer": "580",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19115,
+        "question_text": "What is 860 - 430?",
+        "answer_type": "text_input",
+        "correct_answer": "430",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19116,
+        "question_text": "What is 900 - 65?",
+        "answer_type": "text_input",
+        "correct_answer": "835",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19117,
+        "question_text": "What is 310 + 320?",
+        "answer_type": "text_input",
+        "correct_answer": "630",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19118,
+        "question_text": "What is 680 - 210?",
+        "answer_type": "text_input",
+        "correct_answer": "470",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19119,
+        "question_text": "What is 1000 - 550?",
+        "answer_type": "text_input",
+        "correct_answer": "450",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19120,
+        "question_text": "What is 440 + 550?",
+        "answer_type": "text_input",
+        "correct_answer": "990",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19121,
+        "question_text": "What is 234 + 60?",
+        "answer_type": "text_input",
+        "correct_answer": "294",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19122,
+        "question_text": "What is 456 - 300?",
+        "answer_type": "text_input",
+        "correct_answer": "156",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19123,
+        "question_text": "What is 500 + 499?",
+        "answer_type": "text_input",
+        "correct_answer": "999",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19124,
+        "question_text": "What is 1000 - 1?",
+        "answer_type": "text_input",
+        "correct_answer": "999",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19125,
+        "question_text": "Justify the most efficient mental strategy for solving 3456 + 500.",
+        "answer_type": "text_input",
+        "correct_answer": "Add 5 to the hundreds digit",
+        "alternative_answer_1": "Look at the hundreds column",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19126,
+        "question_text": "A cafe sold 350 coffees and 480 teas. How many drinks did they sell in total?",
+        "answer_type": "text_input",
+        "correct_answer": "830",
+        "alternative_answer_1": "830 drinks",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19127,
+        "question_text": "A shop has 910 apples. It sells 250. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "660",
+        "alternative_answer_1": "660 apples",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19128,
+        "question_text": "What is 4500 + 1000 + 800?",
+        "answer_type": "text_input",
+        "correct_answer": "6300",
+        "alternative_answer_1": "6,300",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19129,
+        "question_text": "What is 8200 - 2000 - 500?",
+        "answer_type": "text_input",
+        "correct_answer": "5700",
+        "alternative_answer_1": "5,700",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19130,
+        "question_text": "I have £5500. I earn £350. How much do I have now?",
+        "answer_type": "text_input",
+        "correct_answer": "5850",
+        "alternative_answer_1": "£5,850",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19131,
+        "question_text": "A plane is at 7000 feet. It descends 280 feet. What is its new altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "6720",
+        "alternative_answer_1": "6720 feet",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19132,
+        "question_text": "Add together 450 and 460.",
+        "answer_type": "text_input",
+        "correct_answer": "910",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19133,
+        "question_text": "Find the difference between 9500 and 380.",
+        "answer_type": "text_input",
+        "correct_answer": "9120",
+        "alternative_answer_1": "9,120",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19134,
+        "question_text": "What is 3800 + 220?",
+        "answer_type": "text_input",
+        "correct_answer": "4020",
+        "alternative_answer_1": "4,020",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19135,
+        "question_text": "What is 810 - 190?",
+        "answer_type": "text_input",
+        "correct_answer": "620",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19136,
+        "question_text": "What is 10000 - 410?",
+        "answer_type": "text_input",
+        "correct_answer": "9590",
+        "alternative_answer_1": "9,590",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19137,
+        "question_text": "A rope is 9500cm long. 280cm is cut off. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "9220cm",
+        "alternative_answer_1": "9,220",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19138,
+        "question_text": "What is 470 + 470?",
+        "answer_type": "text_input",
+        "correct_answer": "940",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19139,
+        "question_text": "I am thinking of a number. If I add 2500 to it, I get 6000. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "3500",
+        "alternative_answer_1": "3,500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19140,
+        "question_text": "I am thinking of a number. If I subtract 320 from it, I get 4800. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "5120",
+        "alternative_answer_1": "5,120",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19141,
+        "question_text": "What is 1900 + 710?",
+        "answer_type": "text_input",
+        "correct_answer": "2610",
+        "alternative_answer_1": "2,610",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19142,
+        "question_text": "What is 1000 - 82?",
+        "answer_type": "text_input",
+        "correct_answer": "918",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19143,
+        "question_text": "A TV costs £1000. I have £650. How much more do I need?",
+        "answer_type": "text_input",
+        "correct_answer": "350",
+        "alternative_answer_1": "£350",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19144,
+        "question_text": "What is 5800 + 320?",
+        "answer_type": "text_input",
+        "correct_answer": "6120",
+        "alternative_answer_1": "6,120",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19145,
+        "question_text": "Justify your method for solving 5000 - 80.",
+        "answer_type": "text_input",
+        "correct_answer": "Count back from 5000 in tens",
+        "alternative_answer_1": "5000 is 500 tens, subtract 8 tens",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19146,
+        "question_text": "What is 3456 - 56?",
+        "answer_type": "text_input",
+        "correct_answer": "3400",
+        "alternative_answer_1": "3,400",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19147,
+        "question_text": "What is 5821 - 821?",
+        "answer_type": "text_input",
+        "correct_answer": "5000",
+        "alternative_answer_1": "5,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19148,
+        "question_text": "What is 4999 + 2?",
+        "answer_type": "text_input",
+        "correct_answer": "5001",
+        "alternative_answer_1": "5,001",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 19149,
+        "question_text": "What is 3005 - 8?",
+        "answer_type": "text_input",
+        "correct_answer": "2997",
+        "alternative_answer_1": "2,997",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 46
+    },
+    {
+        "question_id": 22884,
+        "question_text": "A ribbon is 2.5m long. You cut off 1m. How long is the ribbon now?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5m",
+        "alternative_answer_1": "1.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22885,
+        "question_text": "A bag of sugar weighs 1.5kg. You add another 0.5kg. What is the total weight?",
+        "answer_type": "text_input",
+        "correct_answer": "2kg",
+        "alternative_answer_1": "2",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22886,
+        "question_text": "A bottle contains 1.5 litres of water. You drink half a litre (0.5L). How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1L",
+        "alternative_answer_1": "1",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22887,
+        "question_text": "A bus journey is 3km long. You have travelled 1.5km. How much further do you have to go?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5km",
+        "alternative_answer_1": "1.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22888,
+        "question_text": "A recipe needs 0.5kg of flour. You have a 1kg bag. How much flour is left after you use it?",
+        "answer_type": "text_input",
+        "correct_answer": "0.5kg",
+        "alternative_answer_1": "0.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22889,
+        "question_text": "You have a 2-litre bottle of juice. You pour a 0.5 litre glass. How much is left in the bottle?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5L",
+        "alternative_answer_1": "1.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22890,
+        "question_text": "What is the total cost of two items priced at £1.50 each?",
+        "answer_type": "text_input",
+        "correct_answer": "£3.00",
+        "alternative_answer_1": "3",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22891,
+        "question_text": "A plank of wood is 3.5m long. You cut it in half. How long is each piece?",
+        "answer_type": "text_input",
+        "correct_answer": "1.75m",
+        "alternative_answer_1": "1.75",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22892,
+        "question_text": "A box weighs 2.5kg. A second box weighs 1.5kg. What is their total weight?",
+        "answer_type": "text_input",
+        "correct_answer": "4kg",
+        "alternative_answer_1": "4",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22893,
+        "question_text": "A jug holds 1 litre. You pour in 0.4 litres. How much more is needed to fill it?",
+        "answer_type": "text_input",
+        "correct_answer": "0.6L",
+        "alternative_answer_1": "0.6",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22894,
+        "question_text": "A run is 5km. You stop for a rest after 2.5km. How much further do you have to run?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5km",
+        "alternative_answer_1": "2.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22895,
+        "question_text": "A cake weighs 1.2kg. You eat 0.2kg. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1kg",
+        "alternative_answer_1": "1",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22896,
+        "question_text": "A bottle contains 0.8L of liquid. You add 0.2L. What is the new volume?",
+        "answer_type": "text_input",
+        "correct_answer": "1L",
+        "alternative_answer_1": "1",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22897,
+        "question_text": "A book costs £5.50. You pay with a £10 note. How much change do you get?",
+        "answer_type": "text_input",
+        "correct_answer": "£4.50",
+        "alternative_answer_1": "4.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22898,
+        "question_text": "A ribbon is 0.8m long. You add a 0.7m piece. What is the total length?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5m",
+        "alternative_answer_1": "1.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22899,
+        "question_text": "A bag of apples weighs 1.6kg. A bag of bananas weighs 0.4kg. What is their combined weight?",
+        "answer_type": "text_input",
+        "correct_answer": "2kg",
+        "alternative_answer_1": "2",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22900,
+        "question_text": "A bottle holds 1 litre. It contains 0.3L of water. How much is empty?",
+        "answer_type": "text_input",
+        "correct_answer": "0.7L",
+        "alternative_answer_1": "0.7",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22901,
+        "question_text": "A journey is 10km. After 3.5km, how far is left to go?",
+        "answer_type": "text_input",
+        "correct_answer": "6.5km",
+        "alternative_answer_1": "6.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22902,
+        "question_text": "A block of cheese weighs 0.5kg. You use 0.1kg. What is the new weight?",
+        "answer_type": "text_input",
+        "correct_answer": "0.4kg",
+        "alternative_answer_1": "0.4",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22903,
+        "question_text": "You mix 0.6L of red paint and 0.9L of white paint. What is the total volume?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5L",
+        "alternative_answer_1": "1.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22904,
+        "question_text": "What is the total cost of an item for £2.25 and another for £1.25?",
+        "answer_type": "text_input",
+        "correct_answer": "£3.50",
+        "alternative_answer_1": "3.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22905,
+        "question_text": "A piece of string is 1.2m long. You cut off 0.3m. How long is it now?",
+        "answer_type": "text_input",
+        "correct_answer": "0.9m",
+        "alternative_answer_1": "0.9",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22906,
+        "question_text": "A bag of rice weighs 1.1kg. You add 0.9kg. What is the total weight?",
+        "answer_type": "text_input",
+        "correct_answer": "2kg",
+        "alternative_answer_1": "2",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22907,
+        "question_text": "A bottle has 0.75L of juice. You drink 0.25L. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "0.5L",
+        "alternative_answer_1": "0.5",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22908,
+        "question_text": "A walk is 1.8km. A second walk is 1.2km. What is the total distance?",
+        "answer_type": "text_input",
+        "correct_answer": "3km",
+        "alternative_answer_1": "3",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22909,
+        "question_text": "A room is 4.25m long and 3m wide. What is its perimeter?",
+        "answer_type": "text_input",
+        "correct_answer": "14.5m",
+        "alternative_answer_1": "14.5",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22910,
+        "question_text": "You buy three items costing £1.25, £2.50, and £0.75. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£4.50",
+        "alternative_answer_1": "4.5",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22911,
+        "question_text": "A plank of wood is 3m long. You cut off a piece that is 85cm long. How much is left in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "2.15m",
+        "alternative_answer_1": "2.15",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22912,
+        "question_text": "A bag contains 1.2kg of apples and 750g of bananas. What is the total weight in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "1.95kg",
+        "alternative_answer_1": "1.95",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22913,
+        "question_text": "A 5-litre container of water has 1250ml used from it. How many litres are left?",
+        "answer_type": "text_input",
+        "correct_answer": "3.75L",
+        "alternative_answer_1": "3.75",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22914,
+        "question_text": "A fabric costs £8 per metre. How much would 3.5 metres of fabric cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£28.00",
+        "alternative_answer_1": "28",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22915,
+        "question_text": "You have a £20 note and buy a game for £14.99. How much change do you receive?",
+        "answer_type": "text_input",
+        "correct_answer": "£5.01",
+        "alternative_answer_1": "5.01",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22916,
+        "question_text": "A runner runs 5 laps of a 400m track. How many kilometres has she run?",
+        "answer_type": "text_input",
+        "correct_answer": "2km",
+        "alternative_answer_1": "2",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22917,
+        "question_text": "A box of 10 chocolates weighs 250g. The box weighs 30g. What is the weight of one chocolate?",
+        "answer_type": "text_input",
+        "correct_answer": "22g",
+        "alternative_answer_1": "22",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22918,
+        "question_text": "A car travels 150km. It uses fuel at a rate of 10km per litre. If fuel costs £1.50 per litre, what was the cost of the journey?",
+        "answer_type": "text_input",
+        "correct_answer": "£22.50",
+        "alternative_answer_1": "22.5",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22919,
+        "question_text": "How many 35cm lengths of string can be cut from a 2-metre roll?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22920,
+        "question_text": "A bag of 4 oranges weighs 0.8kg. What is the average weight of one orange in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "200g",
+        "alternative_answer_1": "200",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22921,
+        "question_text": "A car park charges £2.50 per hour. If you stay for 3 hours, what is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£7.50",
+        "alternative_answer_1": "7.5",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22922,
+        "question_text": "A jug contains 1.8 litres of water. You pour out 900ml. How much is left, in millilitres?",
+        "answer_type": "text_input",
+        "correct_answer": "900ml",
+        "alternative_answer_1": "900",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22923,
+        "question_text": "A fence is 15 metres long. Posts are placed every 250cm. How many posts are needed (including one at each end)?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22924,
+        "question_text": "What is the total length of three planks of wood measuring 1.2m, 95cm, and 1.1m?",
+        "answer_type": "text_input",
+        "correct_answer": "3.25m",
+        "alternative_answer_1": "325cm",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22925,
+        "question_text": "A recipe for 5 people requires 0.75kg of rice. How many grams of rice is this per person?",
+        "answer_type": "text_input",
+        "correct_answer": "150g",
+        "alternative_answer_1": "150",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22926,
+        "question_text": "What is the cost of 2.5kg of bananas at £1.20 per kg?",
+        "answer_type": "text_input",
+        "correct_answer": "£3.00",
+        "alternative_answer_1": "3",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22927,
+        "question_text": "A bottle holds 75cl. You drink 250ml. How many centilitres are left?",
+        "answer_type": "text_input",
+        "correct_answer": "50cl",
+        "alternative_answer_1": "50",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22928,
+        "question_text": "A room has an area of 12 m². Carpet costs £15 per square metre. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£180",
+        "alternative_answer_1": "180",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22929,
+        "question_text": "A cube has a side length of 0.4m. What is its volume in cubic metres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.064",
+        "alternative_answer_1": "0.064m^3",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22934,
+        "question_text": "A rectangular field is 0.1km long and 50m wide. What is its perimeter in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "300m",
+        "alternative_answer_1": "300",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22935,
+        "question_text": "A car travels at an average speed of 60km/h. How far does it travel in 2 hours and 30 minutes, in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150km",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22936,
+        "question_text": "A recipe for 12 cupcakes needs 0.3kg of flour. How many grams of flour are needed per cupcake?",
+        "answer_type": "text_input",
+        "correct_answer": "25g",
+        "alternative_answer_1": "25",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22937,
+        "question_text": "A fish tank is 0.8m long, 50cm wide, and 40cm deep. What is its capacity in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "160L",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22938,
+        "question_text": "A map has a scale of 1:50,000. A road on the map is 12.5cm long. What is the actual length of the road in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "6.25km",
+        "alternative_answer_1": "6.25",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22939,
+        "question_text": "A taxi fare is £2.50 plus £1.20 per kilometre. What is the fare for a 8.5km journey?",
+        "answer_type": "text_input",
+        "correct_answer": "£12.70",
+        "alternative_answer_1": "12.7",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22940,
+        "question_text": "A solid metal cuboid is 10cm x 5cm x 4cm. It has a density of 8.5 g/cm³. What is its mass in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "1.7kg",
+        "alternative_answer_1": "1.7",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22941,
+        "question_text": "A room's floor is 5.2m by 4.5m. What is the area of the floor?",
+        "answer_type": "text_input",
+        "correct_answer": "23.4 m²",
+        "alternative_answer_1": "23.4",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22942,
+        "question_text": "A cylindrical water butt has a capacity of 200 litres. If it is 65% full, how many litres of water does it contain?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "130L",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22943,
+        "question_text": "A train travels 210km in 2.5 hours. What is its average speed in km/h?",
+        "answer_type": "text_input",
+        "correct_answer": "84",
+        "alternative_answer_1": "84 km/h",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22944,
+        "question_text": "How many 175ml servings can be poured from a 1.4 litre bottle of wine?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22945,
+        "question_text": "A square garden has a perimeter of 50m. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "156.25 m²",
+        "alternative_answer_1": "156.25",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22946,
+        "question_text": "A car uses fuel at 6 litres per 100km. How many litres are needed for a 550km journey?",
+        "answer_type": "text_input",
+        "correct_answer": "33",
+        "alternative_answer_1": "33 litres",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22947,
+        "question_text": "A box contains 12 bottles, each with a capacity of 75cl. What is the total capacity in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9L",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22948,
+        "question_text": "What is the sum of 1.05kg, 950g, and 0.8kg in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "2.8kg",
+        "alternative_answer_1": "2.8",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22949,
+        "question_text": "A TV costs £450. In a sale, its price is reduced by 20%. What is the sale price?",
+        "answer_type": "text_input",
+        "correct_answer": "£360",
+        "alternative_answer_1": "360",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22950,
+        "question_text": "A swimming pool is 25m long, 10m wide, and 1.8m deep. What is its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "450 m³",
+        "alternative_answer_1": "450",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22951,
+        "question_text": "A train travels 90 miles in 1.5 hours. What is its average speed in mph?",
+        "answer_type": "text_input",
+        "correct_answer": "60 mph",
+        "alternative_answer_1": "60",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22952,
+        "question_text": "A drink is made by mixing 25ml of concentrate with 175ml of water. How much concentrate is needed to make 2 litres of the drink?",
+        "answer_type": "text_input",
+        "correct_answer": "250ml",
+        "alternative_answer_1": "0.25L",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22953,
+        "question_text": "A recipe for 10 people requires 1.5kg of potatoes. How many grams of potatoes are needed for 4 people?",
+        "answer_type": "text_input",
+        "correct_answer": "600g",
+        "alternative_answer_1": "600",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22954,
+        "question_text": "A circle has a diameter of 30cm. What is its circumference? (Use π ≈ 3.14)",
+        "answer_type": "text_input",
+        "correct_answer": "94.2cm",
+        "alternative_answer_1": "94.2",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22955,
+        "question_text": "How many 45-minute lessons can be scheduled in a 6-hour school day?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22956,
+        "question_text": "A rectangular plot of land is 0.2km by 0.15km. What is its area in square metres?",
+        "answer_type": "text_input",
+        "correct_answer": "30000",
+        "alternative_answer_1": "30,000 m²",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22957,
+        "question_text": "A water barrel with a capacity of 210 litres is 2/3 full. How many litres of water are in it?",
+        "answer_type": "text_input",
+        "correct_answer": "140",
+        "alternative_answer_1": "140L",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22958,
+        "question_text": "A car's fuel tank holds 45 litres. If it uses 0.15 litres per mile, how many miles can it travel on a full tank?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "300 miles",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 22959,
+        "question_text": "What number do you add to 4 to make 5?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22960,
+        "question_text": "2 + __ = 5",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22961,
+        "question_text": "If you have 5 sweets and eat 1, how many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22962,
+        "question_text": "5 - 4 = __",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22963,
+        "question_text": "What is the missing number: 4 + __ = 5?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22964,
+        "question_text": "If you start with 5 and take away 3, what is left?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22965,
+        "question_text": "0 + 5 = __",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22966,
+        "question_text": "What is 9 - 9?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22967,
+        "question_text": "I have 1 apple. How many more do I need to make 5?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22968,
+        "question_text": "5 - 2 = __",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22969,
+        "question_text": "What is the missing number in __ + 3 = 5?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22970,
+        "question_text": "If you have 5 cakes and give 5 away, how many do you have?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22971,
+        "question_text": "1 + 4 = __",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22972,
+        "question_text": "There are 5 birds on a wire. 2 fly away. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22973,
+        "question_text": "What do you add to 0 to get 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22974,
+        "question_text": "If 2 + 3 = 5, what is 5 - 3?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22975,
+        "question_text": "What number is missing? 5 - __ = 4",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22976,
+        "question_text": "What is the total of 3 and 2?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22977,
+        "question_text": "You need 5 coins. You have 4. How many more do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22978,
+        "question_text": "If 4 + 1 = 5, what is 5 - 1?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22979,
+        "question_text": "What is the missing number? 6 - __ = 6",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22980,
+        "question_text": "What is 5 take away 0?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22981,
+        "question_text": "I have 5 pencils. I lose 3. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22982,
+        "question_text": "What is the sum of 5 and 0?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22983,
+        "question_text": "If you have a block of 5, how many do you need to take away to be left with 1?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22984,
+        "question_text": "What number do you add to 6 to make 10?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22985,
+        "question_text": "9 + __ = 10",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22986,
+        "question_text": "If you have 10 apples and you eat 4, how many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22987,
+        "question_text": "10 - 8 = __",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22988,
+        "question_text": "What is the missing number: 6 + __ = 10?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22989,
+        "question_text": "If 8 + 2 = 10, what is 10 - 2?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22990,
+        "question_text": "You need 10 points to win. You have 5. How many more do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22991,
+        "question_text": "Calculate the difference between 10 and 7.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22992,
+        "question_text": "What is the missing number in __ + 1 = 10?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22993,
+        "question_text": "If you have 10 marbles and give 9 away, how many do you have left?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22994,
+        "question_text": "4 + 6 = __",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22995,
+        "question_text": "There are 10 cars in a car park. 3 drive away. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22996,
+        "question_text": "What do you add to 0 to get 10?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22997,
+        "question_text": "What number is missing? 10 - __ = 2",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 22998,
+        "question_text": "What is the total of 8 and 2?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23000,
+        "question_text": "If 5 + 5 = 10, what is 10 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23001,
+        "question_text": "What is the missing number? 12 - __ = 12",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23002,
+        "question_text": "If you have a pack of 10 pens and use 8 of them, how many are unused?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23003,
+        "question_text": "What is the sum of 3 and 7?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23004,
+        "question_text": "What number makes 10 when added to 2?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23009,
+        "question_text": "What number do you need to add to 11 to make 20?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23010,
+        "question_text": "15 + __ = 20",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23011,
+        "question_text": "If you have 20 sweets and you eat 7, how many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "Thirteen",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23012,
+        "question_text": "20 - 11 = __",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23013,
+        "question_text": "I have 5 apples. How many more do I need to make 10?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23014,
+        "question_text": "If 14 + 6 = 20, what is 20 - 6?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "Fourteen",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23015,
+        "question_text": "You need 20 points to win. You have 9. How many more do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "Eleven",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23016,
+        "question_text": "What is 20 - 16?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23017,
+        "question_text": "What is the missing number in __ + 13 = 20?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23018,
+        "question_text": "If you have 20 marbles and give 18 away, how many do you have left?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23019,
+        "question_text": "9 + 11 = __",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23020,
+        "question_text": "There are 20 cars in a car park. 14 drive away. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23021,
+        "question_text": "A bus has 20 seats. 8 are empty. How many people are on the bus?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23022,
+        "question_text": "What number is missing? 20 - __ = 3",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "Seventeen",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23023,
+        "question_text": "What is the total of 1 and 19?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23024,
+        "question_text": "You have 20 stickers. You lose 5. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23025,
+        "question_text": "If 10 + 10 = 20, what is 20 - 10?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23026,
+        "question_text": "I have 7 sweets, but I need 10 in total to share. How many more do I need to buy?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23027,
+        "question_text": "What is the sum of 18 and 2?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23028,
+        "question_text": "What number makes 20 when added to 1?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "Nineteen",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23029,
+        "question_text": "20 - 8 = __",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23030,
+        "question_text": "A team needs 20 points. They have 13. How many more points do they need?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23031,
+        "question_text": "If 17 + 3 = 20, what other subtraction fact do you know apart from 20 - 3 = 17?",
+        "answer_type": "text_input",
+        "correct_answer": "20 - 17 = 3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23032,
+        "question_text": "There are 10 birds. How many more are needed to make a flock of 20?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23033,
+        "question_text": "What is the missing number? __ + 4 = 20",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "Sixteen",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23034,
+        "question_text": "What is 12 + __ = 18?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23035,
+        "question_text": "If I have 15 sweets and eat some until I have 8 left, how many did I eat?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23036,
+        "question_text": "A number bond is 8 + 9. What is the total?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "Seventeen",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23037,
+        "question_text": "What is the missing number: 19 - __ = 5?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "Fourteen",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23038,
+        "question_text": "If you know that 8 + 5 = 13, what is 13 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23039,
+        "question_text": "A class has 18 children. 7 of them are boys. How many are girls?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "Eleven",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23040,
+        "question_text": "You have 9 marbles and win 9 more. How many do you have in total?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "Eighteen",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23041,
+        "question_text": "What is 19 - 8?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "Eleven",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23042,
+        "question_text": "Find the error in this statement: 7 + 8 = 16.",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "It should be 15",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23043,
+        "question_text": "A number plus 5 equals 12. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23044,
+        "question_text": "There are 14 frogs in a pond. 6 jump out. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23045,
+        "question_text": "What is the sum of 6 and 13?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "Nineteen",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23046,
+        "question_text": "What is 20 - 13?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23047,
+        "question_text": "If you have 11 cakes and buy 8 more, how many do you have?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "Nineteen",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23048,
+        "question_text": "A pet shop has 17 puppies. It sells 9. How many puppies are left?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23049,
+        "question_text": "What is 11 + 6?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "Seventeen",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23050,
+        "question_text": "I am thinking of a number. When I add 6 to it, I get 15. What is my number?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23051,
+        "question_text": "A book has 20 pages. You have read 12. How many pages are left to read?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23052,
+        "question_text": "What is the sum of 7, 3 and 5?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23053,
+        "question_text": "What is 19 - 11?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23054,
+        "question_text": "A car park has 20 spaces. 16 cars are parked. How many spaces are free?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23055,
+        "question_text": "Calculate the sum of 8 and 6.",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23056,
+        "question_text": "There were 16 birds on a roof. A cat scared some away and now there are 7. How many flew away?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23057,
+        "question_text": "If you know 13 + 7 = 20, what is 20 - 7?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "Thirteen",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 23058,
+        "question_text": "What is 6 + 7 + 9?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "Twenty-two",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 29552,
+        "question_text": "If 8 + 6 = 14, write a related subtraction fact.",
+        "answer_type": "text_input",
+        "correct_answer": "14 - 6 = 8",
+        "alternative_answer_1": "14 - 8 = 6",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29553,
+        "question_text": "If 15 - 10 = 5, write a related addition fact.",
+        "answer_type": "text_input",
+        "correct_answer": "5 + 10 = 15",
+        "alternative_answer_1": "10 + 5 = 15",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29554,
+        "question_text": "If a number plus 5 equals 12, what is the number? Then, what is double that number?",
+        "answer_type": "text_input",
+        "correct_answer": "7, then 14",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29555,
+        "question_text": "If 8 minus a number equals 3, what is the number? Then, what is that number plus 10?",
+        "answer_type": "text_input",
+        "correct_answer": "5, then 15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29556,
+        "question_text": "What is missing: 5 + __ = 15. Write a related subtraction fact.",
+        "answer_type": "text_input",
+        "correct_answer": "10, 15 - 5 = 10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29557,
+        "question_text": "What is missing: __ - 6 = 8. Write a related addition fact.",
+        "answer_type": "text_input",
+        "correct_answer": "14, 8 + 6 = 14",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29558,
+        "question_text": "A sum is 10 + 7 = 17. Write a related subtraction fact and a missing number problem.",
+        "answer_type": "text_input",
+        "correct_answer": "17 - 7 = 10, 10 + __ = 17",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29559,
+        "question_text": "A sum is 19 - 4 = 15. Write a related addition fact and a missing number problem.",
+        "answer_type": "text_input",
+        "correct_answer": "15 + 4 = 19, __ - 4 = 15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29560,
+        "question_text": "If 9 + 8 = 17, does 17 - 8 = 9? Explain why.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, inverse operations",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29561,
+        "question_text": "If 16 - 7 = 9, does 9 + 7 = 16? Explain why.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, inverse operations",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29562,
+        "question_text": "A class has 15 students. 6 are boys. How many are girls? Write this as a missing number problem.",
+        "answer_type": "text_input",
+        "correct_answer": "6 + __ = 15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29563,
+        "question_text": "Tom has 18 sweets. He eats some and has 12 left. How many did he eat? Write this as a missing number problem.",
+        "answer_type": "text_input",
+        "correct_answer": "18 - __ = 12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29564,
+        "question_text": "Find the value of the triangle: 5 + ▲ = 14. Then find the value of the square: 18 - ■ = ▲.",
+        "answer_type": "text_input",
+        "correct_answer": "9, then 9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29565,
+        "question_text": "Find the missing number in the sequence: 3, 5, 8, __, 15, 19.",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29566,
+        "question_text": "Write a number sentence for: I have 10 apples. My friend gives me some more. Now I have 17. How many did my friend give me?",
+        "answer_type": "text_input",
+        "correct_answer": "10 + __ = 17",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29567,
+        "question_text": "Write a number sentence for: I have 15 stickers. I give some away. Now I have 8. How many did I give away?",
+        "answer_type": "text_input",
+        "correct_answer": "15 - __ = 8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29568,
+        "question_text": "Is 20 = 12 + 8 a correct number bond? Write two related subtraction facts.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, 20 - 8 = 12 and 20 - 12 = 8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29569,
+        "question_text": "Complete the number bond to 20: 13 + __ = 20. Then, check your answer using subtraction.",
+        "answer_type": "text_input",
+        "correct_answer": "7, 20 - 7 = 13",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29570,
+        "question_text": "A basket has 10 red balls and some blue balls. There are 18 balls in total. How many blue balls? Write as a missing number problem.",
+        "answer_type": "text_input",
+        "correct_answer": "10 + __ = 18",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29571,
+        "question_text": "I have 17 sweets. I eat 9. How many are left? Write the operation and answer.",
+        "answer_type": "text_input",
+        "correct_answer": "17 - 9 = 8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29572,
+        "question_text": "Find the missing number: 12 + (5 - __) = 15.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29573,
+        "question_text": "Find the missing number: (10 + 2) - __ = 7.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29574,
+        "question_text": "If x + 4 = 11, what is x?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29575,
+        "question_text": "If 15 - y = 6, what is y?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29576,
+        "question_text": "Write a number sentence for: A number minus 5 is 10.",
+        "answer_type": "text_input",
+        "correct_answer": "__ - 5 = 10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29577,
+        "question_text": "Write a number sentence for: 3 added to a number is 18.",
+        "answer_type": "text_input",
+        "correct_answer": "__ + 3 = 18",
+        "alternative_answer_1": "3 + __ = 18",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29578,
+        "question_text": "What is the number bond to 20 if one part is 4?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 513
+    },
+    {
+        "question_id": 29881,
+        "question_text": "Solve the missing number problem: 15 + __ = 35",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 29882,
+        "question_text": "Solve the missing number problem: __ - 12 = 20",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    },
+    {
+        "question_id": 29883,
+        "question_text": "Solve the missing number problem: 40 - __ = 15",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 514
+    }
+]

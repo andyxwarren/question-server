@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 12904,
+        "question_text": "The volume of a cuboid is 100 cm³. You know its length is 10cm and width is 5cm. Can you use a formula to find its height?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 14230,
+        "question_text": "What is the standard formula for the volume of a cuboid?",
+        "answer_type": "text_input",
+        "correct_answer": "Volume = length x width x height",
+        "alternative_answer_1": "V = lwh",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24342,
+        "question_text": "Find a pair of whole numbers that add up to 5. (e.g., 1 and 4)",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 4",
+        "alternative_answer_1": "2 and 3",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24343,
+        "question_text": "a + b = 4. Find one pair of whole numbers for a and b.",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 3",
+        "alternative_answer_1": "2 and 2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24344,
+        "question_text": "I am thinking of two numbers that add up to 3. What could they be?",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 2",
+        "alternative_answer_1": "0 and 3",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24345,
+        "question_text": "x + y = 2. Give a pair of whole numbers for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 1",
+        "alternative_answer_1": "0 and 2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24346,
+        "question_text": "Find one pair of numbers that add up to 1.",
+        "answer_type": "text_input",
+        "correct_answer": "0 and 1",
+        "alternative_answer_1": "1 and 0",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24347,
+        "question_text": "a + b = 5. If a is 2, what is b?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24348,
+        "question_text": "x + y = 4. If x is 4, what is y?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24349,
+        "question_text": "Two numbers add up to 5. One of the numbers is 0. What is the other number?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24350,
+        "question_text": "Find a pair of different whole numbers that add up to 4.",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 3",
+        "alternative_answer_1": "0 and 4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24351,
+        "question_text": "a + b = 3. Find a pair of whole numbers for a and b where a is smaller than b.",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24352,
+        "question_text": "Find two numbers that make 5 when added together.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 3",
+        "alternative_answer_1": "1 and 4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24353,
+        "question_text": "x + y = 4. Find one solution.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 2",
+        "alternative_answer_1": "1 and 3",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24354,
+        "question_text": "What is a pair of numbers that sums to 3?",
+        "answer_type": "text_input",
+        "correct_answer": "0 and 3",
+        "alternative_answer_1": "1 and 2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24355,
+        "question_text": "a + b = 2. If a is 0, what is b?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24356,
+        "question_text": "Find a pair of numbers with a total of 5.",
+        "answer_type": "text_input",
+        "correct_answer": "0 and 5",
+        "alternative_answer_1": "1 and 4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24357,
+        "question_text": "x + y = 5. Find a pair for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 3",
+        "alternative_answer_1": "1 and 4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24358,
+        "question_text": "Two numbers add to 4. One of them is 1. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24359,
+        "question_text": "a + b = 5. Give a solution where a and b are different numbers.",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 4",
+        "alternative_answer_1": "2 and 3",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24360,
+        "question_text": "x + y = 1. What are the whole numbers x and y?",
+        "answer_type": "text_input",
+        "correct_answer": "0 and 1",
+        "alternative_answer_1": "1 and 0",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24361,
+        "question_text": "Find two whole numbers that have a sum of 2.",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 1",
+        "alternative_answer_1": "0 and 2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24362,
+        "question_text": "a + b = 4. If b is 3, what is a?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24363,
+        "question_text": "x + y = 3. If x=3, what is y?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24364,
+        "question_text": "Find a pair of whole numbers that gives a total of 4.",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 3",
+        "alternative_answer_1": "2 and 2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24365,
+        "question_text": "Two numbers add to 3. One is 2. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24366,
+        "question_text": "a + b = 2. Find a pair for a and b.",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 1",
+        "alternative_answer_1": "0 and 2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24367,
+        "question_text": "Find a pair of whole numbers for the sentence: a + b = 10.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 7",
+        "alternative_answer_1": "4 and 6",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24368,
+        "question_text": "I am thinking of two numbers that add up to 8. One is 6. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24369,
+        "question_text": "x - y = 5. Find one pair of whole numbers for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "6 and 1",
+        "alternative_answer_1": "7 and 2",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24370,
+        "question_text": "Two numbers have a difference of 2. The larger number is 9. What is the smaller number?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24371,
+        "question_text": "List two different pairs of whole numbers that add up to 9.",
+        "answer_type": "text_input",
+        "correct_answer": "4 and 5, 3 and 6",
+        "alternative_answer_1": "1 and 8, 2 and 7",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24372,
+        "question_text": "a + b = 7. If a is 7, what is b?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24373,
+        "question_text": "x - y = 4. If x is 10, what is y?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24374,
+        "question_text": "Two numbers have a sum of 10. List all the pairs where the first number is smaller than the second.",
+        "answer_type": "text_input",
+        "correct_answer": "(0,10), (1,9), (2,8), (3,7), (4,6)",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24375,
+        "question_text": "a - b = 1. Find a pair of whole numbers for a and b.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 1",
+        "alternative_answer_1": "5 and 4",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24376,
+        "question_text": "Find three different pairs of numbers that add up to 6.",
+        "answer_type": "text_input",
+        "correct_answer": "0 and 6, 1 and 5, 2 and 4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24377,
+        "question_text": "x + y = 8. Find a solution where x and y are the same.",
+        "answer_type": "text_input",
+        "correct_answer": "4 and 4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24378,
+        "question_text": "a - b = 3. If b is 5, what is a?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24379,
+        "question_text": "Two numbers have a difference of 6. The smaller number is 3. What is the larger number?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24380,
+        "question_text": "Find a pair of numbers for the sentence: a + b = 9.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 7",
+        "alternative_answer_1": "3 and 6",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24381,
+        "question_text": "x - y = 7. Find one solution for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "8 and 1",
+        "alternative_answer_1": "9 and 2",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24382,
+        "question_text": "List all the pairs of whole numbers that add up to 7.",
+        "answer_type": "text_input",
+        "correct_answer": "(0,7), (1,6), (2,5), (3,4)",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24383,
+        "question_text": "a + b = 10. Find a solution where b is 9.",
+        "answer_type": "text_input",
+        "correct_answer": "a=1",
+        "alternative_answer_1": "1",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24384,
+        "question_text": "x - y = 0. Find a pair of different numbers for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "This is not possible",
+        "alternative_answer_1": "Impossible",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24385,
+        "question_text": "Find two numbers that have a sum of 9 and a difference of 1.",
+        "answer_type": "text_input",
+        "correct_answer": "4 and 5",
+        "alternative_answer_1": "5 and 4",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24386,
+        "question_text": "a + b = 6. Find a pair where a is double b.",
+        "answer_type": "text_input",
+        "correct_answer": "4 and 2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24387,
+        "question_text": "x - y = 8. Find a solution where y is 1.",
+        "answer_type": "text_input",
+        "correct_answer": "x=9",
+        "alternative_answer_1": "9",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24388,
+        "question_text": "List three pairs of numbers with a difference of 3.",
+        "answer_type": "text_input",
+        "correct_answer": "(4,1), (5,2), (6,3)",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24389,
+        "question_text": "a + b = 10. List all the pairs.",
+        "answer_type": "text_input",
+        "correct_answer": "(0,10), (1,9), (2,8), (3,7), (4,6), (5,5)",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24392,
+        "question_text": "Find a pair of whole numbers for a and b that satisfies a x b = 12.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 4",
+        "alternative_answer_1": "2 and 6",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24393,
+        "question_text": "2a + b = 10. Find one pair of whole numbers for a and b.",
+        "answer_type": "text_input",
+        "correct_answer": "a=3, b=4",
+        "alternative_answer_1": "a=4, b=2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24394,
+        "question_text": "x and y are two different whole numbers. Their product (x × y) is 20. List all possible pairs.",
+        "answer_type": "text_input",
+        "correct_answer": "(1,20), (2,10), (4,5)",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24395,
+        "question_text": "a × b = 18. Find a solution where a and b are consecutive numbers.",
+        "answer_type": "text_input",
+        "correct_answer": "This is not possible",
+        "alternative_answer_1": "Impossible",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24396,
+        "question_text": "3x + y = 15. If x=4, what is y?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24397,
+        "question_text": "a and b are whole numbers. a + b = 10 and a - b = 2. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "6 and 4",
+        "alternative_answer_1": "a=6, b=4",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24398,
+        "question_text": "x × y = 16. Find a solution where x and y are the same.",
+        "answer_type": "text_input",
+        "correct_answer": "4 and 4",
+        "alternative_answer_1": "x=4, y=4",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24399,
+        "question_text": "Two numbers have a product of 15 and a sum of 8. What are the two numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 5",
+        "alternative_answer_1": "5 and 3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24400,
+        "question_text": "a × b = 20. Find a pair for a and b.",
+        "answer_type": "text_input",
+        "correct_answer": "4 and 5",
+        "alternative_answer_1": "2 and 10",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24401,
+        "question_text": "2x + 2y = 12. Find a pair for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "x=2, y=4",
+        "alternative_answer_1": "x=1, y=5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24402,
+        "question_text": "Two numbers have a product of 10 and a sum of 7. What are they?",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 5",
+        "alternative_answer_1": "5 and 2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24403,
+        "question_text": "a × b = 1. What are the whole numbers a and b?",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 1",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24404,
+        "question_text": "Find two numbers that multiply to make 14.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 7",
+        "alternative_answer_1": "1 and 14",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24405,
+        "question_text": "x × y = 9. List all the pairs of whole numbers for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "(1,9), (3,3)",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24406,
+        "question_text": "2a - b = 5. Find a pair of whole numbers for a and b.",
+        "answer_type": "text_input",
+        "correct_answer": "a=3, b=1",
+        "alternative_answer_1": "a=4, b=3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24407,
+        "question_text": "Two numbers multiply to make 12 and have a difference of 1. What are they?",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 4",
+        "alternative_answer_1": "4 and 3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24408,
+        "question_text": "a × b = 17. What are the whole numbers a and b?",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 17",
+        "alternative_answer_1": "17 and 1",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24409,
+        "question_text": "Find two numbers with a sum of 9 and a product of 18.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 6",
+        "alternative_answer_1": "6 and 3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24410,
+        "question_text": "a × b = 19. What can you say about the number 19?",
+        "answer_type": "text_input",
+        "correct_answer": "It is a prime number",
+        "alternative_answer_1": "It is prime",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24411,
+        "question_text": "2x + y = 8. List two possible pairs for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "(1,6), (2,4)",
+        "alternative_answer_1": "(3,2), (4,0)",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24412,
+        "question_text": "Find two numbers that multiply to make 16 and have a difference of 6.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 8",
+        "alternative_answer_1": "8 and 2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24413,
+        "question_text": "a × a = a + a. What is the whole number a?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24414,
+        "question_text": "x × y = 10. Find a solution for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 5",
+        "alternative_answer_1": "1 and 10",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24415,
+        "question_text": "3a + b = 20. If a=5, what is b?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24416,
+        "question_text": "Two numbers have a product of 8 and a sum of 6. What are they?",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 4",
+        "alternative_answer_1": "4 and 2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24417,
+        "question_text": "a ÷ b = 4. Find three different pairs of whole numbers for a and b.",
+        "answer_type": "text_input",
+        "correct_answer": "(4,1), (8,2), (12,3)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24418,
+        "question_text": "x and y are whole numbers. x² + y = 10. Find a pair for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "x=3, y=1",
+        "alternative_answer_1": "x=2, y=6",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24419,
+        "question_text": "a ÷ b = 5. If a is 30, what is b?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24420,
+        "question_text": "Two whole numbers have a quotient of 3 (when the larger is divided by the smaller) and a sum of 12. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "9 and 3",
+        "alternative_answer_1": "3 and 9",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24421,
+        "question_text": "a ÷ b = 2. List three possible pairs for a and b.",
+        "answer_type": "text_input",
+        "correct_answer": "(2,1), (4,2), (6,3)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24422,
+        "question_text": "x² + y² = 25. Find a pair of non-zero whole numbers for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 4",
+        "alternative_answer_1": "4 and 3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24423,
+        "question_text": "a ÷ b = 10. If b is 7, what is a?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24424,
+        "question_text": "Two numbers have a quotient of 5 and a difference of 20. What are the two numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "25 and 5",
+        "alternative_answer_1": "5 and 25",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24425,
+        "question_text": "a ÷ b = 6. Find a solution where b is 8.",
+        "answer_type": "text_input",
+        "correct_answer": "a=48",
+        "alternative_answer_1": "48",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24426,
+        "question_text": "x³ + y = 30. Find a pair of whole numbers for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "x=2, y=22",
+        "alternative_answer_1": "x=3, y=3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24427,
+        "question_text": "Two numbers have a quotient of 2 and a product of 50. What are they?",
+        "answer_type": "text_input",
+        "correct_answer": "10 and 5",
+        "alternative_answer_1": "5 and 10",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24428,
+        "question_text": "a ÷ b = 12. List two possible pairs for a and b.",
+        "answer_type": "text_input",
+        "correct_answer": "(12,1), (24,2)",
+        "alternative_answer_1": "(36,3)",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24429,
+        "question_text": "x² - y² = 7. Find a pair of whole numbers for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "4 and 3",
+        "alternative_answer_1": "x=4, y=3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24430,
+        "question_text": "a ÷ b = 7. If a is 49, what is b?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24431,
+        "question_text": "Two numbers have a sum of 15 and their product is 50. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "5 and 10",
+        "alternative_answer_1": "10 and 5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24432,
+        "question_text": "a ÷ b = 8. Find a solution.",
+        "answer_type": "text_input",
+        "correct_answer": "16 and 2",
+        "alternative_answer_1": "8 and 1",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24433,
+        "question_text": "x² + y = 20. Find two possible pairs for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "(2,16), (4,4)",
+        "alternative_answer_1": "(3,11), (1,19)",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24434,
+        "question_text": "a ÷ b = 3. If b is 15, what is a?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "Forty-five",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24435,
+        "question_text": "Two numbers have a product of 48 and a sum of 14. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "6 and 8",
+        "alternative_answer_1": "8 and 6",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24436,
+        "question_text": "a ÷ b = 9. Find a solution.",
+        "answer_type": "text_input",
+        "correct_answer": "18 and 2",
+        "alternative_answer_1": "9 and 1",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24437,
+        "question_text": "2x² + y = 55. Find a pair for x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "x=5, y=5",
+        "alternative_answer_1": "x=4, y=23",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24438,
+        "question_text": "Two numbers have a quotient of 4 and a product of 100. What are they?",
+        "answer_type": "text_input",
+        "correct_answer": "20 and 5",
+        "alternative_answer_1": "5 and 20",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24439,
+        "question_text": "a ÷ b = 1. Find a solution where a and b are not 1.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 2",
+        "alternative_answer_1": "5 and 5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24440,
+        "question_text": "Two numbers have a difference of 10 and a sum of 20. What are they?",
+        "answer_type": "text_input",
+        "correct_answer": "15 and 5",
+        "alternative_answer_1": "5 and 15",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    },
+    {
+        "question_id": 24441,
+        "question_text": "a ÷ b = 6. If a is 42, what is b?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 517
+    }
+]

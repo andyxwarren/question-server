@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 12903,
+        "question_text": "A farmer wants to know how much seed to buy for a rectangular field. Should he use an area or volume formula?",
+        "answer_type": "text_input",
+        "correct_answer": "Area",
+        "alternative_answer_1": "area",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 14229,
+        "question_text": "You are told a room has a floor area of 24 m² and a volume of 60 m³. Can you use a formula to find the height of the room?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23760,
+        "question_text": "There are 4 boxes, and each box has 5 pencils. How many pencils are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23761,
+        "question_text": "20 sweets are shared equally between 5 friends. How many sweets does each friend get?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23762,
+        "question_text": "Solve the missing number: 3 x __ = 15.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23763,
+        "question_text": "A ribbon is 4 times as long as a 2cm piece of string. How long is the ribbon?",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "8",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23764,
+        "question_text": "There are 30 children in a PE class. The teacher puts them into 10 equal teams. How many children are in each team?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23765,
+        "question_text": "An octopus has 8 arms. How many arms would 2 octopuses have?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "Sixteen",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23766,
+        "question_text": "Solve the missing number: 12 ÷ __ = 4.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23767,
+        "question_text": "A tower is 5 blocks high. You build another tower that is 3 times as high. How many blocks are in the new tower?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23768,
+        "question_text": "A baker puts 6 cakes into each box. How many cakes are in 4 boxes?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "Twenty-four",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23769,
+        "question_text": "A bag contains 25 marbles. They are shared equally among 5 children. How many marbles does each child get?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23770,
+        "question_text": "What is the missing number? __ x 10 = 50.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23771,
+        "question_text": "A tree is 10 metres tall. A building is twice as tall. How tall is the building?",
+        "answer_type": "text_input",
+        "correct_answer": "20m",
+        "alternative_answer_1": "20",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23772,
+        "question_text": "A recipe needs 2 eggs per cake. How many eggs are needed for 8 cakes?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "Sixteen",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23773,
+        "question_text": "A 40cm ribbon is cut into 4 equal pieces. How long is each piece?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23774,
+        "question_text": "Solve for the missing number: 3 x 4 = __.",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23775,
+        "question_text": "A cat is 4kg. A dog is 5 times as heavy. How heavy is the dog?",
+        "answer_type": "text_input",
+        "correct_answer": "20kg",
+        "alternative_answer_1": "20",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23776,
+        "question_text": "A farmer has 18 eggs. He puts them into cartons that hold 6 eggs each. How many cartons does he need?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23777,
+        "question_text": "What is the missing number? 14 ÷ 2 = __.",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23778,
+        "question_text": "A flower has 5 petals. How many petals would 5 flowers have?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23779,
+        "question_text": "There are 12 months in a year. How many months are in 3 years?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "Thirty-six",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23780,
+        "question_text": "A book costs £5. You buy 4 of them. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "£20",
+        "alternative_answer_1": "20",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23781,
+        "question_text": "Solve for the missing number: __ ÷ 5 = 3.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23782,
+        "question_text": "A car has 4 wheels. How many wheels are on 10 cars?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "Forty",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23783,
+        "question_text": "A 20-minute TV show is 4 times as long as the advert break. How long is the advert break?",
+        "answer_type": "text_input",
+        "correct_answer": "5 minutes",
+        "alternative_answer_1": "5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23784,
+        "question_text": "32 children are put into 4 teams. How many are in each team?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23785,
+        "question_text": "A recipe requires 150g of flour. You are making a batch that is 3 times as large. How much flour do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "450g",
+        "alternative_answer_1": "450",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23786,
+        "question_text": "A prize of £120 is shared equally between 6 people. How much does each person get?",
+        "answer_type": "text_input",
+        "correct_answer": "£20",
+        "alternative_answer_1": "20",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23787,
+        "question_text": "A tower is 80cm tall. It is 4 times as tall as a smaller tower. How tall is the smaller tower?",
+        "answer_type": "text_input",
+        "correct_answer": "20cm",
+        "alternative_answer_1": "20",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23788,
+        "question_text": "Solve the missing number: 12 x __ = 96.",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23789,
+        "question_text": "A library has 200 books. They are arranged on 10 shelves equally. How many books are on each shelf?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23790,
+        "question_text": "A farmer plants 15 rows of carrots with 20 carrots in each row. How many carrots are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "Three hundred",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23791,
+        "question_text": "A shirt has 7 buttons. How many buttons are needed for 12 shirts?",
+        "answer_type": "text_input",
+        "correct_answer": "84",
+        "alternative_answer_1": "Eighty-four",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23792,
+        "question_text": "A box of 144 pencils is to be shared among 12 students. How many pencils does each student get?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23793,
+        "question_text": "What is the missing number? __ ÷ 9 = 8.",
+        "answer_type": "text_input",
+        "correct_answer": "72",
+        "alternative_answer_1": "Seventy-two",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23794,
+        "question_text": "A plane ticket costs £300. This is 5 times as much as a train ticket. What is the cost of the train ticket?",
+        "answer_type": "text_input",
+        "correct_answer": "£60",
+        "alternative_answer_1": "60",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23795,
+        "question_text": "A factory produces 50 cars per day. How many cars does it produce in 30 days?",
+        "answer_type": "text_input",
+        "correct_answer": "1500",
+        "alternative_answer_1": "1,500",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23796,
+        "question_text": "A school has 450 students. They need to be put into 15 registration classes. How many students per class?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23797,
+        "question_text": "A recipe for one cake needs 3 eggs. You have 2 dozen eggs. How many cakes can you make?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23798,
+        "question_text": "A journey is 250 miles. This is 5 times the distance of a shorter journey. How long is the shorter journey?",
+        "answer_type": "text_input",
+        "correct_answer": "50 miles",
+        "alternative_answer_1": "50",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23799,
+        "question_text": "Solve for the missing number: 7 x __ = 105.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23800,
+        "question_text": "A baker makes 600 cupcakes. They are sold in boxes of 12. How many boxes are needed?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23801,
+        "question_text": "A running track is 400 metres long. How many laps do you need to run to complete a 5km race?",
+        "answer_type": "text_input",
+        "correct_answer": "12.5",
+        "alternative_answer_1": "12 and a half",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23802,
+        "question_text": "A building is 60m tall. A nearby house is 1/5 of the height. How tall is the house?",
+        "answer_type": "text_input",
+        "correct_answer": "12m",
+        "alternative_answer_1": "12",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23803,
+        "question_text": "A box contains 24 cans of soup. How many cans are in 5 boxes?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "One hundred and twenty",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23804,
+        "question_text": "A prize of £560 is shared among 8 winners. How much does each winner receive?",
+        "answer_type": "text_input",
+        "correct_answer": "£70",
+        "alternative_answer_1": "70",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23805,
+        "question_text": "What is the missing number? __ x 11 = 132.",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23806,
+        "question_text": "A car travels 30 miles on one gallon of petrol. How many gallons are needed for a 180-mile trip?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6 gallons",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23807,
+        "question_text": "A book has 15 chapters, and each chapter is 12 pages long. How many pages are in the book?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "One hundred and eighty",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23810,
+        "question_text": "A company has 4 departments, each with 20 staff. Each member of staff gets a £50 bonus. What is the total cost of the bonuses?",
+        "answer_type": "text_input",
+        "correct_answer": "£4000",
+        "alternative_answer_1": "4000",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23811,
+        "question_text": "A box holds 24 cans. A lorry can hold 40 boxes. A warehouse has 10 lorries. How many cans can the warehouse hold in total?",
+        "answer_type": "text_input",
+        "correct_answer": "9600",
+        "alternative_answer_1": "9,600",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23812,
+        "question_text": "A school has 360 students. 1/3 are in KS1 and the rest are in KS2. The KS2 students are split into 8 equal classes. How many students are in each KS2 class?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23813,
+        "question_text": "A recipe for 6 people needs 450g of flour. You need to make enough for 10 people. How much flour do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "750g",
+        "alternative_answer_1": "750",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23814,
+        "question_text": "A prize of £1000 is shared. The first person gets £400. The rest is shared equally between 4 other people. How much does each of the 4 people get?",
+        "answer_type": "text_input",
+        "correct_answer": "£150",
+        "alternative_answer_1": "150",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23815,
+        "question_text": "A car travels 300 miles. For the first 120 miles it uses 3 gallons of fuel. For the last 180 miles it uses 4 gallons. What was the overall miles per gallon?",
+        "answer_type": "text_input",
+        "correct_answer": "42.86",
+        "alternative_answer_1": "About 43",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23816,
+        "question_text": "A car travels 300 miles using 7 gallons of fuel. A second car travels 240 miles using 6 gallons. Which car is more efficient?",
+        "answer_type": "text_input",
+        "correct_answer": "The second car",
+        "alternative_answer_1": "Second car",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23817,
+        "question_text": "A car travels 300 miles using 8 gallons of fuel. A second car travels 240 miles using 6 gallons. Which car is more efficient?",
+        "answer_type": "text_input",
+        "correct_answer": "The second car",
+        "alternative_answer_1": "Second car",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23818,
+        "question_text": "A rectangular field is 80m long and has a perimeter of 260m. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "4000 m²",
+        "alternative_answer_1": "4000",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23819,
+        "question_text": "A shop buys 50 hats for £8 each and sells them for £15 each. If they sell all of them, what is their total profit?",
+        "answer_type": "text_input",
+        "correct_answer": "£350",
+        "alternative_answer_1": "350",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23820,
+        "question_text": "What is the missing number? (144 ÷ __) + 8 = 20.",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23821,
+        "question_text": "A cyclist travels at 24 km/h. How many metres does she travel in 15 minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "6000",
+        "alternative_answer_1": "6,000m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23822,
+        "question_text": "A box contains red and blue counters. There are 48 counters in total. For every 3 red counters, there are 5 blue counters. How many blue counters are there?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23823,
+        "question_text": "A machine prints 150 pages in 5 minutes. How many pages can it print in 8 minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "240",
+        "alternative_answer_1": "240 pages",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23824,
+        "question_text": "A library has 12 bookshelves with 25 books on each. A new delivery of 50 books arrives. How many books are there now in total?",
+        "answer_type": "text_input",
+        "correct_answer": "350",
+        "alternative_answer_1": "350 books",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23825,
+        "question_text": "A school trip costs £25 per student. There are 28 students in the class, but 3 are absent. What is the total cost for the students who go?",
+        "answer_type": "text_input",
+        "correct_answer": "£625",
+        "alternative_answer_1": "625",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23826,
+        "question_text": "What is the missing number? (__ x 7) - 10 = 60.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23827,
+        "question_text": "A baker makes 120 loaves of bread. He sells 3/4 of them. How many loaves are left?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23828,
+        "question_text": "A car park has 8 rows with 15 spaces each. If 100 cars are already parked, how many spaces are free?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23829,
+        "question_text": "A recipe needs 200g of sugar to make 10 cookies. How much sugar is needed to make 25 cookies?",
+        "answer_type": "text_input",
+        "correct_answer": "500g",
+        "alternative_answer_1": "500",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23830,
+        "question_text": "A swimming pool is 25m long. How many lengths must you swim to cover 1.5km?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "Sixty",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23831,
+        "question_text": "A phone bill is £20 per month. Calls cost 5p per minute. What is the total bill if you use 80 minutes of calls?",
+        "answer_type": "text_input",
+        "correct_answer": "£24",
+        "alternative_answer_1": "24",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23832,
+        "question_text": "What is the missing number? 100 ÷ (4 x __) = 5.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23833,
+        "question_text": "A runner runs at 12 km/h. A walker travels at 4 km/h. How much further will the runner travel in 2 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "16km",
+        "alternative_answer_1": "16",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 23834,
+        "question_text": "A cinema sells 150 adult tickets at £10 each and 200 child tickets at £6 each. What is the total revenue?",
+        "answer_type": "text_input",
+        "correct_answer": "£2700",
+        "alternative_answer_1": "2700",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29801,
+        "question_text": "Find all pairs of whole numbers (x, y) that satisfy x + y = 10 and x > y.",
+        "answer_type": "text_input",
+        "correct_answer": "(6,4), (7,3), (8,2), (9,1), (10,0)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29802,
+        "question_text": "Find all pairs of whole numbers (a, b) that satisfy a + b = 12 and a is even.",
+        "answer_type": "text_input",
+        "correct_answer": "(0,12), (2,10), (4,8), (6,6), (8,4), (10,2), (12,0)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29803,
+        "question_text": "Find all pairs of whole numbers (x, y) that satisfy x - y = 5 and y < 5.",
+        "answer_type": "text_input",
+        "correct_answer": "(5,0), (6,1), (7,2), (8,3), (9,4)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29804,
+        "question_text": "Find all pairs of whole numbers (m, n) that satisfy m x n = 24 and m is odd.",
+        "answer_type": "text_input",
+        "correct_answer": "(1,24), (3,8)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29805,
+        "question_text": "Find all pairs of whole numbers (a, b) that satisfy a ÷ b = 3 and a < 20.",
+        "answer_type": "text_input",
+        "correct_answer": "(3,1), (6,2), (9,3), (12,4), (15,5), (18,6)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29806,
+        "question_text": "The sum of two whole numbers is 15. One number is double the other. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "5 and 10",
+        "alternative_answer_1": "5, 10",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29807,
+        "question_text": "The difference between two whole numbers is 8. Their sum is 20. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "6 and 14",
+        "alternative_answer_1": "6, 14",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29808,
+        "question_text": "The product of two whole numbers is 36. Their sum is 13. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "4 and 9",
+        "alternative_answer_1": "4, 9",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29809,
+        "question_text": "Find all whole numbers x such that x + y = 8 and y is an odd number.",
+        "answer_type": "text_input",
+        "correct_answer": "x=1,3,5,7",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29810,
+        "question_text": "Find all whole numbers y such that 2x + y = 10 and x is a prime number.",
+        "answer_type": "text_input",
+        "correct_answer": "y=0,4,6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29811,
+        "question_text": "Find all pairs (a, b) where a x b = 18 and a + b < 10.",
+        "answer_type": "text_input",
+        "correct_answer": "(3,6), (6,3)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29812,
+        "question_text": "Find all pairs of whole numbers (x, y) that satisfy x + y = 20 and x > y + 10.",
+        "answer_type": "text_input",
+        "correct_answer": "(16,4), (17,3), (18,2), (19,1), (20,0)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29813,
+        "question_text": "Find all pairs of whole numbers (a, b) that satisfy a x b = 12 and a is even.",
+        "answer_type": "text_input",
+        "correct_answer": "(2,6), (4,3), (6,2), (12,1)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29814,
+        "question_text": "Find all pairs of whole numbers (x, y) that satisfy x - y = 2 and x < 10.",
+        "answer_type": "text_input",
+        "correct_answer": "(2,0), (3,1), (4,2), (5,3), (6,4), (7,5), (8,6), (9,7)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29815,
+        "question_text": "The difference between two whole numbers is 5. Their product is 24. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 8",
+        "alternative_answer_1": "3, 8",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29816,
+        "question_text": "Find all pairs of whole numbers (m, n) such that m + n = 10 and m is a multiple of 3.",
+        "answer_type": "text_input",
+        "correct_answer": "(3,7), (6,4), (9,1)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29817,
+        "question_text": "Find all pairs of whole numbers (p, q) such that p x q = 20 and p is a prime number.",
+        "answer_type": "text_input",
+        "correct_answer": "(2,10), (5,4)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29818,
+        "question_text": "A farmer has 12 animals (chickens and cows). He counts 38 legs. How many chickens and cows does he have?",
+        "answer_type": "text_input",
+        "correct_answer": "5 cows and 7 chickens",
+        "alternative_answer_1": "5 cows, 7 chickens",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29819,
+        "question_text": "Two numbers add up to 24. One number is 3 times the other. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "6 and 18",
+        "alternative_answer_1": "6, 18",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29820,
+        "question_text": "Find all pairs of whole numbers (s, t) where s ÷ t = 4 and t < 5.",
+        "answer_type": "text_input",
+        "correct_answer": "(4,1), (8,2), (12,3), (16,4)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29821,
+        "question_text": "Find two numbers whose product is 40 and whose sum is 13.",
+        "answer_type": "text_input",
+        "correct_answer": "5 and 8",
+        "alternative_answer_1": "5, 8",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29822,
+        "question_text": "Find all pairs of whole numbers (u, v) such that u + v < 10 and u x v = 12.",
+        "answer_type": "text_input",
+        "correct_answer": "(3,4), (4,3)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29823,
+        "question_text": "I bought 5 items. Some cost £2 each and some cost £3 each. I spent £13. How many of each did I buy?",
+        "answer_type": "text_input",
+        "correct_answer": "2 at £2, 3 at £3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29824,
+        "question_text": "Find all possible values for x if x + y = 10 and x - y = 4.",
+        "answer_type": "text_input",
+        "correct_answer": "x=7",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    },
+    {
+        "question_id": 29825,
+        "question_text": "A box contains 10 sweets. Some are chocolate, some are strawberry. There are 2 more chocolate sweets than strawberry. How many of each?",
+        "answer_type": "text_input",
+        "correct_answer": "6 chocolate, 4 strawberry",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 516
+    }
+]

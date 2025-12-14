@@ -1,0 +1,5002 @@
+[
+    {
+        "question_id": 5236,
+        "question_text": "A bowl has 5 apples and 3 bananas. How many apples are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5237,
+        "question_text": "In a pencil case, there are 4 pencils and 6 pens. How many pens are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5238,
+        "question_text": "A list of pets shows: 2 dogs, 5 cats. How many dogs are listed?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5239,
+        "question_text": "There are 7 red balls and 8 blue balls. How many blue balls are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5240,
+        "question_text": "A farm has 9 sheep and 4 cows. How many sheep are on the farm?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5241,
+        "question_text": "A toy box contains 3 cars, 5 dolls, and 2 teddy bears. How many cars are in the box?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5242,
+        "question_text": "A class has 6 boys and 10 girls. How many boys are in the class?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5243,
+        "question_text": "You see 1 bird and 8 squirrels in a park. How many squirrels did you see?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5244,
+        "question_text": "A list of favourite fruits is: 7 for banana, 9 for strawberry. How many people chose strawberry?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5245,
+        "question_text": "There are 4 green sweets and 5 yellow sweets. How many green sweets are there?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5246,
+        "question_text": "A basket has 2 oranges and 6 pears. Sort the fruits from most to least.",
+        "answer_type": "text_input",
+        "correct_answer": "pears, oranges",
+        "alternative_answer_1": "Pears, Oranges",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5247,
+        "question_text": "A list shows 8 votes for football and 5 votes for tennis. Sort these sports from least popular to most popular.",
+        "answer_type": "text_input",
+        "correct_answer": "tennis, football",
+        "alternative_answer_1": "Tennis, Football",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5248,
+        "question_text": "You have 3 red crayons and 7 blue crayons. Sort the colours from most to least.",
+        "answer_type": "text_input",
+        "correct_answer": "blue, red",
+        "alternative_answer_1": "Blue, Red",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5249,
+        "question_text": "A pet shop has 9 fish and 2 hamsters. Order the pets from the one they have the most of to the one they have the least of.",
+        "answer_type": "text_input",
+        "correct_answer": "fish, hamsters",
+        "alternative_answer_1": "Fish, Hamsters",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5250,
+        "question_text": "In a bag, there are 10 marbles and 6 dice. Sort these items from least to most.",
+        "answer_type": "text_input",
+        "correct_answer": "dice, marbles",
+        "alternative_answer_1": "Dice, Marbles",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5251,
+        "question_text": "A library has 4 story books and 8 fact books. Sort the book types from most to least.",
+        "answer_type": "text_input",
+        "correct_answer": "fact books, story books",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5252,
+        "question_text": "A shop sells 1 hat and 5 scarves. List the items from least sold to most sold.",
+        "answer_type": "text_input",
+        "correct_answer": "hat, scarves",
+        "alternative_answer_1": "Hat, Scarves",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5253,
+        "question_text": "There are 6 chairs and 2 tables in a room. Order these items from most to least.",
+        "answer_type": "text_input",
+        "correct_answer": "chairs, tables",
+        "alternative_answer_1": "Chairs, Tables",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5254,
+        "question_text": "A survey shows 10 people like summer and 7 people like winter. Sort the seasons from most popular to least popular.",
+        "answer_type": "text_input",
+        "correct_answer": "summer, winter",
+        "alternative_answer_1": "Summer, Winter",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5255,
+        "question_text": "You have 3 coins and 9 gems. List these from the one you have the least of to the one you have the most of.",
+        "answer_type": "text_input",
+        "correct_answer": "coins, gems",
+        "alternative_answer_1": "Coins, Gems",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5256,
+        "question_text": "A list shows: 4 shirts, 2 trousers. How many items are in the 'shirts' category?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5257,
+        "question_text": "There are 8 triangles and 3 squares. How many objects are in the triangles category?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5258,
+        "question_text": "A box holds 1 big toy and 6 small toys. How many big toys are there?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5259,
+        "question_text": "A garden has 5 roses, 8 tulips and 2 daisies. How many roses are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5260,
+        "question_text": "A list shows 6 sunny days and 9 rainy days. Sort these from the weather that happened most to the weather that happened least.",
+        "answer_type": "text_input",
+        "correct_answer": "rainy days, sunny days",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5261,
+        "question_text": "A list of shapes is: 12 circles, 8 squares, 15 triangles, 5 rectangles. How many squares are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5262,
+        "question_text": "A tally chart shows these results for favourite pets: Dog - 11, Cat - 14, Fish - 6, Hamster - 3. How many people chose Cat?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "Fourteen",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5263,
+        "question_text": "A list of colours is: Red - 9, Blue - 18, Green - 11, Yellow - 16. Which colour has more votes, Red or Blue?",
+        "answer_type": "text_input",
+        "correct_answer": "Blue",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5264,
+        "question_text": "You have 20 red beads and 15 blue beads. Which colour do you have less of?",
+        "answer_type": "text_input",
+        "correct_answer": "blue",
+        "alternative_answer_1": "Blue",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5265,
+        "question_text": "A survey of favourite seasons: Spring - 10, Summer - 19, Autumn - 8, Winter - 4. How many people voted for Spring?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5266,
+        "question_text": "There are 15 cars, 18 bikes, 7 buses and 3 lorries. Sort these vehicles from least to most.",
+        "answer_type": "text_input",
+        "correct_answer": "lorries, buses, cars, bikes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5267,
+        "question_text": "Tally marks for favourite fruits are: Apple - 12, Banana - 17, Orange - 9. Which fruit has more votes, Apple or Banana?",
+        "answer_type": "text_input",
+        "correct_answer": "Banana",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5268,
+        "question_text": "A list shows: 11 goals for Team A, 9 goals for Team B, 15 goals for Team C. Which team scored less goals, Team A or Team C?",
+        "answer_type": "text_input",
+        "correct_answer": "Team A",
+        "alternative_answer_1": "A",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5269,
+        "question_text": "Class A read 20 books. Class B read 18 books. Which class read more books?",
+        "answer_type": "text_input",
+        "correct_answer": "Class A",
+        "alternative_answer_1": "A",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5270,
+        "question_text": "Sort these numbers of items from most to least: 16 pencils, 8 rubbers, 19 pens, 11 rulers.",
+        "answer_type": "text_input",
+        "correct_answer": "pens, pencils, rulers, rubbers",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5271,
+        "question_text": "A list of trees is: Oak - 13, Birch - 17, Pine - 9. How many Oak trees are there?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "Thirteen",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5272,
+        "question_text": "Tally marks show: 15 for running, 12 for swimming, 20 for cycling. Which activity has less votes, running or swimming?",
+        "answer_type": "text_input",
+        "correct_answer": "swimming",
+        "alternative_answer_1": "Swimming",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5273,
+        "question_text": "A shop sold 18 hats, 14 gloves, 9 scarves, and 20 coats. How many gloves did it sell?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "Fourteen",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5274,
+        "question_text": "Sort these quantities of animals from least to most: 11 lions, 18 monkeys, 9 zebras, 15 elephants.",
+        "answer_type": "text_input",
+        "correct_answer": "zebras, lions, elephants, monkeys",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5275,
+        "question_text": "A list shows: 16 children like pizza, 19 like pasta. Which food has more votes?",
+        "answer_type": "text_input",
+        "correct_answer": "pasta",
+        "alternative_answer_1": "Pasta",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5276,
+        "question_text": "There are four categories of books: Adventure (18), Mystery (15), Comedy (11), Fantasy (19). How many books are in the Comedy category?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "Eleven",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5277,
+        "question_text": "You have 13 gold coins and 17 silver coins. Which type of coin do you have less of?",
+        "answer_type": "text_input",
+        "correct_answer": "gold",
+        "alternative_answer_1": "Gold",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5278,
+        "question_text": "Sort these sports by number of players, from most to least: Football (11), Basketball (5), Tennis (2), Cricket (11).",
+        "answer_type": "text_input",
+        "correct_answer": "Football, Cricket, Basketball, Tennis",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5279,
+        "question_text": "A list shows the number of pets: 12 dogs, 15 cats, 9 rabbits, 2 snakes. How many cats are there?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5280,
+        "question_text": "There are 10 red cars and 20 blue cars. Which colour car is there more of?",
+        "answer_type": "text_input",
+        "correct_answer": "blue",
+        "alternative_answer_1": "Blue",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5281,
+        "question_text": "A farm has 14 chickens, 8 pigs, 19 cows, and 5 sheep. How many pigs are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5282,
+        "question_text": "Sort these amounts from least to most: 13 apples, 7 pears, 16 oranges, 9 bananas.",
+        "answer_type": "text_input",
+        "correct_answer": "pears, bananas, apples, oranges",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5283,
+        "question_text": "Tally marks show votes for ice cream flavours: Vanilla - 18, Chocolate - 16. Which flavour has less votes?",
+        "answer_type": "text_input",
+        "correct_answer": "Chocolate",
+        "alternative_answer_1": "chocolate",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5284,
+        "question_text": "A toy shop has 20 teddy bears, 15 robots, and 12 dolls. How many teddy bears does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5285,
+        "question_text": "A list of votes is: Milk - 11, Juice - 19, Water - 15. Which drink has more votes, Milk or Water?",
+        "answer_type": "text_input",
+        "correct_answer": "Water",
+        "alternative_answer_1": "water",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5286,
+        "question_text": "A pictogram (1 symbol = 1 person) shows: 25 people like swimming, 30 like running, and 20 like cycling. Which activity is the most popular?",
+        "answer_type": "text_input",
+        "correct_answer": "running",
+        "alternative_answer_1": "Running",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5287,
+        "question_text": "A tally chart of favourite subjects shows Maths: 22, English: 18, Science: 28. Which subject is the least popular?",
+        "answer_type": "text_input",
+        "correct_answer": "English",
+        "alternative_answer_1": "english",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5288,
+        "question_text": "A list shows the number of different flowers in a garden: 45 roses, 32 tulips, 15 daffodils. Which flower is there the most of?",
+        "answer_type": "text_input",
+        "correct_answer": "roses",
+        "alternative_answer_1": "Roses",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5289,
+        "question_text": "From this list of votes for school clubs - Art: 35, Chess: 12, Drama: 28, Music: 41 - which club is the most popular?",
+        "answer_type": "text_input",
+        "correct_answer": "Music",
+        "alternative_answer_1": "music",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5290,
+        "question_text": "A simple table shows the number of cars passing a school: Red - 27, Blue - 38, Silver - 45. Which colour car was seen the least?",
+        "answer_type": "text_input",
+        "correct_answer": "Red",
+        "alternative_answer_1": "red",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5291,
+        "question_text": "A pictogram (1 symbol = 1 vote) shows favourite animals: Lions - 18, Tigers - 23, Bears - 15. Which animal is the most popular?",
+        "answer_type": "text_input",
+        "correct_answer": "Tigers",
+        "alternative_answer_1": "tigers",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5292,
+        "question_text": "Look at this data: 33 apples, 48 bananas, 29 oranges. Sort the fruits from most popular to least popular.",
+        "answer_type": "text_input",
+        "correct_answer": "bananas, apples, oranges",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5293,
+        "question_text": "Data shows 40 people chose summer, 25 chose winter, and 35 chose spring. Which season is the least popular?",
+        "answer_type": "text_input",
+        "correct_answer": "winter",
+        "alternative_answer_1": "Winter",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5294,
+        "question_text": "A tally chart records eye colour: Brown - 31, Blue - 24, Green - 11. Which eye colour is the most common in this chart?",
+        "answer_type": "text_input",
+        "correct_answer": "Brown",
+        "alternative_answer_1": "brown",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5295,
+        "question_text": "A list of items sold is: cakes - 42, cookies - 38, brownies - 50. Which item was the least popular?",
+        "answer_type": "text_input",
+        "correct_answer": "cookies",
+        "alternative_answer_1": "Cookies",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5296,
+        "question_text": "You have the following data: 25 dogs, 30 cats, 15 fish. What is a how many question you could ask about this data?",
+        "answer_type": "text_input",
+        "correct_answer": "How many cats are there?",
+        "alternative_answer_1": "How many fish are there?",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5297,
+        "question_text": "A list of colours is: 20 Red, 30 Blue. What is a question you could ask to find out which is the most popular?",
+        "answer_type": "text_input",
+        "correct_answer": "Which colour is the most popular?",
+        "alternative_answer_1": "Which colour has more votes?",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5298,
+        "question_text": "Data: 15 boys, 18 girls. Formulate a simple question to find out which group has the smaller number.",
+        "answer_type": "text_input",
+        "correct_answer": "Which group is smaller?",
+        "alternative_answer_1": "Which group has less people?",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5299,
+        "question_text": "A tally chart shows 25 votes for Yes and 15 votes for No. What simple question does this data answer?",
+        "answer_type": "text_input",
+        "correct_answer": "Which option is more popular?",
+        "alternative_answer_1": "Did more people vote Yes or No?",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5300,
+        "question_text": "A pictogram shows 10 apples and 20 bananas. Ask a question about the total number of apples.",
+        "answer_type": "text_input",
+        "correct_answer": "How many apples are there?",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5301,
+        "question_text": "A list shows 45 cars and 35 bikes. Which vehicle was seen the most?",
+        "answer_type": "text_input",
+        "correct_answer": "cars",
+        "alternative_answer_1": "Cars",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5302,
+        "question_text": "A simple table shows student numbers: Year 3 - 28, Year 4 - 31, Year 5 - 29. Which year group is the smallest?",
+        "answer_type": "text_input",
+        "correct_answer": "Year 3",
+        "alternative_answer_1": "3",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5303,
+        "question_text": "Sort the following from least to most: 21 votes, 49 votes, 33 votes.",
+        "answer_type": "text_input",
+        "correct_answer": "21, 33, 49",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5304,
+        "question_text": "Which is the most popular choice from this list: Action movies - 29, Comedy movies - 42, Sci-Fi movies - 38?",
+        "answer_type": "text_input",
+        "correct_answer": "Comedy movies",
+        "alternative_answer_1": "Comedy",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5305,
+        "question_text": "Data for favourite drinks: Tea - 18, Coffee - 26, Hot Chocolate - 32. Which is the least popular drink?",
+        "answer_type": "text_input",
+        "correct_answer": "Tea",
+        "alternative_answer_1": "tea",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5306,
+        "question_text": "A simple pictogram shows 25 sunny days and 40 cloudy days. Formulate a question about which weather type happened most often.",
+        "answer_type": "text_input",
+        "correct_answer": "Which weather type happened most often?",
+        "alternative_answer_1": "Was it sunny or cloudy more often?",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5307,
+        "question_text": "Look at the data: 30 red marbles, 50 blue marbles. What is a how many question you could ask about the blue marbles?",
+        "answer_type": "text_input",
+        "correct_answer": "How many blue marbles are there?",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5308,
+        "question_text": "A tally chart shows 17 people chose cats and 23 people chose dogs. Which is the most popular pet?",
+        "answer_type": "text_input",
+        "correct_answer": "dogs",
+        "alternative_answer_1": "Dogs",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5309,
+        "question_text": "Order these categories by quantity, from most to least: Pencils (39), Pens (48), Rulers (21).",
+        "answer_type": "text_input",
+        "correct_answer": "Pens, Pencils, Rulers",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5310,
+        "question_text": "A simple table shows the number of birds seen: Robin - 22, Sparrow - 31, Magpie - 19. Which bird was seen the most?",
+        "answer_type": "text_input",
+        "correct_answer": "Sparrow",
+        "alternative_answer_1": "sparrow",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5311,
+        "question_text": "A list of collected items is: 15 shells, 25 pebbles, 18 seaweed. Which is the most common item collected?",
+        "answer_type": "text_input",
+        "correct_answer": "pebbles",
+        "alternative_answer_1": "Pebbles",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5312,
+        "question_text": "Data shows votes for a new playground item: Swing - 32, Slide - 41, Roundabout - 19. Which item is the least popular?",
+        "answer_type": "text_input",
+        "correct_answer": "Roundabout",
+        "alternative_answer_1": "roundabout",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5313,
+        "question_text": "You see this data: 25 red cars, 15 blue cars. Would a list or a tally chart be quicker to find out which colour was seen more?",
+        "answer_type": "text_input",
+        "correct_answer": "list",
+        "alternative_answer_1": "A list",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5314,
+        "question_text": "A tally chart shows the following counts: Apples - 12, Pears - 17, Grapes - 21. What is a simple question you could ask to compare pears and grapes?",
+        "answer_type": "text_input",
+        "correct_answer": "Which has more, pears or grapes?",
+        "alternative_answer_1": "Are there less pears than grapes?",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5315,
+        "question_text": "Given the data: 28 people like football, 35 like basketball, 22 like tennis. Formulate a question to find the most popular sport.",
+        "answer_type": "text_input",
+        "correct_answer": "Which sport is the most popular?",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5316,
+        "question_text": "A list shows the number of books read: Ali - 10, Ben - 15, Chloe - 8. Who read the most books?",
+        "answer_type": "text_input",
+        "correct_answer": "Ben",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5317,
+        "question_text": "A tally chart records how students get to school: Walk - 21, Bus - 14, Car - 18. What is the least common way to get to school?",
+        "answer_type": "text_input",
+        "correct_answer": "Bus",
+        "alternative_answer_1": "bus",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5318,
+        "question_text": "You are given a list of 50 student names and their favourite colour. What would be the best way to quickly present this data to see which colour is most popular?",
+        "answer_type": "text_input",
+        "correct_answer": "Tally chart",
+        "alternative_answer_1": "A tally chart",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5319,
+        "question_text": "The data is: 12 triangles, 19 squares, 11 circles. Formulate a question that compares the number of triangles and circles.",
+        "answer_type": "text_input",
+        "correct_answer": "Are there more triangles than circles?",
+        "alternative_answer_1": "Which has less, triangles or circles?",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5320,
+        "question_text": "Sort these categories from most to least popular: Pop music (38), Rock (29), Jazz (12), Classical (15).",
+        "answer_type": "text_input",
+        "correct_answer": "Pop, Rock, Classical, Jazz",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5321,
+        "question_text": "Which is the most popular item in this list: hats (23), gloves (31), scarves (28)?",
+        "answer_type": "text_input",
+        "correct_answer": "gloves",
+        "alternative_answer_1": "Gloves",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5322,
+        "question_text": "Which is the least common item? Pencils (45), pens (50), rubbers (35).",
+        "answer_type": "text_input",
+        "correct_answer": "rubbers",
+        "alternative_answer_1": "Rubbers",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5323,
+        "question_text": "Formulate a simple question to find out the quantity of a single category from this data: 10 cats, 20 dogs.",
+        "answer_type": "text_input",
+        "correct_answer": "How many cats are there?",
+        "alternative_answer_1": "How many dogs are there?",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5324,
+        "question_text": "If you have a long list of individual votes for cat, dog, or fish, what is a good way to count them?",
+        "answer_type": "text_input",
+        "correct_answer": "Tally chart",
+        "alternative_answer_1": "Tally marks",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5325,
+        "question_text": "Data: 18 votes for Monday, 22 for Friday. Which day is more popular?",
+        "answer_type": "text_input",
+        "correct_answer": "Friday",
+        "alternative_answer_1": "friday",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5326,
+        "question_text": "A list of birds seen: 25 sparrows, 15 robins, 30 pigeons. Which bird was seen the most?",
+        "answer_type": "text_input",
+        "correct_answer": "pigeons",
+        "alternative_answer_1": "Pigeons",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5327,
+        "question_text": "Order the following from least to most: 29 items, 19 items, 39 items.",
+        "answer_type": "text_input",
+        "correct_answer": "19 items, 29 items, 39 items",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5328,
+        "question_text": "A tally chart shows: sunny days - 15, rainy days - 10, cloudy days - 6. What is a most popular question you can ask?",
+        "answer_type": "text_input",
+        "correct_answer": "What was the most common type of weather?",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5329,
+        "question_text": "There are 22 apples and 21 oranges. Which fruit is there less of?",
+        "answer_type": "text_input",
+        "correct_answer": "oranges",
+        "alternative_answer_1": "Oranges",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5330,
+        "question_text": "To quickly count votes for three candidates from 100 ballot papers, would you use a simple list or a tally chart?",
+        "answer_type": "text_input",
+        "correct_answer": "Tally chart",
+        "alternative_answer_1": "A tally chart",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5331,
+        "question_text": "Which is the most frequent number in this list: 5, 6, 5, 7, 5, 6?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5332,
+        "question_text": "Formulate a least popular question for this data: 30 votes for pizza, 20 for burgers, 40 for pasta.",
+        "answer_type": "text_input",
+        "correct_answer": "Which food is the least popular?",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 5736,
+        "question_text": "A list shows: 5 red balls, 3 blue balls. What is the total number of red and blue balls?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5737,
+        "question_text": "There are 7 cats and 2 dogs. What is the total number of cats and dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5738,
+        "question_text": "A pictogram (1 symbol = 1 fruit) shows 6 apples and 4 bananas. What is the total number of apples and bananas?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5739,
+        "question_text": "A list of pets is: 4 hamsters, 5 goldfish. Are there more hamsters or more goldfish?",
+        "answer_type": "text_input",
+        "correct_answer": "goldfish",
+        "alternative_answer_1": "Goldfish",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5740,
+        "question_text": "You have 8 pencils and 10 pens. Are there less pencils or less pens?",
+        "answer_type": "text_input",
+        "correct_answer": "pencils",
+        "alternative_answer_1": "Pencils",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5741,
+        "question_text": "A pictogram (1 symbol = 1 vote) shows 9 votes for Yes and 7 votes for No. What is the total number of votes for Yes and No?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "Sixteen",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5742,
+        "question_text": "There are 6 sunny days and 5 cloudy days listed. What is the total number of sunny and cloudy days?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "Eleven",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5743,
+        "question_text": "A list shows 10 boys and 9 girls in a club. Are there more boys or more girls?",
+        "answer_type": "text_input",
+        "correct_answer": "boys",
+        "alternative_answer_1": "Boys",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5744,
+        "question_text": "A pictogram (1 symbol = 1 animal) shows 3 lions and 8 monkeys. Are there less lions or less monkeys?",
+        "answer_type": "text_input",
+        "correct_answer": "lions",
+        "alternative_answer_1": "Lions",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5745,
+        "question_text": "A fruit bowl has 5 oranges and 5 pears. Which fruit is there more of?",
+        "answer_type": "text_input",
+        "correct_answer": "Neither",
+        "alternative_answer_1": "They are equal",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5746,
+        "question_text": "What is the total of 8 green marbles and 4 yellow marbles?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5747,
+        "question_text": "A list of toys: 7 cars, 6 dolls. Are there more cars or more dolls?",
+        "answer_type": "text_input",
+        "correct_answer": "cars",
+        "alternative_answer_1": "Cars",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5748,
+        "question_text": "A pictogram (1 symbol = 1 student) shows 8 students walk and 10 students take the bus. What is the total number of students who walk or take the bus?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "Eighteen",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5749,
+        "question_text": "There are 2 big dogs and 9 small dogs. Are there less big dogs or less small dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "big dogs",
+        "alternative_answer_1": "Big dogs",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5750,
+        "question_text": "What is the total of 5 shirts and 7 trousers?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5751,
+        "question_text": "A pictogram (1 symbol = 1 book) shows 9 fiction books and 9 non-fiction books. Which type has more books?",
+        "answer_type": "text_input",
+        "correct_answer": "Neither",
+        "alternative_answer_1": "They are the same",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5752,
+        "question_text": "A list shows 6 red flowers and 8 white flowers. What is the total of these two types of flower?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "Fourteen",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5753,
+        "question_text": "There are 4 teachers and 10 students. Are there more teachers or more students?",
+        "answer_type": "text_input",
+        "correct_answer": "students",
+        "alternative_answer_1": "Students",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5754,
+        "question_text": "A pictogram (1 symbol = 1 point) shows Team A has 10 points and Team B has 7 points. What is the total number of points for both teams?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "Seventeen",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5755,
+        "question_text": "A list shows 5 triangles and 8 squares. Are there less triangles or less squares?",
+        "answer_type": "text_input",
+        "correct_answer": "triangles",
+        "alternative_answer_1": "Triangles",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5756,
+        "question_text": "What is the total number of items if there are 10 spoons and 3 forks?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "Thirteen",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5757,
+        "question_text": "There are 6 adults and 6 children. Which group has more people?",
+        "answer_type": "text_input",
+        "correct_answer": "Neither",
+        "alternative_answer_1": "Equal",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5758,
+        "question_text": "A pictogram (1 symbol = 1 goal) shows Sam scored 8 goals and Anna scored 4 goals. What is the total number of goals they scored?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5759,
+        "question_text": "A list shows 2 buses and 9 cars. Are there less buses or less cars?",
+        "answer_type": "text_input",
+        "correct_answer": "buses",
+        "alternative_answer_1": "Buses",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5760,
+        "question_text": "What is the total of 1 plain biscuit and 9 chocolate biscuits?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5761,
+        "question_text": "A pictogram (1 symbol = 2 votes) shows 5 symbols for cats and 4 symbols for dogs. How many more votes did cats get than dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5762,
+        "question_text": "A block diagram shows 15 votes for apples, 10 for bananas, and 5 for oranges. How many fewer votes did oranges get than apples?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5763,
+        "question_text": "A pictogram (1 symbol = 5 books) shows 3 symbols for mystery and 2 symbols for adventure. What is the total number of mystery and adventure books?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5764,
+        "question_text": "A simple block diagram shows 18 people chose red and 12 people chose blue. How many more people chose red than blue?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5765,
+        "question_text": "A pictogram (1 symbol = 2 points) shows Team A with 8 symbols and Team B with 6 symbols. How many points did Team A score?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "Sixteen",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5766,
+        "question_text": "A block diagram shows 20 people like summer and 11 people like winter. How many fewer people like winter than summer?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5767,
+        "question_text": "A pictogram (1 symbol = 5 children) shows 4 symbols for boys and 3 symbols for girls. What is the total number of children?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "Thirty-five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5768,
+        "question_text": "A block diagram shows 16 votes for dogs, 12 for cats, and 8 for fish. How many more votes did dogs get than fish?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5769,
+        "question_text": "A pictogram (1 symbol = 2 km) shows a run of 7 symbols. How long was the run?",
+        "answer_type": "text_input",
+        "correct_answer": "14 km",
+        "alternative_answer_1": "14",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5770,
+        "question_text": "A block diagram shows the number of trees: Oak - 19, Pine - 12. How many fewer Pine trees are there than Oak trees?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5771,
+        "question_text": "A pictogram (1 symbol = 5 sweets) shows 2 symbols for green sweets and 3 for red sweets. What is the total number of sweets?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5772,
+        "question_text": "A block diagram shows the number of students in three clubs: Art - 15, Sport - 20, Music - 10. What is the total number of students in Art and Music club?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5773,
+        "question_text": "A pictogram (1 symbol = 2 goals) shows a player scored 9 symbols. How many goals did they score?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "Eighteen",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5774,
+        "question_text": "A block diagram shows 17 votes for pizza and 9 votes for burgers. How many more people voted for pizza?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5775,
+        "question_text": "A pictogram (1 symbol = 5 items) shows 3 symbols for hats and 4 symbols for scarves. What is the total number of hats, scarves, and gloves if the gloves category has 2 symbols?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "Forty-five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5776,
+        "question_text": "A block diagram shows goals scored: Mo - 14, Sam - 19, Lucy - 11. How many fewer goals did Lucy score than Sam?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5777,
+        "question_text": "A pictogram (1 symbol = 2 people) shows 6 symbols for children and 2 symbols for adults. How many more children than adults are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5778,
+        "question_text": "A block diagram shows sunny days (16), cloudy days (10), and rainy days (5). What is the total number of sunny and rainy days?",
+        "answer_type": "text_input",
+        "correct_answer": "21",
+        "alternative_answer_1": "Twenty-one",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5779,
+        "question_text": "A pictogram (1 symbol = 5 miles) shows a journey of 4 symbols. How long was the journey?",
+        "answer_type": "text_input",
+        "correct_answer": "20 miles",
+        "alternative_answer_1": "20",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5780,
+        "question_text": "A block diagram shows 19 red cars and 13 blue cars. How many more red cars are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5781,
+        "question_text": "What is the total number of votes for apples and bananas if a block diagram shows 12 for apples, 8 for bananas, and 15 for oranges?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5782,
+        "question_text": "A pictogram (1 symbol = 2 birds) shows 8 symbols for robins and 5 symbols for sparrows. How many fewer sparrows are there than robins?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5783,
+        "question_text": "A block diagram shows 20 people chose Saturday and 14 people chose Sunday. How many more people chose Saturday?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5784,
+        "question_text": "A pictogram (1 symbol = 5 pages) shows a book has 4 symbols. How many pages are in the book?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5785,
+        "question_text": "A block diagram shows 9 votes for milk and 18 votes for juice. How many fewer votes did milk get?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5786,
+        "question_text": "A pictogram (1 symbol = 10 votes) shows 5 symbols for Pop, 3 for Rock, and 4 for Jazz. What is the total number of votes for all three?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5787,
+        "question_text": "A simple table shows car colours: Red - 25, Blue - 40, Silver - 30. How many more Blue cars were there than Red cars?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5788,
+        "question_text": "A block diagram shows points for three teams: Eagles - 35, Lions - 50, Bears - 20. What is the total number of points for the Eagles and Bears combined?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "Fifty-five",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5789,
+        "question_text": "A pictogram (1 symbol = 10 houses) shows 6 symbols for Street A and 4 for Street B. How many fewer houses are on Street B?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5790,
+        "question_text": "A table shows the number of students in each year: Year 3 - 28, Year 4 - 31, Year 5 - 29. Is the total number of students in Year 3 and Year 4 more or less than 60?",
+        "answer_type": "text_input",
+        "correct_answer": "Less",
+        "alternative_answer_1": "less",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5791,
+        "question_text": "A block diagram shows TV sales: Monday - 15, Tuesday - 25, Wednesday - 40. What is the total for all three days?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "Eighty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5792,
+        "question_text": "A pictogram (1 symbol = 10 people) shows 7 symbols for adults and 5 for children. How many more adults than children were there?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5793,
+        "question_text": "A table shows items sold: Hats - 32, Scarves - 45. What is the total number of hats and scarves sold?",
+        "answer_type": "text_input",
+        "correct_answer": "77",
+        "alternative_answer_1": "Seventy-seven",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5794,
+        "question_text": "A block diagram shows website visits: Site A - 50, Site B - 30. How many more visits did Site A get?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5795,
+        "question_text": "A pictogram (1 symbol = 10 books) shows 3 symbols for comedy, 5 for fantasy, and 2 for horror. Is the total number of comedy and horror books greater than the number of fantasy books?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5796,
+        "question_text": "A table shows student scores: Amy - 85, Ben - 70, Clara - 90. How many more points did Clara score than Ben?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5797,
+        "question_text": "A block diagram shows fruit counts: Apples - 60, Bananas - 40, Oranges - 30. What is the total number of all fruits?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5798,
+        "question_text": "A pictogram (1 symbol = 10 fish) shows 8 symbols in a blue tank and 5 symbols in a green tank. How many fewer fish are in the green tank?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5799,
+        "question_text": "A table shows the distance run: Mon - 5km, Tue - 8km, Wed - 6km, Thu - 8km, Fri - 10km. What is the total distance run on Monday and Friday?",
+        "answer_type": "text_input",
+        "correct_answer": "15km",
+        "alternative_answer_1": "15",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5800,
+        "question_text": "A block diagram shows votes for pets: Dogs - 45, Cats - 50, Rabbits - 25. How many more people voted for cats than rabbits?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5801,
+        "question_text": "A pictogram (1 symbol = 10 flowers) shows 7 symbols for roses and 9 for tulips. What is the total number of roses and tulips?",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5802,
+        "question_text": "A simple table shows ticket sales: Adult - 60, Child - 80. How many more child tickets were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5803,
+        "question_text": "A block diagram shows three classes recycling plastic bottles: Class A - 25, Class B - 35, Class C - 40. Is the total for Class A and B more than Class C?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5804,
+        "question_text": "What is the total number of pupils in Year 3 and Year 4 if a table shows: Year 3 - 29, Year 4 - 32, Year 5 - 30?",
+        "answer_type": "text_input",
+        "correct_answer": "61",
+        "alternative_answer_1": "Sixty-one",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5805,
+        "question_text": "A pictogram (1 symbol = 10 coins) shows you have 5 symbols for gold coins and 8 for silver. How many fewer gold coins do you have?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5806,
+        "question_text": "A block diagram shows points scored: Red Team - 70, Blue Team - 50. How many more points did Red Team score?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5807,
+        "question_text": "A table shows the number of pages in three books: Book 1 - 80, Book 2 - 60, Book 3 - 90. What is the total number of pages in all three books?",
+        "answer_type": "text_input",
+        "correct_answer": "230",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5808,
+        "question_text": "A pictogram (1 symbol = 10 min) shows homework time: Maths - 4 symbols, English - 3 symbols. How many more minutes were spent on Maths?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5809,
+        "question_text": "A block diagram shows three types of trees: Oak - 25, Pine - 45, Birch - 25. What is the total number of Oak and Pine trees?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5810,
+        "question_text": "A table shows bird sightings: Robins - 15, Sparrows - 30, Magpies - 20, Crows - 15. What is the total number of all birds seen?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "Eighty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5811,
+        "question_text": "A pictogram uses a circle symbol ( = 20 votes). A half-circle represents 10 votes. If a category has 3 and a half circles, how many votes does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5812,
+        "question_text": "A table shows votes: Red - 15, Blue - 25, Green - 20. Are the combined votes for Red and Green greater than the votes for Blue?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5813,
+        "question_text": "A block diagram shows: Apples - 30, Bananas - 40, Oranges - 20. Which two fruits have a combined total of 60?",
+        "answer_type": "text_input",
+        "correct_answer": "Bananas and Oranges",
+        "alternative_answer_1": "Oranges and Bananas",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5814,
+        "question_text": "A pictogram (1 star = 10 points) shows these scores: Team A - 4 stars, Team B - 5 and a half stars, Team C - 3 stars. What is the total score for all three teams?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5815,
+        "question_text": "A table shows the number of pupils who play an instrument: Piano - 18, Guitar - 22, Violin - 12. How many more pupils play Guitar than Piano and Violin combined?",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "The combined group is larger",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5816,
+        "question_text": "A table shows the number of pupils who play an instrument: Piano - 18, Guitar - 22, Violin - 12. How many more pupils play Piano and Guitar combined than play Violin?",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "Twenty-eight",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5817,
+        "question_text": "A pictogram shows cars sold (1 symbol = 4 cars). Monday has 5 symbols, Tuesday has 3 and a half symbols. How many cars were sold in total on both days?",
+        "answer_type": "text_input",
+        "correct_answer": "34",
+        "alternative_answer_1": "Thirty-four",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5818,
+        "question_text": "A block diagram shows points: Red - 25, Blue - 30, Yellow - 15. The total points for which two teams is exactly double the points for another team?",
+        "answer_type": "text_input",
+        "correct_answer": "Red and Yellow",
+        "alternative_answer_1": "Yellow and Red",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5819,
+        "question_text": "A block diagram shows points: Red - 20, Blue - 40, Yellow - 20. The total points for which two teams is exactly equal to the points for another team?",
+        "answer_type": "text_input",
+        "correct_answer": "Red and Yellow",
+        "alternative_answer_1": "Yellow and Red",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5820,
+        "question_text": "A table shows: Dogs - 15, Cats - 25, Fish - 10. What is a question you could ask to compare the total of dogs and fish with cats?",
+        "answer_type": "text_input",
+        "correct_answer": "Are there more cats than dogs and fish combined?",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5821,
+        "question_text": "A pictogram (1 symbol = 8 votes) shows 3 symbols for Option A and 5 for Option B. What is the total number of votes?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "Sixty-four",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5822,
+        "question_text": "A simple table shows the number of coins: 1p - 30, 2p - 20, 5p - 10. Is the total number of 1p and 5p coins greater than the number of 2p coins?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5823,
+        "question_text": "A block diagram shows three class sizes: Class 1 - 28, Class 2 - 30, Class 3 - 29. What is the total number of students in all three classes?",
+        "answer_type": "text_input",
+        "correct_answer": "87",
+        "alternative_answer_1": "Eighty-seven",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5824,
+        "question_text": "A pictogram (1 symbol = 6 items) shows 4 and a half symbols. What is the total number of items?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "Twenty-seven",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5825,
+        "question_text": "A table shows points scored: Game 1 - 50, Game 2 - 30, Game 3 - 40. How many more points were scored in Game 1 and Game 2 combined than in Game 3?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "Forty",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5826,
+        "question_text": "A block diagram shows: Lions - 15, Tigers - 20, Bears - 10. Which two groups combined have a total of 30?",
+        "answer_type": "text_input",
+        "correct_answer": "Lions and Bears",
+        "alternative_answer_1": "Bears and Lions",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5827,
+        "question_text": "A block diagram shows: Lions - 15, Tigers - 20, Bears - 10. Which two groups of animals have a combined total of 35?",
+        "answer_type": "text_input",
+        "correct_answer": "Lions and Tigers",
+        "alternative_answer_1": "Tigers and Lions",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5828,
+        "question_text": "A pictogram (1 symbol = 10 people) shows a survey: Yes - 6 and a half symbols, No - 4 symbols. How many people took part in the survey?",
+        "answer_type": "text_input",
+        "correct_answer": "105",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5829,
+        "question_text": "A table shows: Red team - 22 points, Blue team - 18 points. What is a question you could ask about the difference between them?",
+        "answer_type": "text_input",
+        "correct_answer": "How many more points did the Red team score?",
+        "alternative_answer_1": "What is the difference in their scores?",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5830,
+        "question_text": "A block diagram shows: 50 children, 30 adults. How many more children than adults are there?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5831,
+        "question_text": "A pictogram (1 symbol = 4 votes) shows 5 symbols for Apples and 7 for Bananas. What is the total number of votes for Apples, Bananas, and Oranges if Oranges have 3 symbols?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "Sixty",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 5832,
+        "question_text": "A table shows: Walk - 25, Bus - 15, Car - 20. Are there more people who walk than those who take the bus and car combined?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 6239,
+        "question_text": "A simple table shows the number of pets: Dogs - 5, Cats - 8, Fish - 6. How many dogs are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6240,
+        "question_text": "A pictogram shows favourite fruits. Each symbol is 1 fruit. There are 7 symbols for Apples. How many people chose Apples?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6241,
+        "question_text": "A simple table lists colours and counts: Red - 9, Blue - 4, Green - 7. How many counts does Green have?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6242,
+        "question_text": "In a pictogram where 1 star = 1 point, Team A has 8 stars. How many points does Team A have?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6243,
+        "question_text": "A table of sports shows: Football - 10, Tennis - 6. How many people like Football?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6244,
+        "question_text": "A pictogram where 1 symbol = 1 car shows 4 symbols in the 'red cars' row. How many red cars are there?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6245,
+        "question_text": "A simple table lists student lunches: Sandwiches - 9, Pasta - 5. How many students had Sandwiches?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6246,
+        "question_text": "A pictogram (1 symbol = 1 vote) shows 6 symbols for Yes. How many votes for Yes were there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6247,
+        "question_text": "From a simple table of T-shirt sizes: Small - 3, Medium - 8, Large - 5. How many Medium T-shirts are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6248,
+        "question_text": "A pictogram (1 symbol = 1 flower) shows 9 symbols for Roses. How many Roses are there?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6249,
+        "question_text": "How many sunny days are shown in a table that lists: Sunny - 6, Rainy - 3?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6250,
+        "question_text": "In a pictogram where 1 symbol = 1 student, the Walk to school row has 10 symbols. How many students walk to school?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6251,
+        "question_text": "A table of favourite drinks: Juice - 8, Water - 7, Milk - 5. How many people chose Juice?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6252,
+        "question_text": "A pictogram (1 symbol = 1 book) shows 5 symbols for Adventure. How many Adventure books are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6253,
+        "question_text": "A table lists ice cream sales: Vanilla - 9, Chocolate - 8. How many Vanilla ice creams were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6254,
+        "question_text": "How many pencils are there, based on a pictogram (1 symbol = 1 item) with 7 symbols in the pencil row?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6255,
+        "question_text": "A table of pets: Dogs - 6, Birds - 2. How many dogs are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6256,
+        "question_text": "A pictogram (1 symbol = 1 tree) shows 8 symbols for Oak trees. How many Oak trees are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6257,
+        "question_text": "A table shows: Pears - 4, Oranges - 9. How many pears are there?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6258,
+        "question_text": "A pictogram (1 symbol = 1 coin) shows 10 symbols for Heads. How many coins landed on Heads?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6259,
+        "question_text": "A simple table shows: Cars - 9, Buses - 3. How many cars are listed?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6260,
+        "question_text": "A pictogram (1 symbol = 1 star) shows a rating of 5 symbols. What is the rating?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6261,
+        "question_text": "A table lists TV channels: Channel 1 - 8 viewers, Channel 2 - 10 viewers. How many viewers for Channel 1?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6262,
+        "question_text": "In a pictogram where 1 symbol = 1 plant, a row for Tomatoes has 6 symbols. How many tomato plants are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6263,
+        "question_text": "A simple table of eye colours shows: Brown - 9, Blue - 7. How many people have brown eyes?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6264,
+        "question_text": "A bar chart shows 10 votes for apples and 6 for bananas. How many more votes did apples get?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6265,
+        "question_text": "A pictogram (1 symbol = 2 people) shows 5 symbols for Yes and 3 for No. How many fewer people voted No?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6266,
+        "question_text": "A table shows: Red Team - 20 points, Blue Team - 15 points. How many more points did the Red Team score?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6267,
+        "question_text": "A bar chart (scale of 1) shows 8 goals for Sam and 12 for Lily. How many fewer goals did Sam score?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6268,
+        "question_text": "A pictogram (1 symbol = 5 books) shows 4 symbols for fiction and 6 for non-fiction. How many more non-fiction books are there?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6269,
+        "question_text": "A simple table lists: Sunny days - 14, Rainy days - 8. How many fewer rainy days were there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6270,
+        "question_text": "A bar chart (scale of 2) shows a bar for cats at 16 and a bar for dogs at 10. How many more cats than dogs are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6271,
+        "question_text": "A pictogram (1 symbol = 10 items) shows 3 symbols for cakes and 5 for cookies. How many more cookies were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6272,
+        "question_text": "A table shows: Class A - 25 students, Class B - 30 students. How many fewer students are in Class A?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6273,
+        "question_text": "A bar chart (scale of 5) shows a bar for walking at 25 and a bar for cycling at 15. How many more people walk?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6274,
+        "question_text": "A pictogram (1 symbol = 2 votes) shows 7 symbols for swimming and 9 for running. How many more people voted for running?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6275,
+        "question_text": "A table shows: Monday - 18 sales, Tuesday - 11 sales. How many more sales were there on Monday?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6276,
+        "question_text": "A bar chart (scale of 10) shows a bar for buses at 40 and a bar for cars at 60. How many more cars were there?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6277,
+        "question_text": "A pictogram (1 symbol = 5 miles) shows a journey from home to school is 3 symbols, and home to the park is 2 symbols. How many fewer miles is the journey to the park?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6278,
+        "question_text": "A table lists: Gold coins - 16, Silver coins - 20. How many fewer gold coins are there?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6279,
+        "question_text": "A bar chart shows juice sales: Apple - 9, Orange - 15. How many more orange juices were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6280,
+        "question_text": "A pictogram (1 symbol = 10 pages) shows a comic has 4 symbols and a storybook has 7 symbols. How many more pages does the storybook have?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6281,
+        "question_text": "A table shows: Pine trees - 17, Oak trees - 12. How many fewer Oak trees are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6282,
+        "question_text": "A bar chart shows: 14 people chose pizza, 19 people chose pasta. How many more people chose pasta?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6283,
+        "question_text": "A pictogram (1 symbol = 2 kg) shows a bag of apples has 6 symbols and a bag of potatoes has 8 symbols. How much heavier is the bag of potatoes?",
+        "answer_type": "text_input",
+        "correct_answer": "4 kg",
+        "alternative_answer_1": "4",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6284,
+        "question_text": "From a table of points: Team X - 18, Team Y - 22. How many fewer points did Team X score?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6285,
+        "question_text": "A bar chart shows: 11 red sweets, 18 blue sweets. How many more blue sweets are there?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6286,
+        "question_text": "A pictogram (1 symbol = 5 pounds) shows pocket money: John - 4 symbols, Mary - 3 symbols. How much less money does Mary have?",
+        "answer_type": "text_input",
+        "correct_answer": "5 pounds",
+        "alternative_answer_1": "5",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6287,
+        "question_text": "A table shows: 12 sunny days, 19 cloudy days. How many more cloudy days were there?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6288,
+        "question_text": "A bar chart (scale of 10) shows a TV costs 80 and a radio costs 30. How much more does the TV cost?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6289,
+        "question_text": "A table shows votes: Red - 15, Blue - 20, Green - 10. What is the total number of votes for Red and Green?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6290,
+        "question_text": "A pictogram (1 symbol = 5 people) shows: Walk - 4 symbols, Bus - 6 symbols, Car - 3 symbols. How many more people take the bus than walk?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6291,
+        "question_text": "A scaled bar chart shows: Apples - 25, Bananas - 15, Oranges - 30. How many more votes did Oranges get than Apples and Bananas combined?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "The combined group is larger",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6292,
+        "question_text": "A scaled bar chart shows: Apples - 25, Bananas - 15, Oranges - 50. How many more votes did Oranges get than Apples and Bananas combined?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6293,
+        "question_text": "A table shows points: Team A - 40, Team B - 25, Team C - 30. What is the difference between the highest and lowest scores?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6294,
+        "question_text": "A table shows points: Team A - 40, Team B - 25, Team C - 15. What is the difference between the highest and lowest scores?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6295,
+        "question_text": "A pictogram (1 symbol = 10 items) shows: Pens - 3 symbols, Pencils - 5 symbols, Rulers - 2 symbols. What is the total number of pens and rulers?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6296,
+        "question_text": "A bar chart shows: Dogs - 30, Cats - 45, Fish - 15. What is the total number of pets shown?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "Ninety",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6297,
+        "question_text": "A table shows sales: Monday - 22, Tuesday - 18, Wednesday - 25. How many more items were sold on Wednesday than Monday?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6298,
+        "question_text": "A pictogram (1 symbol = 2 books) shows: Ali read 6 symbols, Ben read 8 symbols, and Chloe read 5 symbols. How many books did Ali and Chloe read altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "Twenty-two",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6299,
+        "question_text": "A bar chart shows: Red - 12, Blue - 18, Green - 15. What is the total number of votes for all three colours?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "Forty-five",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6300,
+        "question_text": "A table shows heights: Tom - 130cm, Sue - 125cm, Joe - 140cm. How much taller is Joe than Sue?",
+        "answer_type": "text_input",
+        "correct_answer": "15cm",
+        "alternative_answer_1": "15",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6301,
+        "question_text": "A pictogram (1 symbol = 5 children) shows: Football - 6 symbols, Tennis - 4 symbols. What is the total number of children who like football or tennis?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6302,
+        "question_text": "A bar chart shows scores: Eagles - 25, Hawks - 35. How many more points do the Eagles need to score to equal the Hawks?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6303,
+        "question_text": "A table shows: 25 vanilla cakes, 35 chocolate cakes, 15 lemon cakes. How many more chocolate cakes are there than lemon cakes?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6304,
+        "question_text": "A pictogram (1 symbol = 10 minutes) shows: Reading - 3 symbols, Writing - 2 symbols, Maths - 4 symbols. What is the total time spent on Reading and Writing?",
+        "answer_type": "text_input",
+        "correct_answer": "50 minutes",
+        "alternative_answer_1": "50",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6305,
+        "question_text": "A bar chart shows: Year 3 - 28 pupils, Year 4 - 30 pupils. What is the total number of pupils in both years?",
+        "answer_type": "text_input",
+        "correct_answer": "58",
+        "alternative_answer_1": "Fifty-eight",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6306,
+        "question_text": "A table shows pocket money: Dan - £10, Eva - £15, Finn - £8. How much more money does Eva have than Dan and Finn combined?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "The combined amount is more",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6307,
+        "question_text": "A table shows pocket money: Dan - £10, Eva - £15, Finn - £8. What is the total amount of money for all three children?",
+        "answer_type": "text_input",
+        "correct_answer": "33",
+        "alternative_answer_1": "£33",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6308,
+        "question_text": "A pictogram (1 symbol = 5 votes) shows: Dogs - 8 symbols, Cats - 6 symbols. What is the total number of votes?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6309,
+        "question_text": "A bar chart shows sunny days in three months: June - 20, July - 25, August - 18. What is the total number of sunny days?",
+        "answer_type": "text_input",
+        "correct_answer": "63",
+        "alternative_answer_1": "Sixty-three",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6310,
+        "question_text": "A table shows ticket sales: Adult - 40, Child - 60. How many more child tickets were sold than adult tickets?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6311,
+        "question_text": "A pictogram (1 symbol = 2 goals) shows: Player A - 7 symbols, Player B - 9 symbols. How many goals did they score in total?",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "Thirty-two",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6316,
+        "question_text": "A bar chart's scale goes up in 10s. A bar for Cats is halfway between 20 and 30. How many cats are there?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6317,
+        "question_text": "A pictogram uses a square symbol to represent 8 votes. How many votes does a half-square represent?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6318,
+        "question_text": "A table shows: Apples - 18, Pears - 23, Oranges - 15. What is the difference between the total number of pears and the combined total of apples and oranges?",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "The combined group is larger",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6319,
+        "question_text": "A table shows: Apples - 18, Pears - 43, Oranges - 15. What is the difference between the number of pears and the combined total of apples and oranges?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6320,
+        "question_text": "A pictogram (1 symbol = 10 votes) shows 4 and a half symbols for Red and 3 for Blue. What is the total number of votes?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "Seventy-five",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6321,
+        "question_text": "A bar chart shows: Team A - 35, Team B - 42, Team C - 18. Which two teams have a combined score that is exactly 20 more than the third team?",
+        "answer_type": "text_input",
+        "correct_answer": "Team B and Team C",
+        "alternative_answer_1": "B and C",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6322,
+        "question_text": "A bar chart shows: Team A - 20, Team B - 30, Team C - 50. Which two teams have a combined score equal to the third team?",
+        "answer_type": "text_input",
+        "correct_answer": "Team A and Team B",
+        "alternative_answer_1": "A and B",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6323,
+        "question_text": "A pictogram (1 star = 4 points) shows a score of 6 and a half stars. What is the total score?",
+        "answer_type": "text_input",
+        "correct_answer": "26",
+        "alternative_answer_1": "Twenty-six",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6324,
+        "question_text": "A table shows books read: Jan - 12, Feb - 15, Mar - 9, Apr - 14. What is the total number of books read in all four months?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6325,
+        "question_text": "A bar chart has a scale of 4. A bar for Dogs is three-quarters of the way between 12 and 16. What is the value for Dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6326,
+        "question_text": "A bar chart has a scale of 2. A bar for Dogs is halfway between 12 and 14. What is the value for Dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "Thirteen",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6327,
+        "question_text": "A pictogram (1 symbol = 20) shows 3 and a half symbols. What is the total value?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6328,
+        "question_text": "A table shows: Red - 21, Blue - 32, Green - 17, Yellow - 28. What is the difference between the total of Red and Blue, and the total of Green and Yellow?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6329,
+        "question_text": "A bar chart shows: Pop - 45, Rock - 30. How many more people need to vote for Rock for it to equal Pop?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6330,
+        "question_text": "A pictogram (1 symbol = 8) shows 5 and a half symbols for one category and 3 for another. What is the total for both?",
+        "answer_type": "text_input",
+        "correct_answer": "68",
+        "alternative_answer_1": "Sixty-eight",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6331,
+        "question_text": "A table shows the number of cars sold each day: Mon - 12, Tue - 18, Wed - 15, Thu - 12, Fri - 20. What is the total for the whole week?",
+        "answer_type": "text_input",
+        "correct_answer": "77",
+        "alternative_answer_1": "Seventy-seven",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6332,
+        "question_text": "A bar chart shows heights: Plant A - 24cm, Plant B - 32cm, Plant C - 28cm. What is the difference between the tallest and shortest plant?",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "8",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6333,
+        "question_text": "A pictogram (1 symbol = 12) shows 2 and a half symbols. What is the value?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6334,
+        "question_text": "A table shows: 45 votes for A, 35 for B. If 10 people change their vote from A to B, how many more votes will B have than A?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6335,
+        "question_text": "A table shows: 45 votes for A, 35 for B. If 10 people who voted for A change their vote to B, what will be the new number of votes for B?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "Forty-five",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6336,
+        "question_text": "A bar chart has a scale of 10. A bar is halfway between 50 and 60. What is its value?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "Fifty-five",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 6545,
+        "question_text": "A bar chart shows 15 votes for Cats and 12 for Dogs. How many more votes did Cats get?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6546,
+        "question_text": "A table lists books read: Monday - 8, Tuesday - 10. What is the total number of books read on these two days?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "Eighteen",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6547,
+        "question_text": "A pictogram (1 symbol = 2 fruits) shows 5 symbols for apples and 4 for pears. How many fewer pears are there than apples?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6548,
+        "question_text": "A bar chart shows goals scored: Team A - 20, Team B - 14. What is the difference in their scores?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6549,
+        "question_text": "A simple table shows the number of students present: Class 1 - 22, Class 2 - 25. What is the total number of students present in both classes?",
+        "answer_type": "text_input",
+        "correct_answer": "47",
+        "alternative_answer_1": "Forty-seven",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6550,
+        "question_text": "A pictogram (1 symbol = 1 vote) shows 18 votes for Yes and 15 for No. How many more people voted Yes?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6551,
+        "question_text": "A bar chart shows the number of sunny days: June - 16, July - 20. What is the total number of sunny days for June and July?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "Thirty-six",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6552,
+        "question_text": "A table lists points scored: Player 1 - 30, Player 2 - 22. How many fewer points did Player 2 score?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6553,
+        "question_text": "A pictogram (1 symbol = 2 cars) shows 10 symbols for red cars and 8 for blue cars. What is the total number of red and blue cars?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "Thirty-six",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6554,
+        "question_text": "A bar chart shows heights: Plant A - 40cm, Plant B - 50cm. What is the difference in their heights?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6555,
+        "question_text": "A simple table shows: 35 girls, 30 boys. What is the total number of children?",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "Sixty-five",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6556,
+        "question_text": "A pictogram (1 symbol = 2 items) shows 12 symbols for pencils and 9 for pens. How many more pencils are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6557,
+        "question_text": "A bar chart shows: 25 votes for Saturday, 20 for Sunday. How many fewer votes did Sunday get?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6558,
+        "question_text": "A table lists ticket sales: Morning - 40, Afternoon - 55. What is the total for both times?",
+        "answer_type": "text_input",
+        "correct_answer": "95",
+        "alternative_answer_1": "Ninety-five",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6559,
+        "question_text": "A pictogram (1 symbol = 1 person) shows 28 people chose swimming and 21 chose tennis. What is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6560,
+        "question_text": "A bar chart shows: 18 dogs, 24 cats. What is the total number of dogs and cats?",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "Forty-two",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6561,
+        "question_text": "A table shows: Red sweets - 50, Blue sweets - 38. How many more red sweets are there?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6562,
+        "question_text": "A pictogram (1 symbol = 2 km) shows a walk of 15 symbols. How long was the walk?",
+        "answer_type": "text_input",
+        "correct_answer": "30 km",
+        "alternative_answer_1": "30",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6563,
+        "question_text": "A bar chart shows: 60 minutes for Maths, 45 minutes for English. How much longer was the Maths lesson?",
+        "answer_type": "text_input",
+        "correct_answer": "15 minutes",
+        "alternative_answer_1": "15",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6564,
+        "question_text": "A table shows the number of birds seen: Robins - 16, Sparrows - 21. What is the total number of robins and sparrows?",
+        "answer_type": "text_input",
+        "correct_answer": "37",
+        "alternative_answer_1": "Thirty-seven",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6565,
+        "question_text": "A pictogram (1 symbol = 2 goals) shows a team scored 11 symbols. How many goals were scored?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "Twenty-two",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6566,
+        "question_text": "A bar chart shows: 33 apples, 25 bananas. How many more apples than bananas are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6567,
+        "question_text": "A table lists the number of pages in two books: Book A - 80, Book B - 95. What is the total number of pages?",
+        "answer_type": "text_input",
+        "correct_answer": "175",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6568,
+        "question_text": "A table lists the number of pages in two books: Book A - 40, Book B - 55. What is the total number of pages?",
+        "answer_type": "text_input",
+        "correct_answer": "95",
+        "alternative_answer_1": "Ninety-five",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6571,
+        "question_text": "A table shows visitors to a museum: Mon - 100, Tue - 150, Wed - 120. What is the total number of visitors for the three days?",
+        "answer_type": "text_input",
+        "correct_answer": "370",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6572,
+        "question_text": "A pictogram (1 symbol = 10 books) shows: January - 5 symbols, February - 8 symbols. How many more books were sold in February?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6573,
+        "question_text": "A bar chart shows points: Red - 200, Blue - 150, Green - 250. What is the difference between the highest and lowest scoring teams?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6574,
+        "question_text": "A table lists the population of three villages: Oakhaven - 500, Mapleton - 700, Westford - 400. What is the total population of all three?",
+        "answer_type": "text_input",
+        "correct_answer": "1600",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6575,
+        "question_text": "A table lists the population of three villages: Oakhaven - 200, Mapleton - 300, Westford - 400. What is the total population of all three?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "Nine hundred",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6576,
+        "question_text": "A pictogram (1 symbol = 20 people) shows: Swimming - 6 symbols, Running - 4 symbols. What is the total number of people?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "Two hundred",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6577,
+        "question_text": "A bar chart shows monthly rainfall: April - 50mm, May - 70mm, June - 40mm. How much more rain fell in May than in April?",
+        "answer_type": "text_input",
+        "correct_answer": "20mm",
+        "alternative_answer_1": "20",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6578,
+        "question_text": "A table shows items sold: T-shirts - 120, Hats - 80, Scarves - 50. What is the total number of items sold?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6579,
+        "question_text": "A pictogram (1 symbol = 5 kg) shows weights: Apples - 10 symbols, Bananas - 8 symbols. What is the total weight of the fruit?",
+        "answer_type": "text_input",
+        "correct_answer": "90 kg",
+        "alternative_answer_1": "90",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6580,
+        "question_text": "A bar chart shows: 300 red bricks, 450 blue bricks. What is the difference in the number of bricks?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6581,
+        "question_text": "A table shows website hits: Day 1 - 250, Day 2 - 300. What is the total for both days?",
+        "answer_type": "text_input",
+        "correct_answer": "550",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6582,
+        "question_text": "A pictogram (1 symbol = 10 cars) shows: Ford - 8 symbols, Vauxhall - 11 symbols. How many more Vauxhalls were there?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6583,
+        "question_text": "A bar chart shows lengths: Rope A - 80m, Rope B - 120m, Rope C - 90m. What is the total length of all three ropes?",
+        "answer_type": "text_input",
+        "correct_answer": "290m",
+        "alternative_answer_1": "290",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6584,
+        "question_text": "A table shows calories: Apple - 90, Banana - 120. What is the difference in calories?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6585,
+        "question_text": "A pictogram (1 symbol = 20 pounds) shows savings: Sarah - 5 symbols, Tom - 7 symbols. What is the sum of their savings?",
+        "answer_type": "text_input",
+        "correct_answer": "240 pounds",
+        "alternative_answer_1": "240",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6586,
+        "question_text": "A bar chart shows votes: 150 for Option A, 220 for Option B. How many fewer votes did Option A get?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6587,
+        "question_text": "A table shows distances: London to Paris - 350km, London to Brussels - 320km. What is the total distance for both trips?",
+        "answer_type": "text_input",
+        "correct_answer": "670km",
+        "alternative_answer_1": "670",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6588,
+        "question_text": "A pictogram (1 symbol = 5 goals) shows: Player 1 - 12 symbols, Player 2 - 9 symbols. What is the difference in the number of goals they scored?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6589,
+        "question_text": "A bar chart shows: Milk - 400ml, Juice - 600ml. What is the total volume?",
+        "answer_type": "text_input",
+        "correct_answer": "1000ml",
+        "alternative_answer_1": "1000",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6590,
+        "question_text": "A table shows: 180 boys, 210 girls. How many more girls than boys are there?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6591,
+        "question_text": "A pictogram (1 symbol = 10 houses) shows: Village A - 15 symbols, Village B - 20 symbols. What is the total number of houses?",
+        "answer_type": "text_input",
+        "correct_answer": "350",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6592,
+        "question_text": "A bar chart shows: Pop music - 350 votes, Rock music - 280 votes. What is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6593,
+        "question_text": "A table shows three measurements: 150g, 200g, 250g. What is the sum of these measurements?",
+        "answer_type": "text_input",
+        "correct_answer": "600g",
+        "alternative_answer_1": "600",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6594,
+        "question_text": "A pictogram (1 symbol = 20 pages) shows: Chapter 1 - 5 symbols, Chapter 2 - 6 symbols. How many pages are in both chapters?",
+        "answer_type": "text_input",
+        "correct_answer": "220",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6595,
+        "question_text": "A bar chart shows: 420 visitors on Saturday, 500 on Sunday. How many more visitors were there on Sunday?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "Eighty",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6596,
+        "question_text": "A bar chart shows votes: Red - 25, Blue - 35, Green - 15. What is the total of Red and Green votes compared to Blue votes?",
+        "answer_type": "text_input",
+        "correct_answer": "5 more",
+        "alternative_answer_1": "5",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6597,
+        "question_text": "A pictogram (1 symbol = 50 people) shows: UK - 8 symbols, France - 6 symbols, Spain - 7 symbols. What is the total number of people?",
+        "answer_type": "text_input",
+        "correct_answer": "1050",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6598,
+        "question_text": "A table shows sales: Mon - £120, Tue - £150, Wed - £100. How much more was sold on Monday and Wednesday combined than on Tuesday?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "£70",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6599,
+        "question_text": "A bar chart scale is in 25s. A bar for Dogs is at 75 and a bar for Cats is at 125. How many more cats are there than dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6600,
+        "question_text": "A pictogram (1 symbol = 100kg) shows luggage weights: Bag A - 2 symbols, Bag B - 1 and a half symbols. What is the total weight?",
+        "answer_type": "text_input",
+        "correct_answer": "350 kg",
+        "alternative_answer_1": "350",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6601,
+        "question_text": "A table shows: 250 apples, 180 pears, 200 oranges. What is the total number of all three fruits?",
+        "answer_type": "text_input",
+        "correct_answer": "630",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6602,
+        "question_text": "A bar chart shows: Team 1 - 450 points, Team 2 - 300 points, Team 3 - 250 points. What is the difference between Team 1 and the combined total of Teams 2 and 3?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6603,
+        "question_text": "A bar chart shows: Team 1 - 450 points, Team 2 - 300 points, Team 3 - 250 points. What is the difference between the score of Team 1 and Team 3 combined, and the score of Team 2?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6604,
+        "question_text": "A pictogram (1 symbol = 25 votes) shows: Option A - 4 symbols, Option B - 6 symbols. What is the total number of votes?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6605,
+        "question_text": "A table shows distances: A to B - 80km, B to C - 125km, C to D - 95km. What is the total distance from A to D?",
+        "answer_type": "text_input",
+        "correct_answer": "300km",
+        "alternative_answer_1": "300",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6606,
+        "question_text": "A bar chart has a bar for June at 75 and for July at 100. A bar for May is halfway between 40 and 60. What is the total for all three months?",
+        "answer_type": "text_input",
+        "correct_answer": "225",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6607,
+        "question_text": "A pictogram (1 symbol = 50g) shows: Flour - 5 symbols, Sugar - 3 and a half symbols. How much more flour is there than sugar?",
+        "answer_type": "text_input",
+        "correct_answer": "75g",
+        "alternative_answer_1": "75",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6608,
+        "question_text": "A table shows: 125 boys, 135 girls. How many children are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "260",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6609,
+        "question_text": "A bar chart shows: Red - 150, Blue - 225, Green - 175. What is the total number of votes?",
+        "answer_type": "text_input",
+        "correct_answer": "550",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6610,
+        "question_text": "A pictogram (1 symbol = 20) shows 8 symbols for category X and 5.5 for category Y. What is the difference between X and Y?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6611,
+        "question_text": "A table shows: Monday - 90 visitors, Tuesday - 110 visitors, Wednesday - 85 visitors. What is the difference between the busiest and quietest day?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6612,
+        "question_text": "A bar chart shows: 2019 - 300 sales, 2020 - 450 sales, 2021 - 400 sales. What is the total sales for all three years?",
+        "answer_type": "text_input",
+        "correct_answer": "1150",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6613,
+        "question_text": "A pictogram (1 symbol = 100) shows 4 symbols for houses and 2.5 for apartments. What is the total number of properties?",
+        "answer_type": "text_input",
+        "correct_answer": "650",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6614,
+        "question_text": "A table shows three children's savings: Amy - £60, Ben - £75, Chloe - £55. What is the sum of their savings?",
+        "answer_type": "text_input",
+        "correct_answer": "190",
+        "alternative_answer_1": "£190",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6615,
+        "question_text": "A bar chart shows: 125 votes for A, 175 for B. How many more votes did B get?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6616,
+        "question_text": "A pictogram (1 symbol = 25) shows 4 symbols for apples and 3 for oranges. What is the total for apples and oranges?",
+        "answer_type": "text_input",
+        "correct_answer": "175",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6617,
+        "question_text": "A table shows: January - 80mm rain, February - 65mm rain. What was the total rainfall?",
+        "answer_type": "text_input",
+        "correct_answer": "145mm",
+        "alternative_answer_1": "145",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6618,
+        "question_text": "A bar chart shows: 250 tickets sold on Saturday, 325 sold on Sunday. How many tickets were sold in total?",
+        "answer_type": "text_input",
+        "correct_answer": "575",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6619,
+        "question_text": "A pictogram (1 symbol = 50) shows 2 symbols for buses and 5 for cars. What is the difference between the number of cars and buses?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6620,
+        "question_text": "A table shows: North school - 350 pupils, South school - 420 pupils. How many pupils are there altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "770",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6621,
+        "question_text": "A table shows votes: Red - 1,500, Blue - 2,200, Green - 1,800. What is the total number of votes?",
+        "answer_type": "text_input",
+        "correct_answer": "5500",
+        "alternative_answer_1": "5,500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6622,
+        "question_text": "A bar chart shows: London - 8000 visitors, Paris - 6500 visitors. What is the difference in the number of visitors?",
+        "answer_type": "text_input",
+        "correct_answer": "1500",
+        "alternative_answer_1": "1,500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6623,
+        "question_text": "A pictogram (1 symbol = 1000) shows 4.5 symbols for cars and 2.5 for lorries. What is the total number of vehicles?",
+        "answer_type": "text_input",
+        "correct_answer": "7000",
+        "alternative_answer_1": "7,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6624,
+        "question_text": "A table shows populations: Town A - 12,000, Town B - 9,500. By how many is Town A larger than Town B?",
+        "answer_type": "text_input",
+        "correct_answer": "2500",
+        "alternative_answer_1": "2,500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6625,
+        "question_text": "From the data in a table: A=5000, B=3500, C=2000. Is the sum of B and C greater than A?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6626,
+        "question_text": "A bar chart shows monthly profits: Jan - £4,500, Feb - £3,200, Mar - £5,000. What is the total profit for the three months?",
+        "answer_type": "text_input",
+        "correct_answer": "12700",
+        "alternative_answer_1": "£12,700",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6627,
+        "question_text": "A pictogram (1 symbol = 200) shows: Apples - 6 symbols, Oranges - 4.5 symbols. How many more apples than oranges are there?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6628,
+        "question_text": "A table shows: Company X sales - 25,000, Company Y sales - 18,500. What is the sum of their sales?",
+        "answer_type": "text_input",
+        "correct_answer": "43500",
+        "alternative_answer_1": "43,500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6629,
+        "question_text": "A bar chart shows: 2020 - 5,500 units, 2021 - 7,000 units. What is the difference in units sold?",
+        "answer_type": "text_input",
+        "correct_answer": "1500",
+        "alternative_answer_1": "1,500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6630,
+        "question_text": "A pictogram (1 symbol = 500) shows 3 symbols for dogs and 4.5 for cats. What is the total number of pets?",
+        "answer_type": "text_input",
+        "correct_answer": "3750",
+        "alternative_answer_1": "3,750",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6631,
+        "question_text": "A table shows three large numbers: 11,000, 15,500, and 9,000. What is their sum?",
+        "answer_type": "text_input",
+        "correct_answer": "35500",
+        "alternative_answer_1": "35,500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6632,
+        "question_text": "A bar chart shows: Website A - 6,200 hits, Website B - 4,800 hits. What is the difference in hits?",
+        "answer_type": "text_input",
+        "correct_answer": "1400",
+        "alternative_answer_1": "1,400",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6633,
+        "question_text": "A pictogram shows cars sold (1 symbol = 100). There are 5 symbols for 2022 and 6.5 for 2023. How many cars were sold in total?",
+        "answer_type": "text_input",
+        "correct_answer": "1150",
+        "alternative_answer_1": "1,150",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6634,
+        "question_text": "A table shows house prices: House 1 - £250,000, House 2 - £310,000. What is the difference in price?",
+        "answer_type": "text_input",
+        "correct_answer": "60000",
+        "alternative_answer_1": "£60,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6635,
+        "question_text": "From data in a table, what is the sum of 8,500 and 12,500?",
+        "answer_type": "text_input",
+        "correct_answer": "21000",
+        "alternative_answer_1": "21,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6636,
+        "question_text": "A bar chart shows: Adults - 1,200, Children - 2,500. How many more children than adults are there?",
+        "answer_type": "text_input",
+        "correct_answer": "1300",
+        "alternative_answer_1": "1,300",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6637,
+        "question_text": "A pictogram (1 symbol = 1,000) shows 7 symbols for Europe and 5.5 for Asia. What is the total for both?",
+        "answer_type": "text_input",
+        "correct_answer": "12500",
+        "alternative_answer_1": "12,500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6638,
+        "question_text": "A table shows: City A population - 800,000, City B - 650,000. How many more people live in City A?",
+        "answer_type": "text_input",
+        "correct_answer": "150000",
+        "alternative_answer_1": "150,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6639,
+        "question_text": "A bar chart shows company profits: 2021 - £1.2 million, 2022 - £1.5 million. What is the difference in profit?",
+        "answer_type": "text_input",
+        "correct_answer": "0.3 million",
+        "alternative_answer_1": "300000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6640,
+        "question_text": "A pictogram (1 symbol = 2,000) shows 3.5 symbols. What is the total value?",
+        "answer_type": "text_input",
+        "correct_answer": "7000",
+        "alternative_answer_1": "7,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6641,
+        "question_text": "From a table, find the difference between 50,000 and 28,000.",
+        "answer_type": "text_input",
+        "correct_answer": "22000",
+        "alternative_answer_1": "22,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6642,
+        "question_text": "A bar chart shows: 3,400 votes for Candidate A, 2,900 for Candidate B. What is the total number of votes?",
+        "answer_type": "text_input",
+        "correct_answer": "6300",
+        "alternative_answer_1": "6,300",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6643,
+        "question_text": "A table shows library book loans: Fiction - 5,200, Non-Fiction - 3,800. How many more Fiction books were loaned?",
+        "answer_type": "text_input",
+        "correct_answer": "1400",
+        "alternative_answer_1": "1,400",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6644,
+        "question_text": "A pictogram (1 symbol = 5,000) shows 4 symbols for one country and 3 for another. What is the total for both?",
+        "answer_type": "text_input",
+        "correct_answer": "35000",
+        "alternative_answer_1": "35,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 6645,
+        "question_text": "A bar chart shows: Year 1 revenue - £75,000, Year 2 - £90,000. What was the total revenue?",
+        "answer_type": "text_input",
+        "correct_answer": "165000",
+        "alternative_answer_1": "£165,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 7046,
+        "question_text": "A line graph shows the temperature over 5 hours. At hour 2, the temperature was 15°C. What was the temperature at hour 2?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15°C",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7047,
+        "question_text": "A line graph tracks plant growth. On Day 3, the plant was 8cm tall. How tall was the plant on Day 3?",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "8",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7048,
+        "question_text": "A line graph shows the number of cars in a car park. At 10 am, there were 20 cars. How many cars were there at 10 am?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7049,
+        "question_text": "A simple line graph shows the number of books read each month. In March, 5 books were read. How many books were read in March?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7050,
+        "question_text": "A line graph plots the distance walked over 4 days. On Day 1, the distance was 3km. What was the distance on Day 1?",
+        "answer_type": "text_input",
+        "correct_answer": "3km",
+        "alternative_answer_1": "3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7051,
+        "question_text": "A line graph shows the number of goals scored in 5 games. In Game 4, 2 goals were scored. How many goals were scored in Game 4?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7052,
+        "question_text": "A line graph tracks the level of water in a tank. At 1 pm, the level was 10 litres. What was the water level at 1 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "10 litres",
+        "alternative_answer_1": "10",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7053,
+        "question_text": "A line graph shows website visitors over 5 days. On Wednesday, there were 50 visitors. How many visitors were there on Wednesday?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7054,
+        "question_text": "A simple line graph shows a child's height over 4 years. At age 8, the height was 120cm. What was the height at age 8?",
+        "answer_type": "text_input",
+        "correct_answer": "120cm",
+        "alternative_answer_1": "120",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7055,
+        "question_text": "A line graph plots rainfall for 5 months. In May, the rainfall was 40mm. How much rain fell in May?",
+        "answer_type": "text_input",
+        "correct_answer": "40mm",
+        "alternative_answer_1": "40",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7056,
+        "question_text": "A line graph shows the number of apples sold. On Monday, 25 apples were sold. How many apples were sold on Monday?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7057,
+        "question_text": "A line graph tracks savings. In Week 2, the savings were £12. How much was saved in Week 2?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "£12",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7058,
+        "question_text": "A line graph shows the temperature at different times. At midday, the temperature was 18°C. What was the temperature at midday?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "18°C",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7059,
+        "question_text": "A line graph shows the number of birds seen. At 3 pm, 14 birds were seen. How many birds were seen at 3 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "Fourteen",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7060,
+        "question_text": "A line graph plots the number of pages read. After 4 days, 50 pages were read. How many pages were read after 4 days?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7061,
+        "question_text": "A line graph shows the speed of a car. At 30 seconds, the speed was 40 mph. What was the speed at 30 seconds?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40 mph",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7062,
+        "question_text": "A simple line graph shows ice cream sales. In July, 60 ice creams were sold. How many were sold in July?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "Sixty",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7063,
+        "question_text": "A line graph tracks the growth of a sunflower. In Week 3, it was 30cm tall. How tall was it in Week 3?",
+        "answer_type": "text_input",
+        "correct_answer": "30cm",
+        "alternative_answer_1": "30",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7064,
+        "question_text": "A line graph shows the number of pupils in a club over 5 years. In 2021, there were 22 pupils. How many pupils were there in 2021?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "Twenty-two",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7065,
+        "question_text": "A line graph shows the weight of a puppy. At 4 months old, it weighed 8kg. What was its weight at 4 months?",
+        "answer_type": "text_input",
+        "correct_answer": "8kg",
+        "alternative_answer_1": "8",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7066,
+        "question_text": "A line graph tracks the score in a game. After 2 minutes, the score was 50 points. What was the score after 2 minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7067,
+        "question_text": "A line graph shows the number of fish in a pond. In January, there were 40 fish. How many fish were there in January?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "Forty",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7068,
+        "question_text": "A line graph shows the length of a shadow. At 11 am, the shadow was 100cm long. How long was the shadow at 11 am?",
+        "answer_type": "text_input",
+        "correct_answer": "100cm",
+        "alternative_answer_1": "100",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7069,
+        "question_text": "A line graph plots the number of steps taken. On Day 2, 5000 steps were taken. How many steps were taken on Day 2?",
+        "answer_type": "text_input",
+        "correct_answer": "5000",
+        "alternative_answer_1": "5,000",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7070,
+        "question_text": "A simple line graph shows the value of a comic book. In 2020, it was worth £5. What was its value in 2020?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "£5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7071,
+        "question_text": "A line graph shows temperatures. At 10 am it was 12°C and at 11 am it was 15°C. When was it warmer?",
+        "answer_type": "text_input",
+        "correct_answer": "11:00 AM",
+        "alternative_answer_1": "11am",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7072,
+        "question_text": "A line graph tracks a plant's height. On Monday it was 6cm and on Tuesday it was 8cm. How much did it grow between Monday and Tuesday?",
+        "answer_type": "text_input",
+        "correct_answer": "2cm",
+        "alternative_answer_1": "2",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7073,
+        "question_text": "A line graph shows car park occupancy. At 9 am there were 30 cars, and at 10 am there were 40 cars. Which hour had fewer cars?",
+        "answer_type": "text_input",
+        "correct_answer": "9:00 AM",
+        "alternative_answer_1": "9am",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7074,
+        "question_text": "A line graph shows rainfall. In April it was 50mm and in May it was 40mm. When was it drier?",
+        "answer_type": "text_input",
+        "correct_answer": "May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7075,
+        "question_text": "A graph shows goals scored. In Game 1 a team scored 2 goals, and in Game 2 they scored 3 goals. What is the total number of goals for these two games?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7076,
+        "question_text": "A line graph shows John's savings. In Week 1 he had £10, in Week 2 he had £15. What is the difference between his savings in Week 2 and Week 1?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "£5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7077,
+        "question_text": "A graph shows the number of visitors to a shop. On Saturday there were 80 and on Sunday there were 70. On which day were there more visitors?",
+        "answer_type": "text_input",
+        "correct_answer": "Saturday",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7078,
+        "question_text": "A line graph tracks the weight of a parcel. At the start it was 5kg, and after adding an item it was 7kg. How much weight was added?",
+        "answer_type": "text_input",
+        "correct_answer": "2kg",
+        "alternative_answer_1": "2",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7079,
+        "question_text": "A graph shows the number of pages read. On Day 1, 10 pages were read. On Day 2, 12 pages were read. What is the sum of pages read on both days?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "Twenty-two",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7080,
+        "question_text": "A line graph shows temperatures. At noon it was 20°C and at 1 pm it was 18°C. When was it cooler?",
+        "answer_type": "text_input",
+        "correct_answer": "1:00 PM",
+        "alternative_answer_1": "1pm",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7081,
+        "question_text": "A line graph shows the number of birds in a tree. At 8 am there were 15 birds, at 9 am there were 12. What is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7082,
+        "question_text": "A graph shows ticket sales. 50 tickets were sold on Friday and 60 on Saturday. On which day were fewer tickets sold?",
+        "answer_type": "text_input",
+        "correct_answer": "Friday",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7083,
+        "question_text": "A line graph tracks a car's journey. After 1 hour, it had travelled 40 miles. After 2 hours, it had travelled 80 miles. How far did it travel in the second hour?",
+        "answer_type": "text_input",
+        "correct_answer": "40 miles",
+        "alternative_answer_1": "40",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7084,
+        "question_text": "A graph shows points scored. Team A scored 25 points and Team B scored 30 points. Which team scored more?",
+        "answer_type": "text_input",
+        "correct_answer": "Team B",
+        "alternative_answer_1": "B",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7085,
+        "question_text": "A line graph shows a phone's battery level. At 2 pm it was 60% and at 3 pm it was 50%. How much did the battery drop in that hour?",
+        "answer_type": "text_input",
+        "correct_answer": "10%",
+        "alternative_answer_1": "10",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7086,
+        "question_text": "A graph shows the number of apples sold. 30 were sold on Monday and 35 on Tuesday. What was the total for these two days?",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "Sixty-five",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7087,
+        "question_text": "A line graph shows the height of a tide. At 6 am the tide was 2m high, and at 7 am it was 3m high. When was the tide lower?",
+        "answer_type": "text_input",
+        "correct_answer": "6:00 AM",
+        "alternative_answer_1": "6am",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7088,
+        "question_text": "A graph shows the number of people in a cinema. At 7 pm there were 70 people. At 8 pm there were 90. What is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7089,
+        "question_text": "A line graph shows two friends' heights. Ben is 130cm and Sam is 135cm. Who is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "Ben",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7090,
+        "question_text": "A graph shows the value of a stock. It was £20 on Monday and £28 on Tuesday. How much did its value increase?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "£8",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7091,
+        "question_text": "A line graph shows the number of fish caught. 8 were caught in the morning and 6 in the afternoon. What was the total number of fish caught?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "Fourteen",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7092,
+        "question_text": "A graph shows the speed of a runner. At 1 minute, the speed was 10 km/h. At 2 minutes, it was 12 km/h. When was the runner slower?",
+        "answer_type": "text_input",
+        "correct_answer": "1 minute",
+        "alternative_answer_1": "1 min",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7093,
+        "question_text": "A line graph shows the length of a shadow. At noon it was 50cm, and at 1 pm it was 60cm. By how much did the shadow grow?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7094,
+        "question_text": "A graph shows the number of red and blue cars. There are 25 red cars and 22 blue cars. Which colour has more cars?",
+        "answer_type": "text_input",
+        "correct_answer": "Red",
+        "alternative_answer_1": "red",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7095,
+        "question_text": "A line graph shows the amount of water in a bath. At the start there were 80 litres. After 1 minute, there were 75 litres. How much water drained out?",
+        "answer_type": "text_input",
+        "correct_answer": "5 litres",
+        "alternative_answer_1": "5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7096,
+        "question_text": "A line graph shows daily temperatures. Monday was 10°C, Tuesday was 15°C, and Wednesday was 12°C. What was the maximum temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15°C",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7097,
+        "question_text": "A graph shows a company's profit: Jan: £200, Feb: £300, Mar: £150. What was the minimum profit shown?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "£150",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7098,
+        "question_text": "A line graph shows the temperature from 6 am to 10 am. The line is halfway between 8°C and 10°C at 7 am. What was the temperature at 7 am?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9°C",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7099,
+        "question_text": "A graph shows a patient's temperature. It started at 37°C, rose to 39°C, and then fell to 38°C. What is the difference between the highest and lowest temperature shown?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2°C",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7100,
+        "question_text": "A line graph shows rainfall (mm): Mon-10, Tue-5, Wed-12, Thu-8. What was the total rainfall for Monday and Tuesday?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15mm",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7101,
+        "question_text": "A graph shows the number of visitors to a park: Sat - 250, Sun - 300, Mon - 100. What is the difference between the number of visitors on Saturday and Monday?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7102,
+        "question_text": "A line graph shows temperatures. At 1 am it was -2°C and at 2 am it was 1°C. What is the difference in temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3°C",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7103,
+        "question_text": "A graph shows the value of a model car: 2020: £50, 2021: £65, 2022: £80. What was the total increase in value from 2020 to 2022?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "£30",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7104,
+        "question_text": "A line graph shows a point halfway between 50 and 60 on the y-axis. What is the value of this point?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "Fifty-five",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7105,
+        "question_text": "A graph shows the level of a river in winter. It started at -5cm, then rose to -1cm. By how much did the river level rise?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4cm",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7106,
+        "question_text": "A line graph shows sales: Week 1 - 200, Week 2 - 150, Week 3 - 250, Week 4 - 200. In which week were sales at their minimum?",
+        "answer_type": "text_input",
+        "correct_answer": "Week 2",
+        "alternative_answer_1": "2",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7107,
+        "question_text": "A graph shows the number of apples on a tree: June - 0, July - 50, Aug - 150, Sep - 120. What was the maximum number of apples?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7108,
+        "question_text": "A line graph shows a bank balance. It starts at £40, drops to £10, then rises to £30. What is the difference between the maximum and minimum balance?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "£30",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7109,
+        "question_text": "A line graph showing temperature has a point at -4°C and another at 2°C. How many degrees warmer is the second point?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6°C",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7110,
+        "question_text": "A graph shows the number of cars sold per month: Jan-12, Feb-18, Mar-15. What is the sum of cars sold in January and March?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "Twenty-seven",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7111,
+        "question_text": "A line graph shows a point halfway between -10 and 0 on the y-axis. What is the value of this point?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "minus 5",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7112,
+        "question_text": "A graph tracks a hiker's altitude. They start at 100m, climb to 350m, then descend to 250m. What is the maximum altitude reached?",
+        "answer_type": "text_input",
+        "correct_answer": "350",
+        "alternative_answer_1": "350m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7113,
+        "question_text": "A line graph shows the number of people on a bus: Stop 1 - 10, Stop 2 - 18, Stop 3 - 15, Stop 4 - 22. What is the minimum number of people on the bus?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7114,
+        "question_text": "A graph shows the depth of a submarine. It went from -20m to -50m. What was the change in depth?",
+        "answer_type": "text_input",
+        "correct_answer": "30m down",
+        "alternative_answer_1": "-30m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7115,
+        "question_text": "A line graph shows the number of rainy days per month: Jan - 15, Feb - 12, Mar - 18. What is the difference between the rainiest and driest months shown?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7116,
+        "question_text": "A line graph shows a value halfway between 100 and 150. What is this value?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7117,
+        "question_text": "A graph shows a bank account balance going from £50 to -£10. What is the total difference?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "£60",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7118,
+        "question_text": "A line graph shows the scores of three games: Game 1 - 80, Game 2 - 65, Game 3 - 90. What was the score in the game with the minimum score?",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "Sixty-five",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7119,
+        "question_text": "A line graph shows temperatures of -8°C, -3°C, and 1°C. What was the maximum temperature recorded?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1°C",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7120,
+        "question_text": "A graph shows the number of tickets sold each hour: 1pm - 25, 2pm - 40, 3pm - 30. What is the sum of tickets sold at 1pm and 3pm?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "Fifty-five",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7121,
+        "question_text": "A line graph shows a company's profit. From January to March, the profit went from £1000 to £3000. Is this an increasing or decreasing trend?",
+        "answer_type": "text_input",
+        "correct_answer": "Increasing",
+        "alternative_answer_1": "increase",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7122,
+        "question_text": "A line graph shows the temperature from 8 am to 12 pm. The values are 10°C, 12°C, 15°C, 16°C. If this trend continues, what might the temperature be at 1 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "17°C",
+        "alternative_answer_1": "17",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7123,
+        "question_text": "A statement about a line graph says the value at 3 pm was 25. The graph shows the line is halfway between 20 and 30. Is the statement correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7124,
+        "question_text": "A line graph shows rainfall: Jan-50mm, Feb-40mm, Mar-60mm, Apr-30mm. What is the difference between the total rainfall for Jan/Feb and Mar/Apr?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "zero",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7125,
+        "question_text": "A line graph shows the number of website visitors each hour: 10am-150, 11am-200, 12pm-250. Describe the trend.",
+        "answer_type": "text_input",
+        "correct_answer": "Increasing",
+        "alternative_answer_1": "Going up",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7126,
+        "question_text": "A graph shows a car's speed: 0s-0mph, 10s-30mph, 20s-60mph. If the car continues to accelerate at the same rate, what might its speed be at 30s?",
+        "answer_type": "text_input",
+        "correct_answer": "90mph",
+        "alternative_answer_1": "90",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7127,
+        "question_text": "A graph shows a candle's height: 0hr-20cm, 1hr-18cm, 2hr-16cm. Describe the trend.",
+        "answer_type": "text_input",
+        "correct_answer": "Decreasing",
+        "alternative_answer_1": "Going down",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7128,
+        "question_text": "A statement about a line graph of temperatures says the lowest temperature was -5°C. The data points are -2°C, -4°C, 1°C, and 0°C. Is the statement correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7129,
+        "question_text": "A line graph shows sales: 2020-£5000, 2021-£4000, 2022-£3000. If this trend continues, what might the sales be in 2023?",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "£2000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7130,
+        "question_text": "A line graph shows plant heights: Week1-5cm, Week2-10cm, Week3-15cm. During which period was the growth rate constant?",
+        "answer_type": "text_input",
+        "correct_answer": "The whole period",
+        "alternative_answer_1": "Week 1 to Week 3",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7131,
+        "question_text": "A graph shows a bank balance: Mon-£50, Tue-£30, Wed-£60. A statement says the balance was always decreasing. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7132,
+        "question_text": "What is the total of all data points on a line graph showing scores of 120, 150, and 110?",
+        "answer_type": "text_input",
+        "correct_answer": "380",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7133,
+        "question_text": "A line graph shows the population of a village declining by 20 people each year. In 2020 it was 800. What would you predict the population to be in 2023?",
+        "answer_type": "text_input",
+        "correct_answer": "740",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7134,
+        "question_text": "A graph shows visitor numbers: Mon-220, Tue-250, Wed-230, Thu-260. Between which two consecutive days was the increase the greatest?",
+        "answer_type": "text_input",
+        "correct_answer": "Wednesday and Thursday",
+        "alternative_answer_1": "Wed-Thu",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7135,
+        "question_text": "A graph shows visitor numbers: Mon-220, Tue-250, Wed-230, Thu-280. Between which two consecutive days was the increase the greatest?",
+        "answer_type": "text_input",
+        "correct_answer": "Wednesday and Thursday",
+        "alternative_answer_1": "Wed-Thu",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7136,
+        "question_text": "A statement says a line graph shows a steady increase. The data points are 10, 15, 18, 22. Is the statement of a *steady* increase correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7137,
+        "question_text": "A line graph shows the value of an investment: Year 1: £100, Year 2: £110, Year 3: £121. Is the amount of increase the same each year?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7138,
+        "question_text": "A graph of temperatures shows: -5°C, -2°C, 0°C, 1°C. What is the overall trend?",
+        "answer_type": "text_input",
+        "correct_answer": "Increasing",
+        "alternative_answer_1": "Warming",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7139,
+        "question_text": "A line graph shows a car journey. The distance from home is: 1hr-50km, 2hr-100km, 3hr-100km, 4hr-150km. What happened between hour 2 and 3?",
+        "answer_type": "text_input",
+        "correct_answer": "The car stopped",
+        "alternative_answer_1": "It did not move",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7140,
+        "question_text": "A graph shows profits: Q1: £10k, Q2: £15k, Q3: £12k, Q4: £18k. What is the difference between the sum of Q1/Q2 and the sum of Q3/Q4?",
+        "answer_type": "text_input",
+        "correct_answer": "5000",
+        "alternative_answer_1": "£5000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7141,
+        "question_text": "A line graph shows a population of 500 in 2010, 600 in 2015, and 700 in 2020. What is the trend?",
+        "answer_type": "text_input",
+        "correct_answer": "Increasing by 100 every 5 years",
+        "alternative_answer_1": "Steady increase",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7142,
+        "question_text": "A graph shows water level: 1pm: 2.5m, 2pm: 2.0m, 3pm: 1.5m. Predict the water level at 4pm.",
+        "answer_type": "text_input",
+        "correct_answer": "1.0m",
+        "alternative_answer_1": "1m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7143,
+        "question_text": "A statement about a graph showing scores (85, 90, 88) says the minimum score was 88. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 7144,
+        "question_text": "A line graph shows the number of birds in a park. The number increases between January and March, then decreases to May. When was the number of birds at its peak?",
+        "answer_type": "text_input",
+        "correct_answer": "March",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 29857,
+        "question_text": "A time graph shows the temperature was 12°C at noon and 8°C at 3pm. What was the change in temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "It dropped by 4°C",
+        "alternative_answer_1": "-4°C",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 29858,
+        "question_text": "A bar chart shows sales of 50 on Monday and 75 on Tuesday. What were the total sales for both days?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 29859,
+        "question_text": "A line graph shows a plant's height was 10cm on day 1 and 18cm on day 5. What was the total growth over that period?",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 479
+    },
+    {
+        "question_id": 29860,
+        "question_text": "A pictogram key shows one symbol = 10 votes. How many symbols are needed to show 45 votes?",
+        "answer_type": "text_input",
+        "correct_answer": "4.5",
+        "alternative_answer_1": "4 and a half",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 29861,
+        "question_text": "A table shows a total of 50 people were asked a question. 20 said Yes, 25 said No. How many were undecided?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 29862,
+        "question_text": "A block diagram shows 8 blocks for dogs and 12 for cats. How many more blocks do cats have than dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 480
+    },
+    {
+        "question_id": 29869,
+        "question_text": "A bar chart shows Red got 25 votes, Blue got 35, and Green got 15. What is the total number of votes?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 29870,
+        "question_text": "A table shows a journey took 2 hours at 30mph. How far was the journey?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60 miles",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 29871,
+        "question_text": "A pictogram shows 4 symbols for apples and 2.5 symbols for bananas. If a symbol = 8 pieces of fruit, how many more apples are there than bananas?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 29872,
+        "question_text": "A table shows a score of 8/10 in a test. What is this score as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "80%",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 29907,
+        "question_text": "I start with a number. I multiply it by 10 and then add 50. The result is 550. What was my number?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 483
+    },
+    {
+        "question_id": 29913,
+        "question_text": "A bar chart shows 50 votes for apples and 30 for bananas. How many more votes did apples get?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 482
+    },
+    {
+        "question_id": 29951,
+        "question_text": "A pictogram key shows one symbol = 5 votes. How many symbols are needed to show 25 votes?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    },
+    {
+        "question_id": 29952,
+        "question_text": "A table shows 30 children chose football and 25 chose tennis. How many more children chose football?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 481
+    }
+]

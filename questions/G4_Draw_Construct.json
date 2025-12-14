@@ -1,0 +1,3002 @@
+[
+    {
+        "question_id": 22484,
+        "question_text": "What is the name for an angle that is less than 90°?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22485,
+        "question_text": "What is the name for an angle that is greater than 90° but less than 180°?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22486,
+        "question_text": "What is the name for an angle that is greater than 180°?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22487,
+        "question_text": "An angle is measured as 40°. Is this angle acute or obtuse?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22488,
+        "question_text": "An angle is measured as 110°. Is this angle acute or obtuse?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22489,
+        "question_text": "To draw an angle of 30°, would you use a ruler or a protractor?",
+        "answer_type": "text_input",
+        "correct_answer": "protractor",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22490,
+        "question_text": "To draw an angle of 70°, would you start from a given line?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22491,
+        "question_text": "What type of angle is 89°?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22492,
+        "question_text": "What type of angle is 179°?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22493,
+        "question_text": "What type of angle is 200°?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22494,
+        "question_text": "An angle measures exactly 90°. What is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "right angle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22495,
+        "question_text": "When you draw a 60° angle, what tool do you use?",
+        "answer_type": "text_input",
+        "correct_answer": "protractor",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22496,
+        "question_text": "Is a 10° angle acute, obtuse or reflex?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22497,
+        "question_text": "Is a 91° angle acute, obtuse or reflex?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22498,
+        "question_text": "Is a 181° angle acute, obtuse or reflex?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22499,
+        "question_text": "To draw a 50° angle from a point on a line, you place the centre of the protractor on the...",
+        "answer_type": "text_input",
+        "correct_answer": "point",
+        "alternative_answer_1": "vertex",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22500,
+        "question_text": "Which is larger, an acute angle or an obtuse angle?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse angle",
+        "alternative_answer_1": "obtuse",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22501,
+        "question_text": "The angle in the corner of a square is 90°. What type of angle is this?",
+        "answer_type": "text_input",
+        "correct_answer": "right angle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22502,
+        "question_text": "To draw a 20° angle, do you need to draw a large or small opening between the lines?",
+        "answer_type": "text_input",
+        "correct_answer": "small",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22503,
+        "question_text": "What unit is used to measure angles?",
+        "answer_type": "text_input",
+        "correct_answer": "degrees",
+        "alternative_answer_1": "°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22504,
+        "question_text": "An angle is measured to be 150°. What type of angle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22505,
+        "question_text": "An angle is measured to be 45°. What type of angle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22506,
+        "question_text": "If you draw two lines that form a perfect corner like in a book, what is the angle you have drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "90°",
+        "alternative_answer_1": "90",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22507,
+        "question_text": "A straight line has an angle of 180°. What type of angle is 185°?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22508,
+        "question_text": "What is the name for an angle between 0° and 90°?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22509,
+        "question_text": "An angle on a protractor is marked at 45°. How many degrees is this angle?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22510,
+        "question_text": "An angle on a protractor is marked at 130°. How many degrees is this angle?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22511,
+        "question_text": "You are asked to draw a 65° angle. What type of angle is this?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22512,
+        "question_text": "You are asked to draw a 155° angle. What type of angle is this?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22513,
+        "question_text": "A protractor has two sets of numbers. If you measure an acute angle from the right, which scale do you use (inner or outer)?",
+        "answer_type": "text_input",
+        "correct_answer": "inner",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22514,
+        "question_text": "A protractor has two sets of numbers. If you measure an obtuse angle from the right, which scale do you use (inner or outer)?",
+        "answer_type": "text_input",
+        "correct_answer": "inner",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22515,
+        "question_text": "When drawing a 120° angle, the line will be wider or narrower than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "wider",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22516,
+        "question_text": "What is the size in degrees of an angle that is exactly a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22517,
+        "question_text": "An angle is measured at 25°. How many more degrees are needed to make a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22518,
+        "question_text": "An angle is measured at 100°. How many degrees is it past a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22519,
+        "question_text": "Which is bigger: an angle of 85° or an angle of 1.5 right angles?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5 right angles",
+        "alternative_answer_1": "the second one",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22520,
+        "question_text": "What is the name for an angle of 180°?",
+        "answer_type": "text_input",
+        "correct_answer": "straight angle",
+        "alternative_answer_1": "straight line",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22521,
+        "question_text": "If an angle measures 175°, is it acute, obtuse or reflex?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22522,
+        "question_text": "To draw a 140° angle, should the angle be smaller or larger than a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "smaller",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22523,
+        "question_text": "How many 45° angles make a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "two",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22524,
+        "question_text": "How many 30° angles make a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "three",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22525,
+        "question_text": "An angle is half of a right angle. How many degrees is it?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22526,
+        "question_text": "An angle is two times a right angle. How many degrees is it?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22527,
+        "question_text": "To draw a 25° angle, do you use a protractor?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22528,
+        "question_text": "What is the sum of two angles measuring 40° and 50°?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22529,
+        "question_text": "What is the difference between an angle of 110° and a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22530,
+        "question_text": "When drawing a 160° angle, would you expect it to look very wide or very narrow?",
+        "answer_type": "text_input",
+        "correct_answer": "very wide",
+        "alternative_answer_1": "wide",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22531,
+        "question_text": "Which tool measures angles in degrees?",
+        "answer_type": "text_input",
+        "correct_answer": "protractor",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22532,
+        "question_text": "An angle is 1 degree less than a right angle. How many degrees is it?",
+        "answer_type": "text_input",
+        "correct_answer": "89",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22533,
+        "question_text": "An angle is 1 degree more than a right angle. How many degrees is it?",
+        "answer_type": "text_input",
+        "correct_answer": "91",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22534,
+        "question_text": "Two angles on a straight line add up to 180°. If one angle is 60°, what is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22535,
+        "question_text": "Angles around a point add up to 360°. If three angles are 90°, 100°, and 110°, what is the fourth angle?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22536,
+        "question_text": "How many degrees are in a full circle?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22537,
+        "question_text": "An angle is measured at 270°. What type of angle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22538,
+        "question_text": "You need to draw a 210° angle. How do you do this on a standard 180° protractor?",
+        "answer_type": "text_input",
+        "correct_answer": "Draw a 150° angle and use the other side",
+        "alternative_answer_1": "Subtract from 360",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22539,
+        "question_text": "Two angles on a straight line are given. One is 135°. What is the size of the other angle?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22540,
+        "question_text": "Three angles meet at a point. Two of them are 150° and 120°. What is the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22541,
+        "question_text": "How many degrees in three quarters of a full turn?",
+        "answer_type": "text_input",
+        "correct_answer": "270",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22542,
+        "question_text": "An angle is 179°. Is it obtuse or reflex?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22543,
+        "question_text": "An angle is 181°. Is it obtuse or reflex?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22544,
+        "question_text": "You are asked to draw a reflex angle of 300°. What is the size of the smaller angle you would measure with a protractor?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22545,
+        "question_text": "What is the sum of the angles at a point on a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22546,
+        "question_text": "What is the sum of the angles around a single point?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22547,
+        "question_text": "One angle on a straight line is 90°. What must the other angle be?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22548,
+        "question_text": "You draw a 45° angle. How many degrees is the corresponding reflex angle?",
+        "answer_type": "text_input",
+        "correct_answer": "315",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22549,
+        "question_text": "You draw a 170° angle. How many degrees is the corresponding reflex angle?",
+        "answer_type": "text_input",
+        "correct_answer": "190",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22550,
+        "question_text": "An angle measures 359°. What type of angle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22551,
+        "question_text": "Two equal angles meet at a point on a straight line. What is the size of each angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22552,
+        "question_text": "Four equal angles meet around a point. What is the size of each angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22553,
+        "question_text": "An angle is 125°. How much bigger is this than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22554,
+        "question_text": "How many degrees are in half a full turn?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22555,
+        "question_text": "How many degrees are in one quarter of a full turn?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22556,
+        "question_text": "What is the sum of two angles: one 115° and the other 65°?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22557,
+        "question_text": "What is the sum of three angles: 80°, 120°, and 160°?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22558,
+        "question_text": "To draw a 270° angle, what smaller angle could you measure and use the outside of?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22559,
+        "question_text": "Two lines intersect. One of the angles is 70°. What is the size of the angle vertically opposite to it?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22560,
+        "question_text": "Two lines intersect. One angle is 110°. What is the size of an adjacent angle on the same straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22561,
+        "question_text": "A triangle has two angles measuring 60° and 80°. What is the size of the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22562,
+        "question_text": "An isosceles triangle has one angle of 100°. What are the sizes of the other two equal angles?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22563,
+        "question_text": "A quadrilateral has angles 90°, 90°, and 120°. What is the fourth angle?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22564,
+        "question_text": "What is the size of one interior angle in a regular hexagon?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22565,
+        "question_text": "A clock face is a circle of 360°. What is the angle between the hands at 3 o'clock?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22566,
+        "question_text": "A right-angled triangle has one angle of 35°. What is the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22567,
+        "question_text": "Two lines intersect, creating four angles. If you know one is 50°, what are the other three?",
+        "answer_type": "text_input",
+        "correct_answer": "50, 130, 130",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22568,
+        "question_text": "A triangle has angles of 45°, 45°, and 90°. What type of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "isosceles right-angled",
+        "alternative_answer_1": "right-angled isosceles",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22569,
+        "question_text": "Can you draw a triangle with angles 70°, 80°, and 40°?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22570,
+        "question_text": "Three angles in a quadrilateral are 100° each. What is the fourth angle?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22571,
+        "question_text": "What is the size of each angle in an equilateral triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22572,
+        "question_text": "An angle of 240° is a reflex angle. If you draw it, what is the size of the interior angle left over?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22573,
+        "question_text": "A straight line is split into three angles. One is 40°, another is 60°. What is the third?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22574,
+        "question_text": "If you draw a line from one corner of a square to the opposite corner, what angle does it make with the side?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22575,
+        "question_text": "What is the sum of the interior angles of any pentagon?",
+        "answer_type": "text_input",
+        "correct_answer": "540",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22576,
+        "question_text": "In a parallelogram, opposite angles are equal. If one angle is 70°, what are the other three angles?",
+        "answer_type": "text_input",
+        "correct_answer": "70, 110, 110",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22577,
+        "question_text": "An isosceles triangle has two angles of 50°. What is the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22578,
+        "question_text": "What is the angle between the hands of a clock at 1 o'clock?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22579,
+        "question_text": "Two angles in a triangle are 25° and 65°. Justify why it must be a right-angled triangle.",
+        "answer_type": "text_input",
+        "correct_answer": "The third angle is 90°",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22580,
+        "question_text": "What is the sum of the angles around a point on one side of a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22581,
+        "question_text": "How many degrees does the minute hand of a clock turn in 15 minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22582,
+        "question_text": "A pie chart shows 25% for Cats. How many degrees would this sector be?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 22583,
+        "question_text": "In an isosceles triangle, the angle between the two equal sides is 40°. What are the other two angles?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 464
+    },
+    {
+        "question_id": 26205,
+        "question_text": "Two angles on a straight line add up to how many degrees?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26206,
+        "question_text": "Angles around a point add up to how many degrees?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "360°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26207,
+        "question_text": "One angle on a straight line is 100°. What is the other angle?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "80°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26208,
+        "question_text": "One angle on a straight line is 50°. What is the other angle?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "130°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26209,
+        "question_text": "One angle on a straight line is 90°. What is the other angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26210,
+        "question_text": "One angle around a point is 300°. What is the other angle?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26211,
+        "question_text": "One angle around a point is 200°. What is the other angle?",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "160°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26212,
+        "question_text": "One angle around a point is 180°. What is the other angle?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26213,
+        "question_text": "What is 2 x 90°?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26214,
+        "question_text": "What is 4 x 90°?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "360°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26215,
+        "question_text": "A half turn is equal to how many degrees?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26216,
+        "question_text": "A whole turn is equal to how many degrees?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "360°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26217,
+        "question_text": "An angle on a straight line is 120°. Find the missing angle.",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26218,
+        "question_text": "An angle on a straight line is 80°. Find the missing angle.",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26219,
+        "question_text": "An angle around a point is 250°. Find the missing angle.",
+        "answer_type": "text_input",
+        "correct_answer": "110",
+        "alternative_answer_1": "110°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26220,
+        "question_text": "An angle around a point is 150°. Find the missing angle.",
+        "answer_type": "text_input",
+        "correct_answer": "210",
+        "alternative_answer_1": "210°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26221,
+        "question_text": "How many 90° angles make a full turn?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26222,
+        "question_text": "How many 90° angles make a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26223,
+        "question_text": "Find the missing angle on the straight line if the other is 70°.",
+        "answer_type": "text_input",
+        "correct_answer": "110",
+        "alternative_answer_1": "110°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26224,
+        "question_text": "Find the missing angle around the point if the other is 350°.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26225,
+        "question_text": "What is 180° ÷ 2?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26226,
+        "question_text": "What is 360° ÷ 4?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26227,
+        "question_text": "If one angle on a straight line is 1°, what is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "179",
+        "alternative_answer_1": "179°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26228,
+        "question_text": "If one angle around a point is 1°, what is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "359",
+        "alternative_answer_1": "359°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26229,
+        "question_text": "What is the sum of two angles on a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26230,
+        "question_text": "Three angles are on a straight line. Two of them are 50° and 60°. What is the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "70°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26231,
+        "question_text": "Three angles meet at a point. Two of them are 100° and 150°. What is the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "110",
+        "alternative_answer_1": "110°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26232,
+        "question_text": "Three angles are on a straight line. Two are 90° and 45°. What is the third?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26233,
+        "question_text": "Three angles meet at a point. Two are 120° and 130°. What is the third?",
+        "answer_type": "text_input",
+        "correct_answer": "110",
+        "alternative_answer_1": "110°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26234,
+        "question_text": "Three angles meet at a point. They are all equal. What is the size of each angle?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "120°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26235,
+        "question_text": "A three-quarter turn is equal to how many degrees?",
+        "answer_type": "text_input",
+        "correct_answer": "270",
+        "alternative_answer_1": "270°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26236,
+        "question_text": "What is 3 x 90°?",
+        "answer_type": "text_input",
+        "correct_answer": "270",
+        "alternative_answer_1": "270°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26237,
+        "question_text": "Find the missing angle on the straight line. The other two angles are 80° and 20°.",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "80°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26238,
+        "question_text": "Find the missing angle around the point. The other two angles are 110° and 140°.",
+        "answer_type": "text_input",
+        "correct_answer": "110",
+        "alternative_answer_1": "110°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26239,
+        "question_text": "Two equal angles are on a straight line. What is the size of each angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26240,
+        "question_text": "Four equal angles meet at a point. What is the size of each angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26241,
+        "question_text": "What is 180° - 30° - 50°?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26242,
+        "question_text": "What is 360° - 100° - 100°?",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "160°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26243,
+        "question_text": "An angle of 270° is also known as a ______ turn.",
+        "answer_type": "text_input",
+        "correct_answer": "three-quarter",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26244,
+        "question_text": "A straight line is a _____ turn.",
+        "answer_type": "text_input",
+        "correct_answer": "half",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26245,
+        "question_text": "The angles on a straight line are 40°, 70° and x. Find x.",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "70°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26246,
+        "question_text": "The angles around a point are 130°, 130° and x. Find x.",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26247,
+        "question_text": "The angles on a straight line are 25°, 85° and x. Find x.",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "70°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26248,
+        "question_text": "The angles around a point are 90°, 90° and x. Find x.",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26249,
+        "question_text": "Is it possible for three angles on a straight line to be 60°, 60° and 60°?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26250,
+        "question_text": "Is it possible for three angles around a point to be 100°, 100° and 100°?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26251,
+        "question_text": "Find the missing angle around the point. Known angles are 160° and 170°.",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26252,
+        "question_text": "Find the missing angle on a straight line. Known angles are 35° and 45°.",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26253,
+        "question_text": "Two angles on a straight line are in the ratio 1:2. What are they?",
+        "answer_type": "text_input",
+        "correct_answer": "60 and 120",
+        "alternative_answer_1": "60°, 120°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26254,
+        "question_text": "What is 180 - 90 - 30?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60°",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26255,
+        "question_text": "Four angles meet at a point. Three of them are 80°, 90°, and 100°. What is the fourth angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26256,
+        "question_text": "Four angles are on a straight line. Three are 40°, 50°, and 60°. What is the fourth angle?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26257,
+        "question_text": "Two straight lines intersect. One of the angles is 70°. What are the other three angles?",
+        "answer_type": "text_input",
+        "correct_answer": "70, 110, 110",
+        "alternative_answer_1": "70°, 110°, 110°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26258,
+        "question_text": "Two straight lines intersect. One of the angles is 120°. What is the angle vertically opposite to it?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "120°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26259,
+        "question_text": "Two straight lines intersect. One angle is 45°. What is the size of an adjacent angle on the straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "135",
+        "alternative_answer_1": "135°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26260,
+        "question_text": "A pie chart is split into three sectors. One is 90° and another is 150°. What is the angle of the third sector?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "120°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26261,
+        "question_text": "I am facing North and turn 270° clockwise. Which direction am I facing now?",
+        "answer_type": "text_input",
+        "correct_answer": "West",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26262,
+        "question_text": "I am facing West and turn 180°. Which direction am I facing now?",
+        "answer_type": "text_input",
+        "correct_answer": "East",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26263,
+        "question_text": "Five equal angles meet at a point. What is the size of each angle?",
+        "answer_type": "text_input",
+        "correct_answer": "72",
+        "alternative_answer_1": "72°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26264,
+        "question_text": "Six equal angles meet at a point. What is the size of each angle?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26265,
+        "question_text": "Find the value of x if the angles on a straight line are 2x, x, and 90°.",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26266,
+        "question_text": "Find the value of x if the angles around a point are 3x, 2x, and 150°.",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "42°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26267,
+        "question_text": "What is the sum of the angles in a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26268,
+        "question_text": "How many degrees are in a full turn, such as the angles around a point?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "360 degrees",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26269,
+        "question_text": "Two angles on a straight line are in the ratio 1:5. What are the angles?",
+        "answer_type": "text_input",
+        "correct_answer": "30 and 150",
+        "alternative_answer_1": "30°, 150°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26270,
+        "question_text": "Three angles on a straight line are x, x, and 2x. What is the value of x?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26271,
+        "question_text": "Two straight lines cross. One angle is 35°. What is the sum of the two largest angles?",
+        "answer_type": "text_input",
+        "correct_answer": "290",
+        "alternative_answer_1": "290°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26272,
+        "question_text": "What is 360 - 90 - 80 - 70?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "120°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26273,
+        "question_text": "What is 180 - 45 - 45 - 45?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26274,
+        "question_text": "A pizza is cut into 8 equal slices. What is the angle of each slice at the centre?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26275,
+        "question_text": "A clock face is a full circle. What is the angle between the hands at 3 o'clock?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26276,
+        "question_text": "A clock face is a full circle. What is the angle between the hands at 6 o'clock?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26277,
+        "question_text": "Two angles around a point are 145° and 165°. What is the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26278,
+        "question_text": "The angle of a ski slope is 25 degrees from the horizontal ground. How many degrees from the vertical is it?",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "65°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26279,
+        "question_text": "What is the sum of a half turn and a quarter turn in degrees?",
+        "answer_type": "text_input",
+        "correct_answer": "270",
+        "alternative_answer_1": "270°",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26280,
+        "question_text": "The angles around a point are 2x, 3x, and 4x. What is the value of the largest angle?",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "160°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26281,
+        "question_text": "Two lines cross. The angle x is vertically opposite to an angle of 50°. The angle y is on a straight line with the 50° angle. Find the sum of x and y.",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26282,
+        "question_text": "I am facing North-East. I turn 180°. Which direction am I facing now?",
+        "answer_type": "text_input",
+        "correct_answer": "South-West",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26283,
+        "question_text": "I am facing South. I turn anti-clockwise until I am facing East. How many degrees did I turn?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26284,
+        "question_text": "The hands of a clock are at 12 and 5. What is the smaller angle between them?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26285,
+        "question_text": "The hands of a clock are at 12 and 8. What is the smaller angle between them?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "120°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26286,
+        "question_text": "An angle is 40°. What is the size of its reflex angle?",
+        "answer_type": "text_input",
+        "correct_answer": "320",
+        "alternative_answer_1": "320°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26287,
+        "question_text": "Three angles around a point are in the ratio 1:2:3. What is the size of the largest angle?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26288,
+        "question_text": "A slice of pizza is cut from a whole pizza. The angle of the slice is 45°. What is the angle of the remaining pizza?",
+        "answer_type": "text_input",
+        "correct_answer": "315",
+        "alternative_answer_1": "315°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26289,
+        "question_text": "Two angles on a straight line are 3x and 2x. What is the value of x?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "36°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26290,
+        "question_text": "A fan has 5 identical blades equally spaced. What is the angle between any two adjacent blades?",
+        "answer_type": "text_input",
+        "correct_answer": "72",
+        "alternative_answer_1": "72°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26291,
+        "question_text": "A ship is sailing North. It turns 135° clockwise. What is its new bearing?",
+        "answer_type": "text_input",
+        "correct_answer": "South-East",
+        "alternative_answer_1": "SE",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26292,
+        "question_text": "What is the sum of the interior angles of a rectangle?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "360 degrees",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26293,
+        "question_text": "A pie chart shows votes for three candidates. Candidate A has 180°, B has 90°. What angle does C have?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26294,
+        "question_text": "An angle x and an angle y are on a straight line. Angle x is 4 times bigger than angle y. Find angle x.",
+        "answer_type": "text_input",
+        "correct_answer": "144",
+        "alternative_answer_1": "144°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26295,
+        "question_text": "Find the value of x if angles around a point are x, x, 2x, 2x.",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26296,
+        "question_text": "Two lines cross. One angle is 15°. What is the sum of the two smaller angles?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26297,
+        "question_text": "A whole turn is 360°. What is one-eighth of a turn?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26298,
+        "question_text": "A straight line is 180°. What is one-third of a straight line angle?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26299,
+        "question_text": "I am facing West. I turn clockwise to face North-East. How many degrees have I turned?",
+        "answer_type": "text_input",
+        "correct_answer": "135",
+        "alternative_answer_1": "135°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26300,
+        "question_text": "If five angles meet on a straight line and they are all equal, what is the size of each angle?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "36°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26301,
+        "question_text": "Four angles at a point are in the ratio 1:2:3:4. What is the size of the smallest angle?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "36°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26302,
+        "question_text": "A cake is cut into 12 equal slices. What is the angle of one slice?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26303,
+        "question_text": "What is the sum of the angles around a point and the angles on a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "540",
+        "alternative_answer_1": "540°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 26304,
+        "question_text": "An angle is one-sixth of a full turn. How many degrees is it?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60°",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 474
+    },
+    {
+        "question_id": 27862,
+        "question_text": "What is the name for an angle that looks like the corner of a square?",
+        "answer_type": "text_input",
+        "correct_answer": "right angle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27863,
+        "question_text": "Is an angle of 45° smaller than or larger than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "smaller than",
+        "alternative_answer_1": "smaller",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27864,
+        "question_text": "Is an angle of 100° smaller than or larger than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "larger than",
+        "alternative_answer_1": "larger",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27865,
+        "question_text": "Two right angles make a half-turn. True or False?",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "TRUE",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27866,
+        "question_text": "If you are facing forwards and make a half-turn, which way are you facing now?",
+        "answer_type": "text_input",
+        "correct_answer": "backwards",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27867,
+        "question_text": "How many right angles are in a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "two",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27868,
+        "question_text": "Which is smaller: a right angle or an angle of 80°?",
+        "answer_type": "text_input",
+        "correct_answer": "an angle of 80°",
+        "alternative_answer_1": "80°",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27869,
+        "question_text": "Which is larger: a right angle or an angle of 95°?",
+        "answer_type": "text_input",
+        "correct_answer": "an angle of 95°",
+        "alternative_answer_1": "95°",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27870,
+        "question_text": "A pizza slice has a very sharp point. Is the angle at the point likely greater than or less than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "less than",
+        "alternative_answer_1": "less",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27871,
+        "question_text": "The hands of a clock show 3 o'clock. What kind of angle do they make?",
+        "answer_type": "text_input",
+        "correct_answer": "right angle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27872,
+        "question_text": "You turn a quarter of the way around a circle. How many right angles have you turned?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "one",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27873,
+        "question_text": "You turn half way around. How many right angles is that?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "two",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27874,
+        "question_text": "The corner of a book page is what type of angle?",
+        "answer_type": "text_input",
+        "correct_answer": "right angle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27875,
+        "question_text": "Is the angle inside a door that is only slightly open greater or less than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "less than",
+        "alternative_answer_1": "less",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27876,
+        "question_text": "Is the angle inside a fan that is wide open greater or less than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "greater than",
+        "alternative_answer_1": "greater",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27877,
+        "question_text": "How many right angles do you need to turn to face the way you started?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27878,
+        "question_text": "I turn two right angles. What kind of turn have I made?",
+        "answer_type": "text_input",
+        "correct_answer": "half-turn",
+        "alternative_answer_1": "a half turn",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27879,
+        "question_text": "Is an angle of 10° greater than or less than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "less than",
+        "alternative_answer_1": "less",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27880,
+        "question_text": "Is an angle of 120° greater than or less than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "greater than",
+        "alternative_answer_1": "greater",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27881,
+        "question_text": "If I stand facing North and turn one right angle clockwise, which direction am I facing?",
+        "answer_type": "text_input",
+        "correct_answer": "East",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27882,
+        "question_text": "If I stand facing East and turn one right angle clockwise, which direction am I facing?",
+        "answer_type": "text_input",
+        "correct_answer": "South",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27883,
+        "question_text": "If I stand facing North and make a half-turn, which direction am I facing?",
+        "answer_type": "text_input",
+        "correct_answer": "South",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27884,
+        "question_text": "What type of angle is smaller than a right angle?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27885,
+        "question_text": "An angle measures 90°. What is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "right angle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27886,
+        "question_text": "If you add two right angles together, you get a ...?",
+        "answer_type": "text_input",
+        "correct_answer": "straight line",
+        "alternative_answer_1": "half-turn",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27887,
+        "question_text": "An angle that is greater than a right angle is called...?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27888,
+        "question_text": "An angle that is less than a right angle is called...?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27889,
+        "question_text": "How many right angles make a complete turn?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27890,
+        "question_text": "How many degrees are in a half-turn?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27891,
+        "question_text": "How many degrees are in a complete turn?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "360°",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27892,
+        "question_text": "Classify an angle of 115°.",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27893,
+        "question_text": "Classify an angle of 30°.",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27894,
+        "question_text": "If I am facing North and turn three right angles clockwise, which way am I facing?",
+        "answer_type": "text_input",
+        "correct_answer": "West",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27895,
+        "question_text": "Three right angles make a three-quarters turn. True or False?",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "TRUE",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27896,
+        "question_text": "An angle is 92°. Is it acute or obtuse?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27897,
+        "question_text": "An angle is 88°. Is it acute or obtuse?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27898,
+        "question_text": "What kind of turn is made by turning two right angles?",
+        "answer_type": "text_input",
+        "correct_answer": "half-turn",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27899,
+        "question_text": "What kind of turn is made by turning four right angles?",
+        "answer_type": "text_input",
+        "correct_answer": "complete turn",
+        "alternative_answer_1": "full turn",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27900,
+        "question_text": "If I face West and turn two right angles, where am I facing?",
+        "answer_type": "text_input",
+        "correct_answer": "East",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27901,
+        "question_text": "How many degrees are in a three-quarters turn?",
+        "answer_type": "text_input",
+        "correct_answer": "270",
+        "alternative_answer_1": "270°",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27902,
+        "question_text": "An angle is identified as obtuse. Could it be 90°?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27903,
+        "question_text": "An angle is identified as acute. Could it be 90°?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27904,
+        "question_text": "A clock's hands are at 1 o'clock. Is the angle between them acute or obtuse?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27905,
+        "question_text": "A clock's hands are at 4 o'clock. Is the angle between them acute or obtuse?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27906,
+        "question_text": "What type of angle is 170°?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27907,
+        "question_text": "What type of angle is 5°?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27908,
+        "question_text": "How many right angles are in 180°?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "two",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27909,
+        "question_text": "How many right angles are in 360°?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27910,
+        "question_text": "If you add two acute angles, can the result be an obtuse angle?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27911,
+        "question_text": "If you add two acute angles, must the result be an obtuse angle?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27912,
+        "question_text": "What is the name for an angle of 270°?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex angle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27913,
+        "question_text": "How many degrees are there in one and a half right angles?",
+        "answer_type": "text_input",
+        "correct_answer": "135",
+        "alternative_answer_1": "135°",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27914,
+        "question_text": "I turn from facing North to facing South-East clockwise. What type of turn is this (acute, obtuse, or reflex)?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27915,
+        "question_text": "An angle is 20° less than a straight line. What type of angle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27916,
+        "question_text": "An angle is 10° more than a straight line. What type of angle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27917,
+        "question_text": "What is the sum of a right angle and an acute angle of 40°?",
+        "answer_type": "text_input",
+        "correct_answer": "130°",
+        "alternative_answer_1": "130",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27918,
+        "question_text": "What type of angle is the sum of a right angle and an acute angle of 40°?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27919,
+        "question_text": "Which is larger: three right angles or two straight lines?",
+        "answer_type": "text_input",
+        "correct_answer": "two straight lines",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27920,
+        "question_text": "If I face South and turn clockwise to face West, how many right angles have I turned?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "one",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27921,
+        "question_text": "A pie is cut into 8 equal slices. Is the angle of one slice acute or obtuse?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27922,
+        "question_text": "I turn 200°. What type of angle is this turn?",
+        "answer_type": "text_input",
+        "correct_answer": "reflex",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27923,
+        "question_text": "The difference between two angles is a right angle. One angle is 150°. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "60°",
+        "alternative_answer_1": "60",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27924,
+        "question_text": "A shape has an interior angle of 270°. Is this a convex or non-convex shape?",
+        "answer_type": "text_input",
+        "correct_answer": "non-convex",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27925,
+        "question_text": "What is half of a straight line angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90°",
+        "alternative_answer_1": "90",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27926,
+        "question_text": "How many 30° angles make a half-turn?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27927,
+        "question_text": "An angle is twice the size of a right angle. What is its size?",
+        "answer_type": "text_input",
+        "correct_answer": "180°",
+        "alternative_answer_1": "180",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27928,
+        "question_text": "An angle is three times the size of a right angle. What is its size?",
+        "answer_type": "text_input",
+        "correct_answer": "270°",
+        "alternative_answer_1": "270",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27929,
+        "question_text": "An angle of 135° is made of a right angle and what other angle?",
+        "answer_type": "text_input",
+        "correct_answer": "45°",
+        "alternative_answer_1": "45",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27930,
+        "question_text": "Which is smaller: a half-turn or an obtuse angle of 179°?",
+        "answer_type": "text_input",
+        "correct_answer": "179°",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27931,
+        "question_text": "The hands of a clock are at 5 o'clock. Is the angle acute, obtuse, or reflex?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27932,
+        "question_text": "The hands of a clock are at 8 o'clock. What is the smaller angle between them?",
+        "answer_type": "text_input",
+        "correct_answer": "120°",
+        "alternative_answer_1": "120",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27933,
+        "question_text": "What type of angle is the smaller angle between the clock hands at 8 o'clock?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27934,
+        "question_text": "What is the sum of one right angle, two right angles, and three right angles?",
+        "answer_type": "text_input",
+        "correct_answer": "540°",
+        "alternative_answer_1": "540",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27935,
+        "question_text": "An angle is 85°. Is it closer to a right angle or a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "a right angle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27936,
+        "question_text": "An angle is 175°. Is it closer to a right angle or a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "a straight line",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27937,
+        "question_text": "What is the sum of the interior angles of an equilateral triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "180°",
+        "alternative_answer_1": "180",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27938,
+        "question_text": "What is the size of one interior angle of an equilateral triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "60°",
+        "alternative_answer_1": "60",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27939,
+        "question_text": "In a right-angled isosceles triangle, what are the sizes of the three angles?",
+        "answer_type": "text_input",
+        "correct_answer": "90°, 45°, 45°",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27940,
+        "question_text": "What is the sum of the interior angles of a square?",
+        "answer_type": "text_input",
+        "correct_answer": "360°",
+        "alternative_answer_1": "360",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27941,
+        "question_text": "I turn 90°, then another 180°. What is the total turn in degrees?",
+        "answer_type": "text_input",
+        "correct_answer": "270°",
+        "alternative_answer_1": "270",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27942,
+        "question_text": "What kind of turn is 90° + 180°?",
+        "answer_type": "text_input",
+        "correct_answer": "three-quarters turn",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27943,
+        "question_text": "An angle is acute. Its size is a multiple of 10. If you double it, it becomes obtuse. What could the angle be?",
+        "answer_type": "text_input",
+        "correct_answer": "50, 60, 70, or 80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27944,
+        "question_text": "The hands of a clock show 6 o'clock. What type of angle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "straight angle",
+        "alternative_answer_1": "straight line",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27945,
+        "question_text": "You are facing South-West. You turn three right angles clockwise. Which direction are you facing now?",
+        "answer_type": "text_input",
+        "correct_answer": "South-East",
+        "alternative_answer_1": "SE",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27946,
+        "question_text": "Two angles in a triangle are 45° each. What kind of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "right-angled isosceles",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27947,
+        "question_text": "An angle is obtuse. Its size is a multiple of 20. If you halve it, it becomes acute. What could the angle be?",
+        "answer_type": "text_input",
+        "correct_answer": "100, 120, 140, 160",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27948,
+        "question_text": "In a rhombus, one angle is 100°. What are the other angles?",
+        "answer_type": "text_input",
+        "correct_answer": "100°, 80°, 80°",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27949,
+        "question_text": "What is the name for the angle that is formed by the sum of two right angles?",
+        "answer_type": "text_input",
+        "correct_answer": "straight angle",
+        "alternative_answer_1": "straight line",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27950,
+        "question_text": "An angle is 1 degree less than a half-turn. Is it obtuse or reflex?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27951,
+        "question_text": "The inside angle of a door opening is 135°. What is the size of the reflex angle on the outside?",
+        "answer_type": "text_input",
+        "correct_answer": "225°",
+        "alternative_answer_1": "225",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27952,
+        "question_text": "All the angles in a quadrilateral are equal. What type of angle are they?",
+        "answer_type": "text_input",
+        "correct_answer": "right angle",
+        "alternative_answer_1": "90°",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27953,
+        "question_text": "All the angles in an equilateral triangle are what type of angle?",
+        "answer_type": "text_input",
+        "correct_answer": "acute",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27954,
+        "question_text": "A straight line is split into two angles. One is twice the size of the other. What are the two angles?",
+        "answer_type": "text_input",
+        "correct_answer": "60° and 120°",
+        "alternative_answer_1": "60, 120",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27955,
+        "question_text": "An angle is exactly halfway between a right angle and a straight line. How many degrees is it?",
+        "answer_type": "text_input",
+        "correct_answer": "135",
+        "alternative_answer_1": "135°",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27956,
+        "question_text": "I turn 270° clockwise. What is this turn equivalent to, turning anti-clockwise?",
+        "answer_type": "text_input",
+        "correct_answer": "90°",
+        "alternative_answer_1": "90",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27957,
+        "question_text": "The five angles around a point are all equal. What is the size of each angle?",
+        "answer_type": "text_input",
+        "correct_answer": "72°",
+        "alternative_answer_1": "72",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27958,
+        "question_text": "What type of angle is one angle of a regular pentagon?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27959,
+        "question_text": "What type of angle is one angle of a regular hexagon?",
+        "answer_type": "text_input",
+        "correct_answer": "obtuse",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27960,
+        "question_text": "A clock shows 9 o'clock. What is the size of the smaller angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90°",
+        "alternative_answer_1": "90",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    },
+    {
+        "question_id": 27961,
+        "question_text": "A clock shows 9 o'clock. What is the size of the reflex angle?",
+        "answer_type": "text_input",
+        "correct_answer": "270°",
+        "alternative_answer_1": "270",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 472
+    }
+]

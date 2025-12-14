@@ -1,0 +1,2002 @@
+[
+    {
+        "question_id": 12896,
+        "question_text": "Which formula would you use for the amount of paint needed for a rectangular wall: Area or Volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Area",
+        "alternative_answer_1": "area",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 12899,
+        "question_text": "A rectangular book cover has an area of 300 cm². You know its length is 20cm. Can you use a formula to find its width?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 14222,
+        "question_text": "Which formula is used to find the amount of space a refrigerator takes up on the kitchen floor: Area or Volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Area",
+        "alternative_answer_1": "area",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 14225,
+        "question_text": "The area of a rectangular poster is 500 cm². If you know its width is 20cm, what calculation will give you its length?",
+        "answer_type": "text_input",
+        "correct_answer": "500 / 20",
+        "alternative_answer_1": "500 divided by 20",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 20931,
+        "question_text": "How many metres are in 3 kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "3000",
+        "alternative_answer_1": "3,000m",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20932,
+        "question_text": "A bag of flour weighs 2 kilograms. How many grams is that?",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "2,000g",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20933,
+        "question_text": "A bottle holds 4 litres of water. What is its capacity in millilitres?",
+        "answer_type": "text_input",
+        "correct_answer": "4000",
+        "alternative_answer_1": "4,000ml",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20934,
+        "question_text": "A path is 5000 metres long. How many kilometres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5km",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20935,
+        "question_text": "A parcel weighs 6000 grams. How many kilograms does it weigh?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6kg",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20936,
+        "question_text": "A container holds 7000 millilitres of liquid. How many litres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "7L",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20937,
+        "question_text": "A fence is 2 metres long. How many centimetres is that?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "200cm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20938,
+        "question_text": "A book is 300cm wide when opened flat. How many metres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3m",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20939,
+        "question_text": "Convert a length of 15cm into millimetres.",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20940,
+        "question_text": "An insect is 20mm long. How many centimetres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2cm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20941,
+        "question_text": "How many grams are in 8 kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "8000",
+        "alternative_answer_1": "8,000g",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20942,
+        "question_text": "How many millilitres are in 9 litres?",
+        "answer_type": "text_input",
+        "correct_answer": "9000",
+        "alternative_answer_1": "9,000ml",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20943,
+        "question_text": "How many kilometres are in 10,000 metres?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10km",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20944,
+        "question_text": "How many kilograms are in 10,000 grams?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10kg",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20945,
+        "question_text": "A table is 4 metres long. What is its length in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "400cm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20946,
+        "question_text": "How many millimetres are in 5 centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50mm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20947,
+        "question_text": "A road is 1km long. How many metres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1,000m",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20948,
+        "question_text": "A weight is 1kg. How many grams is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1,000g",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20949,
+        "question_text": "A bottle holds 1L. How many millilitres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1,000ml",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20950,
+        "question_text": "A wall is 5m high. What is its height in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "500cm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20951,
+        "question_text": "An eraser is 4cm long. What is its length in mm?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40mm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20952,
+        "question_text": "What is 8000 metres in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8km",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20953,
+        "question_text": "What is 9000 grams in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9kg",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20954,
+        "question_text": "What is 600 centimetres in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6m",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20955,
+        "question_text": "What is 70 millimetres in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "7cm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20956,
+        "question_text": "A plank of wood is 1.5m long. How many centimetres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150cm",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20957,
+        "question_text": "A bag of apples weighs 1.2kg. What is this weight in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "1200",
+        "alternative_answer_1": "1,200g",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20958,
+        "question_text": "A jug holds 2.5 litres of water. What is its capacity in millilitres?",
+        "answer_type": "text_input",
+        "correct_answer": "2500",
+        "alternative_answer_1": "2,500ml",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20959,
+        "question_text": "A running race is 1500 metres long. What is this distance in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "1.5km",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20960,
+        "question_text": "A book weighs 800g. What is its weight in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "0.8",
+        "alternative_answer_1": "0.8kg",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20961,
+        "question_text": "A glass holds 250ml of juice. What is this capacity in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.25",
+        "alternative_answer_1": "0.25L",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20962,
+        "question_text": "A person's height is 175cm. How tall are they in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.75",
+        "alternative_answer_1": "1.75m",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20963,
+        "question_text": "A line is 45mm long. What is this length in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "4.5",
+        "alternative_answer_1": "4.5cm",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20964,
+        "question_text": "Convert 0.5 kilometres into metres.",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "500m",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20965,
+        "question_text": "A parcel weighs 2.1kg. What is this weight in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "2100",
+        "alternative_answer_1": "2,100g",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20966,
+        "question_text": "A carton contains 0.75 litres of milk. How many millilitres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "750",
+        "alternative_answer_1": "750ml",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20967,
+        "question_text": "A bridge is 800m long. What is this distance in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.8",
+        "alternative_answer_1": "0.8km",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20968,
+        "question_text": "A small bag of crisps weighs 35g. What is this weight in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "0.035",
+        "alternative_answer_1": "0.035kg",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20969,
+        "question_text": "A bottle holds 330ml. What is this volume in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.33",
+        "alternative_answer_1": "0.33L",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20970,
+        "question_text": "Convert 1.05 metres to centimetres.",
+        "answer_type": "text_input",
+        "correct_answer": "105",
+        "alternative_answer_1": "105cm",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20971,
+        "question_text": "Convert 6mm into centimetres.",
+        "answer_type": "text_input",
+        "correct_answer": "0.6",
+        "alternative_answer_1": "0.6cm",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20972,
+        "question_text": "How many grams are in 0.2 kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "200g",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20973,
+        "question_text": "How many millilitres are in 1.95 litres?",
+        "answer_type": "text_input",
+        "correct_answer": "1950",
+        "alternative_answer_1": "1,950ml",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20974,
+        "question_text": "A walk is 4.8km long. How many metres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "4800",
+        "alternative_answer_1": "4,800m",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20975,
+        "question_text": "A baby weighs 3400g at birth. What is this weight in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "3.4",
+        "alternative_answer_1": "3.4kg",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20976,
+        "question_text": "A car's engine is 1.6 litres. What is this in millilitres?",
+        "answer_type": "text_input",
+        "correct_answer": "1600",
+        "alternative_answer_1": "1,600ml",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20981,
+        "question_text": "Convert 2.15 kilometres into metres.",
+        "answer_type": "text_input",
+        "correct_answer": "2150",
+        "alternative_answer_1": "2,150m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20982,
+        "question_text": "How many kilometres is 350 metres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.35",
+        "alternative_answer_1": "0.35km",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20983,
+        "question_text": "A piece of wood is 1.8 metres long. How many millimetres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1800",
+        "alternative_answer_1": "1,800mm",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20984,
+        "question_text": "An insect is 8mm long. What is this length in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.008",
+        "alternative_answer_1": "0.008m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20985,
+        "question_text": "What is the total weight in kilograms of three items weighing 1.2kg, 800g, and 1.5kg?",
+        "answer_type": "text_input",
+        "correct_answer": "3.5",
+        "alternative_answer_1": "3.5kg",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20986,
+        "question_text": "A tank holds 50 litres. You remove 12,500ml. How many litres are left?",
+        "answer_type": "text_input",
+        "correct_answer": "37.5",
+        "alternative_answer_1": "37.5L",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20987,
+        "question_text": "A runner completes a 10km race. They also did a 1500m warm-up. What was the total distance in km?",
+        "answer_type": "text_input",
+        "correct_answer": "11.5",
+        "alternative_answer_1": "11.5km",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20988,
+        "question_text": "A book weighs 0.8kg. The packaging weighs 150g. What is the total postage weight in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "0.95",
+        "alternative_answer_1": "0.95kg",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20989,
+        "question_text": "A bottle of shampoo is 0.4L. A smaller bottle is 250ml. What is the difference in capacity in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.15",
+        "alternative_answer_1": "0.15L",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20990,
+        "question_text": "A stack of 100 coins is 22cm high. What is the thickness of one coin in millimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "2.2",
+        "alternative_answer_1": "2.2mm",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20991,
+        "question_text": "Convert 0.02 kilometres into centimetres.",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "2,000cm",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20992,
+        "question_text": "A medicine dose is 5ml. A bottle contains 0.1 litres. How many doses are in the bottle?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20993,
+        "question_text": "What is the sum of 1.8m, 120cm, and 500mm in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "3.5",
+        "alternative_answer_1": "3.5m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20994,
+        "question_text": "A bag of sugar weighs 1kg. A baker uses 350g. How many kilograms are left?",
+        "answer_type": "text_input",
+        "correct_answer": "0.65",
+        "alternative_answer_1": "0.65kg",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20995,
+        "question_text": "You pour 0.6L from a 2-litre bottle. How many millilitres are left?",
+        "answer_type": "text_input",
+        "correct_answer": "1400",
+        "alternative_answer_1": "1,400ml",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20996,
+        "question_text": "How many 20cm pieces of ribbon can be cut from a 5-metre roll?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20997,
+        "question_text": "What is 450 grams as a decimal fraction of a kilogram?",
+        "answer_type": "text_input",
+        "correct_answer": "0.45",
+        "alternative_answer_1": "0.45kg",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20998,
+        "question_text": "A water tank holds 250 litres. 75,000ml are used. How many litres remain?",
+        "answer_type": "text_input",
+        "correct_answer": "175",
+        "alternative_answer_1": "175L",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 20999,
+        "question_text": "A builder buys 1 tonne (1000kg) of sand. He uses 450kg. How many kilograms are left?",
+        "answer_type": "text_input",
+        "correct_answer": "550",
+        "alternative_answer_1": "550kg",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21000,
+        "question_text": "Convert 1 minute and 15 seconds into hours as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.02083",
+        "alternative_answer_1": "about 0.02",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21001,
+        "question_text": "Convert 1 hour and 15 minutes into minutes.",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "75 minutes",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21002,
+        "question_text": "A lorry travels 0.8km. How many centimetres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "80000",
+        "alternative_answer_1": "80,000cm",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21003,
+        "question_text": "How many grams are in 3.05 kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "3050",
+        "alternative_answer_1": "3,050g",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21004,
+        "question_text": "What is 50 centilitres in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.5",
+        "alternative_answer_1": "0.5L",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21007,
+        "question_text": "A car has a fuel efficiency of 15 km per litre. How many metres can it travel on 1 millilitre of fuel?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 metres",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21008,
+        "question_text": "A box has a volume of 0.05 cubic metres. How many litres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50 litres",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21009,
+        "question_text": "Convert a speed of 90 km/h into metres per second.",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "25 m/s",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21010,
+        "question_text": "A water pipe has a flow rate of 0.2 litres per second. How many cubic metres of water flow through it in one hour?",
+        "answer_type": "text_input",
+        "correct_answer": "0.72",
+        "alternative_answer_1": "0.72 m³",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21011,
+        "question_text": "What is the sum of 0.01km, 25m and 3500cm in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "65m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21012,
+        "question_text": "What is the sum of 0.02km, 15m and 4500cm in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "80m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21013,
+        "question_text": "A piece of metal has a density of 8 g/cm³. What is its density in kg/m³?",
+        "answer_type": "text_input",
+        "correct_answer": "8000",
+        "alternative_answer_1": "8,000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21014,
+        "question_text": "A map has a scale where 1cm represents 500m. A distance on the map is 8cm. What is the actual distance in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4km",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21015,
+        "question_text": "A swimming pool measures 25m x 10m x 2m. How many litres of water does it hold?",
+        "answer_type": "text_input",
+        "correct_answer": "500000",
+        "alternative_answer_1": "500,000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21016,
+        "question_text": "A hectare is 10,000 square metres. A field is 0.5km by 0.2km. How many hectares is it?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10 hectares",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21017,
+        "question_text": "A car's speed is 50 metres per second. Is this faster than the motorway speed limit of 70 mph? (1 mile ≈ 1609m)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21018,
+        "question_text": "Convert 1 cubic metre into millilitres.",
+        "answer_type": "text_input",
+        "correct_answer": "1000000",
+        "alternative_answer_1": "1,000,000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21019,
+        "question_text": "A builder needs 0.75 cubic metres of concrete. He can mix 50 litres at a time. How many mixes will he need to make?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21020,
+        "question_text": "A piece of paper is 0.1mm thick. How high would a stack of one million pieces of paper be, in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21021,
+        "question_text": "A cyclist travels at 30 km/h. How many metres do they travel in 10 seconds?",
+        "answer_type": "text_input",
+        "correct_answer": "83.33",
+        "alternative_answer_1": "About 83",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21022,
+        "question_text": "A water butt has a capacity of 200 litres. A roof collects rainwater at a rate of 0.5 litres per square metre per mm of rain. The roof area is 80 m². How many mm of rain must fall to fill the butt?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5mm",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21023,
+        "question_text": "A light travels at 300,000 km per second. How far does it travel in a nanosecond (one billionth of a second)?",
+        "answer_type": "text_input",
+        "correct_answer": "0.3m",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21024,
+        "question_text": "A box is 0.8m x 50cm x 300mm. What is its volume in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "120L",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21025,
+        "question_text": "A price for fabric is £5 per square metre. What is the price per square centimetre in pence?",
+        "answer_type": "text_input",
+        "correct_answer": "0.05",
+        "alternative_answer_1": "0.05p",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21026,
+        "question_text": "What is one square kilometre in hectares?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100 hectares",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21027,
+        "question_text": "A tonne is 1000kg. The density of water is 1000 kg/m³. What is the weight of 250ml of water in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "250g",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21028,
+        "question_text": "How many 200ml cups can you fill from a 0.1 cubic metre container of water?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "Five hundred",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21029,
+        "question_text": "A pipe's diameter is 5cm. Water flows through it at 2m/s. What is the flow rate in litres per minute? (Use π ≈ 3)",
+        "answer_type": "text_input",
+        "correct_answer": "2250",
+        "alternative_answer_1": "2,250",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 21030,
+        "question_text": "A pipe has a cross-sectional area of 10cm². Water flows at 2m/s. What is the flow rate in litres per minute?",
+        "answer_type": "text_input",
+        "correct_answer": "1200",
+        "alternative_answer_1": "1,200",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 22309,
+        "question_text": "Which is a metric unit for length: a metre or a yard?",
+        "answer_type": "text_input",
+        "correct_answer": "metre",
+        "alternative_answer_1": "m",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22310,
+        "question_text": "Which is an imperial unit for mass: a gram or an ounce?",
+        "answer_type": "text_input",
+        "correct_answer": "ounce",
+        "alternative_answer_1": "oz",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22311,
+        "question_text": "Which is a metric unit for volume: a millilitre or a fluid ounce?",
+        "answer_type": "text_input",
+        "correct_answer": "millilitre",
+        "alternative_answer_1": "ml",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22312,
+        "question_text": "Is an inch (unit of length) part of the metric or imperial system?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22313,
+        "question_text": "The pound (lb) is used for weight. Is it a metric or an imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22314,
+        "question_text": "Pints are used to measure capacity. Are pints a metric or imperial unit of measurement?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22315,
+        "question_text": "Which is longer: 2 inches or 5 centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "2 inches",
+        "alternative_answer_1": "2 inch",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22316,
+        "question_text": "Which is heavier: 2 kilograms or 4 pounds?",
+        "answer_type": "text_input",
+        "correct_answer": "2 kilograms",
+        "alternative_answer_1": "2kg",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22317,
+        "question_text": "Which holds more: 2 litres or 3 pints?",
+        "answer_type": "text_input",
+        "correct_answer": "2 litres",
+        "alternative_answer_1": "2 litre",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22318,
+        "question_text": "When looking at a ruler marked in centimetres and inches, which unit typically has smaller divisions or markings?",
+        "answer_type": "text_input",
+        "correct_answer": "Centimetres",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22319,
+        "question_text": "When you buy fuel for a car, you can choose between litres or gallons. Which is the metric unit?",
+        "answer_type": "text_input",
+        "correct_answer": "litres",
+        "alternative_answer_1": "litre",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22320,
+        "question_text": "You weigh yourself at the gym in kilograms. Is this a metric or imperial measurement?",
+        "answer_type": "text_input",
+        "correct_answer": "Metric",
+        "alternative_answer_1": "metric",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22321,
+        "question_text": "If a recipe calls for 2 pounds of flour, is pounds a metric or an imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22322,
+        "question_text": "Which is shorter: 1 metre or 1 yard?",
+        "answer_type": "text_input",
+        "correct_answer": "1 yard",
+        "alternative_answer_1": "Yard",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22323,
+        "question_text": "Which holds less: a 1-litre bottle or a 2-pint bottle of milk?",
+        "answer_type": "text_input",
+        "correct_answer": "1-litre bottle",
+        "alternative_answer_1": "1 litre",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22324,
+        "question_text": "In the UK, when measuring a person's height, which unit is more commonly used: metres (metric) or feet (imperial)?",
+        "answer_type": "text_input",
+        "correct_answer": "Feet",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22325,
+        "question_text": "When you see a speed limit sign in mph (miles per hour) in the UK, is miles a metric or imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22326,
+        "question_text": "Which is a metric unit: a stone or a kilogram?",
+        "answer_type": "text_input",
+        "correct_answer": "kilogram",
+        "alternative_answer_1": "kg",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22327,
+        "question_text": "Which is an imperial unit: a metre or a foot?",
+        "answer_type": "text_input",
+        "correct_answer": "foot",
+        "alternative_answer_1": "ft",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22328,
+        "question_text": "Which is a shorter distance: 2 kilometres or 1 mile?",
+        "answer_type": "text_input",
+        "correct_answer": "1 mile",
+        "alternative_answer_1": "one mile",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22329,
+        "question_text": "When measuring a TV screen in inches, is inches a metric or imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22330,
+        "question_text": "When measuring a baby's weight in pounds and ounces, are these considered metric or imperial units?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22331,
+        "question_text": "Pints of beer are served in pubs. Is pint a metric or imperial measure?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22332,
+        "question_text": "When measuring a small object, which unit provides a more precise reading: centimetres or inches?",
+        "answer_type": "text_input",
+        "correct_answer": "Centimetres",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22333,
+        "question_text": "Which is a greater weight: 5 kilograms or 10 pounds?",
+        "answer_type": "text_input",
+        "correct_answer": "5 kilograms",
+        "alternative_answer_1": "5 kg",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22334,
+        "question_text": "1 inch is approximately 2.5cm. How many centimetres are in 2 inches?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22335,
+        "question_text": "1 kilogram is about 2.2 pounds. A dog weighs 10kg. What is its approximate weight in pounds?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "22 lbs",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22336,
+        "question_text": "1 litre is about 1.76 pints. You buy 2 litres of milk. Approximately how many pints is this?",
+        "answer_type": "text_input",
+        "correct_answer": "3.52",
+        "alternative_answer_1": "About 3.5 pints",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22337,
+        "question_text": "A sign says a town is 5 miles away. If 1 mile is about 1.6km, how far is the town in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8km",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22338,
+        "question_text": "If a person is 6 feet tall and 1 foot is approximately 30cm, what is their height in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22339,
+        "question_text": "A car's petrol tank holds 10 gallons. If 1 gallon is about 4.5 litres, what is the tank's approximate capacity in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45 litres",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22340,
+        "question_text": "Which is heavier: a 2kg bag of sugar or a 4-pound bag of apples? (1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "A 2kg bag of sugar",
+        "alternative_answer_1": "2kg bag",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22341,
+        "question_text": "Which is a longer distance: a 10-mile run or a 15-kilometre run? (1 mile ≈ 1.6 km)",
+        "answer_type": "text_input",
+        "correct_answer": "A 10-mile run",
+        "alternative_answer_1": "10 miles",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22342,
+        "question_text": "A ruler is 30cm long. Approximately how many inches is this? (1 inch ≈ 2.5cm)",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12 inches",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22343,
+        "question_text": "A parcel weighs 11 pounds. What is its approximate weight in kilograms? (1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5kg",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22344,
+        "question_text": "You need 4 pints of milk for a recipe. How many 1-litre cartons do you need to buy? (1 litre ≈ 1.76 pints)",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 cartons",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22345,
+        "question_text": "A road is 80km long. Approximately how many miles is this? (1 mile ≈ 1.6 km)",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50 miles",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22346,
+        "question_text": "A person is 180cm tall. Approximately how many feet is this? (1 foot ≈ 30cm)",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6 feet",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22347,
+        "question_text": "A tank holds 90 litres. Approximately how many gallons is this? (1 gallon ≈ 4.5 litres)",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20 gallons",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22348,
+        "question_text": "How many centimetres are in 6 inches? (1 inch ≈ 2.5cm)",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22349,
+        "question_text": "A suitcase weighs 44 pounds. What is its approximate weight in kilograms? (1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20kg",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22350,
+        "question_text": "A bottle holds 1 pint of liquid. If 1 litre ≈ 1.76 pints, is the bottle more or less than half a litre?",
+        "answer_type": "text_input",
+        "correct_answer": "More",
+        "alternative_answer_1": "more",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22351,
+        "question_text": "A distance is 32km. What is this in miles? (1 mile ≈ 1.6 km)",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20 miles",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22352,
+        "question_text": "How many feet are in 90cm? (1 foot ≈ 30cm)",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 feet",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22353,
+        "question_text": "How many litres are in 2 gallons? (1 gallon ≈ 4.5 litres)",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9 litres",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22354,
+        "question_text": "Which is shorter: 50 inches or 120cm? (1 inch ≈ 2.5cm)",
+        "answer_type": "text_input",
+        "correct_answer": "120cm",
+        "alternative_answer_1": "120 cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22355,
+        "question_text": "Which is lighter: 2 stone or 25kg? (1 stone ≈ 6.35 kg)",
+        "answer_type": "text_input",
+        "correct_answer": "2 stone",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22356,
+        "question_text": "A recipe requires 4 ounces (oz) of sugar. If 1 oz is about 28g, how many grams do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "112",
+        "alternative_answer_1": "112g",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22359,
+        "question_text": "A car gets 40 miles per gallon. If 1 gallon is approximately 4.5 litres, what is its fuel efficiency in miles per litre?",
+        "answer_type": "text_input",
+        "correct_answer": "8.89",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22360,
+        "question_text": "If a room is 10 feet long, what is its approximate length in metres? (Use 1 foot ≈ 30.5cm)",
+        "answer_type": "text_input",
+        "correct_answer": "3.05",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22361,
+        "question_text": "A person weighs 11 stone. What is their approximate weight in kg? (1 stone = 14 lbs, 1 kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "70kg",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22362,
+        "question_text": "If something costs $50 per square foot, approximately what is the price per square metre? (Use 1 metre ≈ 3.3 feet)",
+        "answer_type": "text_input",
+        "correct_answer": "544.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22363,
+        "question_text": "If a speed is 60 miles per hour, convert this to kilometres per hour. (Use 1 mile ≈ 1.6 km)",
+        "answer_type": "text_input",
+        "correct_answer": "96",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22364,
+        "question_text": "Which is a faster speed: 70 mph or 120 km/h? (1 mile ≈ 1.6 km)",
+        "answer_type": "text_input",
+        "correct_answer": "120 km/h",
+        "alternative_answer_1": "120 kilometres per hour",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22365,
+        "question_text": "A US recipe needs 120g of flour. A UK recipe needs 4 ounces (1 oz ≈ 28g). Which recipe requires more flour?",
+        "answer_type": "text_input",
+        "correct_answer": "The US recipe",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22366,
+        "question_text": "Compare 2 metres with 6 feet 6 inches. Which length is greater? (Use 1 foot = 12 inches, 1 inch ≈ 2.5cm)",
+        "answer_type": "text_input",
+        "correct_answer": "The 2 metre plank",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22367,
+        "question_text": "Convert 1 acre into square metres, using the approximation 1 acre ≈ 4047 m².",
+        "answer_type": "text_input",
+        "correct_answer": "4047",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22368,
+        "question_text": "A car's petrol tank holds 12 gallons. If 1 gallon ≈ 4.5 litres and petrol costs £1.40 per litre, how much does it cost to fill the tank?",
+        "answer_type": "text_input",
+        "correct_answer": "75.6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22369,
+        "question_text": "A car's speed limit is 50 mph. Estimate this speed in metres per second (m/s). (Use 1 mile ≈ 1600m)",
+        "answer_type": "text_input",
+        "correct_answer": "22.2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22370,
+        "question_text": "You have a 2-litre bottle of water. You drink 2 pints. How much is left in litres? (1 litre ≈ 1.76 pints)",
+        "answer_type": "text_input",
+        "correct_answer": "0.86",
+        "alternative_answer_1": "About 0.9 litres",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22371,
+        "question_text": "A package weighs 4 pounds and 8 ounces. What is its weight in kilograms? (1 kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "2.05",
+        "alternative_answer_1": "About 2kg",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22372,
+        "question_text": "If 1 metre ≈ 39 inches, approximately how many square inches are in 1 square metre?",
+        "answer_type": "text_input",
+        "correct_answer": "1521",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22373,
+        "question_text": "A cyclist travels at 20 mph. Convert 50km to miles, then calculate the time to travel this distance. (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "1.56 hours",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22374,
+        "question_text": "If a box has a volume of 2 cubic feet, what is its volume approximately in litres? (Use 1 foot ≈ 30cm and 1 litre = 1000cm³)",
+        "answer_type": "text_input",
+        "correct_answer": "54",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22375,
+        "question_text": "Which is a larger volume: 2 cubic metres or 70 cubic feet?",
+        "answer_type": "text_input",
+        "correct_answer": "2 cubic metres",
+        "alternative_answer_1": "2m^3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22376,
+        "question_text": "A weight is 15 pounds. A length is 10 inches. Can you convert this to kg/cm?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "This cannot be calculated",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22377,
+        "question_text": "Convert a distance of 50km into miles. (Use 1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "31.25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22378,
+        "question_text": "Your height is 5 feet 8 inches. What is your height in metres? (1 inch ≈ 2.54cm)",
+        "answer_type": "text_input",
+        "correct_answer": "1.73",
+        "alternative_answer_1": "1.73m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22379,
+        "question_text": "Which has a greater area: a circle with a 12-inch diameter or a 1-foot square?",
+        "answer_type": "text_input",
+        "correct_answer": "1-foot square",
+        "alternative_answer_1": "the square",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22380,
+        "question_text": "The temperature is 20°C. Convert this to Fahrenheit using F = (C × 9/5) + 32.",
+        "answer_type": "text_input",
+        "correct_answer": "68",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22381,
+        "question_text": "Which contains more liquid: a US quart (0.95 litres) or 2 pints (UK)? (1 UK pint = 568ml)",
+        "answer_type": "text_input",
+        "correct_answer": "2 pints (UK)",
+        "alternative_answer_1": "2 pints",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22382,
+        "question_text": "A suitcase is 50 pounds. The airline limit is 23 kilograms. Is the suitcase over the limit? (Use 1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 22383,
+        "question_text": "Compare a 100m rugby pitch to a 100-yard US football field. Which is longer? (Use 1 yard = 0.9144m)",
+        "answer_type": "text_input",
+        "correct_answer": "The rugby pitch",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29427,
+        "question_text": "A bag of sugar weighs 2.2 pounds. How many kg is this? (1kg = 2.2lb)",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1kg",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 29635,
+        "question_text": "A journey is 50 miles. You complete the first 40km. How many miles are left? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "25 miles",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29636,
+        "question_text": "A race is 100km. A runner covers 30 miles. How many km does he have left to run? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "52",
+        "alternative_answer_1": "52 km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29637,
+        "question_text": "Which is a faster speed: 60 mph or 100 km/h? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "100 km/h",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29638,
+        "question_text": "A road sign shows a town is 15 miles away. How far is that in km? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "24km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29639,
+        "question_text": "A map uses a scale where 1cm represents 10 miles. If two towns are 8cm apart on the map, how far apart are they in km? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "128",
+        "alternative_answer_1": "128km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29640,
+        "question_text": "A car's odometer shows 100,000 miles. How many km is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "160000",
+        "alternative_answer_1": "160,000km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29641,
+        "question_text": "The speed limit is 70 mph. What is this in km/h? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "112",
+        "alternative_answer_1": "112km/h",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29642,
+        "question_text": "A journey is 120km. You have 30 miles left to go. How far have you travelled in km? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "72",
+        "alternative_answer_1": "72km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29643,
+        "question_text": "A race is 200 miles long. How many km is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "320",
+        "alternative_answer_1": "320km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29644,
+        "question_text": "A river is 250km long. How many miles is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "156.25",
+        "alternative_answer_1": "156.25 miles",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29645,
+        "question_text": "Which is faster: 80 km/h or 50 mph? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "They are the same",
+        "alternative_answer_1": "Equal",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29646,
+        "question_text": "A flight covers 1,200 miles. How many km is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "1920",
+        "alternative_answer_1": "1920km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29647,
+        "question_text": "A car has driven 80,000 km. How many miles is that? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "50000",
+        "alternative_answer_1": "50,000 miles",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29648,
+        "question_text": "A cyclist rides 10 miles. Her friend rides 15 km. Who rode further? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "The cyclist",
+        "alternative_answer_1": "10 miles",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29649,
+        "question_text": "A map has a scale of 1:100,000. If a distance on the map is 5cm, how many km is the real distance?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29650,
+        "question_text": "A train travels at 120 mph. How many km/h is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "192",
+        "alternative_answer_1": "192km/h",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29651,
+        "question_text": "A GPS shows a destination is 25 miles away. You have 30km of fuel. Is that enough? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29652,
+        "question_text": "A river is 30 miles long. What is its length in km? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "48",
+        "alternative_answer_1": "48km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29653,
+        "question_text": "A marathon is 26.2 miles. How many km is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "41.92",
+        "alternative_answer_1": "41.92km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29654,
+        "question_text": "A car uses 1 litre of fuel per 10km. How many litres will it use for a 50-mile journey? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8 litres",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29655,
+        "question_text": "How many km is 1 mile and a half? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "2.4",
+        "alternative_answer_1": "2.4km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29656,
+        "question_text": "A building is 0.5 miles tall. What is its height in km? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "0.8",
+        "alternative_answer_1": "0.8km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29657,
+        "question_text": "Which is a longer distance: 10 miles or 16 km? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "They are the same",
+        "alternative_answer_1": "Equal",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29658,
+        "question_text": "A car has a speed limit of 100 km/h. How many miles per hour is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "62.5",
+        "alternative_answer_1": "62.5mph",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29659,
+        "question_text": "A race is 20 miles. How many km is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "32km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 512
+    },
+    {
+        "question_id": 29954,
+        "question_text": "A journey takes 1 hour and 30 minutes. How many minutes is that?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 29955,
+        "question_text": "A TV show is 90 minutes long. How many hours is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5 hours",
+        "alternative_answer_1": "1.5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 509
+    },
+    {
+        "question_id": 29956,
+        "question_text": "A car journey is 150km. How many miles is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "93.75",
+        "alternative_answer_1": "93.75 miles",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 509
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 17346,
+        "question_text": "For every 1 red sweet, there are 2 green sweets. If there are 3 red sweets, how many green sweets are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17347,
+        "question_text": "The ratio of cats to dogs is 1:3. If there is 1 cat, how many dogs are there?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17348,
+        "question_text": "In a mix, the ratio of juice to water is 1:4. If you use 2 litres of juice, how many litres of water do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17349,
+        "question_text": "For every 5 pencils, there is 1 pen. If you have 1 pen, how many pencils do you have?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17350,
+        "question_text": "The ratio of apples to oranges is 1:5. If there are 4 apples, how many oranges are there?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17351,
+        "question_text": "For every book, there are 3 magazines. If there are 5 books, how many magazines are there?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17352,
+        "question_text": "The ratio of boys to girls is 2:1. If there is 1 girl, how many boys are there?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17353,
+        "question_text": "In a pattern, for every 1 square there are 4 triangles. If there are 2 squares, how many triangles are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17354,
+        "question_text": "The ratio of cars to buses is 10:1. If there is 1 bus, how many cars are there?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17355,
+        "question_text": "For every 1 adult, there are 6 children. If there are 3 adults, how many children are there?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17356,
+        "question_text": "The ratio of flour to sugar is 3:1. If you use 1 cup of sugar, how many cups of flour do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17357,
+        "question_text": "For every 1 teacher, there are 10 students. If there are 4 teachers, how many students are there?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17358,
+        "question_text": "The ratio of wheels to cars is 4:1. If you have 1 car, how many wheels does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17359,
+        "question_text": "In a zoo, the ratio of lions to tigers is 1:2. If there are 5 lions, how many tigers are there?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17360,
+        "question_text": "For every fork, there are 2 spoons. If you have 10 forks, how many spoons are there?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17361,
+        "question_text": "The ratio of windows to doors is 5:1. If a house has 2 doors, how many windows does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17362,
+        "question_text": "For every goal, a team gets 3 points. If they score 4 goals, how many points do they get?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17363,
+        "question_text": "The ratio of red paint to blue paint is 1:4. If you use 1 litre of red, how much blue do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17364,
+        "question_text": "For every 1 cake, you need 3 eggs. If you want to make 5 cakes, how many eggs do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17365,
+        "question_text": "The ratio of vowels to consonants in a word is 1:2. If there are 5 vowels, how many consonants are there?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17366,
+        "question_text": "For every 2 red bricks, there is 1 yellow brick. If you have 1 yellow brick, how many red bricks are there?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17367,
+        "question_text": "The ratio of bikes to cars is 1:5. If there are 10 bikes, how many cars are there?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17368,
+        "question_text": "For every 6 plates, there is 1 bowl. If there is 1 bowl, how many plates are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17369,
+        "question_text": "The ratio of roses to daisies is 1:3. If there are 8 roses, how many daisies are there?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17370,
+        "question_text": "For every 1 blue marble, there are 7 green marbles. If there are 2 blue marbles, how many green ones are there?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17371,
+        "question_text": "Share 12 sweets in the ratio 3:1.",
+        "answer_type": "text_input",
+        "correct_answer": "9 and 3",
+        "alternative_answer_1": "9, 3",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17372,
+        "question_text": "The ratio of boys to girls in a class is 2:3. If there are 20 children in total, how many are boys?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17373,
+        "question_text": "A recipe uses flour and sugar in the ratio 4:1. If the total ingredients weigh 250g, how much is flour?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "200g",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17374,
+        "question_text": "Complete the equivalent ratio: 2:3 = 4:?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17375,
+        "question_text": "Complete the equivalent ratio: 5:1 = ?:2",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17376,
+        "question_text": "A drink is made from juice and water in a 1:4 ratio. If you make 10 litres of the drink, how much is water?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8 litres",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17377,
+        "question_text": "Divide £15 in the ratio 2:1.",
+        "answer_type": "text_input",
+        "correct_answer": "£10 and £5",
+        "alternative_answer_1": "10, 5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17378,
+        "question_text": "The ratio of red to blue cars is 3:2. If there are 30 cars in total, how many are blue?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17379,
+        "question_text": "Complete the ratio: 3:7 = 9:?",
+        "answer_type": "text_input",
+        "correct_answer": "21",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17380,
+        "question_text": "Complete the ratio: ?:4 = 10:8",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17381,
+        "question_text": "A bag contains 24 marbles in a ratio of 1 red to 5 green. How many are green?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17382,
+        "question_text": "Share 21 crayons in the ratio 4:3.",
+        "answer_type": "text_input",
+        "correct_answer": "12 and 9",
+        "alternative_answer_1": "12, 9",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17383,
+        "question_text": "The ratio of sand to cement is 5:1. For a 30kg mix, how much sand is needed?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "25kg",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17384,
+        "question_text": "Complete the equivalent ratio: 1:6 = 3:?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17385,
+        "question_text": "Complete the equivalent ratio: 4:5 = ?:20",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17386,
+        "question_text": "A football team's win-loss ratio is 3:1. If they played 28 games, how many did they win?",
+        "answer_type": "text_input",
+        "correct_answer": "21",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17387,
+        "question_text": "Divide a 100m rope into two pieces in the ratio 3:2.",
+        "answer_type": "text_input",
+        "correct_answer": "60m and 40m",
+        "alternative_answer_1": "60, 40",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17388,
+        "question_text": "A class has a 2:3 ratio of students who walk to school versus those who do not. If there are 25 students, how many walk?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17389,
+        "question_text": "Complete the ratio: 10:2 = ?:1",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17390,
+        "question_text": "Complete the ratio: 2:5 = 8:?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17391,
+        "question_text": "Share 35 stickers in the ratio 2:3.",
+        "answer_type": "text_input",
+        "correct_answer": "14 and 21",
+        "alternative_answer_1": "14, 21",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17392,
+        "question_text": "The ratio of cats to dogs is 1:4. There are 25 animals in total. How many cats are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17393,
+        "question_text": "A salad dressing uses oil and vinegar in a 3:1 ratio. For a 200ml bottle, how much is oil?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150ml",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17394,
+        "question_text": "Complete the ratio: 12:16 = 3:?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17395,
+        "question_text": "Complete the ratio: 3:5 = ?:15",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17396,
+        "question_text": "The ratio of flour to sugar in a recipe is 5:2. If you use 250g of flour, how much sugar do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100g",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17397,
+        "question_text": "A farm has 10 sheep and 20 cows. What is the ratio of sheep to cows in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01:02",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17398,
+        "question_text": "The ratio of red to blue marbles is 3:4. If there are 12 blue marbles, how many red marbles are there?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17399,
+        "question_text": "A drink is made of juice and water in a 2:7 ratio. There are 10 litres more water than juice. What is the total volume?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "18 litres",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17400,
+        "question_text": "Simplify the ratio 12:18.",
+        "answer_type": "text_input",
+        "correct_answer": "02:03",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17401,
+        "question_text": "In a class, the ratio of boys to girls is 5:3. There are 15 boys. How many students are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17402,
+        "question_text": "The ratio of two lengths is 4:1. The difference between them is 12 metres. What are the two lengths?",
+        "answer_type": "text_input",
+        "correct_answer": "16m and 4m",
+        "alternative_answer_1": "16, 4",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17403,
+        "question_text": "A model car is made to a scale of 1:20. If the model is 10cm long, how long is the real car?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "200cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17404,
+        "question_text": "Share £50 in the ratio 3:2.",
+        "answer_type": "text_input",
+        "correct_answer": "£30 and £20",
+        "alternative_answer_1": "30, 20",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17405,
+        "question_text": "The ratio of cats to dogs at a vet is 2:5. If there are 8 cats, how many dogs are there?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17406,
+        "question_text": "Simplify the ratio 25:15.",
+        "answer_type": "text_input",
+        "correct_answer": "05:03",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17407,
+        "question_text": "The ratio of two angles is 2:1. Together they make a right angle (90 degrees). What are the angles?",
+        "answer_type": "text_input",
+        "correct_answer": "60 and 30",
+        "alternative_answer_1": "60, 30",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17408,
+        "question_text": "In a bag, the ratio of apples to pears is 6:2. Simplify this ratio.",
+        "answer_type": "text_input",
+        "correct_answer": "03:01",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17409,
+        "question_text": "The ratio of width to height of a screen is 16:9. If the height is 90cm, what is the width?",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "160cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17410,
+        "question_text": "Two friends share sweets in a 5:4 ratio. The first friend gets 15 sweets. How many does the second friend get?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17411,
+        "question_text": "The ratio of two numbers is 7:3. Their difference is 16. What are the two numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "28 and 12",
+        "alternative_answer_1": "28, 12",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17412,
+        "question_text": "A map has a scale of 1:100. A path on the map is 5cm. How long is the real path in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17413,
+        "question_text": "Simplify the ratio 20:30.",
+        "answer_type": "text_input",
+        "correct_answer": "02:03",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17414,
+        "question_text": "A drink contains juice and water in a 3:5 ratio. If there are 15 litres of juice, how much water is there?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "25 litres",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17415,
+        "question_text": "The ratio of children to adults on a bus is 10:3. There are 39 adults. How many children are there?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17416,
+        "question_text": "Two numbers are in the ratio 5:1. Their sum is 36. What is the larger number?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17417,
+        "question_text": "Simplify the ratio of 24 to 36.",
+        "answer_type": "text_input",
+        "correct_answer": "02:03",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17418,
+        "question_text": "The ratio of red paint to yellow paint is 3:2. To make 20 litres of orange paint, how much red paint is needed?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12 litres",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17419,
+        "question_text": "A model of a building is in the ratio 1:50. The model's height is 30cm. How tall is the real building in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17420,
+        "question_text": "The ratio of two friends' ages is 2:3. The sum of their ages is 25. How old is the older friend?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17421,
+        "question_text": "The ratio of cats to dogs is 1:4. There are 12 more dogs than cats. How many animals are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17422,
+        "question_text": "Recipe A uses flour and sugar in a 3:1 ratio. Recipe B uses them in a 4:1 ratio. If both recipes use 120g of flour, which uses more sugar?",
+        "answer_type": "text_input",
+        "correct_answer": "Recipe A",
+        "alternative_answer_1": "A",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17423,
+        "question_text": "A bag has red and blue sweets in a 2:3 ratio. There are 10 red sweets. If you eat 5 blue sweets, what is the new ratio?",
+        "answer_type": "text_input",
+        "correct_answer": "01:01",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17424,
+        "question_text": "The ratio of men to women on a bus is 5:4. At a stop, 3 men get off. There are now 22 men on the bus. How many women are on the bus?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17425,
+        "question_text": "Two lengths of rope are in the ratio 7:3. The total length is 50 metres. What is the difference in length between the two ropes?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20m",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17426,
+        "question_text": "A map scale is 1:50,000. The distance between two towns on the map is 4cm. What is the real distance in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2 km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17427,
+        "question_text": "The ratio of red to blue marbles was 2:5. After adding 6 more red marbles, there are now 10 red marbles. How many blue marbles are there?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17428,
+        "question_text": "A rectangle's length to width ratio is 3:2. Its perimeter is 50cm. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150 sq cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17429,
+        "question_text": "The ratio of two friends' money is 5:2. The richer friend has £21 more than the other. How much money do they have altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "49",
+        "alternative_answer_1": "£49",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17430,
+        "question_text": "A drink is 1 part juice to 3 parts water. You have 2 litres of juice. You want to make 10 litres of the drink. How much more juice do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "0.5",
+        "alternative_answer_1": "0.5 litres",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17431,
+        "question_text": "The ratio of cars to vans is 7:2. There are 20 more cars than vans. A lorry is also present. How many cars are there?",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17432,
+        "question_text": "A model boat is built to a scale of 1:40. The real boat is 12 metres long. How long is the model in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17433,
+        "question_text": "The ratio of two numbers is 3:5. Their sum is 48. What is their product?",
+        "answer_type": "text_input",
+        "correct_answer": "540",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17434,
+        "question_text": "A shop sells apples and oranges. The ratio is 5:3. They sell 10 apples. The new ratio is 1:1. How many oranges did they start with?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17435,
+        "question_text": "The ratio of boys to girls in a club is 4:5. There are 12 boys. 2 girls leave. What is the new ratio of boys to girls?",
+        "answer_type": "text_input",
+        "correct_answer": "12:13",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17436,
+        "question_text": "A jug has juice and water in a 1:4 ratio. A glass has them in a 1:3 ratio. Which is stronger (has a higher fraction of juice)?",
+        "answer_type": "text_input",
+        "correct_answer": "The glass",
+        "alternative_answer_1": "glass",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17437,
+        "question_text": "The angles in a triangle are in the ratio 1:2:3. What is the size of the largest angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90 degrees",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17438,
+        "question_text": "The ratio of savings to spending is 1:5. If a person earns £1800, how much do they save?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "£300",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17439,
+        "question_text": "The ratio of red marbles to total marbles is 2:7. If there are 21 marbles in total, how many are NOT red?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17440,
+        "question_text": "A sum of money is shared between Tom and Ben in a 3:4 ratio. Tom gets £18. How much money was shared in total?",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "£42",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17441,
+        "question_text": "The ratio of dogs to cats is 3:2. There are 6 more dogs than cats. How many cats are there?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17442,
+        "question_text": "A recipe for 4 people needs 200g of flour. How much is needed for 6 people?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "300g",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17443,
+        "question_text": "Two numbers are in the ratio 7:4. Their sum is 55. What is their difference?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17444,
+        "question_text": "The ratio of Fiction to Non-Fiction books is 5:3. There are 400 books total. If 50 Fiction books are removed, what is the new ratio?",
+        "answer_type": "text_input",
+        "correct_answer": "01:01",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    },
+    {
+        "question_id": 17445,
+        "question_text": "The ratio of Fiction to Non-Fiction books is 5:3. There are 40 books total. If 5 Fiction books are removed, what is the new ratio?",
+        "answer_type": "text_input",
+        "correct_answer": "04:03",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 199
+    }
+]

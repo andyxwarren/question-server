@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maths Arcade</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+        body {
+            font-family: 'Press Start 2P', cursive;
+            background-color: #111;
+            color: #0f0; /* Neon green text */
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            min-height: 100vh;
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+            text-align: center;
+            overflow-x: hidden;
+        }
+
+        .container {
+    margin: 2vh auto;
+    border: 5px solid #0f0;
+    padding: 15px;
+    background-color: #222;
+    box-shadow: 0 0 20px #0f0, 0 0 30px #0f0 inset;
+    width: 90%;
+    max-width: 800px;
+    max-height: 96vh;
+    min-height: auto;
+    box-sizing: border-box;
+    overflow-y: hidden;
+    z-index: 2;
+}
+
+
+
+
+        .page {
+            display: none; /* Hidden by default */
+        }
+
+
+
+        .page.active {
+            display: block;
+        }
+
+        .breadcrumb-container {
+            display: flex;
+            align-items: center; /* Vertically center breadcrumb items */
+            flex-wrap: wrap; /* Allows wrapping on small screens */
+            min-height: 40px; /* Ensures consistent height */
+            padding: 5px 0; /* Equal vertical padding */
+            margin-bottom: 15px; /* Space below the bar */
+            border-bottom: 3px solid #0f0; /* Adds to the bar look */
+        }
+        .breadcrumb-button {
+            padding: 10px 15px;
+            background-color: #ff9800; /* Vibrant Orange */
+            color: #111;
+            border: 4px solid #000;
+            border-radius: 8px;
+            font-family: 'Press Start 2P', cursive;
+            font-weight: bold;
+            text-transform: uppercase;
+            cursor: pointer;
+            box-shadow: 0 5px 0 #c66900;
+            transition: all 0.1s;
+            transform: translateY(-6px); /* Move buttons up */
+            font-size: 0.75em;
+        }
+        .breadcrumb-button:hover {
+            background-color: #f57c00;
+        }
+        .breadcrumb-button:active {
+            transform: translateY(3px);
+            box-shadow: 0 2px 0 #c66900;
+        }
+        .breadcrumb-separator {
+            font-size: 1.2em; /* Reduced font size for better alignment */
+            color: #0ff;
+            margin: 0 10px;
+            font-family: 'Press Start 2P', cursive;
+        }
+        .breadcrumb-button:disabled {
+            background-color: #c66900; /* Darker orange for current page */
+            color: #eee;
+            cursor: default;
+            box-shadow: 0 2px 0 #8b4900; /* Inset-like shadow */
+            transform: translateY(3px); /* Make it look pressed */
+        }
+
+        .title {
+            color: #ff00ff; /* Neon pink */
+            text-shadow: 0 0 5px #ff00ff;
+            margin: 0;
+            min-height: 50px; /* Reserve space for 2-line titles */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.4em;
+        }
+
+        .subtitle {
+            color: #0ff; /* Neon cyan */
+            text-shadow: 0 0 5px #0ff;
+            margin-top: 0;
+            margin-bottom: 10px;
+            font-size: 0.9em;
+        }
+
+        #fdpSubTopicsPage .title {
+            font-size: 1.05em;
+            white-space: nowrap;
+        }
+
+        .welcome-message {
+            color: #f0f; /* Neon Purple */
+            text-shadow: 0 0 8px #f0f, 0 0 16px #f0f;
+            width: 100%;
+            text-align: center;
+            font-size: 1.5em;
+        }
+
+        
+
+
+        .arcade-button-container {
+            display: grid;
+            gap: 20px 20px;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 10px;
+            margin-top: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            width: fit-content;
+            grid-template-columns: repeat(3, minmax(130px, 1fr));
+        }
+
+        /* More columns for dense button pages */
+        .arcade-button-container.dense {
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            font-size: 0.7em; /* Smaller font for dense buttons */
+            margin-left: auto;
+            margin-right: auto;
+            width: fit-content;
+            justify-content: center;
+        }
+
+
+        .arcade-button {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.9em;
+    cursor: pointer;
+    border-radius: 50%;
+    position: relative;
+    transition: all 0.1s ease;
+    min-width: 130px;
+    min-height: 130px;
+    width: 130px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    overflow: hidden;
+    padding: 0;
+    line-height: 1.18;
+    text-align: center;
+    background: none;
+    box-shadow: 0 8px 0 #222, 0 12px 24px #333a;
+    border: none;
+}
+
+.arcade-button::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    border-radius: 50%;
+    z-index: 1;
+    background: radial-gradient(circle at 60% 35%, rgba(255,255,255,0.10) 0%, rgba(0,0,0,0.10) 100%),
+        var(--arcade-btn-color, #ffd600);
+    border: 8px solid var(--arcade-btn-color, #ffd600);
+    box-shadow: 0 3px 16px #000b inset, 0 0 0 8px rgba(0,0,0,0.12);
+}
+
+.arcade-button span {
+    position: relative;
+    z-index: 3;
+    display: block;
+    width: 80%;
+    font-size: 0.75em;
+    line-height: 1.2;
+    color: #111;
+    white-space: normal;
+    text-align: center;
+}
+
+.arcade-button::after {
+    content: '';
+    position: absolute;
+    z-index: 2;
+    top: 15px;
+    left: 32px;
+    width: 42px;
+    height: 16px;
+    background: linear-gradient(90deg, rgba(255,255,255,0.6) 0%, rgba(255,255,255,0) 100%);
+    border-radius: 50%;
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+.arcade-button:not(.disabled) {
+    background: radial-gradient(circle at 40% 40%, var(--arcade-btn-color, #ffd600) 60%, var(--arcade-btn-color, #ffd600) 100%);
+    box-shadow: 0 10px 0 #222, 0 16px 32px #333a;
+}
+
+.arcade-button:active:not(.disabled) {
+    box-shadow: 0 4px #222, 0 6px 12px #333a;
+    transform: translateY(4px);
+}
+
+/* Styles for the rectangular 'Back' buttons */
+.back-button {
+    display: block;
+    margin: 40px auto 0 auto;
+    border-radius: 12px; /* Rectangular shape */
+    min-width: 220px;
+    width: auto;
+    height: auto;
+    min-height: 0; /* Unset the fixed height from arcade buttons */
+    padding: 15px 30px;
+    background: #1a1a1a; /* Black background */
+    color: #fff; /* White text */
+    border: 2px solid #fff;
+    box-shadow: 0 6px #000, 0 8px 10px rgba(0,0,0,0.4); /* Simpler shadow */
+    font-size: 0.75em;
+}
+
+
+.back-button:active:not(.disabled) {
+    transform: translateY(3px);
+    box-shadow: 0 3px #000, 0 4px 5px rgba(0,0,0,0.4);
+}
+
+/* Disable the arcade button pseudo-elements for the back button */
+.back-button::before,
+.back-button::after {
+    display: none;
+}
+
+.arcade-button.disabled {
+    opacity: 0.25;
+    cursor: not-allowed;
+}
+
+
+        #powerMeter {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+            gap: 10px;
+        }
+
+        .power-light {
+            padding: 10px 15px;
+            border: 2px solid #555;
+            border-radius: 5px;
+            font-size: 0.7em;
+            width: 80px; /* Fixed width for lights */
+            text-align: center;
+        }
+
+        .power-light.red { background-color: #400; color: #a33; border-color: #a33; }
+        .power-light.amber { background-color: #440; color: #aa3; border-color: #aa3; }
+        .power-light.green { background-color: #040; color: #3a3; border-color: #3a3; }
+        .power-light.purple { background-color: #303; color: #a3a; border-color: #a3a; }
+
+        .power-light.on.red { background-color: #f00; color: #fff; box-shadow: 0 0 10px #f00; border-color: #f55; }
+        .power-light.on.amber { background-color: #fa0; color: #000; box-shadow: 0 0 10px #fa0; border-color: #fb5; }
+        .power-light.on.green { background-color: #0f0; color: #000; box-shadow: 0 0 10px #0f0; border-color: #5f5; }
+        .power-light.on.purple { background-color: #f0f; color: #fff; box-shadow: 0 0 10px #f0f; border-color: #f5f; }
+
+        .flashing {
+            animation: flashAnimation 1s infinite;
+        }
+
+        @keyframes flashAnimation {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+
+        #questionArea {
+            margin-top: 20px;
+            padding: 15px;
+            border: 2px dashed #0f0;
+            background-color: #1a1a1a;
+        }
+
+        #questionText {
+            font-size: 1.2em;
+            color: #ff0; /* Yellow for question */
+            margin-bottom: 15px;
+            min-height: 40px; /* To prevent layout jumps */
+        }
+
+        #answerInput {
+            font-family: 'Press Start 2P', cursive;
+            background-color: #333;
+            color: #fff;
+            border: 2px solid #0f0;
+            padding: 10px;
+            font-size: 1em;
+            width: 50%;
+            margin-right: 10px;
+            text-align: center;
+        }
+
+        #submitAnswerBtn {
+            font-family: 'Press Start 2P', cursive;
+            background-color: #00f; /* Blue button */
+            color: #fff;
+            border: 2px solid #55f;
+            padding: 10px 15px;
+            font-size: 1em;
+            cursor: pointer;
+            box-shadow: 0 3px #005;
+        }
+        #submitAnswerBtn:hover { background-color: #33f; }
+        #submitAnswerBtn:active { box-shadow: 0 1px #005; transform: translateY(2px); }
+
+        #feedbackArea {
+            margin-top: 15px;
+            font-size: 1em;
+            min-height: 20px; /* Prevent layout jump */
+        }
+        .feedback-correct { color: #0f0; }
+        .feedback-incorrect { color: #f00; }
+
+        /* Fireworks */
+        #fireworksContainer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 9999;
+            overflow: hidden; /* Ensure particles are contained */
+        }
+
+        .particle {
+            position: absolute;
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            opacity: 0;
+            animation: explode 0.8s forwards;
+        }
+
+        @keyframes explode {
+            0% { transform: scale(0.5); opacity: 1; }
+            100% { transform: scale(1.5) translate(var(--tx), var(--ty)); opacity: 0; }
+        }
+
+    </style>
+</head>
+<body>
+    <!-- User Header -->
+    <div id="userHeaderContainer" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+    
+    <div class="container">
+        <!-- Page 0: Maths Mode Selection -->
+        <div id="mathsModePage" class="page active">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">CHOOSE WORLD</h1>
+            <h2 class="subtitle" style="visibility: hidden;">&nbsp;</h2>
+            <div class="arcade-button-container">
+                <button id="btnModeNumber" class="arcade-button" style="--arcade-btn-color: #e53935;" onclick="showPage('numberSubPage')"><span>Number</span></button>
+                <button id="btnModeMeasurement" class="arcade-button" style="--arcade-btn-color: #1e88e5;" onclick="showPage('measurementMissionsPage')"><span>Measurement</span></button>
+                <button id="btnModeGeometry" class="arcade-button" style="--arcade-btn-color: #43a047;" onclick="showPage('geometrySubPage')"><span>Geometry</span></button>
+                <button id="btnModeRatio" class="arcade-button" style="--arcade-btn-color: #ffd600;" onclick="showPage('ratioMissionsPage')"><span>Ratio and Proportion</span></button>
+                <button id="btnModeAlgebra" class="arcade-button" style="--arcade-btn-color: #ec407a;" onclick="showPage('algebraMissionsPage')"><span>Algebra</span></button>
+                <button id="btnModeStatistics" class="arcade-button" style="--arcade-btn-color: #fafafa;" onclick="showPage('statisticsMissionsPage')"><span>Statistics</span></button>
+            </div>
+        </div>
+
+        <!-- Page 0.1: Number Sub-Menu -->
+        <div id="numberSubPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">NUMBER</h1>
+            <h2 class="subtitle">CHOOSE REALM</h2>
+            <div class="arcade-button-container">
+                <button id="btnNumberPlaceValue" class="arcade-button" onclick="showPage('placeValueSubTopicsPage')"><span>Place Value</span></button>
+                <button id="btnNumberAddSubtract" class="arcade-button" onclick="showPage('addSubtractSubTopicsPage')"><span>+ and -</span></button>
+                <button id="btnNumberMultiplyDivide" class="arcade-button" onclick="showPage('multiplyDivideSubTopicsPage')"><span>X and ÷</span></button>
+                <button id="btnNumberFDP" class="arcade-button" onclick="showPage('fdpSubTopicsPage')"><span>Fractions<br>Percentages<br>Decimals</span></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+            </div>
+        </div>
+        <!-- Page 0.1.1: Place Value Sub-Topics (previously placeValueCategoriesPage) -->
+        <div id="placeValueSubTopicsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">PLACE VALUE</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="paginated-missions-container">
+                <div class="arcade-button-container mission-page active" style="grid-template-columns: repeat(3, 1fr);">
+    <button id="btnCounting" class="arcade-button"><span>COUNTING</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #1e88e5;"><span>COMPARING NUMBERS</span></button>
+    <button class="arcade-button" style="--arcade-btn-color: #43a047; opacity: 1; cursor: pointer;" onclick="window.location.href='index.html?mission=' + encodeURIComponent('Identifying, Representing and Estimating Numbers')"><span style="font-size:0.65em;">IDENTIFYING,<br>REPRESENTING<br>& ESTIMATING</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #ffd600;"><span>READING AND WRITING NUMBERS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #ec407a;"><span>PLACE VALUE</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #fafafa;"><span>ROUNDING</span></button>
+</div>
+                <div style="display:flex; justify-content:center; margin-top:16px; margin-bottom:24px;">
+                    <button class="back-button" style="font-family:'Press Start 2P',cursive; background:#0f0; color:#111; border:4px solid #000; border-radius:12px; font-size:0.75em; min-width:240px; padding:20px 40px; box-shadow:0 8px 0 #0f0, 0 0 24px #0f0, 0 0 48px #0f0; letter-spacing:1px; opacity:0.25; cursor:not-allowed;" title="Mission Coming Soon">PROBLEM SOLVING</button>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Page 0.1.2: Addition and Subtraction Sub-Topics -->
+        <div id="addSubtractSubTopicsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">ADDITION AND SUBTRACTION</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="arcade-button-container mission-page active" style="grid-template-columns: repeat(3, 1fr);">
+    <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #e53935;"><span>NUMBER BONDS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #1e88e5;"><span>MENTAL CALCULATION</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #43a047;"><span>WRITTEN METHODS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #ffd600;"><span>INVERSE<br>OPERATIONS &<br>CHECKING</span></button>
+    <button class="arcade-button disabled" style="--arcade-btn-color: #ec407a;"></button>
+    <button class="arcade-button disabled" style="--arcade-btn-color: #fafafa;" tabindex="-1" aria-hidden="true"></button>
+</div>
+            <div style="display:flex; justify-content:center; margin-top:16px; margin-bottom:24px;">
+                <button class="back-button" style="font-family:'Press Start 2P',cursive; background:#0f0; color:#111; border:4px solid #000; border-radius:12px; font-size:0.75em; min-width:240px; padding:20px 40px; box-shadow:0 8px 0 #0f0, 0 0 24px #0f0, 0 0 48px #0f0; letter-spacing:1px; opacity:0.25; cursor:not-allowed;" title="Mission Coming Soon">PROBLEM SOLVING</button>
+            </div>
+        </div>
+
+        <!-- Page 0.1.3: Multiplication and Division Sub-Topics -->
+        <div id="multiplyDivideSubTopicsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">MULTIPLICATION AND DIVISION</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="paginated-missions-container">
+                <div class="arcade-button-container mission-page active" style="grid-template-columns: repeat(3, 1fr);">
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span style="font-size: 0.6em;">MULTIPLICATION<br>& DIVISION<br>FACTS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>MENTAL<br>CALCULATION</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>WRITTEN<br>CALCULATION</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>PROPERTIES<br>OF<br>NUMBERS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>ORDER OF<br>OPERATIONS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>INVERSE<br>OPERATIONS &<br>CHECKING</span></button>
+</div>
+<div style="display:flex; justify-content:center; margin-top:0; margin-bottom:10px;">
+    <button class="back-button" style="font-family:'Press Start 2P',cursive; background:#0f0; color:#111; border:4px solid #000; border-radius:12px; font-size:0.75em; min-width:240px; padding:15px 30px; box-shadow:0 6px 0 #0f0, 0 0 16px #0f0, 0 0 32px #0f0; letter-spacing:1px; opacity:0.25; cursor:not-allowed;" title="Mission Coming Soon">PROBLEM SOLVING</button>
+</div>
+            </div>
+            
+        </div>
+
+        <!-- Page 0.1.4: Fractions, Decimals, Percentages Sub-Topics -->
+        <div id="fdpSubTopicsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">FRACTIONS, DECIMALS AND PERCENTAGES</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="paginated-missions-container">
+                <div class="arcade-button-container mission-page active" style="grid-template-columns: repeat(3, 1fr);">
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>COUNTING IN<br>FRACTIONAL<br>STEPS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>RECOGNISING<br>FRACTIONS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>COMPARING<br>FRACTIONS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>COMPARING<br>DECIMALS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>ROUNDING<br>INCLUDING<br>DECIMALS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>EQUIVALENCE<br>(FDP)</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>ADD & SUBTRACT<br>FRACTIONS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>MULTIPLY & DIVIDE<br>FRACTIONS</span></button>
+    <button class="arcade-button disabled" title="Mission Coming Soon"><span>MULTIPLY & DIVIDE<br>DECIMALS</span></button>
+</div>
+<div style="display:flex; justify-content:center; margin-top:0; margin-bottom:10px;">
+    <button class="back-button" style="font-family:'Press Start 2P',cursive; background:#0f0; color:#111; border:4px solid #000; border-radius:12px; font-size:0.75em; min-width:340px; padding:15px 30px; box-shadow:0 6px 0 #080, 0 0 16px #0f0, 0 0 32px #0f0; letter-spacing:1px; opacity:0.25; cursor:not-allowed;" title="Mission Coming Soon">PROBLEM SOLVING</button>
+</div>
+            </div>
+            
+        </div>
+
+
+        <!-- Page 0.2: Geometry Sub-Menu -->
+        <div id="geometrySubPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">GEOMETRY</h1>
+            <h2 class="subtitle">CHOOSE REALM</h2>
+            <div class="arcade-button-container">
+                <button class="arcade-button" onclick="showPage('geometryPropertiesMissionsPage')" style="--arcade-btn-color: #e53935;"><span>Properties<br>of<br>shapes</span></button>
+                <button class="arcade-button" onclick="showPage('geometryPositionMissionsPage')" style="--arcade-btn-color: #1e88e5;"><span>Position and direction</span></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+            </div>
+        </div>
+
+        <!-- Ratio and Proportion Missions Page -->
+        <div id="ratioMissionsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">RATIO AND PROPORTION</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="arcade-button-container">
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #e53935;"><span>RATIO AND PROPORTION</span></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+            </div>
+        </div>
+
+        <!-- Statistics Missions Page -->
+        <div id="statisticsMissionsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">STATISTICS</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="arcade-button-container">
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #e53935;"><span style="font-size: 0.6em;">INTERPRETING,<br>CONSTRUCTING & PRESENTING DATA</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #1e88e5;"><span>SOLVING PROBLEMS</span></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+            </div>
+        </div>
+
+        <!-- Algebra Missions Page -->
+        <div id="algebraMissionsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">ALGEBRA</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="arcade-button-container">
+                <button class="arcade-button" style="--arcade-btn-color: #e53935; opacity: 1; cursor: pointer;" onclick="window.location.href='index.html?mission=' + encodeURIComponent('Equations')"><span>EQUATIONS</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #1e88e5;"><span>FORMULAE</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #43a047;"><span>SEQUENCES</span></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+            </div>
+        </div>
+
+        <!-- Measurement Missions Page -->
+        <div id="measurementMissionsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">MEASUREMENT</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="arcade-button-container">
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #e53935;"><span>COMPARING AND ESTIMATING</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #1e88e5;"><span>MEASURING AND CALCULATING</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #43a047;"><span>TELLING THE TIME</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #ffd600;"><span>CONVERTING</span></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+            </div>
+        </div>
+
+        <!-- Geometry Position and Direction Missions Page -->
+        <div id="geometryPositionMissionsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">POSITION AND DIRECTION</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="arcade-button-container">
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #e53935;"><span>POSITION,<br>DIRECTION<br>& MOVEMENT</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #1e88e5;"><span>PATTERN</span></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+            </div>
+        </div>
+
+        <!-- Geometry Properties of Shapes Missions Page -->
+        <div id="geometryPropertiesMissionsPage" class="page">
+            <div class="breadcrumb-container"></div>
+            <h1 class="title">PROPERTIES OF SHAPES</h1>
+            <h2 class="subtitle">SELECT MISSION</h2>
+            <div class="arcade-button-container">
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #e53935;"><span style="font-size: 0.6em;">IDENTIFYING<br>SHAPES &<br>THEIR PROPERTIES</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #1e88e5;"><span style="font-size: 0.6em;">DRAWING<br>AND<br>CONSTRUCTING</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #43a047;"><span style="font-size: 0.6em;">COMPARING<br>AND<br>CLASSIFYING</span></button>
+                <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #ffd600;"><span>ANGLES</span></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+                <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
+            </div>
+        </div>
+
+
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            console.log('Pathway Selector script started.');
+            const normalize = (str) => {
+                // First, clean up whitespace and normalize to uppercase
+                let cleanedStr = str.replace(/\s+/g, ' ').trim().toUpperCase();
+                // Then, handle specific character replacements like '&'
+                cleanedStr = cleanedStr.replace(/&/g, 'AND');
+                // Finally, remove all non-alphanumeric characters except spaces
+                cleanedStr = cleanedStr.replace(/[^A-Z0-9\s]/g, '');
+                return cleanedStr;
+            };
+
+            const realmPageMap = {
+                'placeValueSubTopicsPage': 'PLACE VALUE',
+                'addSubtractSubTopicsPage': 'ADDITION AND SUBTRACTION',
+                'multiplyDivideSubTopicsPage': 'MULTIPLICATION AND DIVISION',
+                'fdpSubTopicsPage': 'FRACTIONS, DECIMALS AND PERCENTAGES'
+            };
+
+            try {
+                console.log('Fetching CSV...');
+                const response = await fetch('Questions/Already Tested by Ads/Existing Missions.csv');
+                const csvText = await response.text();
+                console.log('CSV fetched successfully.');
+
+                const parseCsvRow = (row) => {
+                    const result = [];
+                    let current = '';
+                    let inQuotes = false;
+                    for (let i = 0; i < row.length; i++) {
+                        const char = row[i];
+                        if (char === '"') {
+                            inQuotes = !inQuotes;
+                        } else if (char === ',' && !inQuotes) {
+                            result.push(current.trim());
+                            current = '';
+                        } else {
+                            current += char;
+                        }
+                    }
+                    result.push(current.trim());
+                    return result;
+                };
+
+                const rows = csvText.split('\n').slice(1).filter(row => row.trim() !== '');
+                const missionMap = new Map();
+
+                rows.forEach(row => {
+                    const columns = parseCsvRow(row);
+                    if (columns.length < 4) return;
+                    const realm = normalize(columns[2]);
+                    const mission = columns[3].trim();
+                    if (!missionMap.has(realm)) {
+                        missionMap.set(realm, []);
+                    }
+                    missionMap.get(realm).push({ original: mission, normalized: normalize(mission) });
+                });
+
+                const allButtons = document.querySelectorAll('.arcade-button, .back-button');
+
+                allButtons.forEach(button => {
+                    const buttonText = (button.querySelector('span')?.textContent || button.textContent).trim();
+                    const isPageNav = button.onclick && button.onclick.toString().includes('showPage');
+                    
+                    if (!buttonText || isPageNav) return;
+
+                    const parentPage = button.closest('.page');
+                    if (!parentPage) return;
+
+                    const realmName = realmPageMap[parentPage.id];
+                    if (!realmName) return;
+
+                    const normalizedButtonText = normalize(buttonText);
+                    const availableMissionsInRealm = missionMap.get(realmName) || [];
+                    
+                    console.log(`--- Checking Button: "${normalizedButtonText}" ---`);
+
+                    const matchingMission = availableMissionsInRealm.find(m => {
+                        console.log(`Comparing with CSV mission: "${m.normalized}"`);
+                        const missionWords = new Set(m.normalized.split(' ').filter(Boolean));
+                        const buttonWords = new Set(normalizedButtonText.split(' ').filter(Boolean));
+                        if (buttonWords.size === 0) return false;
+                        const isMatch = [...buttonWords].every(word => missionWords.has(word));
+                        console.log(`Match found: ${isMatch}`);
+                        return isMatch;
+                    });
+
+                    if (matchingMission) {
+                        console.log(`SUCCESS: Activating button for "${matchingMission.original}"`);
+                        button.classList.remove('disabled');
+                        button.removeAttribute('title');
+                        if (button.classList.contains('back-button')) {
+                            button.style.opacity = '1';
+                            button.style.cursor = 'pointer';
+                        }
+
+                        const newButton = button.cloneNode(true);
+                        button.parentNode.replaceChild(newButton, button);
+                        newButton.addEventListener('click', () => {
+                            window.location.href = `index.html?mission=${encodeURIComponent(matchingMission.original)}`;
+                        });
+                    } else {
+                        button.classList.add('disabled');
+                        button.setAttribute('title', 'Mission Coming Soon');
+                    }
+                });
+            } catch (error) {
+                console.error('CRITICAL ERROR:', error);
+            }
+        });
+
+        // --- Navigation Logic ---
+        let globalCurrentPageId = 'mathsModePage';
+        const pages = {
+            mathsModePage: document.getElementById('mathsModePage'),
+            numberSubPage: document.getElementById('numberSubPage'),
+            placeValueSubTopicsPage: document.getElementById('placeValueSubTopicsPage'), 
+            addSubtractSubTopicsPage: document.getElementById('addSubtractSubTopicsPage'),
+            multiplyDivideSubTopicsPage: document.getElementById('multiplyDivideSubTopicsPage'),
+            fdpSubTopicsPage: document.getElementById('fdpSubTopicsPage'),
+            geometrySubPage: document.getElementById('geometrySubPage'),
+            geometryPropertiesMissionsPage: document.getElementById('geometryPropertiesMissionsPage'),
+            geometryPositionMissionsPage: document.getElementById('geometryPositionMissionsPage'),
+            geometryPropertiesMissionsPage: document.getElementById('geometryPropertiesMissionsPage'),
+            geometryPositionMissionsPage: document.getElementById('geometryPositionMissionsPage'),
+            measurementMissionsPage: document.getElementById('measurementMissionsPage'),
+            statisticsMissionsPage: document.getElementById('statisticsMissionsPage'),
+            ratioMissionsPage: document.getElementById('ratioMissionsPage'),
+            algebraMissionsPage: document.getElementById('algebraMissionsPage'),
+        };
+
+        const pageHierarchy = {
+            'mathsModePage': { parent: null, name: 'Worlds' },
+            'numberSubPage': { parent: 'mathsModePage', name: 'Number' },
+            'geometrySubPage': { parent: 'mathsModePage', name: 'Geometry' },
+            'measurementMissionsPage': { parent: 'mathsModePage', name: 'Measurement' },
+            'statisticsMissionsPage': { parent: 'mathsModePage', name: 'Statistics' },
+            'ratioMissionsPage': { parent: 'mathsModePage', name: 'Ratio & Proportion' },
+            'algebraMissionsPage': { parent: 'mathsModePage', name: 'Algebra' },
+            'placeValueSubTopicsPage': { parent: 'numberSubPage', name: 'Place Value' },
+            'addSubtractSubTopicsPage': { parent: 'numberSubPage', name: 'Addition & Subtraction' },
+            'multiplyDivideSubTopicsPage': { parent: 'numberSubPage', name: 'Multiplication & Division' },
+            'fdpSubTopicsPage': { parent: 'numberSubPage', name: 'Fractions, Decimals & Percentages' },
+            'geometryPropertiesMissionsPage': { parent: 'geometrySubPage', name: 'Properties of Shapes' },
+            'geometryPositionMissionsPage': { parent: 'geometrySubPage', name: 'Position & Direction' },
+        };
+
+        function updateBreadcrumbs(pageId) {
+            const pageElement = pages[pageId];
+            if (!pageElement) return;
+
+            const container = pageElement.querySelector('.breadcrumb-container');
+            if (!container) {
+                if (pageId !== 'mathsModePage') { // Don't log error for main page
+                    console.warn(`Breadcrumb container not found for page: ${pageId}`);
+                }
+                return;
+            }
+
+            // Special handling for the main page to show a welcome message
+            if (pageId === 'mathsModePage') {
+                container.innerHTML = '<span class="welcome-message">Welcome to PowerUp Academy</span>';
+                return;
+            }
+
+            container.innerHTML = '';
+            let trail = [];
+            let currentPageId = pageId;
+
+            while (currentPageId) {
+                const pageInfo = pageHierarchy[currentPageId];
+                if (pageInfo) {
+                    trail.unshift({ id: currentPageId, name: pageInfo.name });
+                    currentPageId = pageInfo.parent;
+                } else {
+                    break;
+                }
+            }
+
+            // Remove the last crumb (current page) so it's not displayed.
+            if (trail.length > 0) {
+                trail.pop();
+            }
+
+            trail.forEach((crumb, index) => {
+                if (index > 0) {
+                    const separator = document.createElement('span');
+                    separator.className = 'breadcrumb-separator';
+                    separator.textContent = '>';
+                    container.appendChild(separator);
+                }
+
+                // All remaining crumbs are parents, so they should be clickable buttons.
+                const button = document.createElement('button');
+                button.className = 'breadcrumb-button';
+                button.textContent = crumb.name;
+                button.onclick = () => showPage(crumb.id);
+                container.appendChild(button);
+            });
+        }
+
+        function changeMissionPage(pageId, direction) {
+            const pageElement = pages[pageId];
+            if (!pageElement) return;
+
+            const missionPages = pageElement.querySelectorAll('.mission-page');
+            if (missionPages.length <= 1) return;
+
+            let currentPageIndex = -1;
+            missionPages.forEach((page, index) => {
+                if (page.classList.contains('active')) {
+                    currentPageIndex = index;
+                }
+            });
+
+            if (currentPageIndex === -1) return;
+
+            const newPageIndex = currentPageIndex + direction;
+
+            if (newPageIndex >= 0 && newPageIndex < missionPages.length) {
+                missionPages[currentPageIndex].classList.remove('active');
+                missionPages[newPageIndex].classList.add('active');
+
+                // Update controls
+                const indicator = pageElement.querySelector('.page-indicator');
+                const prevBtn = pageElement.querySelector('.pagination-button.prev');
+                const nextBtn = pageElement.querySelector('.pagination-button.next');
+
+                if (indicator) {
+                    indicator.textContent = `${newPageIndex + 1} / ${missionPages.length}`;
+                }
+                if (prevBtn) {
+                    prevBtn.disabled = newPageIndex === 0;
+                    prevBtn.classList.toggle('disabled', newPageIndex === 0);
+                }
+                if (nextBtn) {
+                    nextBtn.disabled = newPageIndex === missionPages.length - 1;
+                    nextBtn.classList.toggle('disabled', newPageIndex === missionPages.length - 1);
+                }
+            }
+        }
+
+        function showPage(pageId) {
+            console.log(`Navigating to page: ${pageId}`);
+            const pageElement = pages[pageId];
+            console.log('Found page element:', pageElement);
+
+            Object.values(pages).forEach(p => {
+                if (p) p.classList.remove('active');
+            });
+
+            if (pageElement) {
+                pageElement.classList.add('active');
+                globalCurrentPageId = pageId;
+                updateBreadcrumbs(pageId);
+
+                // Reset pagination on page load
+                const missionPages = pageElement.querySelectorAll('.mission-page');
+                if (missionPages.length > 0) {
+                    missionPages.forEach((p, i) => {
+                        if (i === 0) p.classList.add('active');
+                        else p.classList.remove('active');
+                    });
+                    const indicator = pageElement.querySelector('.page-indicator');
+                    const prevBtn = pageElement.querySelector('.pagination-button.prev');
+                    const nextBtn = pageElement.querySelector('.pagination-button.next');
+                    if (indicator) indicator.textContent = `1 / ${missionPages.length}`;
+                    if (prevBtn) {
+                        prevBtn.disabled = true;
+                        prevBtn.classList.add('disabled');
+                    }
+                    if (nextBtn) {
+                        nextBtn.disabled = missionPages.length <= 1;
+                        nextBtn.classList.toggle('disabled', missionPages.length <= 1);
+                    }
+                }
+            } else {
+                console.error("Page ID not found in 'pages' object for showing:", pageId, ". Available keys:", Object.keys(pages));
+                if (pages.mathsModePage) { 
+                    pages.mathsModePage.classList.add('active');
+                    globalCurrentPageId = 'mathsModePage';
+                    updateBreadcrumbs('mathsModePage');
+                } else {
+                    console.error("Fallback page 'mathsModePage' also not found!");
+                }
+            }
+        }
+
+        // --- Event Listeners for Menu System ---
+        document.getElementById('btnModeNumber').addEventListener('click', () => showPage('numberSubPage'));
+        document.getElementById('btnModeGeometry').addEventListener('click', () => showPage('geometrySubPage'));
+        document.getElementById('btnModeMeasurement').addEventListener('click', () => showPage('measurementMissionsPage'));
+        document.getElementById('btnModeStatistics').addEventListener('click', () => showPage('statisticsMissionsPage'));
+        document.getElementById('btnModeRatio').addEventListener('click', () => showPage('ratioMissionsPage'));
+        document.getElementById('btnModeAlgebra').addEventListener('click', () => showPage('algebraMissionsPage'));
+
+        // Event Listeners for Number Sub-Categories
+        document.getElementById('btnNumberPlaceValue').addEventListener('click', () => showPage('placeValueSubTopicsPage'));
+        document.getElementById('btnNumberAddSubtract').addEventListener('click', () => showPage('addSubtractSubTopicsPage'));
+        document.getElementById('btnNumberMultiplyDivide').addEventListener('click', () => showPage('multiplyDivideSubTopicsPage'));
+        document.getElementById('btnNumberFDP').addEventListener('click', () => showPage('fdpSubTopicsPage'));
+        
+        // Event Listener for Place Value > Counting Game Start
+        document.getElementById('btnCounting').addEventListener('click', () => {
+            window.open('Counting.html', '_self');
+        });
+        
+        // Add 'coming soon' alert to mission buttons (excluding 'Counting')
+        const missionPageIds = [
+            'placeValueSubTopicsPage', 'addSubtractSubTopicsPage', 'multiplyDivideSubTopicsPage', 'fdpSubTopicsPage',
+            'geometryPropertiesMissionsPage', 'geometryPositionMissionsPage', 'measurementMissionsPage',
+            'algebraMissionsPage', 'statisticsMissionsPage', 'ratioMissionsPage'
+        ];
+        const missionButtonSelector = missionPageIds.map(id => `#${id} .arcade-button-container .arcade-button`).join(', ');
+
+        document.querySelectorAll(missionButtonSelector).forEach(btn => {
+            if (btn.id !== 'btnCounting') {
+                btn.addEventListener('click', function() {
+                    // Skip buttons that have their own onclick handler (manually activated missions)
+                    if (btn.hasAttribute('onclick')) {
+                        return;
+                    }
+                    if (!btn.classList.contains('disabled')) {
+                        alert('This Mission is coming soon!');
+                    }
+                });
+            }
+        });
+
+        function applyButtonColors() {
+            const colors = ['#e53935', '#1e88e5', '#43a047', '#ffd600', '#ec407a', '#fafafa']; // Red, Blue, Green, Yellow, Pink, White
+            const pages = document.querySelectorAll('.page');
+
+            pages.forEach(page => {
+                // Select only the circular arcade buttons, excluding the rectangular back buttons
+                const buttons = page.querySelectorAll('.arcade-button:not(.back-button)');
+                let colorIndex = 0;
+                buttons.forEach(button => {
+                    const color = colors[colorIndex % colors.length];
+                    button.style.setProperty('--arcade-btn-color', color);
+                    colorIndex++;
+                });
+            });
+        }
+
+        // Initial setup
+        applyButtonColors();
+        showPage(globalCurrentPageId);
+
+        // --- Keyboard Backspace Navigation ---
+        document.addEventListener('keydown', function(event) {
+            // Only trigger if Backspace is pressed and not in an input/textarea
+            if (event.key === 'Backspace' && !['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
+                event.preventDefault();
+                // Determine the previous page based on current page
+                // Map of current pages to their logical "back" destinations
+                const backMap = {
+                    'placeValueSubTopicsPage': 'numberSubPage',
+                    'addSubtractSubTopicsPage': 'numberSubPage',
+                    'multiplyDivideSubTopicsPage': 'numberSubPage',
+                    'fdpSubTopicsPage': 'numberSubPage',
+                    'numberSubPage': 'mathsModePage',
+                    'geometrySubPage': 'mathsModePage',
+                    'measurementMissionsPage': 'mathsModePage',
+                    'algebraMissionsPage': 'mathsModePage',
+                    'statisticsMissionsPage': 'mathsModePage',
+                    'ratioMissionsPage': 'mathsModePage',
+                    'geometryPropertiesMissionsPage': 'geometrySubPage',
+                    'geometryPositionMissionsPage': 'geometrySubPage',
+                };
+                const prevPage = backMap[globalCurrentPageId];
+                if (prevPage) {
+                    showPage(prevPage);
+                }
+            }
+        });
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const buttons = document.querySelectorAll('.arcade-button');
+            buttons.forEach(button => {
+                if (button.textContent.trim() !== '') {
+                    button.classList.add('has-text');
+                }
+            });
+        });
+    </script>
+    
+    <!-- User Authentication -->
+    <script src="user-auth.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Require login
+            const user = UserAuth.requireLogin();
+            if (!user) return; // Will redirect to login
+            
+            // Add user header
+            const headerContainer = document.getElementById('userHeaderContainer');
+            const userHeader = UserAuth.createUserHeader();
+            if (userHeader) {
+                headerContainer.appendChild(userHeader);
+            }
+        });
+    </script>
+</body>
+</html>

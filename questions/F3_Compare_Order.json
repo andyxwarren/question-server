@@ -1,0 +1,3002 @@
+[
+    {
+        "question_id": 3236,
+        "question_text": "Which fraction is larger: 1/4 or 1/3?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3237,
+        "question_text": "Which fraction is smaller: 1/5 or 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3238,
+        "question_text": "Which fraction is bigger: 2/5 or 4/5?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3239,
+        "question_text": "Which is smaller: 3/7 or 1/7?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3240,
+        "question_text": "Which fraction is the largest: 1/10, 1/5, or 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3241,
+        "question_text": "Which fraction is the smallest: 1/3, 1/6, or 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3242,
+        "question_text": "Put these fractions in order from smallest to largest: 3/8, 1/8, 5/8.",
+        "answer_type": "text_input",
+        "correct_answer": "1/8, 3/8, 5/8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3243,
+        "question_text": "Which is larger: 6/10 or 3/10?",
+        "answer_type": "text_input",
+        "correct_answer": "06-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3244,
+        "question_text": "Which is smaller: 1/8 or 1/9?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3245,
+        "question_text": "Put these fractions in order from largest to smallest: 7/9, 2/9, 4/9.",
+        "answer_type": "text_input",
+        "correct_answer": "7/9, 4/9, 2/9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3246,
+        "question_text": "Which is bigger: 1/7 or 1/8?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3247,
+        "question_text": "Which is smaller: 5/6 or 2/6?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3248,
+        "question_text": "Which is the biggest: 1/5, 2/5, 4/5?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3249,
+        "question_text": "Which is the smallest: 6/7, 3/7, 5/7?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3250,
+        "question_text": "Which fraction is larger: 1/10 or 1/8?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3251,
+        "question_text": "Which fraction is smaller: 4/4 or 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3252,
+        "question_text": "Order from smallest to largest: 1/2, 1/8, 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "1/8, 1/4, 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3253,
+        "question_text": "Order from largest to smallest: 1/3, 1/9, 1/6.",
+        "answer_type": "text_input",
+        "correct_answer": "1/3, 1/6, 1/9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3254,
+        "question_text": "Is 2/8 larger or smaller than 5/8?",
+        "answer_type": "text_input",
+        "correct_answer": "smaller",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3255,
+        "question_text": "Is 1/5 larger or smaller than 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "larger",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3256,
+        "question_text": "Which is greater: 8/9 or 5/9?",
+        "answer_type": "text_input",
+        "correct_answer": "08-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3257,
+        "question_text": "Which is less: 1/10 or 1/9?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3258,
+        "question_text": "Put these in order, starting with the smallest: 4/10, 9/10, 2/10.",
+        "answer_type": "text_input",
+        "correct_answer": "2/10, 4/10, 9/10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3259,
+        "question_text": "Which is the greatest fraction: 1/8, 5/8, 3/8?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3260,
+        "question_text": "Which is the least fraction: 1/3, 1/5, 1/7?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3261,
+        "question_text": "Use <, > or = to compare these fractions: 1/5 __ 1/4",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3262,
+        "question_text": "Use <, > or = to compare these fractions: 3/8 __ 5/8",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3263,
+        "question_text": "Use <, > or = to compare these fractions: 1/2 __ 1/10",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3264,
+        "question_text": "Use <, > or = to compare these fractions: 7/11 __ 4/11",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3265,
+        "question_text": "Order these fractions from smallest to largest: 1/12, 1/8, 1/11, 1/9",
+        "answer_type": "text_input",
+        "correct_answer": "1/12, 1/11, 1/9, 1/8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3266,
+        "question_text": "Order these fractions from smallest to largest: 2/7, 6/7, 1/7, 5/7",
+        "answer_type": "text_input",
+        "correct_answer": "1/7, 2/7, 5/7, 6/7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3267,
+        "question_text": "Use <, > or = to compare these fractions: 6/6 __ 1",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3268,
+        "question_text": "Use <, > or = to compare these fractions: 1/9 __ 1/12",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3269,
+        "question_text": "Use <, > or = to compare these fractions: 3/10 __ 8/10",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3270,
+        "question_text": "Order these fractions from largest to smallest: 9/12, 5/12, 11/12, 2/12",
+        "answer_type": "text_input",
+        "correct_answer": "11/12, 9/12, 5/12, 2/12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3271,
+        "question_text": "Which symbol is missing? 1/6 __ 1/3",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3272,
+        "question_text": "Which symbol is missing? 5/9 __ 2/9",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3273,
+        "question_text": "Order these unit fractions from smallest to largest: 1/7, 1/4, 1/5",
+        "answer_type": "text_input",
+        "correct_answer": "1/7, 1/5, 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3274,
+        "question_text": "Order these fractions from smallest to largest: 3/11, 8/11, 2/11, 10/11",
+        "answer_type": "text_input",
+        "correct_answer": "2/11, 3/11, 8/11, 10/11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3275,
+        "question_text": "Use <, > or = to compare: 1/8 __ 1/5",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3276,
+        "question_text": "Use <, > or = to compare: 10/10 __ 1",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3277,
+        "question_text": "Order from largest to smallest: 1/10, 1/2, 1/5, 1/8",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 1/5, 1/8, 1/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3278,
+        "question_text": "Order from smallest to largest: 2/9, 8/9, 5/9",
+        "answer_type": "text_input",
+        "correct_answer": "2/9, 5/9, 8/9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3279,
+        "question_text": "Which symbol should be used? 1/11 __ 1/12",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3280,
+        "question_text": "Which symbol should be used? 4/8 __ 1/2",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3281,
+        "question_text": "Order these fractions from smallest to largest: 1/4, 4/4, 3/4, 2/4",
+        "answer_type": "text_input",
+        "correct_answer": "1/4, 2/4, 3/4, 4/4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3282,
+        "question_text": "Use <, > or = : 3/3 __ 11/11",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3283,
+        "question_text": "Which is smaller, 1/12 or 1/10?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3284,
+        "question_text": "Which is larger, 8/12 or 10/12?",
+        "answer_type": "text_input",
+        "correct_answer": "10-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3285,
+        "question_text": "Order from smallest to largest: 7/10, 3/10, 9/10, 1/10",
+        "answer_type": "text_input",
+        "correct_answer": "1/10, 3/10, 7/10, 9/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3286,
+        "question_text": "Find a fraction with a denominator of 8 that is smaller than 3/8.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Aug",
+        "alternative_answer_1": "02-Aug",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3287,
+        "question_text": "Which of these fractions is not in the correct order? 1/20, 3/20, 8/20, 5/20",
+        "answer_type": "text_input",
+        "correct_answer": "May-20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3288,
+        "question_text": "Find a unit fraction that is larger than 1/15.",
+        "answer_type": "text_input",
+        "correct_answer": "Jan-14",
+        "alternative_answer_1": "01-Oct",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3289,
+        "question_text": "Tom ate 3/8 of a pizza and Jane ate 5/8 of a pizza. Who ate more?",
+        "answer_type": "text_input",
+        "correct_answer": "Jane",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3290,
+        "question_text": "Order these from smallest to largest: 1/100, 1/50, 1/75.",
+        "answer_type": "text_input",
+        "correct_answer": "1/100, 1/75, 1/50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3291,
+        "question_text": "Find a fraction with a denominator of 25 that is larger than 17/25.",
+        "answer_type": "text_input",
+        "correct_answer": "18/25",
+        "alternative_answer_1": "20/25",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3292,
+        "question_text": "Sam says 1/10 is bigger than 1/8. Is he correct? Answer yes or no.",
+        "answer_type": "text_input",
+        "correct_answer": "no",
+        "alternative_answer_1": "No",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3293,
+        "question_text": "Which fraction is missing? 11/30, 13/30, __, 17/30",
+        "answer_type": "text_input",
+        "correct_answer": "15/30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3294,
+        "question_text": "A runner completed 7/10 of a race. Another runner completed 9/10. Who has less of the race to finish?",
+        "answer_type": "text_input",
+        "correct_answer": "The runner who completed 9/10",
+        "alternative_answer_1": "the second runner",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3295,
+        "question_text": "Find a fraction that is between 4/15 and 7/15.",
+        "answer_type": "text_input",
+        "correct_answer": "May-15",
+        "alternative_answer_1": "Jun-15",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3296,
+        "question_text": "The order of these fractions is wrong. Which one should be moved? 1/12, 1/10, 1/15, 1/8",
+        "answer_type": "text_input",
+        "correct_answer": "Jan-15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3297,
+        "question_text": "A recipe needs 3/4 of a cup of flour. You only have 1/4. Do you have enough?",
+        "answer_type": "text_input",
+        "correct_answer": "no",
+        "alternative_answer_1": "No",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3298,
+        "question_text": "Which is smaller: 12/50 or 21/50?",
+        "answer_type": "text_input",
+        "correct_answer": "Dec-50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3299,
+        "question_text": "Find a unit fraction that is smaller than 1/20.",
+        "answer_type": "text_input",
+        "correct_answer": "Jan-21",
+        "alternative_answer_1": "Jan-30",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3300,
+        "question_text": "Two teams are painting a fence. Team A paints 13/20 of it. Team B paints 11/20. Which team painted more?",
+        "answer_type": "text_input",
+        "correct_answer": "Team A",
+        "alternative_answer_1": "A",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3301,
+        "question_text": "Correct the mistake in this sequence: 5/18, 9/18, 7/18, 11/18",
+        "answer_type": "text_input",
+        "correct_answer": "7/18 should be before 9/18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3302,
+        "question_text": "What fraction with a denominator of 100 is equal to 1?",
+        "answer_type": "text_input",
+        "correct_answer": "100/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3303,
+        "question_text": "A jug is 7/12 full. Another jug is 11/12 full. Which jug has more space left?",
+        "answer_type": "text_input",
+        "correct_answer": "The jug that is 11/12 full",
+        "alternative_answer_1": "the second jug",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3304,
+        "question_text": "Which is larger: 1/8 or 8/8?",
+        "answer_type": "text_input",
+        "correct_answer": "08-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3305,
+        "question_text": "Find a fraction with a denominator of 16 that is between 9/16 and 12/16.",
+        "answer_type": "text_input",
+        "correct_answer": "Oct-16",
+        "alternative_answer_1": "Nov-16",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3306,
+        "question_text": "Is 45/100 more or less than 54/100?",
+        "answer_type": "text_input",
+        "correct_answer": "less",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3307,
+        "question_text": "Spot the error: 1/4 is bigger than 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "1/4 is smaller than 1/3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3308,
+        "question_text": "A test has 20 questions. You answer 17/20 correctly. Your friend answers 15/20 correctly. Who got the higher score?",
+        "answer_type": "text_input",
+        "correct_answer": "You",
+        "alternative_answer_1": "I did",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3309,
+        "question_text": "Order from smallest to largest: 19/99, 91/99, 9/99",
+        "answer_type": "text_input",
+        "correct_answer": "9/99, 19/99, 91/99",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3310,
+        "question_text": "Find a fraction with a denominator of 10 that is greater than 1/10 but less than 4/10.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "03-Oct",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3311,
+        "question_text": "Create a fraction with a denominator of 15 that is larger than 11/15.",
+        "answer_type": "text_input",
+        "correct_answer": "Dec-15",
+        "alternative_answer_1": "13/15",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3312,
+        "question_text": "A chocolate bar is split into 12 squares. Ben eats 5/12 and Lucy eats 1/3. Who eats more? (Hint: 1/3 is the same as 4/12)",
+        "answer_type": "text_input",
+        "correct_answer": "Ben",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3313,
+        "question_text": "A race is 100 metres long. Mo has run 87/100 of it. Jess has run 91/100 of it. Who is closer to the finish line?",
+        "answer_type": "text_input",
+        "correct_answer": "Jess",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3314,
+        "question_text": "Create a unit fraction that is smaller than 1/90.",
+        "answer_type": "text_input",
+        "correct_answer": "Jan-91",
+        "alternative_answer_1": "1/100",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3315,
+        "question_text": "I have two bottles of juice. Bottle A is 7/8 full. Bottle B is 3/4 full. Which bottle contains more juice? (Hint: 3/4 is the same as 6/8)",
+        "answer_type": "text_input",
+        "correct_answer": "Bottle A",
+        "alternative_answer_1": "A",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3316,
+        "question_text": "Which is longer: 3/5 of a metre or 4/5 of a metre?",
+        "answer_type": "text_input",
+        "correct_answer": "4/5 of a metre",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3317,
+        "question_text": "Write three different fractions with a denominator of 20 that are all larger than 16/20.",
+        "answer_type": "text_input",
+        "correct_answer": "17/20, 18/20, 19/20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3318,
+        "question_text": "Two buckets hold the same amount of water. Bucket 1 is 1/2 full. Bucket 2 is 7/12 full. Which bucket is fuller?",
+        "answer_type": "text_input",
+        "correct_answer": "Bucket 2",
+        "alternative_answer_1": "2",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3319,
+        "question_text": "A garden is planted with flowers. 1/3 are roses and 5/12 are daisies. Are there more roses or daisies?",
+        "answer_type": "text_input",
+        "correct_answer": "daisies",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3320,
+        "question_text": "Find the largest fraction in this list: 1/10, 10/100, 1/100.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3321,
+        "question_text": "A project is due in one week (7 days). If 3/7 of the time has passed, have you used more or less than half the time?",
+        "answer_type": "text_input",
+        "correct_answer": "less",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3322,
+        "question_text": "A bag of 24 marbles contains 1/4 red marbles and 5/12 green marbles. Are there more red or green marbles?",
+        "answer_type": "text_input",
+        "correct_answer": "red",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3323,
+        "question_text": "Create a list of three fractions with a denominator of 50, ordered from largest to smallest.",
+        "answer_type": "text_input",
+        "correct_answer": "49/50, 48/50, 47/50",
+        "alternative_answer_1": "20/50, 10/50, 5/50",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3324,
+        "question_text": "Which is heavier, 7/10 of a kilogram or 3/5 of a kilogram?",
+        "answer_type": "text_input",
+        "correct_answer": "7/10 of a kilogram",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3325,
+        "question_text": "A battery is 1/4 charged. An identical battery is 3/8 charged. Which battery has more charge?",
+        "answer_type": "text_input",
+        "correct_answer": "The battery that is 3/8 charged",
+        "alternative_answer_1": "the second battery",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3326,
+        "question_text": "Two runners are in a race. Runner A has completed 1/2 of the race. Runner B has completed 5/8 of the race. Who is in the lead?",
+        "answer_type": "text_input",
+        "correct_answer": "Runner B",
+        "alternative_answer_1": "B",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3327,
+        "question_text": "A builder has two planks of wood of the same length. Plank 1 has had 1/5 of its length cut off. Plank 2 has had 3/10 cut off. Which plank is now shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "Plank 2",
+        "alternative_answer_1": "2",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3328,
+        "question_text": "Write a fraction with a denominator of 12 that is greater than 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Dec",
+        "alternative_answer_1": "08-Dec",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3329,
+        "question_text": "At a school, 7/10 of the children like football. 3/4 like swimming. Which is more popular? (Hint: use a common denominator of 20)",
+        "answer_type": "text_input",
+        "correct_answer": "swimming",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3330,
+        "question_text": "Which is worth more: 1/2 of £1 or 3/5 of £1?",
+        "answer_type": "text_input",
+        "correct_answer": "3/5 of £1",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3331,
+        "question_text": "Two friends share a pizza. One eats 3/8. The other eats 1/2. Who ate less?",
+        "answer_type": "text_input",
+        "correct_answer": "The one who ate 3/8",
+        "alternative_answer_1": "the first friend",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3332,
+        "question_text": "Is 2/3 of an hour longer or shorter than 5/6 of an hour?",
+        "answer_type": "text_input",
+        "correct_answer": "shorter",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3333,
+        "question_text": "Write a fraction with a denominator of 100 that is smaller than 1/10.",
+        "answer_type": "text_input",
+        "correct_answer": "9/100",
+        "alternative_answer_1": "5/100",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3334,
+        "question_text": "A film is 2 hours long. If 5/6 of the film has passed, is there more or less than half an hour left?",
+        "answer_type": "text_input",
+        "correct_answer": "less",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3335,
+        "question_text": "A tank is 1/2 full of water. Another tank is 3/5 full. Which tank has less water?",
+        "answer_type": "text_input",
+        "correct_answer": "The tank that is 1/2 full",
+        "alternative_answer_1": "the first tank",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 109
+    },
+    {
+        "question_id": 3936,
+        "question_text": "Which fraction is larger: 1/2 or 3/4?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3937,
+        "question_text": "Which fraction is smaller: 1/3 or 5/6?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3938,
+        "question_text": "Compare 1/5 and 4/10. Which is smaller?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3939,
+        "question_text": "Compare 1/4 and 5/8. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3940,
+        "question_text": "Is 2/3 greater or smaller than 5/6?",
+        "answer_type": "text_input",
+        "correct_answer": "smaller",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3941,
+        "question_text": "Which is the bigger fraction: 1/2 or 3/8?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3942,
+        "question_text": "Which fraction is less: 3/5 or 7/10?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3943,
+        "question_text": "Is 1/4 larger than 3/8?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3944,
+        "question_text": "Which is greater: 1/3 or 2/9?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3945,
+        "question_text": "Which is smaller: 1/2 or 5/10?",
+        "answer_type": "text_input",
+        "correct_answer": "They are equal",
+        "alternative_answer_1": "equal",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3946,
+        "question_text": "Compare 2/4 and 3/8. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3947,
+        "question_text": "Compare 2/5 and 3/10. Which is smaller?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3948,
+        "question_text": "Which fraction is larger: 2/3 or 4/6?",
+        "answer_type": "text_input",
+        "correct_answer": "They are equal",
+        "alternative_answer_1": "equal",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3949,
+        "question_text": "Which is less: 1/4 or 1/8?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3950,
+        "question_text": "Is 1/2 smaller than 4/8?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3951,
+        "question_text": "Which is greater: 1/5 or 3/10?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3952,
+        "question_text": "Which is smaller: 2/3 or 7/9?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3953,
+        "question_text": "Compare 1/2 and 2/6. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3954,
+        "question_text": "Compare 3/4 and 7/8. Which is smaller?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3955,
+        "question_text": "Is 4/5 larger than 9/10?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3956,
+        "question_text": "Which fraction is bigger: 1/3 or 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3957,
+        "question_text": "Which is smaller: 1/2 or 4/10?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3958,
+        "question_text": "Is 3/4 equal to 6/8?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3959,
+        "question_text": "Which is greater: 2/4 or 5/8?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3960,
+        "question_text": "Which is smaller: 2/3 or 4/9?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3961,
+        "question_text": "Order these fractions from smallest to largest: 1/2, 3/4, 5/8.",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 5/8, 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3962,
+        "question_text": "Order these fractions from smallest to largest: 2/3, 5/6, 7/12.",
+        "answer_type": "text_input",
+        "correct_answer": "7/12, 2/3, 5/6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3963,
+        "question_text": "Use <, > or = to compare: 2/5 __ 7/10",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3964,
+        "question_text": "Find a fraction with a denominator of 8 that is between 1/2 and 3/4.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3965,
+        "question_text": "Order from largest to smallest: 1/4, 3/8, 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 3/8, 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3966,
+        "question_text": "Order from smallest to largest: 3/5, 1/2, 7/10.",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 3/5, 7/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3967,
+        "question_text": "Use <, > or = to compare: 4/6 __ 2/3",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3968,
+        "question_text": "Find a fraction with a denominator of 12 that is greater than 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Dec",
+        "alternative_answer_1": "10-Dec",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3969,
+        "question_text": "Order these fractions: 1/3, 5/12, 1/6. Start with the smallest.",
+        "answer_type": "text_input",
+        "correct_answer": "1/6, 1/3, 5/12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3970,
+        "question_text": "Order these fractions: 3/4, 11/12, 5/6. Start with the largest.",
+        "answer_type": "text_input",
+        "correct_answer": "11/12, 5/6, 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3971,
+        "question_text": "Use <, > or = to compare: 3/4 __ 9/12",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3972,
+        "question_text": "Find a fraction with a denominator of 10 that is smaller than 2/5.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Oct",
+        "alternative_answer_1": "02-Oct",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3973,
+        "question_text": "Order from smallest to largest: 1/5, 3/10, 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1/5, 3/10, 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3974,
+        "question_text": "Order from smallest to largest: 7/8, 3/4, 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 3/4, 7/8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3975,
+        "question_text": "Use <, > or = to compare: 8/10 __ 4/5",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3976,
+        "question_text": "Find a fraction with a denominator of 6 that is between 1/3 and 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "none",
+        "alternative_answer_1": "impossible",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3977,
+        "question_text": "Order smallest to largest: 2/3, 1/6, 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1/6, 1/2, 2/3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3978,
+        "question_text": "Order largest to smallest: 4/5, 9/10, 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "9/10, 4/5, 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3979,
+        "question_text": "Use <, > or = to compare: 10/12 __ 5/6",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3980,
+        "question_text": "What fraction with a denominator of 12 comes between 1/2 and 2/3?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3981,
+        "question_text": "Order smallest to largest: 1/4, 3/12, 1/6.",
+        "answer_type": "text_input",
+        "correct_answer": "1/6, 1/4, 3/12",
+        "alternative_answer_1": "1/6, 3/12, 1/4",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3982,
+        "question_text": "Order largest to smallest: 7/10, 3/5, 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "7/10, 3/5, 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3983,
+        "question_text": "Which is smaller: 2/4 or 5/8?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3984,
+        "question_text": "Which is larger: 2/3 or 5/9?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3985,
+        "question_text": "Order from smallest to largest: 3/6, 2/3, 5/12.",
+        "answer_type": "text_input",
+        "correct_answer": "5/12, 3/6, 2/3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3986,
+        "question_text": "Who ate more pizza? Amy ate 3/8 and Ben ate 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "Amy",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3987,
+        "question_text": "Spot the error in this ordered list: 1/16, 1/8, 1/2, 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3988,
+        "question_text": "Order these fractions from smallest to largest: 1/2, 3/4, 5/8, 13/16.",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 5/8, 3/4, 13/16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3989,
+        "question_text": "A recipe needs 2/3 of a cup of sugar. Another recipe needs 5/6 of a cup. Which recipe needs more sugar?",
+        "answer_type": "text_input",
+        "correct_answer": "The second recipe",
+        "alternative_answer_1": "the one with 5/6",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3990,
+        "question_text": "Find a fraction with a denominator of 16 that is between 1/4 and 3/8.",
+        "answer_type": "text_input",
+        "correct_answer": "May-16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3991,
+        "question_text": "Order these from largest to smallest: 1/3, 4/9, 1/18, 5/6.",
+        "answer_type": "text_input",
+        "correct_answer": "5/6, 4/9, 1/3, 1/18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3992,
+        "question_text": "Which fraction is out of place? 1/10, 3/20, 1/5, 7/20",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3993,
+        "question_text": "Two plants are measured. Plant A is 3/5 of a metre tall. Plant B is 11/20 of a metre tall. Which plant is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "Plant B",
+        "alternative_answer_1": "B",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3994,
+        "question_text": "Order smallest to largest: 1/3, 2/9, 5/18, 1/6.",
+        "answer_type": "text_input",
+        "correct_answer": "1/6, 2/9, 5/18, 1/3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3995,
+        "question_text": "Find a fraction between 3/5 and 4/5 with a denominator of 20.",
+        "answer_type": "text_input",
+        "correct_answer": "17/20",
+        "alternative_answer_1": "18/20",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3996,
+        "question_text": "A team won 3/4 of their games. A different team won 7/8 of their games. Which team had a better record?",
+        "answer_type": "text_input",
+        "correct_answer": "The second team",
+        "alternative_answer_1": "the team that won 7/8",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3997,
+        "question_text": "Which fraction is the largest? 1/2, 2/3, 3/4, 5/6.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3998,
+        "question_text": "A glass is 1/2 full. A jug is 3/10 full. Which is less full?",
+        "answer_type": "text_input",
+        "correct_answer": "the jug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 3999,
+        "question_text": "Order these fractions from smallest to largest: 3/4, 5/8, 11/16, 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 5/8, 11/16, 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4000,
+        "question_text": "Which is the smallest fraction? 2/3, 5/9, 1/27, 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "Jan-27",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4001,
+        "question_text": "A car's fuel tank is 3/4 full. A van's tank is 5/8 full. Which vehicle has a fuller tank?",
+        "answer_type": "text_input",
+        "correct_answer": "the car",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4002,
+        "question_text": "Find the fraction that does not belong in this ordered list: 1/6, 1/3, 1/2, 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4003,
+        "question_text": "A path is 5/6 of a mile long. A road is 11/12 of a mile long. Which is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "the path",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4004,
+        "question_text": "Find the median (middle) fraction in this list: 1/4, 1/2, 3/8.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4005,
+        "question_text": "Which fraction is greater than 1/2? 3/8, 4/10, 5/12, 6/10",
+        "answer_type": "text_input",
+        "correct_answer": "06-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4006,
+        "question_text": "I need 3/4 of a litre of milk. I have 7/8 of a litre. Do I have enough?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4007,
+        "question_text": "Order from largest to smallest: 1/2, 2/5, 3/10, 4/20.",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 2/5, 3/10, 4/20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4008,
+        "question_text": "Which fraction is the odd one out? 1/2, 2/4, 5/10, 3/5.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4009,
+        "question_text": "Sam walked 1/2 a km. Jane walked 3/5 of a km. Who walked further?",
+        "answer_type": "text_input",
+        "correct_answer": "Jane",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4010,
+        "question_text": "A container is 3/4 full. Another is 13/16 full. Which has less in it?",
+        "answer_type": "text_input",
+        "correct_answer": "The container that is 3/4 full",
+        "alternative_answer_1": "the first container",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4011,
+        "question_text": "Find the missing fraction in this sequence: 1/4, __, 3/4, 1. (Hint: use a denominator of 4)",
+        "answer_type": "text_input",
+        "correct_answer": "02-Apr",
+        "alternative_answer_1": "01-Feb",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4012,
+        "question_text": "A runner completes 1/3 of a race in 10 minutes. Another runner completes 5/12 of the race in the same time. Who is running faster? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "The second runner",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4013,
+        "question_text": "Order these measurements from shortest to longest: 1/2 metre, 5/8 metre, 3/4 metre, 7/16 metre.",
+        "answer_type": "text_input",
+        "correct_answer": "7/16, 1/2, 5/8, 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4014,
+        "question_text": "Three friends have identical chocolate bars. Tom eats 5/6, Sue eats 2/3, and Ali eats 7/12. Who has the most chocolate left?",
+        "answer_type": "text_input",
+        "correct_answer": "Ali",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4015,
+        "question_text": "Which is heavier: 3/5 of a kilogram or 13/20 of a kilogram? Explain your reasoning.",
+        "answer_type": "text_input",
+        "correct_answer": "13/20 of a kilogram",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4016,
+        "question_text": "Find the missing fraction in this sequence: 5/6, 3/4, __, 7/12.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4017,
+        "question_text": "A project needs to be 7/8 complete by Friday. On Thursday, it is 3/4 complete. Is the project on schedule? Explain why.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4018,
+        "question_text": "A bottle of water is 1/2 full. I drink 1/4 of the whole bottle. What fraction of the bottle is now full?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4019,
+        "question_text": "Which of these fractions is closest to 1 whole? 7/8, 9/10, 11/12, 19/20.",
+        "answer_type": "text_input",
+        "correct_answer": "19/20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4020,
+        "question_text": "Order these quantities from largest to smallest: 2/3 L, 3/4 L, 7/12 L.",
+        "answer_type": "text_input",
+        "correct_answer": "3/4 L, 2/3 L, 7/12 L",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4021,
+        "question_text": "A journey is 1 whole mile. After 3/5 of a mile, is the journey more or less than half complete?",
+        "answer_type": "text_input",
+        "correct_answer": "more",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4022,
+        "question_text": "Find two fractions with a denominator of 16 that lie between 1/2 and 3/4.",
+        "answer_type": "text_input",
+        "correct_answer": "9/16, 10/16",
+        "alternative_answer_1": "10/16, 11/16",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4023,
+        "question_text": "A painter mixes two cans of paint. He uses 3/4 of can A and 5/8 of can B. From which can did he use more paint?",
+        "answer_type": "text_input",
+        "correct_answer": "Can A",
+        "alternative_answer_1": "A",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4024,
+        "question_text": "Explain why 4/5 is greater than 7/10.",
+        "answer_type": "text_input",
+        "correct_answer": "4/5 is equal to 8/10, which is greater than 7/10.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4025,
+        "question_text": "A task requires 3/4 of an hour. You have worked for 2/3 of an hour. How much more of the task, in fractions of an hour, is left?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4026,
+        "question_text": "Put these in order, starting with the smallest: 4/5, 7/10, 3/4, 13/20.",
+        "answer_type": "text_input",
+        "correct_answer": "13/20, 7/10, 3/4, 4/5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4027,
+        "question_text": "I need 5/8 kg of flour. A bag contains 3/4 kg. Do I have enough flour? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4028,
+        "question_text": "What is the difference between 5/6 and 2/3?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4029,
+        "question_text": "Which fraction is halfway between 1/4 and 3/4?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Apr",
+        "alternative_answer_1": "01-Feb",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4030,
+        "question_text": "A group of children get pocket money. Sue saves 1/3, Bill saves 4/9, and Kim saves 5/18. Who saves the most?",
+        "answer_type": "text_input",
+        "correct_answer": "Bill",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4031,
+        "question_text": "A bus journey is split into two parts. The first part is 1/2 of the total distance, the second is 3/8. Which part is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "The first part",
+        "alternative_answer_1": "01-Feb",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4032,
+        "question_text": "Is 2/3 closer to 1/2 or 1 whole?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4033,
+        "question_text": "Find the missing numerator to make this statement true: 1/2 < __/16 < 3/4.",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "10",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4034,
+        "question_text": "Two teams had a race. Team A finished in 5/6 of an hour. Team B finished in 3/4 of an hour. Which team was quicker?",
+        "answer_type": "text_input",
+        "correct_answer": "Team B",
+        "alternative_answer_1": "B",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4035,
+        "question_text": "A glass contains 3/5 of a litre of juice. Another glass contains 5/10 of a litre. Which glass has more juice?",
+        "answer_type": "text_input",
+        "correct_answer": "The first glass",
+        "alternative_answer_1": "the one with 3/5",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 110
+    },
+    {
+        "question_id": 4436,
+        "question_text": "Which fraction is larger: 1/2 or 2/3?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4437,
+        "question_text": "Which fraction is smaller: 1/4 or 2/5?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4438,
+        "question_text": "Which is greater: 5/4 or 4/3?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4439,
+        "question_text": "Which is smaller: 3/2 or 4/3?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4440,
+        "question_text": "Order these from smallest to largest: 1/2, 1/3, 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "1/4, 1/3, 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4441,
+        "question_text": "Which fraction is bigger: 3/4 or 4/5?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4442,
+        "question_text": "Which fraction is smaller: 2/3 or 3/5?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4443,
+        "question_text": "Which is larger: 6/5 or 5/4?",
+        "answer_type": "text_input",
+        "correct_answer": "06-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4444,
+        "question_text": "Order these from largest to smallest: 2/3, 1/2, 3/4.",
+        "answer_type": "text_input",
+        "correct_answer": "3/4, 2/3, 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4445,
+        "question_text": "Which fraction is smaller: 7/5 or 8/6?",
+        "answer_type": "text_input",
+        "correct_answer": "07-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4446,
+        "question_text": "Which is smaller: 7/5 or 9/7? (Hint: convert to mixed numbers)",
+        "answer_type": "text_input",
+        "correct_answer": "09-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4447,
+        "question_text": "Is 2/3 larger than 3/4? Answer yes or no.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4448,
+        "question_text": "Which is bigger: 1/2 or 3/5?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4449,
+        "question_text": "Which is smaller: 3/4 or 2/3?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4450,
+        "question_text": "Order these fractions from smallest to largest: 1/5, 1/4, 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "1/5, 1/4, 1/3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4451,
+        "question_text": "Which is larger: 7/6 or 6/5?",
+        "answer_type": "text_input",
+        "correct_answer": "06-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4452,
+        "question_text": "Which is smaller: 8/7 or 9/8?",
+        "answer_type": "text_input",
+        "correct_answer": "09-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4453,
+        "question_text": "Is 3/5 smaller than 1/2? Answer yes or no.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4454,
+        "question_text": "Order from largest to smallest: 1/4, 2/5, 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "2/5, 1/3, 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4455,
+        "question_text": "Which is greater: 4/3 or 5/4?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4456,
+        "question_text": "Which is smaller: 10/9 or 9/8?",
+        "answer_type": "text_input",
+        "correct_answer": "10-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4457,
+        "question_text": "Which is bigger: 3/2 or 5/4?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4458,
+        "question_text": "Which is smaller: 2/3 or 5/7?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4459,
+        "question_text": "Order from smallest to largest: 3/5, 1/2, 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 3/5, 2/3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4460,
+        "question_text": "Which is larger: 11/10 or 10/9?",
+        "answer_type": "text_input",
+        "correct_answer": "10-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4461,
+        "question_text": "Use <, > or = to compare: 3/5 __ 2/3",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4462,
+        "question_text": "Use <, > or = to compare: 7/4 __ 1 1/2",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4463,
+        "question_text": "Order from smallest to largest: 3/4, 5/7, 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "2/3, 5/7, 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4464,
+        "question_text": "A recipe needs 2/3 of a cup of flour. You have 3/4 of a cup. Do you have enough?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4465,
+        "question_text": "Which is smaller: 8/5 or 1 2/3?",
+        "answer_type": "text_input",
+        "correct_answer": "08-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4466,
+        "question_text": "Find a fraction that is between 1/3 and 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "03-Jul",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4467,
+        "question_text": "Use <, > or = to compare: 5/3 __ 1 1/2",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4468,
+        "question_text": "Order from largest to smallest: 7/5, 3/2, 13/10",
+        "answer_type": "text_input",
+        "correct_answer": "3/2, 7/5, 13/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4469,
+        "question_text": "Who ran further? Sam ran 5/4 of a mile, and Ali ran 1 1/3 miles.",
+        "answer_type": "text_input",
+        "correct_answer": "Ali",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4470,
+        "question_text": "Use <, > or = to compare: 4/7 __ 5/9",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4471,
+        "question_text": "Order from smallest to largest: 2/5, 1/3, 3/7.",
+        "answer_type": "text_input",
+        "correct_answer": "1/3, 2/5, 3/7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4472,
+        "question_text": "Is 1 3/5 smaller than 11/7? Answer yes or no.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4473,
+        "question_text": "Find a mixed number that is larger than 9/4.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/2",
+        "alternative_answer_1": "3",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4474,
+        "question_text": "Use <, > or = to compare: 9/5 __ 1 4/5",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4475,
+        "question_text": "Which is the greatest fraction: 5/8, 2/3, 3/5?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4476,
+        "question_text": "Use <, > or = to compare: 12/11 __ 1 1/12",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4477,
+        "question_text": "Use <, > or = to compare: 12/11 __ 1 1/10",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4478,
+        "question_text": "A bag of apples weighs 4/3 kg. A bag of oranges weighs 1 1/4 kg. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "The bag of apples",
+        "alternative_answer_1": "apples",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4479,
+        "question_text": "Order from smallest to largest: 11/10, 1 1/5, 6/5.",
+        "answer_type": "text_input",
+        "correct_answer": "11/10, 1 1/5, 6/5",
+        "alternative_answer_1": "11/10, 6/5, 1 1/5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4480,
+        "question_text": "Order from smallest to largest: 11/10, 1 1/5, 7/5",
+        "answer_type": "text_input",
+        "correct_answer": "11/10, 1 1/5, 7/5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4481,
+        "question_text": "What is the largest fraction here: 7/9, 3/4, 4/5?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4482,
+        "question_text": "Is 10/7 larger than 1 1/2? Answer yes or no.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4483,
+        "question_text": "Which is smaller, 13/8 or 1 2/3?",
+        "answer_type": "text_input",
+        "correct_answer": "13-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4484,
+        "question_text": "Order from largest to smallest: 1 1/4, 1 2/5, 1 3/10.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/5, 1 3/10, 1 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4485,
+        "question_text": "Use <, > or = to compare: 3/2 __ 1.5",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4486,
+        "question_text": "Which recipe uses more sugar? Recipe A needs 3/4 of a cup and Recipe B needs 4/5 of a cup.",
+        "answer_type": "text_input",
+        "correct_answer": "Recipe B",
+        "alternative_answer_1": "B",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4487,
+        "question_text": "Spot the error in this sequence ordered from smallest to largest: 1/3, 3/5, 1/2, 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4488,
+        "question_text": "Convert 5/8 to a decimal to compare it with 0.6.",
+        "answer_type": "text_input",
+        "correct_answer": "5/8 > 0.6",
+        "alternative_answer_1": "5/8 is greater",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4489,
+        "question_text": "Find a fraction that is between 4/5 and 5/6.",
+        "answer_type": "text_input",
+        "correct_answer": "25/30",
+        "alternative_answer_1": "49/60",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4490,
+        "question_text": "Order from smallest to largest: 2 1/4, 9/4, 2 3/8.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/4, 9/4, 2 3/8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4491,
+        "question_text": "Use a decimal conversion to decide which is larger: 3/8 or 0.4?",
+        "answer_type": "text_input",
+        "correct_answer": "0.4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4492,
+        "question_text": "A jug is 2/3 full. Another is 3/5 full. Which contains more?",
+        "answer_type": "text_input",
+        "correct_answer": "The jug that is 2/3 full",
+        "alternative_answer_1": "the first jug",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4493,
+        "question_text": "Correct the error in this ordering: 1 1/2, 1 3/5, 1 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/4 should be first",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4494,
+        "question_text": "Order from largest to smallest: 7/4, 1 2/3, 8/5.",
+        "answer_type": "text_input",
+        "correct_answer": "7/4, 1 2/3, 8/5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4495,
+        "question_text": "Which is closer to 1: 4/5 or 5/4?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4496,
+        "question_text": "Find a fraction with a denominator of 16 between 5/8 and 3/4.",
+        "answer_type": "text_input",
+        "correct_answer": "Nov-16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4497,
+        "question_text": "Order these from smallest to largest: 3/2, 1.6, 8/5.",
+        "answer_type": "text_input",
+        "correct_answer": "3/2, 1.6, 8/5",
+        "alternative_answer_1": "3/2, 8/5, 1.6",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4498,
+        "question_text": "A book is 5/8 of an inch thick. A notepad is 2/3 of an inch thick. Which is thicker?",
+        "answer_type": "text_input",
+        "correct_answer": "the notepad",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4499,
+        "question_text": "Order from smallest to largest: 13/12, 1 1/10, 11/9",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/10, 13/12, 11/9",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4500,
+        "question_text": "Use a decimal conversion to order these: 2/5, 0.5, 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "1/4, 2/5, 0.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4501,
+        "question_text": "Which is smaller, 17/10 or 1 2/3?",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4502,
+        "question_text": "Put in order of size, smallest first: 1 1/3, 1.3, 4/3",
+        "answer_type": "text_input",
+        "correct_answer": "1.3, 1 1/3, 4/3",
+        "alternative_answer_1": "1.3, 4/3, 1 1/3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4503,
+        "question_text": "Which is the largest value: 9/5, 1.75, 1 4/5?",
+        "answer_type": "text_input",
+        "correct_answer": "09-May",
+        "alternative_answer_1": "1 4/5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4504,
+        "question_text": "A container holds 5/3 litres. Is this more or less than 1.5 litres?",
+        "answer_type": "text_input",
+        "correct_answer": "more",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4505,
+        "question_text": "Order from smallest to largest: 7/8, 0.8, 4/5.",
+        "answer_type": "text_input",
+        "correct_answer": "0.8, 4/5, 7/8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4506,
+        "question_text": "Which is closer to 2: 9/5 or 12/5?",
+        "answer_type": "text_input",
+        "correct_answer": "09-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4507,
+        "question_text": "Find a decimal that is between 1/4 and 1/5.",
+        "answer_type": "text_input",
+        "correct_answer": "0.22",
+        "alternative_answer_1": "0.23",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4508,
+        "question_text": "A plank of wood is 1 3/4 metres long. Another is 1.8 metres long. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "The 1.8 metre plank",
+        "alternative_answer_1": "the second plank",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4509,
+        "question_text": "Which statement is incorrect? A) 1/2 > 1/3 B) 2/5 < 3/7 C) 3/4 > 4/5",
+        "answer_type": "text_input",
+        "correct_answer": "C",
+        "alternative_answer_1": "c",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4510,
+        "question_text": "Order these values from smallest to largest: 11/8, 1.3, 1 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/4, 1.3, 11/8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4511,
+        "question_text": "Justify your ordering of these fractions from smallest to largest: 3/5, 5/8, 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "2/3 is largest, 5/8 is middle, 3/5 is smallest",
+        "alternative_answer_1": "3/5, 5/8, 2/3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4512,
+        "question_text": "Team A won 4/5 of their matches. Team B won 5/6 of theirs. Which team has a better success rate?",
+        "answer_type": "text_input",
+        "correct_answer": "Team B",
+        "alternative_answer_1": "B",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4513,
+        "question_text": "Which is closer to 1/2: 2/5 or 3/7? Explain your reasoning.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4514,
+        "question_text": "A survey shows 3/8 of people prefer coffee and 2/5 prefer tea. Which is the more popular drink?",
+        "answer_type": "text_input",
+        "correct_answer": "Tea",
+        "alternative_answer_1": "tea",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4515,
+        "question_text": "Order these fractions by first comparing them to the benchmark of 1/2: 1/3, 5/8, 4/9, 7/10.",
+        "answer_type": "text_input",
+        "correct_answer": "1/3, 4/9, 5/8, 7/10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4516,
+        "question_text": "David has completed 11/15 of his homework. Sarah has completed 3/4. Who is further ahead?",
+        "answer_type": "text_input",
+        "correct_answer": "Sarah",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4517,
+        "question_text": "Which fraction is the greatest? 15/16, 19/20, or 29/30?",
+        "answer_type": "text_input",
+        "correct_answer": "29/30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4518,
+        "question_text": "Is 1 3/8 greater than 1.3? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4519,
+        "question_text": "A bucket is 4/7 full. A barrel is 5/9 full. Which container is proportionally fuller?",
+        "answer_type": "text_input",
+        "correct_answer": "The bucket",
+        "alternative_answer_1": "bucket",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4520,
+        "question_text": "Order these from smallest to largest: 9/8, 1.1, 1 1/9.",
+        "answer_type": "text_input",
+        "correct_answer": "1.1, 1 1/9, 9/8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4521,
+        "question_text": "A recipe calls for 2 1/3 cups of flour. You have 11/4 cups. Do you have enough?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4522,
+        "question_text": "What is the median (middle) value of this set: 2/3, 3/4, 4/5?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4523,
+        "question_text": "Two friends are reading the same book. One has read 5/9 of it. The other has read 6/11 of it. Who has read more?",
+        "answer_type": "text_input",
+        "correct_answer": "The first friend",
+        "alternative_answer_1": "the one who read 5/9",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4524,
+        "question_text": "Explain why 7/8 is larger than 6/7 without using decimals or a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "7/8 is only 1/8 away from 1, while 6/7 is 1/7 away. Since 1/8 is smaller than 1/7, 7/8 is closer to 1.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4525,
+        "question_text": "A builder needs a piece of wood that is 3/5 of a metre long. He has a piece that is 2/3 of a metre. Is his piece long enough?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4526,
+        "question_text": "Find the largest fraction: 1 5/8, 1 3/5, 1 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4527,
+        "question_text": "A phone battery is at 2/5 capacity. A tablet is at 3/8 capacity. Which device has a lower battery level?",
+        "answer_type": "text_input",
+        "correct_answer": "The tablet",
+        "alternative_answer_1": "tablet",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4528,
+        "question_text": "Place these in ascending order: 1.6, 1 2/3, 8/5.",
+        "answer_type": "text_input",
+        "correct_answer": "8/5, 1.6, 1 2/3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4529,
+        "question_text": "Company A stock went up by 3/7. Company B stock went up by 4/9. Which company had a better day?",
+        "answer_type": "text_input",
+        "correct_answer": "Company B",
+        "alternative_answer_1": "B",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4530,
+        "question_text": "Which is smaller: 19/10 or 1 5/6?",
+        "answer_type": "text_input",
+        "correct_answer": "1 5/6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4531,
+        "question_text": "Which is the smallest fraction that is greater than 1/2? 3/5, 4/7, 5/9, 6/11.",
+        "answer_type": "text_input",
+        "correct_answer": "06-Nov",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4532,
+        "question_text": "A car travels 3/4 of a journey. A lorry travels 4/5 of the same journey. Which has travelled less?",
+        "answer_type": "text_input",
+        "correct_answer": "The car",
+        "alternative_answer_1": "car",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4533,
+        "question_text": "Which is closer to 0? 1/8 or 1/9?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4534,
+        "question_text": "If you add 1/10 to 3/5, is the result greater than 2/3?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    },
+    {
+        "question_id": 4535,
+        "question_text": "Order from greatest to smallest: 1 1/8, 1 2/15, 1.2",
+        "answer_type": "text_input",
+        "correct_answer": "1.2, 1 2/15, 1 1/8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 111
+    }
+]

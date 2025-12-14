@@ -1,0 +1,6002 @@
+[
+    {
+        "question_id": 12883,
+        "question_text": "A box is a cuboid with sides of 10cm, 5cm, and 2cm. Which formula would you use to calculate its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Volume = length x width x height",
+        "alternative_answer_1": "length x width x height",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14183,
+        "question_text": "A floor is tiled with square tiles. To find the area, is it better to count the tiles or guess the number?",
+        "answer_type": "text_input",
+        "correct_answer": "Count the tiles",
+        "alternative_answer_1": "Count",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14184,
+        "question_text": "You have a rectangular piece of paper. What two measurements do you need to find its area?",
+        "answer_type": "text_input",
+        "correct_answer": "Length and width",
+        "alternative_answer_1": "The length and the width",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14185,
+        "question_text": "To find the area of a rectangle, you multiply its length by its what?",
+        "answer_type": "text_input",
+        "correct_answer": "width",
+        "alternative_answer_1": "Width",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14186,
+        "question_text": "A solid block is built from small, identical cubes. What is the most direct way to find its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Count the cubes",
+        "alternative_answer_1": "Count them",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14187,
+        "question_text": "What is the name for the amount of space inside a flat, 2D shape like a square?",
+        "answer_type": "text_input",
+        "correct_answer": "Area",
+        "alternative_answer_1": "area",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14188,
+        "question_text": "What is the name for the amount of space a 3D object like a box takes up?",
+        "answer_type": "text_input",
+        "correct_answer": "Volume",
+        "alternative_answer_1": "volume",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14189,
+        "question_text": "If you want to know how much wrapping paper you need for a gift box, are you interested in its area or its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Area",
+        "alternative_answer_1": "Surface area",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14190,
+        "question_text": "If you want to know how many sweets can fit inside a jar, are you interested in its area or its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Volume",
+        "alternative_answer_1": "volume",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14191,
+        "question_text": "Which of these is a formula for area: length + width or length x width?",
+        "answer_type": "text_input",
+        "correct_answer": "length x width",
+        "alternative_answer_1": "length multiplied by width",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14192,
+        "question_text": "A cuboid has three dimensions: length, width, and what else?",
+        "answer_type": "text_input",
+        "correct_answer": "height",
+        "alternative_answer_1": "Height",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14193,
+        "question_text": "Can you find the volume of a flat piece of cardboard using a formula?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14194,
+        "question_text": "Does the formula length x width work for finding the area of a shape with curved sides?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14195,
+        "question_text": "To find the volume of a cuboid, what do you do with the length, width, and height measurements?",
+        "answer_type": "text_input",
+        "correct_answer": "Multiply them",
+        "alternative_answer_1": "Multiply",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14196,
+        "question_text": "A square garden needs new turf. To work out how much turf to buy, do you need to calculate the area or the volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Area",
+        "alternative_answer_1": "area",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14197,
+        "question_text": "A solid chocolate bar is a cuboid. Would you calculate its area or volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Volume",
+        "alternative_answer_1": "volume",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14198,
+        "question_text": "What two properties are multiplied together in the area formula for a rectangle?",
+        "answer_type": "text_input",
+        "correct_answer": "Length and width",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14199,
+        "question_text": "Is it possible to use the formula length x width to find the area of a shape with 5 sides?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14200,
+        "question_text": "You have a rectangular photo frame. What two measurements do you need to find the area of the photo it can hold?",
+        "answer_type": "text_input",
+        "correct_answer": "Length and width",
+        "alternative_answer_1": "The length and width of the opening",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14201,
+        "question_text": "A box is a cube. All its edges are the same length. If you know the length of one edge, can you find its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14202,
+        "question_text": "A builder is ordering concrete for a rectangular foundation. Should he order in square metres or cubic metres?",
+        "answer_type": "text_input",
+        "correct_answer": "Cubic metres",
+        "alternative_answer_1": "cubic metres",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14203,
+        "question_text": "To find out how many squares are on a chessboard, you can count them all. What formula could you also use?",
+        "answer_type": "text_input",
+        "correct_answer": "length x width",
+        "alternative_answer_1": "side x side",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14204,
+        "question_text": "Which shape's volume can be found with the formula length x width x height: a ball or a box?",
+        "answer_type": "text_input",
+        "correct_answer": "A box",
+        "alternative_answer_1": "Box",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14205,
+        "question_text": "You are painting a rectangular door. Do you need to know its area or its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Area",
+        "alternative_answer_1": "area",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14206,
+        "question_text": "Does multiplying the length and width of a triangle give you its correct area?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14207,
+        "question_text": "To find the volume of a fish tank, you need its length, width, and what other measurement?",
+        "answer_type": "text_input",
+        "correct_answer": "Height",
+        "alternative_answer_1": "height",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14209,
+        "question_text": "A tin of beans is a cylinder. Is it possible to find its volume by measuring its height and width?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14984,
+        "question_text": "Calculate six squared (6²).",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14985,
+        "question_text": "Find the value of 1³.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14986,
+        "question_text": "What is the value of 8 squared (8²)?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14987,
+        "question_text": "Calculate 2³ (two cubed).",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14988,
+        "question_text": "How much is 10 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14989,
+        "question_text": "Calculate the value of 3 cubed (3³).",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14990,
+        "question_text": "Which of these is a cube number: 4 or 8?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14992,
+        "question_text": "Classify the number 25: is it a square number, a cube number, or both?",
+        "answer_type": "text_input",
+        "correct_answer": "Square number",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14993,
+        "question_text": "Explain the meaning of 2³.",
+        "answer_type": "text_input",
+        "correct_answer": "2 x 2 x 2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14994,
+        "question_text": "What is the value of 9 squared (9²)?",
+        "answer_type": "text_input",
+        "correct_answer": "81",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14995,
+        "question_text": "The number 64 is a square number (8²). Is 64 also a cube number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14996,
+        "question_text": "What is the next square number after 36?",
+        "answer_type": "text_input",
+        "correct_answer": "49",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14997,
+        "question_text": "What is the next cube number after 8?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14998,
+        "question_text": "What is the product of 7 and 7?",
+        "answer_type": "text_input",
+        "correct_answer": "49",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 14999,
+        "question_text": "A small box has a side length of 2cm and a volume of 8 cm³. Is the number 8 considered a cube number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15001,
+        "question_text": "Is the number 10 a square number or a cube number? Explain why.",
+        "answer_type": "text_input",
+        "correct_answer": "Neither",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15002,
+        "question_text": "What is 4 multiplied by 4 multiplied by 4?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15003,
+        "question_text": "What is the next number in this sequence of square numbers: 25, 36, 49, __?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15004,
+        "question_text": "What is the result of 12 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "144",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15005,
+        "question_text": "Classify 27: is it a square number, a cube number, or neither?",
+        "answer_type": "text_input",
+        "correct_answer": "Cube number",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15006,
+        "question_text": "What is the value of 3³?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15009,
+        "question_text": "What is the value of 12²?",
+        "answer_type": "text_input",
+        "correct_answer": "144",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15010,
+        "question_text": "What is 4 cubed (4³)?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15011,
+        "question_text": "Find the product of 12 and 13.",
+        "answer_type": "text_input",
+        "correct_answer": "156",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15012,
+        "question_text": "What is the value of 6 cubed?",
+        "answer_type": "text_input",
+        "correct_answer": "216",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15013,
+        "question_text": "What is the sum of 5² and 2²?",
+        "answer_type": "text_input",
+        "correct_answer": "29",
+        "alternative_answer_1": "Twenty-nine",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15014,
+        "question_text": "What is the difference between 6² and 3²?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "Twenty-seven",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15015,
+        "question_text": "Classify the number 100: is it a square number, a cube number, or both?",
+        "answer_type": "text_input",
+        "correct_answer": "Square number",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15016,
+        "question_text": "Calculate: 10 squared minus 6 squared.",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15017,
+        "question_text": "What is the value of 2³ + 3³?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15018,
+        "question_text": "Which square number comes immediately after 100?",
+        "answer_type": "text_input",
+        "correct_answer": "121",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15019,
+        "question_text": "Find the next cube number in the sequence: 1, 8, 27, __.",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15020,
+        "question_text": "What is the value of 12 squared (12²)?",
+        "answer_type": "text_input",
+        "correct_answer": "144",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15021,
+        "question_text": "What is 6³?",
+        "answer_type": "text_input",
+        "correct_answer": "216",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15022,
+        "question_text": "What number, when squared, equals 144?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15023,
+        "question_text": "What number, when cubed, equals 125?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15024,
+        "question_text": "What is the sum of the first four cube numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "One hundred",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15025,
+        "question_text": "Calculate the difference between 10 squared and 10.",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15026,
+        "question_text": "Classify the number 144: is it a square number, a cube number, or neither?",
+        "answer_type": "text_input",
+        "correct_answer": "Square number",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15027,
+        "question_text": "If a square garden has an area of 121 m², what is the length of one of its sides?",
+        "answer_type": "text_input",
+        "correct_answer": "11m",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15028,
+        "question_text": "If a cubic box has a volume of 125 cm³, what is the measurement of one of its edges?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15029,
+        "question_text": "Calculate 2³ + 3².",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "Seventeen",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15030,
+        "question_text": "What is the only number that is both a square and a cube number between 1 and 100, other than 1?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15031,
+        "question_text": "Calculate: 5 cubed minus 5 squared.",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15032,
+        "question_text": "Identify all square numbers that are greater than 50 but less than 100.",
+        "answer_type": "text_input",
+        "correct_answer": "64, 81",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15033,
+        "question_text": "What is the only cube number between 100 and 200?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15034,
+        "question_text": "Which two different square numbers sum to 85?",
+        "answer_type": "text_input",
+        "correct_answer": "36 and 49",
+        "alternative_answer_1": "49 and 36",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15035,
+        "question_text": "What is the value of (4³ - 3³) x 2²?",
+        "answer_type": "text_input",
+        "correct_answer": "148",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15036,
+        "question_text": "A large cube is built using 125 smaller cubes. How many smaller cubes would you see on one face of the large cube?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15037,
+        "question_text": "Find two consecutive square numbers whose difference is 23.",
+        "answer_type": "text_input",
+        "correct_answer": "121 and 144",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15038,
+        "question_text": "What is the value of 10³ divided by 10²?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15039,
+        "question_text": "Identify the number between 50 and 70 that is both a square number and a cube number.",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15040,
+        "question_text": "If a cube has a total surface area of 24 cm², what is its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "8 cm³",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15041,
+        "question_text": "Evaluate the expression: (1 squared + 2 squared + 3 squared) multiplied by 2.",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15042,
+        "question_text": "Identify three distinct cube numbers that, when added together, equal 36.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 8, 27",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15043,
+        "question_text": "A rectangular field has a perimeter of 48m and a length of 15m. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "135m^2",
+        "alternative_answer_1": "135",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15044,
+        "question_text": "Calculate 5³ - 7².",
+        "answer_type": "text_input",
+        "correct_answer": "76",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15045,
+        "question_text": "A sequence consists of square numbers. If the 5th number is 25, what is the 10th number in this sequence?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15046,
+        "question_text": "A water tank is a cube with a volume of 27 m³. What is the area of its base?",
+        "answer_type": "text_input",
+        "correct_answer": "9 m²",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15047,
+        "question_text": "What is the sum of all the square numbers up to and including 6²?",
+        "answer_type": "text_input",
+        "correct_answer": "91",
+        "alternative_answer_1": "Ninety-one",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15048,
+        "question_text": "If 12 squared is 144, what is the value of 12 cubed (12³)?",
+        "answer_type": "text_input",
+        "correct_answer": "1728",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15049,
+        "question_text": "If one square number is 81, and the difference between it and another square number is 19, what is the other square number?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15050,
+        "question_text": "Evaluate: (5 squared minus 3 squared) divided by 2 cubed.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15051,
+        "question_text": "A square has a perimeter of 60cm. What is its area in cm²?",
+        "answer_type": "text_input",
+        "correct_answer": "225cm^2",
+        "alternative_answer_1": "225",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15052,
+        "question_text": "If a cube has a volume of 64 cm³, calculate its total surface area.",
+        "answer_type": "text_input",
+        "correct_answer": "96 cm²",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15053,
+        "question_text": "Calculate 10² + 6³.",
+        "answer_type": "text_input",
+        "correct_answer": "316",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15054,
+        "question_text": "Find two square numbers that add up to 50.",
+        "answer_type": "text_input",
+        "correct_answer": "1 and 49",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15055,
+        "question_text": "What is the sum of 5² and 12²?",
+        "answer_type": "text_input",
+        "correct_answer": "169",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15056,
+        "question_text": "A square room has an area of 144 m². Carpet costs £10 per square metre. What is the total cost to carpet the room?",
+        "answer_type": "text_input",
+        "correct_answer": "1440",
+        "alternative_answer_1": "£1440",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15057,
+        "question_text": "What is the value of 10³ - 5³?",
+        "answer_type": "text_input",
+        "correct_answer": "875",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 15058,
+        "question_text": "Find two cube numbers that have a sum of 35.",
+        "answer_type": "text_input",
+        "correct_answer": "8 and 27",
+        "alternative_answer_1": "27 and 8",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 18950,
+        "question_text": "Is the number 7 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18951,
+        "question_text": "Is the number 6 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18952,
+        "question_text": "A number that has more than two factors is called a ______ number.",
+        "answer_type": "text_input",
+        "correct_answer": "composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18953,
+        "question_text": "Is the number 9 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18954,
+        "question_text": "Is the number 5 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18955,
+        "question_text": "A number that has exactly two factors (1 and itself) is called a ______ number.",
+        "answer_type": "text_input",
+        "correct_answer": "prime",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18956,
+        "question_text": "Is the number 4 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18957,
+        "question_text": "How many factors does the number 3 have?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18958,
+        "question_text": "Is the number 2 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18959,
+        "question_text": "Is the number 10 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18960,
+        "question_text": "How many factors does the number 8 have?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18961,
+        "question_text": "True or False: The number 1 is a prime number.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18962,
+        "question_text": "Which word describes a number with factors other than 1 and itself?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18963,
+        "question_text": "Is the number 3 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18964,
+        "question_text": "Is the number 8 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18965,
+        "question_text": "How many factors does a prime number have?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Exactly 2",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18966,
+        "question_text": "List the factors of 4.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18967,
+        "question_text": "List the factors of 9.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 3, 9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18968,
+        "question_text": "List the factors of 10.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 5, 10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18969,
+        "question_text": "True or False: The number 7 is a composite number.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18970,
+        "question_text": "What is the smallest prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18971,
+        "question_text": "What is the smallest composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18972,
+        "question_text": "Is the number that comes after 6 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18973,
+        "question_text": "Is the number that comes before 10 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18974,
+        "question_text": "List the factors of 5.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18975,
+        "question_text": "Is the number 13 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18976,
+        "question_text": "Is the number 15 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18977,
+        "question_text": "List all the prime numbers less than 10.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3, 5, 7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18978,
+        "question_text": "What are the prime factors of 6?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3",
+        "alternative_answer_1": "2 and 3",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18979,
+        "question_text": "Is the number 19 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18980,
+        "question_text": "Is the number 12 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18981,
+        "question_text": "What are the prime factors of 10?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 5",
+        "alternative_answer_1": "2 and 5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18982,
+        "question_text": "Which of these numbers is prime: 14, 15, 16, 17?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18983,
+        "question_text": "List the factors of 14. Which of them are prime factors?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 7",
+        "alternative_answer_1": "2 and 7",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18984,
+        "question_text": "Is the number 20 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18985,
+        "question_text": "What are the prime factors of 15?",
+        "answer_type": "text_input",
+        "correct_answer": "3, 5",
+        "alternative_answer_1": "3 and 5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18986,
+        "question_text": "Is 11 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18987,
+        "question_text": "List all the composite numbers between 10 and 15.",
+        "answer_type": "text_input",
+        "correct_answer": "12, 14",
+        "alternative_answer_1": "12 and 14",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18988,
+        "question_text": "A factor of 18 is 3. Is 3 a prime factor?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18989,
+        "question_text": "Is the number 18 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18990,
+        "question_text": "Which of these numbers is composite: 11, 13, 16, 19?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18991,
+        "question_text": "What are the two prime factors of 14?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 7",
+        "alternative_answer_1": "2 and 7",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18992,
+        "question_text": "Is the number 14 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18993,
+        "question_text": "What is the largest prime number less than 20?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18994,
+        "question_text": "A factor of 20 is 5. Is 5 a prime factor?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18995,
+        "question_text": "List the factors of 16. Which of these factors is prime?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18996,
+        "question_text": "Is the number 16 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18997,
+        "question_text": "List the two prime numbers between 10 and 15.",
+        "answer_type": "text_input",
+        "correct_answer": "11, 13",
+        "alternative_answer_1": "11 and 13",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18998,
+        "question_text": "What is the smallest prime number greater than 10?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 18999,
+        "question_text": "What are the prime factors of 21?",
+        "answer_type": "text_input",
+        "correct_answer": "3, 7",
+        "alternative_answer_1": "3 and 7",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19000,
+        "question_text": "What are the prime factors of 12?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3",
+        "alternative_answer_1": "2 and 3",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19001,
+        "question_text": "Is the number 29 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19002,
+        "question_text": "Break the number 20 down into its prime factors.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 2, 5",
+        "alternative_answer_1": "2 x 2 x 5",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19003,
+        "question_text": "List all the prime numbers between 20 and 30.",
+        "answer_type": "text_input",
+        "correct_answer": "23, 29",
+        "alternative_answer_1": "23 and 29",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19004,
+        "question_text": "What are the prime factors of 30?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3, 5",
+        "alternative_answer_1": "2 x 3 x 5",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19005,
+        "question_text": "Is the number 33 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19006,
+        "question_text": "The prime factors of a number are 2, 3, and 3. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19007,
+        "question_text": "Which of these numbers is prime: 31, 32, 33, 34?",
+        "answer_type": "text_input",
+        "correct_answer": "31",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19008,
+        "question_text": "Find the prime factors of 24.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 2, 2, 3",
+        "alternative_answer_1": "2 x 2 x 2 x 3",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19009,
+        "question_text": "Is the number 49 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19010,
+        "question_text": "The prime factors of a number are 2, 2, and 7. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19011,
+        "question_text": "List all the prime numbers between 30 and 40.",
+        "answer_type": "text_input",
+        "correct_answer": "31, 37",
+        "alternative_answer_1": "31 and 37",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19012,
+        "question_text": "What are the prime factors of 28?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 2, 7",
+        "alternative_answer_1": "2 x 2 x 7",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19013,
+        "question_text": "Is the number 43 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19014,
+        "question_text": "The prime factors of a number are 3 and 5. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19015,
+        "question_text": "Which of these numbers is composite: 41, 43, 45, 47?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19016,
+        "question_text": "Find the prime factors of 18.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3, 3",
+        "alternative_answer_1": "2 x 3 x 3",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19017,
+        "question_text": "Is the number 27 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19018,
+        "question_text": "The prime factors of a number are 2 and 13. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "26",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19019,
+        "question_text": "What is the largest prime number less than 50?",
+        "answer_type": "text_input",
+        "correct_answer": "47",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19020,
+        "question_text": "Break 25 down into its prime factors.",
+        "answer_type": "text_input",
+        "correct_answer": "5, 5",
+        "alternative_answer_1": "5 x 5",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19021,
+        "question_text": "Is the number 39 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19022,
+        "question_text": "The prime factors of a number are 2, 5, and 5. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19023,
+        "question_text": "List all the prime numbers between 40 and 50.",
+        "answer_type": "text_input",
+        "correct_answer": "41, 43, 47",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19024,
+        "question_text": "What are the prime factors of 22?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 11",
+        "alternative_answer_1": "2 and 11",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19025,
+        "question_text": "What are the prime factors of 48?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 2, 2, 2, 3",
+        "alternative_answer_1": "2x2x2x2x3",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19026,
+        "question_text": "Is the number 91 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19027,
+        "question_text": "Why is 2 the only even prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "All other even numbers are divisible by 2",
+        "alternative_answer_1": "All other evens have 2 as a factor",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19028,
+        "question_text": "Find the prime factors of 75.",
+        "answer_type": "text_input",
+        "correct_answer": "3, 5, 5",
+        "alternative_answer_1": "3x5x5",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19029,
+        "question_text": "A number has prime factors of 2, 3, and 11. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "66",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19030,
+        "question_text": "Break 100 down into its prime factors.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 2, 5, 5",
+        "alternative_answer_1": "2x2x5x5",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19031,
+        "question_text": "Is the number 87 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19032,
+        "question_text": "Why can no prime number (other than 5) end in a 5?",
+        "answer_type": "text_input",
+        "correct_answer": "It would be divisible by 5",
+        "alternative_answer_1": "It would have 5 as a factor",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19033,
+        "question_text": "What are the prime factors of 56?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 2, 2, 7",
+        "alternative_answer_1": "2x2x2x7",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19034,
+        "question_text": "What is the next prime number after 60?",
+        "answer_type": "text_input",
+        "correct_answer": "61",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19035,
+        "question_text": "The prime factors of a number are 2, 2, 2, and 5. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19036,
+        "question_text": "Find the prime factors of 99.",
+        "answer_type": "text_input",
+        "correct_answer": "3, 3, 11",
+        "alternative_answer_1": "3x3x11",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19037,
+        "question_text": "Is the number 51 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19038,
+        "question_text": "What is the largest prime factor of 30?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19039,
+        "question_text": "Find the prime factors of 72.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 2, 2, 3, 3",
+        "alternative_answer_1": "2x2x2x3x3",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19040,
+        "question_text": "A number's prime factors are the first three prime numbers. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19041,
+        "question_text": "Is the number 67 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19042,
+        "question_text": "What are the prime factors of 90?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3, 3, 5",
+        "alternative_answer_1": "2x3x3x5",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19043,
+        "question_text": "List two prime numbers that sum to 20.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 17",
+        "alternative_answer_1": "3 and 17",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19044,
+        "question_text": "What is the largest prime factor that 42 and 70 have in common?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19045,
+        "question_text": "The prime factors of a number are 2, 2, and 23. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "92",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19046,
+        "question_text": "Is the number 57 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19047,
+        "question_text": "What is the smallest prime number greater than 80?",
+        "answer_type": "text_input",
+        "correct_answer": "83",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19048,
+        "question_text": "Find the prime factors of 60.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 2, 3, 5",
+        "alternative_answer_1": "2x2x3x5",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19049,
+        "question_text": "Find two prime numbers with a difference of 2. (This is called a prime pair).",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 5",
+        "alternative_answer_1": "5 and 7",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 420
+    },
+    {
+        "question_id": 19150,
+        "question_text": "List the first three multiples of 2.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 4, 6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19151,
+        "question_text": "List the first three multiples of 5.",
+        "answer_type": "text_input",
+        "correct_answer": "5, 10, 15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19152,
+        "question_text": "List the first three multiples of 10.",
+        "answer_type": "text_input",
+        "correct_answer": "10, 20, 30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19153,
+        "question_text": "Is 8 a multiple of 2? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19154,
+        "question_text": "Is 12 a multiple of 5? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19155,
+        "question_text": "What is the next multiple of 10 after 40?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19156,
+        "question_text": "Find the factor pair for 12 that includes the number 3.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 4",
+        "alternative_answer_1": "3, 4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19157,
+        "question_text": "Find the factor pair for 15 that includes the number 5.",
+        "answer_type": "text_input",
+        "correct_answer": "5 and 3",
+        "alternative_answer_1": "5, 3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19158,
+        "question_text": "Find the factor pair for 20 that includes the number 2.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 10",
+        "alternative_answer_1": "2, 10",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19159,
+        "question_text": "Find the factor pair for 18 that includes the number 6.",
+        "answer_type": "text_input",
+        "correct_answer": "6 and 3",
+        "alternative_answer_1": "6, 3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19160,
+        "question_text": "Is 4 a factor of 16? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19161,
+        "question_text": "Is 3 a factor of 10? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19162,
+        "question_text": "What are the two factors in the pair for 14?",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 7",
+        "alternative_answer_1": "2, 7",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19163,
+        "question_text": "What is the factor that pairs with 1 for the number 19?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19164,
+        "question_text": "What is the factor that pairs with 2 for the number 16?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19165,
+        "question_text": "Which of these is a multiple of 5? 12, 15, 18.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19166,
+        "question_text": "Which of these is a multiple of 2? 9, 10, 11.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19167,
+        "question_text": "Which of these is a factor of 20? 6, 8, 4.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19168,
+        "question_text": "Which of these is a factor of 18? 4, 9, 8.",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19169,
+        "question_text": "List two factor pairs for 12.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 6, 3 and 4",
+        "alternative_answer_1": "2,6,3,4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19170,
+        "question_text": "What is the fifth multiple of 2?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19171,
+        "question_text": "What is the fourth multiple of 5?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19172,
+        "question_text": "Find the missing factor: 4 x __ = 20.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19173,
+        "question_text": "Find the missing factor: 3 x __ = 18.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19174,
+        "question_text": "What is the second multiple of 10?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19175,
+        "question_text": "List the first five multiples of 3.",
+        "answer_type": "text_input",
+        "correct_answer": "3, 6, 9, 12, 15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19176,
+        "question_text": "List the first five multiples of 4.",
+        "answer_type": "text_input",
+        "correct_answer": "4, 8, 12, 16, 20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19177,
+        "question_text": "List the first five multiples of 8.",
+        "answer_type": "text_input",
+        "correct_answer": "8, 16, 24, 32, 40",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19178,
+        "question_text": "List all the factor pairs for the number 30.",
+        "answer_type": "text_input",
+        "correct_answer": "1x30, 2x15, 3x10, 5x6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19179,
+        "question_text": "List all the factor pairs for the number 40.",
+        "answer_type": "text_input",
+        "correct_answer": "1x40, 2x20, 4x10, 5x8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19180,
+        "question_text": "List all the factor pairs for the number 32.",
+        "answer_type": "text_input",
+        "correct_answer": "1x32, 2x16, 4x8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19181,
+        "question_text": "What are the common factors of 12 and 18?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19182,
+        "question_text": "What are the common factors of 20 and 30?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 5, 10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19183,
+        "question_text": "What are the common factors of 16 and 24?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 4, 8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19184,
+        "question_text": "Is 45 a multiple of 9? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19185,
+        "question_text": "Is 35 a multiple of 6? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19186,
+        "question_text": "Find the missing factor: 7 x __ = 49.",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19187,
+        "question_text": "Find the missing factor: __ x 6 = 48.",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19188,
+        "question_text": "What are all the factors of 25?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 5, 25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19189,
+        "question_text": "What are all the factors of 42?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 6, 7, 14, 21, 42",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19190,
+        "question_text": "What is the seventh multiple of 4?",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19191,
+        "question_text": "What is the ninth multiple of 3?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19192,
+        "question_text": "Find a number that has 4 and 5 as factors.",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "40",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19193,
+        "question_text": "What is the largest factor of 50 that isn't 50?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19194,
+        "question_text": "List all the factor pairs for 45.",
+        "answer_type": "text_input",
+        "correct_answer": "1x45, 3x15, 5x9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19195,
+        "question_text": "Which of these numbers is a common factor of 15 and 20? 3, 4, or 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19196,
+        "question_text": "What is the eighth multiple of 5?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19197,
+        "question_text": "Find the factor pair for 49.",
+        "answer_type": "text_input",
+        "correct_answer": "7 and 7",
+        "alternative_answer_1": "7, 7",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19198,
+        "question_text": "List all the factors of 35.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 5, 7, 35",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19199,
+        "question_text": "What is the tenth multiple of 9?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19200,
+        "question_text": "List all the factors for the number 60.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19201,
+        "question_text": "List all the factors for the number 75.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 3, 5, 15, 25, 75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19202,
+        "question_text": "List all the factors for the number 90.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 5, 6, 9, 10, 15, 18, 30, 45, 90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19203,
+        "question_text": "What are the common factors of 40 and 50?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 5, 10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19204,
+        "question_text": "What are the common factors of 36 and 48?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 4, 6, 12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19205,
+        "question_text": "What are the common factors of 50 and 100?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 5, 10, 25, 50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19206,
+        "question_text": "What is the highest common factor of 28 and 35?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19207,
+        "question_text": "What is the highest common factor of 60 and 80?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19208,
+        "question_text": "What is the highest common factor of 54 and 72?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19209,
+        "question_text": "A rectangle has an area of 36 square cm. What are the possible whole number lengths of its sides?",
+        "answer_type": "text_input",
+        "correct_answer": "1x36, 2x18, 3x12, 4x9, 6x6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19210,
+        "question_text": "A teacher has 24 red sweets and 30 blue sweets. She wants to put them into bags so that each bag has the same number of red sweets and the same number of blue sweets. What is the greatest number of bags she can make?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19211,
+        "question_text": "List all the factor pairs for the number 81.",
+        "answer_type": "text_input",
+        "correct_answer": "1x81, 3x27, 9x9",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19212,
+        "question_text": "List all the factor pairs for the number 96.",
+        "answer_type": "text_input",
+        "correct_answer": "1x96, 2x48, 3x32, 4x24, 6x16, 8x12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19213,
+        "question_text": "Find a number between 40 and 60 that has 7 as a factor.",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "49",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19214,
+        "question_text": "Find a number under 50 that is a multiple of both 6 and 8.",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "48",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19215,
+        "question_text": "What are all the factors of 64?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 4, 8, 16, 32, 64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19216,
+        "question_text": "What are all the factors of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 4, 5, 10, 20, 25, 50, 100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19217,
+        "question_text": "What is the 15th multiple of 5?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19218,
+        "question_text": "What is the 12th multiple of 8?",
+        "answer_type": "text_input",
+        "correct_answer": "96",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19219,
+        "question_text": "The number 48 is a multiple of which of these numbers? 5, 6, 7.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19220,
+        "question_text": "The number 7 is a factor of which of these numbers? 48, 49, 50.",
+        "answer_type": "text_input",
+        "correct_answer": "49",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19221,
+        "question_text": "Which of these is a factor of both 40 and 60? 8, 12, 20.",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19222,
+        "question_text": "List all the numbers up to 50 that are multiples of both 4 and 5.",
+        "answer_type": "text_input",
+        "correct_answer": "20, 40",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19223,
+        "question_text": "What is the highest common factor of 45 and 75?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19224,
+        "question_text": "What is the highest common factor of 32 and 48?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19225,
+        "question_text": "The product of two numbers is 60 and their sum is 17. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "5 and 12",
+        "alternative_answer_1": "5, 12",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19226,
+        "question_text": "The product of two numbers is 48 and their difference is 8. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "4 and 12",
+        "alternative_answer_1": "4, 12",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19227,
+        "question_text": "Two numbers have a highest common factor of 8. Their sum is 40. What could the numbers be?",
+        "answer_type": "text_input",
+        "correct_answer": "8 and 32",
+        "alternative_answer_1": "16 and 24",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19228,
+        "question_text": "Two numbers are both multiples of 6. Their product is 72. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "6 and 12",
+        "alternative_answer_1": "6, 12",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19229,
+        "question_text": "I am a number between 50 and 60. I am a multiple of 7. I am not a multiple of 3. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "56",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19230,
+        "question_text": "A number's factors are 1, 2, 3, 4, 6, 8, 12, 16, 24, 48. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "48",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19231,
+        "question_text": "A number has a factor of 9. Is it guaranteed to also have a factor of 3? Explain why.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, because 3 is a factor of 9.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19232,
+        "question_text": "Find the highest common factor of 72 and 96.",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19233,
+        "question_text": "Find the highest common factor of 60, 75, and 100.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19234,
+        "question_text": "Two numbers have a highest common factor of 12. One number is 36. What is the smallest the other number could be (not including 12)?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19235,
+        "question_text": "Pens are sold in packs of 6. Pencils are sold in packs of 8. I want to buy the same number of pens and pencils. What is the smallest number of each I can buy?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19236,
+        "question_text": "I am thinking of a number. It is a multiple of 12. It is a factor of 72. It is greater than 20. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "36",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19237,
+        "question_text": "What is the smallest number that has 2, 3, and 5 as factors?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19238,
+        "question_text": "A number is a multiple of 4. If you add 1 to it, it becomes a multiple of 5. What could the number be?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "24",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19239,
+        "question_text": "The number of children in a class is between 20 and 30. When put into groups of 3 there is one left over. When put into groups of 4 there is one left over. How many children are in the class?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19240,
+        "question_text": "Find the factors of 81.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 3, 9, 27, 81",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19241,
+        "question_text": "Find all the factor pairs of 98.",
+        "answer_type": "text_input",
+        "correct_answer": "1x98, 2x49, 7x14",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19242,
+        "question_text": "Is 8 a factor of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19243,
+        "question_text": "What is the 10th multiple of 4?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "Forty",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19244,
+        "question_text": "A number has exactly two factors. What type of number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "A prime number",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19245,
+        "question_text": "A number has an odd number of factors. What must be true about this number?",
+        "answer_type": "text_input",
+        "correct_answer": "It is a square number",
+        "alternative_answer_1": "Square number",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19246,
+        "question_text": "The product of my age and my brother's age is 36. I am older than him. We are both under 15. What are our ages?",
+        "answer_type": "text_input",
+        "correct_answer": "9 and 4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19247,
+        "question_text": "What is the highest common factor of 80 and 100?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19248,
+        "question_text": "A number is a multiple of 9. It is between 80 and 90. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "81",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19249,
+        "question_text": "Find a number that is a multiple of 2, 4, and 8.",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "16",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 83
+    },
+    {
+        "question_id": 19852,
+        "question_text": "List the factors of 12.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 4, 6, 12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19853,
+        "question_text": "List the factors of 15.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 3, 5, 15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19854,
+        "question_text": "List the factors of 20.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 4, 5, 10, 20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19855,
+        "question_text": "List the first three multiples of 4.",
+        "answer_type": "text_input",
+        "correct_answer": "4, 8, 12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19856,
+        "question_text": "List the first three multiples of 6.",
+        "answer_type": "text_input",
+        "correct_answer": "6, 12, 18",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19857,
+        "question_text": "List the first three multiples of 9.",
+        "answer_type": "text_input",
+        "correct_answer": "9, 18, 27",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19858,
+        "question_text": "Is 2 a prime number? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19859,
+        "question_text": "Is 4 a prime number? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19860,
+        "question_text": "Is 5 a prime number? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19861,
+        "question_text": "Is 9 a prime number? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19862,
+        "question_text": "Which of these numbers is prime: 6, 7, 8?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19863,
+        "question_text": "Which of these numbers is prime: 9, 10, 11?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19864,
+        "question_text": "What are the factors of 10?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 5, 10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19865,
+        "question_text": "What are the factors of 14?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 7, 14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19866,
+        "question_text": "What are the first two multiples of 7?",
+        "answer_type": "text_input",
+        "correct_answer": "7, 14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19867,
+        "question_text": "What are the first two multiples of 8?",
+        "answer_type": "text_input",
+        "correct_answer": "8, 16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19868,
+        "question_text": "Identify the prime number that is less than all others.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19869,
+        "question_text": "Is 1 a prime number? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19870,
+        "question_text": "List the two factors of 3.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19871,
+        "question_text": "List the two factors of 5.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19872,
+        "question_text": "List the prime numbers up to 10.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3, 5, 7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19873,
+        "question_text": "What is the third multiple of 5?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19874,
+        "question_text": "What is the third multiple of 8?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19875,
+        "question_text": "Is 18 a multiple of 3?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19876,
+        "question_text": "Is 25 a multiple of 4?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19877,
+        "question_text": "List all the factors of 36.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 4, 6, 9, 12, 18, 36",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19878,
+        "question_text": "List all the factors of 48.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 4, 6, 8, 12, 16, 24, 48",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19879,
+        "question_text": "List the first five multiples of 12.",
+        "answer_type": "text_input",
+        "correct_answer": "12, 24, 36, 48, 60",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19880,
+        "question_text": "List the prime numbers between 10 and 20.",
+        "answer_type": "text_input",
+        "correct_answer": "11, 13, 17, 19",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19881,
+        "question_text": "List the common factors of 12 and 18.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19882,
+        "question_text": "List the common factors shared by 20 and 30.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 5, 10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19883,
+        "question_text": "Find a common multiple of 2 and 3 that is less than 10.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19884,
+        "question_text": "Find a common multiple of 4 and 5 that is less than 30.",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19885,
+        "question_text": "Find a common multiple of 3 and 5 up to 30.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "30",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19886,
+        "question_text": "Which of these numbers is prime: 15, 17, 21?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19887,
+        "question_text": "Which of these numbers is NOT prime: 13, 19, 25?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19888,
+        "question_text": "Is 2 a common factor of 10 and 15?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19889,
+        "question_text": "Is 30 a common multiple of 5 and 10?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19890,
+        "question_text": "List all the factors of 29.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 29",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19891,
+        "question_text": "List all the factors of 50.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 5, 10, 25, 50",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19892,
+        "question_text": "What is the 12th multiple of 3?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19893,
+        "question_text": "What is the 11th multiple of 4?",
+        "answer_type": "text_input",
+        "correct_answer": "44",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19894,
+        "question_text": "Find two prime numbers that add up to 10.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 7",
+        "alternative_answer_1": "3, 7",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19895,
+        "question_text": "Find two prime numbers that add up to 20.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 17",
+        "alternative_answer_1": "7 and 13",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19896,
+        "question_text": "What is the first common multiple of 4 and 6?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19897,
+        "question_text": "What is the first common multiple of 5 and 6?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19898,
+        "question_text": "Which is the largest common factor of 16 and 20?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19899,
+        "question_text": "Is 19 a prime number? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19900,
+        "question_text": "Is 27 a prime number? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19901,
+        "question_text": "Find a common multiple of 2, 3, and 4.",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "24",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19902,
+        "question_text": "What are the common factors of 60 and 90?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 5, 6, 10, 15, 30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19903,
+        "question_text": "What is the lowest common multiple (LCM) of 8 and 12?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19904,
+        "question_text": "What is the lowest common multiple (LCM) of 9 and 6?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19905,
+        "question_text": "What is the highest common factor (HCF) of 48 and 72?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19906,
+        "question_text": "What is the highest common factor (HCF) of 50 and 75?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19907,
+        "question_text": "List all the prime numbers between 20 and 40.",
+        "answer_type": "text_input",
+        "correct_answer": "23, 29, 31, 37",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19908,
+        "question_text": "List all the prime numbers between 40 and 60.",
+        "answer_type": "text_input",
+        "correct_answer": "41, 43, 47, 53, 59",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19909,
+        "question_text": "Is 51 a prime number? Explain your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "No, it is divisible by 3",
+        "alternative_answer_1": "No, 3 x 17 = 51",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19910,
+        "question_text": "Is 87 a prime number? Explain your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "No, it is divisible by 3",
+        "alternative_answer_1": "No, 3 x 29 = 87",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19911,
+        "question_text": "Find a number that is a multiple of both 4 and 10.",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "40",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19912,
+        "question_text": "Find a number that has 6 and 9 as common factors.",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "36",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19913,
+        "question_text": "What is the smallest number that is a multiple of both 10 and 12?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19914,
+        "question_text": "Find two prime numbers which have a sum of 24.",
+        "answer_type": "text_input",
+        "correct_answer": "5 and 19",
+        "alternative_answer_1": "7 and 17",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19915,
+        "question_text": "Find two prime numbers which have a difference of 4.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 7",
+        "alternative_answer_1": "7 and 11",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19916,
+        "question_text": "What are all the factors of 80?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 4, 5, 8, 10, 16, 20, 40, 80",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19917,
+        "question_text": "What are all the factors of 99?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 3, 9, 11, 33, 99",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19918,
+        "question_text": "What is the only even prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19919,
+        "question_text": "Is 6 a common factor of 42 and 54? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19920,
+        "question_text": "Is 70 a common multiple of 7 and 5? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19921,
+        "question_text": "Find the highest common factor of 30 and 45.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19922,
+        "question_text": "Find the lowest common multiple of 12 and 15.",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19923,
+        "question_text": "Is 91 a prime number? Explain your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "No, it is divisible by 7",
+        "alternative_answer_1": "No, 7 x 13 = 91",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19924,
+        "question_text": "What is the sum of the first five prime numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19925,
+        "question_text": "List all the factors of 96.",
+        "answer_type": "text_input",
+        "correct_answer": "1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, 96",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19926,
+        "question_text": "What is the first common multiple of 2, 3 and 5?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19927,
+        "question_text": "Two buses leave a station at the same time. Bus A leaves every 8 minutes. Bus B leaves every 10 minutes. After how many minutes will they next leave at the same time?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40 minutes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19928,
+        "question_text": "A teacher has 32 felt tips and 40 pencils. She wants to make identical kits for her pupils, with no items left over. What is the greatest number of kits she can make?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19929,
+        "question_text": "I am thinking of two prime numbers. Their product is 35. What are they?",
+        "answer_type": "text_input",
+        "correct_answer": "5 and 7",
+        "alternative_answer_1": "5, 7",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19930,
+        "question_text": "I am thinking of two prime numbers. Their sum is 18. What could they be?",
+        "answer_type": "text_input",
+        "correct_answer": "5 and 13",
+        "alternative_answer_1": "7 and 11",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19931,
+        "question_text": "Find the smallest number that can be divided by both 12 and 18 without leaving a remainder.",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19932,
+        "question_text": "Find the largest number that divides both 60 and 84 without leaving a remainder.",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19933,
+        "question_text": "The product of two numbers is 84. Their highest common factor is 2. What could the numbers be?",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 42",
+        "alternative_answer_1": "6 and 14",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19934,
+        "question_text": "A number is a multiple of 12 and a factor of 60. What could the number be?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "60",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19935,
+        "question_text": "What is the sum of all the prime numbers between 30 and 50?",
+        "answer_type": "text_input",
+        "correct_answer": "199",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19936,
+        "question_text": "Explain why a prime number greater than 2 can never be even.",
+        "answer_type": "text_input",
+        "correct_answer": "All even numbers are divisible by 2.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19937,
+        "question_text": "Two prime numbers are multiplied together to make 77. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "7 and 11",
+        "alternative_answer_1": "7, 11",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19938,
+        "question_text": "The number of players at a tournament is a multiple of 9. It is also a factor of 108. The number is between 30 and 40. How many players are there?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19939,
+        "question_text": "Find a number which is a multiple of 2, 5, and 7.",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "140",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19940,
+        "question_text": "The year you are born in is a common multiple of 3 and 5. This is ambiguous. Rephrase: A number is a common multiple of 3 and 5, and it is between 40 and 50. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19941,
+        "question_text": "I have 60 red marbles and 48 blue marbles. I want to sort them into boxes so that each box has the same number of red marbles and the same number of blue marbles. What is the largest number of boxes I can use?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19942,
+        "question_text": "What is the highest common factor of 81 and 108?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19943,
+        "question_text": "What is the lowest common multiple of 15 and 20?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19944,
+        "question_text": "A number has exactly three factors. What kind of number must it be?",
+        "answer_type": "text_input",
+        "correct_answer": "The square of a prime number",
+        "alternative_answer_1": "A squared prime",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19945,
+        "question_text": "Two numbers have a lowest common multiple of 30 and a highest common factor of 5. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "10 and 15",
+        "alternative_answer_1": "10, 15",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19946,
+        "question_text": "Explain why 2 is the only prime number that can be a factor of an even number.",
+        "answer_type": "text_input",
+        "correct_answer": "All other primes are odd",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19947,
+        "question_text": "The sum of two prime numbers is 30. What are the possible pairs?",
+        "answer_type": "text_input",
+        "correct_answer": "7 and 23, 11 and 19, 13 and 17",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19948,
+        "question_text": "What is the smallest number that when divided by 6 or 9 leaves a remainder of 1?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19949,
+        "question_text": "I am a two-digit prime number. The sum of my digits is 8. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "71",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19950,
+        "question_text": "Find a number that is a multiple of 12 and a factor of 108.",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "36",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 19951,
+        "question_text": "What is the sum of the factors of 18?",
+        "answer_type": "text_input",
+        "correct_answer": "39",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 84
+    },
+    {
+        "question_id": 20531,
+        "question_text": "Which single-digit number is the only even prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20532,
+        "question_text": "Recall the prime number that comes after 2.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20533,
+        "question_text": "Classify 9: is it a prime number or a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20534,
+        "question_text": "What prime number comes after 5?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20535,
+        "question_text": "Classify 4: is it a prime number or a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20536,
+        "question_text": "Recall the first four prime numbers.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3, 5, 7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20537,
+        "question_text": "Classify 6: is it a prime number or a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20538,
+        "question_text": "Which number is prime: 8 or 7?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20539,
+        "question_text": "Classify 10: is it a prime number or a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20540,
+        "question_text": "What prime number comes before 7?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20541,
+        "question_text": "Is the number 5 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20542,
+        "question_text": "Which number is composite: 2 or 4?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20543,
+        "question_text": "Recall the prime number that is also the only even prime number.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20544,
+        "question_text": "Is the number 8 prime?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20545,
+        "question_text": "What is the prime number just before 5?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20546,
+        "question_text": "Is the number 3 a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20547,
+        "question_text": "Which is the prime number: 9 or 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20548,
+        "question_text": "Recall the two prime numbers less than 4.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3",
+        "alternative_answer_1": "2 and 3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20549,
+        "question_text": "Is the number 1 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20550,
+        "question_text": "Is the number that is one less than 8 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20551,
+        "question_text": "Is the number that is one more than 8 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20552,
+        "question_text": "What is the smallest odd prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20553,
+        "question_text": "Is the number of days in a week a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20554,
+        "question_text": "Is the result of 2+2+2 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20555,
+        "question_text": "Which is the prime number: 6 or 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20556,
+        "question_text": "Recall all prime numbers up to 19.",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3, 5, 7, 11, 13, 17, 19",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20557,
+        "question_text": "Is the number 21 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20558,
+        "question_text": "What is the prime number immediately after 13?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20559,
+        "question_text": "Is the number 25 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20560,
+        "question_text": "Is 23 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20561,
+        "question_text": "Establish whether 27 is prime by testing its factors.",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20562,
+        "question_text": "List all the prime numbers between 10 and 20.",
+        "answer_type": "text_input",
+        "correct_answer": "11, 13, 17, 19",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20563,
+        "question_text": "Is the number 22 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20564,
+        "question_text": "What prime number comes before 19?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20565,
+        "question_text": "Is 29 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20566,
+        "question_text": "Establish whether 30 is prime or composite.",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20567,
+        "question_text": "What is the largest prime number you are asked to recall (up to 19)?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20568,
+        "question_text": "Which is the prime number: 21 or 23?",
+        "answer_type": "text_input",
+        "correct_answer": "23",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20569,
+        "question_text": "Is the number 15 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20570,
+        "question_text": "What is the prime number between 14 and 18?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20571,
+        "question_text": "Is the number of players on a football team (11) a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20572,
+        "question_text": "Is 28 a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20573,
+        "question_text": "Which of these numbers is composite: 13, 17, 18, 19?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20574,
+        "question_text": "What is the smallest two-digit prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20575,
+        "question_text": "Is the result of 5x5 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20576,
+        "question_text": "List the two prime numbers between 12 and 18.",
+        "answer_type": "text_input",
+        "correct_answer": "13, 17",
+        "alternative_answer_1": "13 and 17",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20577,
+        "question_text": "Is 24 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20578,
+        "question_text": "What prime number is one less than 30?",
+        "answer_type": "text_input",
+        "correct_answer": "29",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20579,
+        "question_text": "What is the sum of the first two prime numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20580,
+        "question_text": "Is the number of letters in the word PRIME a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20581,
+        "question_text": "Is the number 49 prime or composite? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "It is 7x7",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20582,
+        "question_text": "Establish whether 31 is a prime number.",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20583,
+        "question_text": "Is 38 a prime number? Explain why or why not.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "It is even",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20584,
+        "question_text": "What is the next prime number after 31?",
+        "answer_type": "text_input",
+        "correct_answer": "37",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20585,
+        "question_text": "Is the number 45 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20586,
+        "question_text": "Establish whether the number 47 is prime.",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20587,
+        "question_text": "Is the number of weeks in a year (52) prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20588,
+        "question_text": "Find the prime number between 40 and 45.",
+        "answer_type": "text_input",
+        "correct_answer": "41",
+        "alternative_answer_1": "43",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20589,
+        "question_text": "Why is the number 35 not prime?",
+        "answer_type": "text_input",
+        "correct_answer": "It is divisible by 5",
+        "alternative_answer_1": "It is a multiple of 5",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20590,
+        "question_text": "What is the prime number just before 50?",
+        "answer_type": "text_input",
+        "correct_answer": "47",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20591,
+        "question_text": "Is 41 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20592,
+        "question_text": "Explain why 33 is a composite number.",
+        "answer_type": "text_input",
+        "correct_answer": "It is divisible by 3",
+        "alternative_answer_1": "It is divisible by 11",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20593,
+        "question_text": "What is the sum of the prime numbers between 20 and 30?",
+        "answer_type": "text_input",
+        "correct_answer": "52",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20594,
+        "question_text": "Classify 39: is it a prime number or a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20595,
+        "question_text": "Establish whether 43 is prime.",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20596,
+        "question_text": "What is the first prime number greater than 25?",
+        "answer_type": "text_input",
+        "correct_answer": "29",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20597,
+        "question_text": "Is 34 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20598,
+        "question_text": "Sort these numbers into prime and composite: 29, 30, 31, 32.",
+        "answer_type": "text_input",
+        "correct_answer": "Prime: 29, 31. Composite: 30, 32",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20599,
+        "question_text": "Is 42 prime or composite? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "It is even",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20600,
+        "question_text": "What is the prime number immediately before 40?",
+        "answer_type": "text_input",
+        "correct_answer": "37",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20601,
+        "question_text": "Is 37 prime?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20602,
+        "question_text": "Which is the composite number: 41, 42, 43?",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20603,
+        "question_text": "List the two prime numbers between 35 and 45.",
+        "answer_type": "text_input",
+        "correct_answer": "37, 41",
+        "alternative_answer_1": "37 and 41",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20604,
+        "question_text": "Is 48 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20605,
+        "question_text": "Explain why 50 is not a prime number.",
+        "answer_type": "text_input",
+        "correct_answer": "It ends in a zero",
+        "alternative_answer_1": "It is even",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20606,
+        "question_text": "Classify 91: is it a prime number or a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20607,
+        "question_text": "Establish whether 83 is a prime number.",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20608,
+        "question_text": "List all the prime numbers between 90 and 100.",
+        "answer_type": "text_input",
+        "correct_answer": "97",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20609,
+        "question_text": "Why is every even number greater than 2 a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "They are all divisible by 2",
+        "alternative_answer_1": "They have 2 as a factor",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20610,
+        "question_text": "Classify 57: is it a prime number or a composite number?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20611,
+        "question_text": "What is the largest prime number less than 90?",
+        "answer_type": "text_input",
+        "correct_answer": "89",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20612,
+        "question_text": "Find two prime numbers that add up to 24.",
+        "answer_type": "text_input",
+        "correct_answer": "5 and 19",
+        "alternative_answer_1": "7 and 17",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20613,
+        "question_text": "Establish whether 73 is a prime number.",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20614,
+        "question_text": "Is 87 prime or composite? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "It is divisible by 3",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20615,
+        "question_text": "What is the sum of the prime numbers between 50 and 60?",
+        "answer_type": "text_input",
+        "correct_answer": "112",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20616,
+        "question_text": "Is the number 69 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20617,
+        "question_text": "Find two prime numbers that have a difference of 10.",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 13",
+        "alternative_answer_1": "7 and 17",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20618,
+        "question_text": "Establish whether the number 97 is prime.",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20619,
+        "question_text": "Why is 77 not a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "It is divisible by 7",
+        "alternative_answer_1": "It is divisible by 11",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20620,
+        "question_text": "What is the prime number just before 70?",
+        "answer_type": "text_input",
+        "correct_answer": "67",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20621,
+        "question_text": "Is the number 53 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Prime",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20622,
+        "question_text": "List all the prime numbers between 70 and 80.",
+        "answer_type": "text_input",
+        "correct_answer": "71, 73, 79",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20623,
+        "question_text": "Is the result of 13+14+15 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20624,
+        "question_text": "Is 93 prime or composite?",
+        "answer_type": "text_input",
+        "correct_answer": "Composite",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20625,
+        "question_text": "Find two prime numbers that multiply to make 34.",
+        "answer_type": "text_input",
+        "correct_answer": "2 and 17",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20626,
+        "question_text": "Is 61 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20627,
+        "question_text": "I am a prime number. I am between 55 and 65. My digits add up to 14. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "59",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20628,
+        "question_text": "Is 81 a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20629,
+        "question_text": "What is the sum of all the prime numbers in the 80s?",
+        "answer_type": "text_input",
+        "correct_answer": "172",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 20630,
+        "question_text": "Is the number of states in the USA (50) a prime number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 421
+    },
+    {
+        "question_id": 21233,
+        "question_text": "What is 3 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21234,
+        "question_text": "Calculate: 5²",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21235,
+        "question_text": "What number multiplied by itself equals 16?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21236,
+        "question_text": "What is the value of 1²?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21237,
+        "question_text": "Complete the calculation: 2 x 2 = ?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21238,
+        "question_text": "What is four squared?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21239,
+        "question_text": "Calculate: 2²",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21240,
+        "question_text": "A square has a side length of 5cm. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "25cm²",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21241,
+        "question_text": "What number multiplied by itself equals 9?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21242,
+        "question_text": "What is the value of 4²?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21243,
+        "question_text": "Complete the calculation: 5 x 5 = ?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21244,
+        "question_text": "What does the small 2 in the expression 3² mean?",
+        "answer_type": "text_input",
+        "correct_answer": "Squared",
+        "alternative_answer_1": "Multiply by itself",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21245,
+        "question_text": "What is 1 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21246,
+        "question_text": "Calculate the area of a square with sides of 2cm.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4cm²",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21247,
+        "question_text": "What is two squared?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21248,
+        "question_text": "What number multiplied by itself equals 25?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21249,
+        "question_text": "What is 3 multiplied by 3?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21250,
+        "question_text": "What is the value of 5 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21251,
+        "question_text": "A square garden plot is 4 metres on each side. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "16m²",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21252,
+        "question_text": "What number, when multiplied by itself, gives 4?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21253,
+        "question_text": "Is 10 a square number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21254,
+        "question_text": "Is 9 a square number?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21255,
+        "question_text": "What is the first square number after 16?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21256,
+        "question_text": "Complete the sequence of square numbers: 1, 4, 9, __.",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21257,
+        "question_text": "Calculate: 1 x 1",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21258,
+        "question_text": "What is 8 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21259,
+        "question_text": "Calculate: 2³",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21260,
+        "question_text": "What number multiplied by itself equals 100?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21261,
+        "question_text": "How much is 6 to the power of 2 (6²)?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21262,
+        "question_text": "What is three cubed?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21263,
+        "question_text": "Which of these is a square number: 48, 49, or 50?",
+        "answer_type": "text_input",
+        "correct_answer": "49",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21264,
+        "question_text": "Calculate: 9²",
+        "answer_type": "text_input",
+        "correct_answer": "81",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21265,
+        "question_text": "A cube has an edge length of 1cm. What is its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1cm³",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21266,
+        "question_text": "What number, when squared, gives 49?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21267,
+        "question_text": "What does the small 3 in the expression 2³ mean?",
+        "answer_type": "text_input",
+        "correct_answer": "Cubed",
+        "alternative_answer_1": "Multiply by itself three times",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21268,
+        "question_text": "Calculate the value of 10 to the power of 2.",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21269,
+        "question_text": "Calculate: 1³",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21270,
+        "question_text": "Which of these is a cube number: 25, 26, or 27?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21271,
+        "question_text": "What is one cubed?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21272,
+        "question_text": "Calculate the area of a square with sides of 8cm.",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "64cm²",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21273,
+        "question_text": "What number, when cubed, gives 8?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21274,
+        "question_text": "What is the value of 7 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "49",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21275,
+        "question_text": "Calculate the volume of a cube with an edge of 2cm.",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8cm³",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21276,
+        "question_text": "Is 80 a square number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21277,
+        "question_text": "Is 9 a cube number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21278,
+        "question_text": "What is the next square number after 64?",
+        "answer_type": "text_input",
+        "correct_answer": "81",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21279,
+        "question_text": "Complete the sequence of cube numbers: 1, 8, __.",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21280,
+        "question_text": "What is 6 x 6?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21281,
+        "question_text": "What is 3 x 3 x 3?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21282,
+        "question_text": "What is the first square number greater than 50?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21283,
+        "question_text": "What is 11 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "121",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21284,
+        "question_text": "Calculate: 4³",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21285,
+        "question_text": "What number multiplied by itself equals 144?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21286,
+        "question_text": "What is the value of 5³?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21287,
+        "question_text": "Complete the sequence of square numbers: 81, 100, __, 144.",
+        "answer_type": "text_input",
+        "correct_answer": "121",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21288,
+        "question_text": "What is twelve squared?",
+        "answer_type": "text_input",
+        "correct_answer": "144",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21289,
+        "question_text": "Calculate: 12²",
+        "answer_type": "text_input",
+        "correct_answer": "144",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21290,
+        "question_text": "A cube has an edge length of 5cm. What is its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "125cm³",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21291,
+        "question_text": "What number, when squared, gives 121?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21292,
+        "question_text": "What is the value of four cubed?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21293,
+        "question_text": "Which of these is a cube number: 100, 121, 125, 144?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21294,
+        "question_text": "What is the missing number in the sequence? 1, 8, 27, 64, __.",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21295,
+        "question_text": "Is 120 a square number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21296,
+        "question_text": "What is the first cube number greater than 100?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21297,
+        "question_text": "A square floor tile is 12 inches on each side. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "144",
+        "alternative_answer_1": "144 square inches",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21298,
+        "question_text": "Find the square number that follows 100 in the sequence of square numbers.",
+        "answer_type": "text_input",
+        "correct_answer": "121",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21299,
+        "question_text": "What is 12 multiplied by 12?",
+        "answer_type": "text_input",
+        "correct_answer": "144",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21300,
+        "question_text": "What is 4 x 4 x 4?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21301,
+        "question_text": "A square painting has an area of 144 square cm. How long is one of its sides?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12cm",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21302,
+        "question_text": "Which number comes after 27 in the sequence of cube numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21303,
+        "question_text": "Is 111 a square number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21304,
+        "question_text": "Is 100 a cube number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21305,
+        "question_text": "What is the value of 12 x 12?",
+        "answer_type": "text_input",
+        "correct_answer": "144",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21306,
+        "question_text": "A cubic box has an edge length of 3cm. What is its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "27cm³",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21307,
+        "question_text": "What number, when cubed, gives 125?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21308,
+        "question_text": "What is the sum of 3² and 4³?",
+        "answer_type": "text_input",
+        "correct_answer": "73",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21309,
+        "question_text": "What is the difference between 10² and 5³?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21310,
+        "question_text": "Which is larger: 11² or 5³?",
+        "answer_type": "text_input",
+        "correct_answer": "5³",
+        "alternative_answer_1": "5 cubed",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21311,
+        "question_text": "A square has an area of 81cm². A cube has a volume of 64cm³. What is the sum of the square's side length and the cube's edge length?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "13cm",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21312,
+        "question_text": "What is 12² - 11²?",
+        "answer_type": "text_input",
+        "correct_answer": "23",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21313,
+        "question_text": "Find two different square numbers that add up to 100.",
+        "answer_type": "text_input",
+        "correct_answer": "36 and 64",
+        "alternative_answer_1": "64 and 36",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21314,
+        "question_text": "What is the result of 10² + 2³?",
+        "answer_type": "text_input",
+        "correct_answer": "108",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21315,
+        "question_text": "What is the difference between the 5th square number and the 4th square number?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21316,
+        "question_text": "Calculate: 3³ + 1²",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21317,
+        "question_text": "A square has a side of 10cm. A smaller square has a side of 6cm. What is the difference in their areas?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "64cm²",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21318,
+        "question_text": "What is 5² + 5³?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21319,
+        "question_text": "Which is smaller: 9² or 4³?",
+        "answer_type": "text_input",
+        "correct_answer": "4³",
+        "alternative_answer_1": "4 cubed",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21320,
+        "question_text": "I am thinking of a square number between 40 and 50. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "49",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21321,
+        "question_text": "What is the total of the first three cube numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21322,
+        "question_text": "Calculate: 8² + 6²",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21323,
+        "question_text": "Find a cube number that is also a square number.",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21324,
+        "question_text": "What is the sum of the first five square numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21325,
+        "question_text": "What is 10² divided by 5²?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21326,
+        "question_text": "A cube has a volume of 125cm³. A square has an area of 144cm². What is the product of the cube's edge and the square's side?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60cm²",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21327,
+        "question_text": "Is the number 1 a square number, a cube number, or both?",
+        "answer_type": "text_input",
+        "correct_answer": "Both",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21328,
+        "question_text": "What is 3² multiplied by 2³?",
+        "answer_type": "text_input",
+        "correct_answer": "72",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21329,
+        "question_text": "Find two square numbers that have a difference of 7.",
+        "answer_type": "text_input",
+        "correct_answer": "9 and 16",
+        "alternative_answer_1": "16 and 9",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21330,
+        "question_text": "What is half of 10²?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21331,
+        "question_text": "What is the result of 2³ + 3³?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 21332,
+        "question_text": "A large cube is made of 27 smaller cubes. How many small cubes are along one edge of the large cube?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 422
+    },
+    {
+        "question_id": 29986,
+        "question_text": "What is 5 cubed?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    },
+    {
+        "question_id": 29987,
+        "question_text": "Which is larger: 10 squared or 4 cubed?",
+        "answer_type": "text_input",
+        "correct_answer": "10 squared",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 496
+    }
+]

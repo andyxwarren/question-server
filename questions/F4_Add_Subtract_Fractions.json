@@ -1,0 +1,4002 @@
+[
+    {
+        "question_id": 5436,
+        "question_text": "What is 1/5 + 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5437,
+        "question_text": "What is 1/3 + 1/3?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5438,
+        "question_text": "Calculate 1/4 + 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5439,
+        "question_text": "What is 2/6 - 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5440,
+        "question_text": "Calculate 1/7 + 1/7.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5441,
+        "question_text": "What is 2/8 - 1/8?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5442,
+        "question_text": "Find the sum of 1/9 and 1/9.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5443,
+        "question_text": "What is 2/10 - 1/10?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5444,
+        "question_text": "Calculate 1/8 + 1/8.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5445,
+        "question_text": "What is 2/5 - 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5446,
+        "question_text": "What is 1/6 + 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5447,
+        "question_text": "Find the difference between 2/7 and 1/7.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5448,
+        "question_text": "Calculate 1/10 + 1/10.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5449,
+        "question_text": "What is 2/9 - 1/9?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5450,
+        "question_text": "1/4 plus 1/4 equals what?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5451,
+        "question_text": "2/3 take away 1/3 is what?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5452,
+        "question_text": "What do you get if you add 1/8 to 1/8?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5453,
+        "question_text": "If you have 2/10 and subtract 1/10, what is left?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5454,
+        "question_text": "Solve: 1/9 + 1/9.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5455,
+        "question_text": "Solve: 2/6 - 1/6.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5456,
+        "question_text": "1/7 add 1/7 is?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5457,
+        "question_text": "2/8 minus 1/8 is?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5458,
+        "question_text": "What is the total of 1/10 and 1/10?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5459,
+        "question_text": "What is 2/4 - 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5460,
+        "question_text": "What is 1/5 added to 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5461,
+        "question_text": "What is 2/7 + 3/7?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5462,
+        "question_text": "What is 5/8 - 2/8?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5463,
+        "question_text": "Calculate 4/9 + 3/9.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5464,
+        "question_text": "What is 6/11 - 2/11?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Nov",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5465,
+        "question_text": "Find the sum of 3/10 and 4/10.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5466,
+        "question_text": "What is 2/9 + __ = 7/9?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5467,
+        "question_text": "What is 8/12 - __ = 3/12?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5468,
+        "question_text": "Calculate 5/12 + 6/12.",
+        "answer_type": "text_input",
+        "correct_answer": "11-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5469,
+        "question_text": "What is 7/8 - 4/8?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5470,
+        "question_text": "What is __ + 4/11 = 9/11?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Nov",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5471,
+        "question_text": "What is __ - 2/10 = 5/10?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5472,
+        "question_text": "Solve: 3/8 + 4/8.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5473,
+        "question_text": "Solve: 9/10 - 6/10.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5474,
+        "question_text": "2/12 + 7/12 = ?",
+        "answer_type": "text_input",
+        "correct_answer": "09-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5475,
+        "question_text": "10/11 - 4/11 = ?",
+        "answer_type": "text_input",
+        "correct_answer": "06-Nov",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5476,
+        "question_text": "Fill in the blank: 1/7 + __ = 6/7",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5477,
+        "question_text": "Fill in the blank: 7/9 - __ = 2/9",
+        "answer_type": "text_input",
+        "correct_answer": "05-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5478,
+        "question_text": "What is 3/6 + 2/6?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5479,
+        "question_text": "Calculate 5/5 - 2/5.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5480,
+        "question_text": "What is 4/10 + 5/10?",
+        "answer_type": "text_input",
+        "correct_answer": "09-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5481,
+        "question_text": "Find the result of 8/9 - 5/9.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5482,
+        "question_text": "What must be added to 3/12 to make 10/12?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5483,
+        "question_text": "If you take 6/11 from 8/11, what is left?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Nov",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5484,
+        "question_text": "Solve for the missing fraction: __ + 2/8 = 7/8.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5485,
+        "question_text": "Solve for the missing fraction: 9/12 - __ = 4/12.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5486,
+        "question_text": "I ate 2/8 of a pizza, then I ate another 1/8. What fraction of the pizza did I eat in total?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5487,
+        "question_text": "A jug was 7/10 full of water. I poured out 3/10. What fraction of the jug is now full?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5488,
+        "question_text": "Calculate 1/9 + 2/9 + 4/9.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5489,
+        "question_text": "What is 10/12 - 3/12 - 5/12?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5490,
+        "question_text": "A painter paints 3/15 of a wall on Monday and 5/15 on Tuesday. What fraction of the wall has he painted?",
+        "answer_type": "text_input",
+        "correct_answer": "Aug-15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5491,
+        "question_text": "Fill in the blank: 1/8 + __ = 7/8",
+        "answer_type": "text_input",
+        "correct_answer": "06-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5492,
+        "question_text": "A cake is cut into 10 slices. If 3/10 are eaten, what fraction is left?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5493,
+        "question_text": "What is 1/20 + 7/20 + 9/20?",
+        "answer_type": "text_input",
+        "correct_answer": "17/20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5494,
+        "question_text": "From a pile of 9/9 of homework, you complete 4/9. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5495,
+        "question_text": "Solve: 3/25 + 11/25 + 8/25.",
+        "answer_type": "text_input",
+        "correct_answer": "22/25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5496,
+        "question_text": "A garden is 5/12 roses and 4/12 daisies. What fraction of the garden are these two flowers?",
+        "answer_type": "text_input",
+        "correct_answer": "09-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5497,
+        "question_text": "If a journey is 8/10 of a mile, and you have travelled 3/10, what fraction is left to travel?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5498,
+        "question_text": "What is 2/11 + 3/11 + 5/11?",
+        "answer_type": "text_input",
+        "correct_answer": "10-Nov",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5499,
+        "question_text": "A bottle is 9/10 full. You drink 2/10, then another 3/10. How full is the bottle now?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5500,
+        "question_text": "Find the missing fraction: 2/15 + 7/15 + __ = 13/15",
+        "answer_type": "text_input",
+        "correct_answer": "Apr-15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5501,
+        "question_text": "Jim reads 1/10 of a book, then 2/10, then 4/10. What fraction has he read?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5502,
+        "question_text": "A race is one whole lap. After 7/12 of the lap, how much is remaining?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5503,
+        "question_text": "What is 18/20 - 5/20 - 3/20?",
+        "answer_type": "text_input",
+        "correct_answer": "Oct-20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5504,
+        "question_text": "A box contains red and blue balls. 3/10 are red. 6/10 are blue. What fraction are red or blue?",
+        "answer_type": "text_input",
+        "correct_answer": "09-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5505,
+        "question_text": "Solve for the missing part: 5/16 + __ = 11/16",
+        "answer_type": "text_input",
+        "correct_answer": "Jun-16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5506,
+        "question_text": "A tank has a capacity of 50 litres. It contains 17/50 litres. How much more is needed to make it 25/50 litres full?",
+        "answer_type": "text_input",
+        "correct_answer": "Aug-50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5507,
+        "question_text": "What is 3/14 + 4/14 + 5/14?",
+        "answer_type": "text_input",
+        "correct_answer": "Dec-14",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5508,
+        "question_text": "From a full pie (8/8), you take away 2/8 and then 1/8. What fraction is left?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5509,
+        "question_text": "A path is 1 kilometre long. You walk 3/10 km then another 3/10 km. What fraction of the kilometre have you walked?",
+        "answer_type": "text_input",
+        "correct_answer": "06-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5510,
+        "question_text": "What is 1/13 + 5/13 + 6/13?",
+        "answer_type": "text_input",
+        "correct_answer": "Dec-13",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5511,
+        "question_text": "A pizza is cut into 8 slices. Tom eats 2/8 and Jane eats 3/8. What fraction of the pizza is left?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5512,
+        "question_text": "If I have 3/5 of a chocolate bar, what fraction do I need to eat to have 1/5 left?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5513,
+        "question_text": "Sam says that 3/10 + 4/10 = 7/20. Is he correct? Explain why.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5514,
+        "question_text": "A jug contains 9/10 of a litre of juice. If you pour out 3/10 and then another 4/10, how much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5515,
+        "question_text": "What fraction must be added to 3/7 to make one whole?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5516,
+        "question_text": "A race is 12/12 laps. After 5/12 of the race, a car takes a pit stop. What fraction of the race is remaining after the stop?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5517,
+        "question_text": "What is the mistake in this calculation? 4/9 + 2/9 = 6/18",
+        "answer_type": "text_input",
+        "correct_answer": "The denominator was added",
+        "alternative_answer_1": "The denominator should be 9",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5518,
+        "question_text": "You need to paint a whole fence (15/15). You paint 6/15 on Saturday and 7/15 on Sunday. What fraction is left to paint?",
+        "answer_type": "text_input",
+        "correct_answer": "Feb-15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5519,
+        "question_text": "I start with a whole piece of paper (1). I use 3/10 for a drawing and 4/10 for writing. What fraction is left?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5520,
+        "question_text": "A bag of sweets was 7/8 full. After eating some, it is now 2/8 full. What fraction of the bag was eaten?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5521,
+        "question_text": "Find the missing number: 1 - 4/9 = ?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5522,
+        "question_text": "A team needs 20/20 points to win. They have 11/20. How many more twentieths do they need?",
+        "answer_type": "text_input",
+        "correct_answer": "Sep-20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5523,
+        "question_text": "What is 1/12 + 5/12 + what = 11/12?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5524,
+        "question_text": "Correct the error: 8/11 - 3/11 = 5/0",
+        "answer_type": "text_input",
+        "correct_answer": "The denominator should be 11",
+        "alternative_answer_1": "05-Nov",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5525,
+        "question_text": "A project is split into three parts. Part one is 2/10, part two is 3/10. What fraction is the third part?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5526,
+        "question_text": "A garden is 1/6 roses and 4/6 tulips. What fraction of the garden is not roses or tulips?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5527,
+        "question_text": "I have 5/9 of a pizza. How much more do I need to have a whole pizza?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5528,
+        "question_text": "What is 1 minus 7/15?",
+        "answer_type": "text_input",
+        "correct_answer": "Aug-15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5529,
+        "question_text": "A book has 100 pages. You read 25/100 and then 30/100. What fraction of the book is left to read?",
+        "answer_type": "text_input",
+        "correct_answer": "45/100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5530,
+        "question_text": "Explain the error: 1/5 + 2/5 = 3/10.",
+        "answer_type": "text_input",
+        "correct_answer": "The denominators were added",
+        "alternative_answer_1": "The denominator should stay as 5",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5531,
+        "question_text": "A journey takes one hour. You travel for 15/60 of the hour, then rest for 10/60. What fraction of the hour is left?",
+        "answer_type": "text_input",
+        "correct_answer": "35/60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5532,
+        "question_text": "Start with a whole (1). Subtract 3/8. What is left?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5533,
+        "question_text": "A task is 7/7 complete. If you did 2/7 yesterday and 3/7 today, what fraction must you do tomorrow?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5534,
+        "question_text": "Fill in the blank to make one whole: 1/9 + 4/9 + __ = 1.",
+        "answer_type": "text_input",
+        "correct_answer": "04-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 5535,
+        "question_text": "A fuel tank was 11/12 full. After a trip it was 4/12 full. What fraction of the tank was used?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 115
+    },
+    {
+        "question_id": 6139,
+        "question_text": "What is 2/5 + 2/5?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6140,
+        "question_text": "What is 4/7 - 1/7?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6141,
+        "question_text": "Calculate 3/8 + 2/8.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6142,
+        "question_text": "Calculate 5/6 - 2/6.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6143,
+        "question_text": "What is 1/9 + 7/9?",
+        "answer_type": "text_input",
+        "correct_answer": "08-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6144,
+        "question_text": "What is 9/10 - 4/10?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6145,
+        "question_text": "Find the sum of 1/6 and 4/6.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6146,
+        "question_text": "Find the difference between 6/7 and 2/7.",
+        "answer_type": "text_input",
+        "correct_answer": "04-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6147,
+        "question_text": "Solve: 3/10 + 3/10.",
+        "answer_type": "text_input",
+        "correct_answer": "06-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6148,
+        "question_text": "Solve: 7/8 - 5/8.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6149,
+        "question_text": "1/4 + 2/4 = ?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6150,
+        "question_text": "6/9 - 1/9 = ?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6151,
+        "question_text": "What is 2/7 + 4/7?",
+        "answer_type": "text_input",
+        "correct_answer": "06-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6152,
+        "question_text": "What is 3/5 - 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6153,
+        "question_text": "Calculate 5/10 + 2/10.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6154,
+        "question_text": "Calculate 8/9 - 2/9.",
+        "answer_type": "text_input",
+        "correct_answer": "06-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6155,
+        "question_text": "What is 4/8 + 3/8?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6156,
+        "question_text": "What is 5/7 - 3/7?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6157,
+        "question_text": "Find the total of 1/5 and 3/5.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6158,
+        "question_text": "Subtract 4/9 from 7/9.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6159,
+        "question_text": "2/6 + 3/6 equals?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6160,
+        "question_text": "7/10 minus 2/10 equals?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6161,
+        "question_text": "What do you get if you add 2/8 and 5/8?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6162,
+        "question_text": "If you have 4/5 and take away 2/5, what is left?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6163,
+        "question_text": "Solve: 1/10 + 8/10.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6164,
+        "question_text": "What is 3/5 + 4/5? Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/5",
+        "alternative_answer_1": "07-May",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6165,
+        "question_text": "What is 7/8 + 5/8? Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "12-Aug",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6166,
+        "question_text": "Calculate 2/3 + 2/3. Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/3",
+        "alternative_answer_1": "04-Mar",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6167,
+        "question_text": "Find the sum of 5/6 and 3/6. Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/3",
+        "alternative_answer_1": "08-Jun",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6168,
+        "question_text": "Solve: 4/7 + 5/7. Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/7",
+        "alternative_answer_1": "09-Jul",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6169,
+        "question_text": "What is 9/10 + 3/10? Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  1/5",
+        "alternative_answer_1": "12-Oct",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6170,
+        "question_text": "Calculate 5/9 + 5/9. Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/9",
+        "alternative_answer_1": "10-Sep",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6171,
+        "question_text": "What is 11/12 + 3/12? Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  1/6",
+        "alternative_answer_1": "14-Dec",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6172,
+        "question_text": "Find the sum of 3/4 and 3/4. Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "06-Apr",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6173,
+        "question_text": "What is 7/11 + 6/11? Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  2/11",
+        "alternative_answer_1": "13-Nov",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6174,
+        "question_text": "Fill in the blank: 5/8 + __ = 11/8.",
+        "answer_type": "text_input",
+        "correct_answer": "06-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6175,
+        "question_text": "Fill in the blank: __ + 2/7 = 9/7.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Jul",
+        "alternative_answer_1": "1",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6176,
+        "question_text": "Calculate 8/9 + 4/9. Give your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/3",
+        "alternative_answer_1": "12-Sep",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6177,
+        "question_text": "Solve: 6/10 + 7/10. Give your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  3/10",
+        "alternative_answer_1": "13-Oct",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6178,
+        "question_text": "What is 10/11 + 5/11? Give your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  4/11",
+        "alternative_answer_1": "15-Nov",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6179,
+        "question_text": "What is 7/12 + 7/12? Give your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  1/6",
+        "alternative_answer_1": "14-Dec",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6180,
+        "question_text": "Find the missing fraction: 4/9 + __ = 13/9.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Sep",
+        "alternative_answer_1": "1",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6181,
+        "question_text": "What is 5/6 + 5/6? Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/3",
+        "alternative_answer_1": "10-Jun",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6182,
+        "question_text": "Solve: 3/4 + 2/4. Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/4",
+        "alternative_answer_1": "05-Apr",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6183,
+        "question_text": "Calculate 4/5 + 3/5. Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/5",
+        "alternative_answer_1": "07-May",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6184,
+        "question_text": "What is 6/8 + 6/8? Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "12-Aug",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6185,
+        "question_text": "Find the sum of 8/12 and 9/12. Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  5/12",
+        "alternative_answer_1": "17-Dec",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6186,
+        "question_text": "Fill in the blank: __ + 7/10 = 16/10.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6187,
+        "question_text": "What is 5/7 + 4/7? Write the answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/7",
+        "alternative_answer_1": "09-Jul",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6188,
+        "question_text": "Calculate 8/11 + 8/11. Write the answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  5/11",
+        "alternative_answer_1": "16-Nov",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6189,
+        "question_text": "John ran 3/8 of a kilometre, then another 3/8. What total distance did he run? Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "06-Aug",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6190,
+        "question_text": "What is 1/6 + 1/6? Write the answer in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "02-Jun",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6191,
+        "question_text": "Calculate 5/12 + 1/12 and simplify the result.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "06-Dec",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6192,
+        "question_text": "A recipe needs 1/10 of a bag of flour for the cake and 3/10 for the pastry. What fraction is used in total? Simplify if you can.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "04-Oct",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6193,
+        "question_text": "Solve and simplify: 7/16 - 3/16.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "Apr-16",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6194,
+        "question_text": "What is 1/8 + 3/8 + 2/8? Give your answer in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "06-Aug",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6195,
+        "question_text": "A pizza is cut into 10 slices. You eat 2/10 and your friend eats 3/10. What fraction of the pizza did you eat together? Simplify the answer.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "05-Oct",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6196,
+        "question_text": "Calculate 9/14 + 1/14 and simplify.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jul",
+        "alternative_answer_1": "Oct-14",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6197,
+        "question_text": "What is 11/15 - 6/15? Simplify if possible.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "May-15",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6198,
+        "question_text": "Solve: 3/20 + 7/20. Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "Oct-20",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6199,
+        "question_text": "A jug was 7/8 full. If 1/8 was poured out, what fraction remains? Simplify if you can.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "06-Aug",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6200,
+        "question_text": "What is 5/12 + 5/12? Write as a mixed number in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "10-Dec",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6201,
+        "question_text": "A builder uses 3/4 of a bag of cement, then another 3/4. How much cement did he use? Write as a mixed number in simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "06-Apr",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6202,
+        "question_text": "Calculate 5/6 + 5/6. Write your answer as a mixed number, simplified.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/3",
+        "alternative_answer_1": "10-Jun",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6203,
+        "question_text": "Solve and simplify: 1/10 + 1/10 + 1/10 + 1/10.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "04-Oct",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6204,
+        "question_text": "A box of chocolates is 11/12 full. If 5/12 of the box is eaten, what fraction is left? Simplify.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "06-Dec",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6205,
+        "question_text": "What is 3/8 + 7/8? Give the answer as a simplified mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/4",
+        "alternative_answer_1": "10-Aug",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6206,
+        "question_text": "A run is 5/9 of a mile long. If you run it twice, what is the total distance? Give your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/9",
+        "alternative_answer_1": "10-Sep",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6207,
+        "question_text": "Calculate 13/20 - 3/20. Write your answer in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "Oct-20",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6208,
+        "question_text": "What is 1/24 + 11/24? Simplify.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "Dec-24",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6209,
+        "question_text": "A car travels 3/10 of a journey, then another 5/10. What fraction of the journey is complete? Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "08-Oct",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6210,
+        "question_text": "Find the sum of 5/16, 1/16 and 2/16. Simplify the result.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "Aug-16",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6211,
+        "question_text": "What is 7/10 + 7/10? Give your answer as a simplified mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/5",
+        "alternative_answer_1": "14-Oct",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6212,
+        "question_text": "Solve: 15/25 - 5/25. Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "Oct-25",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6213,
+        "question_text": "A task takes 50 minutes. You work for 15/50 of the time, then another 10/50. What fraction of the task have you done? Simplify.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "25/50",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6214,
+        "question_text": "A pizza has 12 slices. Sam eats 3/12 and Ann eats 4/12. What fraction of the pizza is left? Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6215,
+        "question_text": "A jug was 7/8 full. I poured out 1/8 and then another 2/8. What fraction is now in the jug? Give your answer in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "04-Aug",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6216,
+        "question_text": "I started with a whole piece of ribbon. I cut off 3/10 and then another 3/10. What fraction of the ribbon is left? Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "04-Oct",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6217,
+        "question_text": "A task requires 1 whole hour. I worked for 1/4 of an hour and then 1/4 of an hour. How much of the hour is left to work?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "02-Apr",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6218,
+        "question_text": "A painter says that 7/10 - 3/10 = 4/0. What is his mistake?",
+        "answer_type": "text_input",
+        "correct_answer": "He subtracted the denominators",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6219,
+        "question_text": "A bag of apples weighs one kilogram. I use 3/8 of the bag for a pie and 1/8 for a snack. What fraction of the bag is left?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "04-Aug",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6220,
+        "question_text": "I added a fraction to 3/9 and the answer was 7/9. What fraction did I add?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6221,
+        "question_text": "A fuel tank was full (1). After one journey it was 5/6 full. After a second journey it was 1/6 full. What fraction of the tank was used on the second journey?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "04-Jun",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6222,
+        "question_text": "I had 9/10 of a litre of juice. I drank some and now have 1/2 a litre. What fraction did I drink? (Hint: 1/2 = 5/10)",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "04-Oct",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6223,
+        "question_text": "A project is 4/5 complete. What fraction is still left to do?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6224,
+        "question_text": "I started with 11/12 of a box of eggs. After making breakfast, I had 7/12 left. What fraction of the box did I use?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "04-Dec",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6225,
+        "question_text": "A box contains 5/6 of a dozen muffins. If 1/6 of a dozen are sold, what fraction of a dozen is left?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "04-Jun",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6226,
+        "question_text": "Correct the mistake: 3/8 + 5/8 = 8/16.",
+        "answer_type": "text_input",
+        "correct_answer": "The denominator should be 8",
+        "alternative_answer_1": "The answer is 1",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6227,
+        "question_text": "A journey is made of three parts. Part 1 is 3/10 of the total, Part 2 is 4/10. What fraction is Part 3?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6228,
+        "question_text": "I had a sum of money. I spent 1/5 on a book and 2/5 on a game. What fraction of my money is left?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6229,
+        "question_text": "What fraction do you need to subtract from 1 to get 3/7?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6230,
+        "question_text": "A garden is 5/12 grass and 3/12 flowers. What fraction of the garden is not grass or flowers? Simplify.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "04-Dec",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6231,
+        "question_text": "After adding 3/8 to a fraction, my answer was 1. What was the starting fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6232,
+        "question_text": "I had 7/9 of a cake. I gave away some and was left with 1/3. What fraction did I give away? (Hint: 1/3 = 3/9)",
+        "answer_type": "text_input",
+        "correct_answer": "04-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6233,
+        "question_text": "A bottle of milk is 3/4 full. I use 1/4 for tea. What fraction is left?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "02-Apr",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6234,
+        "question_text": "I ate 1/10 of a pie, my brother ate 3/10, and my sister ate 2/10. What fraction of the pie is left?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "04-Oct",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6235,
+        "question_text": "I subtracted a fraction from 11/15 and the answer was 1/3. What fraction did I subtract? (Hint: 1/3 = 5/15)",
+        "answer_type": "text_input",
+        "correct_answer": "Jun-15",
+        "alternative_answer_1": "02-May",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6236,
+        "question_text": "A full glass of water is 1. If I drink 5/8 of it, what fraction remains?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6237,
+        "question_text": "Find the error: 1/2 + 1/2 = 2/4.",
+        "answer_type": "text_input",
+        "correct_answer": "The denominator was added",
+        "alternative_answer_1": "The answer is 1",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6238,
+        "question_text": "A walk is 1km. You walk 2/5 km then stop. You then walk another 1/5 km. How much of the kilometre is left to walk?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 116
+    },
+    {
+        "question_id": 6746,
+        "question_text": "What is 1/2 + 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6747,
+        "question_text": "What is 1/3 + 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6748,
+        "question_text": "Calculate 3/8 - 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6749,
+        "question_text": "What is 4/10 - 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6750,
+        "question_text": "Find the sum of 1/4 and 1/8.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6751,
+        "question_text": "Calculate 5/6 - 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6752,
+        "question_text": "What is 1/5 + 3/10?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6753,
+        "question_text": "What is 1/2 - 1/8?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6754,
+        "question_text": "Solve: 1/3 + 2/6.",
+        "answer_type": "text_input",
+        "correct_answer": "04-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6755,
+        "question_text": "Solve: 7/10 - 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6756,
+        "question_text": "1/4 + 3/8 = ?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6757,
+        "question_text": "4/9 - 1/3 = ?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6758,
+        "question_text": "What is 2/5 + 1/10?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6759,
+        "question_text": "What is 3/4 - 1/8?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6760,
+        "question_text": "Calculate 1/2 + 2/6.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6761,
+        "question_text": "Calculate 5/9 - 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6762,
+        "question_text": "What is 3/10 + 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6763,
+        "question_text": "What is 5/8 - 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6764,
+        "question_text": "Find the total of 1/3 and 1/9.",
+        "answer_type": "text_input",
+        "correct_answer": "04-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6765,
+        "question_text": "Subtract 1/4 from 7/8.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6766,
+        "question_text": "What is 1/6 + 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6767,
+        "question_text": "What is 9/10 - 2/5?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6768,
+        "question_text": "Calculate 3/10 + 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "08-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6769,
+        "question_text": "Calculate 2/3 - 1/6.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6770,
+        "question_text": "Add 1/4 and 2/8.",
+        "answer_type": "text_input",
+        "correct_answer": "04-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6771,
+        "question_text": "What is 1/2 + 3/4? Write your answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6772,
+        "question_text": "What is 5/6 + 1/3? Give your answer as a simplified improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6773,
+        "question_text": "Calculate 3/5 + 7/10. Give your answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "13-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6774,
+        "question_text": "What is 3/4 + 5/8? Write the answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "11-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6775,
+        "question_text": "Solve and simplify: 7/10 - 1/5.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "05-Oct",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6776,
+        "question_text": "Fill in the blank: 1/4 + __ = 7/8.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6777,
+        "question_text": "What is 2/3 + 5/6? Write the answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6778,
+        "question_text": "Calculate 4/5 + 4/10 and simplify the answer.",
+        "answer_type": "text_input",
+        "correct_answer": "12-Oct",
+        "alternative_answer_1": "1 1/5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6779,
+        "question_text": "Solve: 5/6 + 1/2. Give the answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "08-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6780,
+        "question_text": "Fill in the blank: __ - 1/3 = 1/6.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "03-Jun",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6781,
+        "question_text": "What is 3/4 + 1/2? Write the answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6782,
+        "question_text": "What is 7/12 + 1/4? Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "10-Dec",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6783,
+        "question_text": "Calculate 9/10 - 2/5 and simplify.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "05-Oct",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6784,
+        "question_text": "Solve: 5/8 + 1/2. Write the answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6785,
+        "question_text": "Find the missing fraction: 7/9 - __ = 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "04-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6786,
+        "question_text": "What is 4/5 + 1/2? Give the answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "13-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6787,
+        "question_text": "Calculate 5/12 + 2/3. Give the answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "13-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6788,
+        "question_text": "What is 3/4 + 3/8? Give the answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6789,
+        "question_text": "Solve and simplify: 11/14 - 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jul",
+        "alternative_answer_1": "Apr-14",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6790,
+        "question_text": "What is 2/3 + 2/9? Simplify if possible.",
+        "answer_type": "text_input",
+        "correct_answer": "08-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6791,
+        "question_text": "Fill in the blank: 1/5 + __ = 9/10.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6792,
+        "question_text": "What is 5/6 + 1/3? Give your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/6",
+        "alternative_answer_1": "07-Jun",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6793,
+        "question_text": "Calculate 4/5 - 1/10.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6794,
+        "question_text": "What is 1/2 + 7/10? Give your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/5",
+        "alternative_answer_1": "12-Oct",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6795,
+        "question_text": "Solve: 13/16 - 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "Sep-16",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6796,
+        "question_text": "Two friends shared a cake. One ate 1/2 and the other ate 1/4. What fraction did they eat altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6797,
+        "question_text": "A recipe needs 1/3 of a cup of milk and 1/6 of a cup of water. What is the total amount of liquid?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "03-Jun",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6798,
+        "question_text": "What is 1/2 + 1/4 + 1/8? Give your answer as a fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6799,
+        "question_text": "I ran 3/4 of a mile, then walked another 1/8 of a mile. How far did I go in total? Give your answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6800,
+        "question_text": "A jug was 7/10 full. I used 1/5 of the full jug's capacity. What fraction is left?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "05-Oct",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6801,
+        "question_text": "Calculate 5/6 + 2/3. Give your answer as a simplified mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "09-Jun",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6802,
+        "question_text": "Solve: 4/5 + 1/2 + 1/10. Write the answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  2/5",
+        "alternative_answer_1": "1 2/5",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6803,
+        "question_text": "A farmer ploughed 1/3 of his field, then another 5/12. What fraction of the field has he ploughed in total?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "09-Dec",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6804,
+        "question_text": "What is 7/8 - 1/2? Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6805,
+        "question_text": "A group of friends ate 1/2 of a pizza and then 3/8 of the same pizza. What fraction of the pizza did they eat?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6806,
+        "question_text": "Calculate 3/4 + 1/2 + 1/8. Write the answer as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "11-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6807,
+        "question_text": "A painter uses 2/5 of a can of paint on a wall and 3/10 on a door. What fraction did he use altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6808,
+        "question_text": "What is 11/12 - 2/3? Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "03-Dec",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6809,
+        "question_text": "A book is read over three days. 1/4 is read on Monday, 3/8 on Tuesday. What fraction was read in the first two days?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6810,
+        "question_text": "Calculate 1/5 + 3/10 + 2/20. Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "Dec-20",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6811,
+        "question_text": "A project is 7/9 complete. If an extra 1/3 is finished, what is the new total? Give your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/9",
+        "alternative_answer_1": "10-Sep",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6812,
+        "question_text": "Solve: 5/6 - 1/12.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6813,
+        "question_text": "A cake recipe needs 3/4 cup of sugar and 1/8 cup of brown sugar. What is the total sugar needed?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6814,
+        "question_text": "What is 2/5 + 1/10 + 1/20?",
+        "answer_type": "text_input",
+        "correct_answer": "13/20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6815,
+        "question_text": "A bottle is 4/5 full. 1/10 of the bottle's contents is used. What fraction of the bottle is now full?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6816,
+        "question_text": "Add 1/3, 1/6 and 1/12 together.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6817,
+        "question_text": "A runner completes 1/2 of a race on Saturday and 1/4 on Sunday. What fraction of the race is complete?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6818,
+        "question_text": "What is 13/15 - 2/5?",
+        "answer_type": "text_input",
+        "correct_answer": "Jul-15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6819,
+        "question_text": "I have 3/4 of a pizza. I eat 1/8. What fraction is left?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6820,
+        "question_text": "What is 1/2 + 1/6 + 1/3? Give your answer as one whole.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "06-Jun",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6821,
+        "question_text": "A full can of paint is used on a project. 1/2 is used for a wall, 1/4 for a door, and 1/8 for the trim. What fraction of the paint is left?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6822,
+        "question_text": "I started with a full glass of juice. I drank 1/3 of it. Then I refilled it by 1/6. What fraction of the glass is full now?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6823,
+        "question_text": "Tom calculated 3/4 + 1/8 as 4/12. Explain his mistake.",
+        "answer_type": "text_input",
+        "correct_answer": "He added the denominators",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6824,
+        "question_text": "A garden is 1/5 roses and 3/10 daisies. The rest are tulips. What fraction are tulips?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "05-Oct",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6825,
+        "question_text": "I need 7/8 of a kg of flour. I have two bags, one with 1/2 kg and one with 1/4 kg. Do I have enough?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6826,
+        "question_text": "What is 1 minus the sum of 1/3 and 1/9?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6827,
+        "question_text": "A task is completed in 3 stages. Stage 1 takes 1/2 hour. Stage 2 takes 1/3 hour. The total time is 1 hour. What fraction of an hour does stage 3 take?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6828,
+        "question_text": "I had a full bottle of water. I drank 1/4, then my friend drank 1/8. What fraction is remaining?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6829,
+        "question_text": "I subtracted a fraction from 5/6 and the answer was 1/3. What fraction did I subtract?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "03-Jun",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6830,
+        "question_text": "A box was 7/10 full. I added items that filled another 1/5. Then I removed items that were 1/2 of the box's total volume. What fraction is it now?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "04-Oct",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6831,
+        "question_text": "A recipe needs 1/2 litre of milk, but I only have 1/3 of a litre. What fraction of a litre do I still need?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6832,
+        "question_text": "Find the missing fraction: 1/5 + __ + 1/10 = 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "02-Oct",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6833,
+        "question_text": "A farmer's land is 1/3 crops and 1/6 pasture. What fraction is something else?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "03-Jun",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6834,
+        "question_text": "After adding 3/8 to a fraction, the answer was 3/4. What was the starting fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6835,
+        "question_text": "A team scores 1/2 of their points in the first half and 1/3 in the second half. What fraction of their points was scored at other times (e.g. overtime)?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6836,
+        "question_text": "What is 1/2 + 3/10 + 1/5? Simplify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "10-Oct",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6837,
+        "question_text": "Correct this calculation and explain the error: 5/8 - 1/4 = 4/4.",
+        "answer_type": "text_input",
+        "correct_answer": "The answer is 3/8. The numerators were subtracted from each other but not the denominators.",
+        "alternative_answer_1": "3/8. Wrong denominator",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6838,
+        "question_text": "A tank is 1/2 full. If I add water equal to 1/3 of the tank's capacity, what fraction of the tank will be full?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6839,
+        "question_text": "I have a pizza cut into 12 slices. I eat 1/4 of it. My friend eats 1/3 of it. How many slices are left?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6840,
+        "question_text": "From a piece of wood 7/8 m long, a piece 1/2 m long is cut. What is the length of the remaining wood?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "3/8 m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6841,
+        "question_text": "What is the difference between 2/3 and 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6842,
+        "question_text": "Sam had a whole bar of chocolate. He ate 1/5 and gave 3/10 to his friend. What fraction did he have left?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "05-Oct",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6843,
+        "question_text": "A box is 1/4 full of red balls and 1/8 full of blue balls. The rest is empty. What fraction is empty?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6844,
+        "question_text": "Solve: 1/3 + 1/4 + 1/6.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "09-Dec",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 6845,
+        "question_text": "What is 1/2 - 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 117
+    },
+    {
+        "question_id": 7247,
+        "question_text": "What is 1/4 + 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7248,
+        "question_text": "Calculate 5/8 - 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7249,
+        "question_text": "What is 1 1/5 + 3/5?",
+        "answer_type": "text_input",
+        "correct_answer": "1 4/5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7250,
+        "question_text": "Calculate 1 7/9 - 2/9.",
+        "answer_type": "text_input",
+        "correct_answer": "1 5/9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7251,
+        "question_text": "Solve: 1/3 + 1/6.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7252,
+        "question_text": "Solve: 7/10 - 1/5.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7253,
+        "question_text": "What is 1 1/8 + 1 2/8?",
+        "answer_type": "text_input",
+        "correct_answer": "2 3/8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7254,
+        "question_text": "Calculate 1 9/10 - 4/10.",
+        "answer_type": "text_input",
+        "correct_answer": "1  1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7255,
+        "question_text": "Find the sum of 1/2 and 3/8.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7256,
+        "question_text": "Find the difference between 5/6 and 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7257,
+        "question_text": "What is 1 2/7 + 4/7?",
+        "answer_type": "text_input",
+        "correct_answer": "1 6/7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7258,
+        "question_text": "Calculate 1 3/4 - 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7259,
+        "question_text": "Solve: 1/5 + 7/10.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7260,
+        "question_text": "Solve: 8/9 - 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7261,
+        "question_text": "What is 1 1/6 + 1 4/6?",
+        "answer_type": "text_input",
+        "correct_answer": "2 5/6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7262,
+        "question_text": "Calculate 1 7/8 - 3/8.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7263,
+        "question_text": "Add 2/9 to 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7264,
+        "question_text": "Subtract 1/5 from 6/10.",
+        "answer_type": "text_input",
+        "correct_answer": "04-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7265,
+        "question_text": "What is 1 1/10 + 1 8/10?",
+        "answer_type": "text_input",
+        "correct_answer": "2  9/10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7266,
+        "question_text": "Calculate 1 5/8 - 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7267,
+        "question_text": "What is 1/2 + 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7268,
+        "question_text": "What is 3/4 - 3/8?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7269,
+        "question_text": "What is 1 3/10 + 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "1  4/5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7270,
+        "question_text": "Calculate 1 5/6 - 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7271,
+        "question_text": "What is 1 1/3 + 1/9?",
+        "answer_type": "text_input",
+        "correct_answer": "1 4/9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7272,
+        "question_text": "What is 1/3 + 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7273,
+        "question_text": "Calculate 3/4 - 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7274,
+        "question_text": "What is 1 1/2 + 2 1/3?",
+        "answer_type": "text_input",
+        "correct_answer": "3 5/6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7275,
+        "question_text": "Calculate 3 3/4 - 1 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7276,
+        "question_text": "Solve: 2/5 + 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "13/20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7277,
+        "question_text": "Solve: 4/5 - 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "Jul-15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7278,
+        "question_text": "What is 2 1/4 + 1 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "3  9/20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7279,
+        "question_text": "Calculate 4 2/3 - 2 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "2  5/12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7280,
+        "question_text": "What is __ + 1/4 = 7/12?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "04-Dec",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7281,
+        "question_text": "Find the sum of 1/2 and 1/5.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7282,
+        "question_text": "Find the difference between 5/6 and 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7283,
+        "question_text": "What is 1 1/6 + 2 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "3  5/12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7284,
+        "question_text": "Calculate 3 4/5 - 1 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "2  3/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7285,
+        "question_text": "Solve: 3/10 + 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "19/30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7286,
+        "question_text": "Solve: 1/2 - 1/7.",
+        "answer_type": "text_input",
+        "correct_answer": "May-14",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7287,
+        "question_text": "What is 1 1/3 + 1 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "2  8/15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7288,
+        "question_text": "Calculate 2 1/2 - 1 1/5.",
+        "answer_type": "text_input",
+        "correct_answer": "1  3/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7289,
+        "question_text": "Find the missing number: 1/2 + __ = 5/6.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "02-Jun",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7290,
+        "question_text": "What is 3/8 + 1/3?",
+        "answer_type": "text_input",
+        "correct_answer": "17/24",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7291,
+        "question_text": "What is 7/8 - 1/3?",
+        "answer_type": "text_input",
+        "correct_answer": "13/24",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7292,
+        "question_text": "What is 2 1/5 + 2 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "4  7/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7293,
+        "question_text": "Calculate 4 5/6 - 1 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "3 1/2",
+        "alternative_answer_1": "3 1/2",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7294,
+        "question_text": "Fill in the blank: 1/3 + __ = 3/4.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7295,
+        "question_text": "What is 1/4 + 2/5?",
+        "answer_type": "text_input",
+        "correct_answer": "13/20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7296,
+        "question_text": "Solve: 4 5/7 - 2 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "2  3/14",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7297,
+        "question_text": "Three friends ran a relay. The first ran 1 1/2 km, the second ran 3/4 km, and the third ran 1 1/4 km. What was the total distance?",
+        "answer_type": "text_input",
+        "correct_answer": "3 1/2",
+        "alternative_answer_1": "3 1/2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7298,
+        "question_text": "What is 1/2 + 1/3 + 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "13-Dec",
+        "alternative_answer_1": "1  1/12",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7299,
+        "question_text": "Calculate 2 1/5 - 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1  7/10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7300,
+        "question_text": "A plank of wood was 3 1/4 metres long. A piece 1 1/3 metres long was cut off. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1 11/12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7301,
+        "question_text": "Find the sum of 1/5, 3/10, and 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "10-Oct",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7302,
+        "question_text": "What is 3 1/3 - 1 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "1 5/6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7303,
+        "question_text": "A recipe needs 1 1/2 cups of flour, 3/4 cup of sugar, and 1/4 cup of cocoa. What is the total volume of dry ingredients?",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/2",
+        "alternative_answer_1": "2 1/2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7304,
+        "question_text": "Solve: 5/6 + 3/4.",
+        "answer_type": "text_input",
+        "correct_answer": "1  7/12",
+        "alternative_answer_1": "19-Dec",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7305,
+        "question_text": "Calculate 4 1/5 - 2 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1  7/10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7306,
+        "question_text": "A ribbon was 2 metres long. If you cut off 1/3 of a metre, how much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7307,
+        "question_text": "What is 2/3 + 3/4 + 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "1  7/12",
+        "alternative_answer_1": "19-Dec",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7308,
+        "question_text": "Find the difference between 3 1/4 and 1 1/3.",
+        "answer_type": "text_input",
+        "correct_answer": "1 11/12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7309,
+        "question_text": "A runner wants to complete 3 miles. She runs 1 1/2 miles and then 3/4 of a mile. How much further does she need to run?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7310,
+        "question_text": "What is 2 1/8 + 1 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "3 3/8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7311,
+        "question_text": "Solve: 3 1/6 - 1 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/3",
+        "alternative_answer_1": "1 2/3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7312,
+        "question_text": "What is 1/2 + 2/5 + 3/10?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "10-Oct",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7313,
+        "question_text": "What is 1/2 + 2/5 + 1/10?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "10-Oct",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7314,
+        "question_text": "A bucket contains 4 1/2 litres of water. If 1 3/4 litres leak out, how much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "2 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7315,
+        "question_text": "What is 1 1/3 + 2 1/4 + 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "3 3/4",
+        "alternative_answer_1": "3  3/4",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7316,
+        "question_text": "Subtract 2 1/2 from 4 1/5.",
+        "answer_type": "text_input",
+        "correct_answer": "1  7/10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7317,
+        "question_text": "I had 3 whole pizzas. My friends ate 1 3/8 pizzas. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1 5/8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7318,
+        "question_text": "A trip has three stages. Stage one is 1/4 of the total distance, stage two is 2/5. What fraction is the third stage?",
+        "answer_type": "text_input",
+        "correct_answer": "Jul-20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7319,
+        "question_text": "What is 2 1/2 - 3/5?",
+        "answer_type": "text_input",
+        "correct_answer": "1  9/10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7320,
+        "question_text": "Find the sum: 1 1/8 + 1/4 + 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "1 7/8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7321,
+        "question_text": "A film is 2 1/2 hours long. After 45 minutes (3/4 of an hour), how much time is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7322,
+        "question_text": "I start with a full 2-litre bottle of water. I drink 1/2 a litre, then 1/3 of a litre. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7323,
+        "question_text": "A recipe requires 3 1/4 cups of flour. You have 1 1/2 cups. You find another bag with 2 1/3 cups. Do you have enough flour in total, and if so, how much will be left over?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, 7/12 of a cup left",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7324,
+        "question_text": "What is the error in this calculation: 3 1/5 - 1 3/5 = 2 2/5? Explain and give the correct answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Cannot subtract 3/5 from 1/5 without regrouping. Answer is 1 3/5.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7325,
+        "question_text": "A runner plans to run 10 km. He runs 3 1/2 km and then rests. He then runs another 4 1/3 km. What fraction of the 10km is left to run?",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7326,
+        "question_text": "Find the value of x if 2 1/2 + x = 4 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "1 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7327,
+        "question_text": "A tank has a capacity of 50 litres. It is 1/2 full. If 1/5 of the tank's capacity is added, and then 1/4 is removed, how many litres are in the tank?",
+        "answer_type": "text_input",
+        "correct_answer": "22.5",
+        "alternative_answer_1": "22 1/2",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7328,
+        "question_text": "I had a piece of string 5 1/4 metres long. I cut off 1 1/2 metres, then another 2 1/3 metres. How much string is left?",
+        "answer_type": "text_input",
+        "correct_answer": "1  5/12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7329,
+        "question_text": "A project takes 20 hours. Team A works for 5 1/2 hours. Team B works for 8 1/4 hours. What fraction of the project is left to complete?",
+        "answer_type": "text_input",
+        "correct_answer": "13/40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7330,
+        "question_text": "Let's check the previous question again. A project takes 20 hours. Team A works for 5 1/2 hours. Team B works for 8 1/4 hours. How many hours are left?",
+        "answer_type": "text_input",
+        "correct_answer": "6 1/4",
+        "alternative_answer_1": "6.25",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7331,
+        "question_text": "What is the sum of 3/4, 2/3 and 1/2? Subtract this sum from 2.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7332,
+        "question_text": "A full bucket weighs 10kg. The bucket itself weighs 1 1/4 kg. If the bucket is 1/2 full of water, what is the total weight?",
+        "answer_type": "text_input",
+        "correct_answer": "5 5/8",
+        "alternative_answer_1": "5.625",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7333,
+        "question_text": "Subtract 1 4/5 from the sum of 2 1/2 and 1 1/4.",
+        "answer_type": "text_input",
+        "correct_answer": "1 19/20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7334,
+        "question_text": "A painter mixes 1 1/2 litres of red paint with 2 1/3 litres of white paint. He uses 3 litres of the mix. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7335,
+        "question_text": "From a 5 metre roll of fabric, a tailor cuts 1 1/2 m and then 2 2/3 m. How much fabric remains on the roll?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7336,
+        "question_text": "Find the value of y: y - 1 3/4 = 2 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "4 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7337,
+        "question_text": "A container can hold 4 litres. It contains 1 1/2 litres. How much more is needed to make it 7/8 full?",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7338,
+        "question_text": "A container holds 4 litres. It contains 1 1/2 litres. How much more is needed to make it 3/4 full?",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "1.5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7339,
+        "question_text": "What is 10 1/4 - 5 2/3?",
+        "answer_type": "text_input",
+        "correct_answer": "4  7/12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7340,
+        "question_text": "A baker had 5kg of flour. He used 1 1/2 kg for bread and 2 1/4 kg for cakes. How much flour was left?",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7341,
+        "question_text": "The sum of three fractions is 2. If two of the fractions are 1/2 and 2/3, what is the third fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7342,
+        "question_text": "A journey from Town A to Town C goes through Town B. The distance from A to B is 5 1/2 miles. The distance from B to C is 4 4/5 miles. What is the total distance?",
+        "answer_type": "text_input",
+        "correct_answer": "10  3/10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7343,
+        "question_text": "I started with a number and added 2 1/3. The result was 5. What number did I start with?",
+        "answer_type": "text_input",
+        "correct_answer": "2 2/3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7344,
+        "question_text": "What is the perimeter of a rectangle with a length of 2 1/2 cm and a width of 1 1/4 cm?",
+        "answer_type": "text_input",
+        "correct_answer": "7 1/2",
+        "alternative_answer_1": "7.5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7345,
+        "question_text": "Find the result of 3 - (1/2 + 1/3).",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    },
+    {
+        "question_id": 7346,
+        "question_text": "A bag of potatoes weighs 2 1/2 kg. 3/4 kg are used. How many kg are left?",
+        "answer_type": "text_input",
+        "correct_answer": "1 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 118
+    }
+]

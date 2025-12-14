@@ -1,0 +1,4002 @@
+[
+    {
+        "question_id": 19250,
+        "question_text": "What 2-D shape is found on the face of a cube?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19251,
+        "question_text": "What 2-D shape is found at the end of a cylinder?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19252,
+        "question_text": "What 2-D shape makes up the base of a cone?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19253,
+        "question_text": "What 2-D shape is typically found on the face of a cuboid?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19254,
+        "question_text": "The side faces of a square-based pyramid are what 2-D shape?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19255,
+        "question_text": "If you look at one face of a standard dice, what 2-D shape do you see?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19256,
+        "question_text": "What 2-D shape do you see on the top of a can of beans?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19257,
+        "question_text": "What is the shape of the base of a square-based pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19258,
+        "question_text": "If you unwrap a cuboid like a present, what 2-D shapes would you mostly see?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangles",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19259,
+        "question_text": "Name a 3-D shape that has a circular face.",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "cone",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19260,
+        "question_text": "Name a 3-D shape that has a square face.",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "cuboid",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19261,
+        "question_text": "Name a 3-D shape that has a triangular face.",
+        "answer_type": "text_input",
+        "correct_answer": "pyramid",
+        "alternative_answer_1": "triangular prism",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19262,
+        "question_text": "A box of cereal is a cuboid. What 2-D shape is the front of the box?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19263,
+        "question_text": "What 2-D shape is the base of a party hat?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19264,
+        "question_text": "A Toblerone box is a triangular prism. What 2-D shape is at each end?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19265,
+        "question_text": "True or False: A sphere has a circular face.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "FALSE",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19266,
+        "question_text": "What is the 2-D shape of one of a cube's surfaces?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19267,
+        "question_text": "What 2-D shape makes up the flat parts of a cylinder?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19268,
+        "question_text": "Look at an Egyptian pyramid. What shape are its sloping sides?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19269,
+        "question_text": "Which 3-D shape is made entirely of squares?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19270,
+        "question_text": "Which 3-D shape has two circles on its surface?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19271,
+        "question_text": "A brick is a cuboid. What shape are its largest faces?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19272,
+        "question_text": "A tent can be a triangular prism. What shape is the entrance?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19273,
+        "question_text": "What 2-D shape would you draw to represent the base of a cone?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19274,
+        "question_text": "What 2-D shape would you draw to represent one face of a cube?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19275,
+        "question_text": "A pentagonal prism has a pentagon at each end. What shape are its other faces?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19276,
+        "question_text": "A hexagonal pyramid has a hexagon as its base. What 2-D shape are its other faces?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19277,
+        "question_text": "How many circular faces does a cylinder have?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19278,
+        "question_text": "How many square faces does a square-based pyramid have?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "one",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19279,
+        "question_text": "How many rectangular faces does a triangular prism have?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19280,
+        "question_text": "A shape has two pentagonal faces and five rectangular faces. What is this 3-D shape?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19281,
+        "question_text": "A shape has one hexagonal face and six triangular faces. What is this 3-D shape?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagonal pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19282,
+        "question_text": "What two different 2-D shapes make up a square-based pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "square and triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19283,
+        "question_text": "What two different 2-D shapes make up a cylinder?",
+        "answer_type": "text_input",
+        "correct_answer": "circle and rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19284,
+        "question_text": "If you cut open a cylinder and lay it flat, what three 2-D shapes would you have?",
+        "answer_type": "text_input",
+        "correct_answer": "two circles and one rectangle",
+        "alternative_answer_1": "2 circles and 1 rectangle",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19285,
+        "question_text": "A shape has a pentagon for a base and triangular sides. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagonal pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19286,
+        "question_text": "How many triangular faces are there on a triangular prism?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19287,
+        "question_text": "How many rectangular faces are there on a cuboid?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19288,
+        "question_text": "What 2-D shapes do you need to build a triangular prism?",
+        "answer_type": "text_input",
+        "correct_answer": "triangles and rectangles",
+        "alternative_answer_1": "2 triangles and 3 rectangles",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19289,
+        "question_text": "What is the base shape of a pyramid that has a total of 5 faces?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "quadrilateral",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19290,
+        "question_text": "What is the base shape of a prism that has a total of 5 faces?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19291,
+        "question_text": "A hexagonal prism has how many rectangular faces?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19292,
+        "question_text": "A pentagonal pyramid has how many triangular faces?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19293,
+        "question_text": "True or False: All the faces of a triangular pyramid are triangles.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "TRUE",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19294,
+        "question_text": "Which 3-D shape is made from only one type of 2-D shape?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "triangular pyramid",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19295,
+        "question_text": "A 3-D shape has two hexagonal faces. What is the shape?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19296,
+        "question_text": "A 3-D shape has one pentagonal face. What could the shape be?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagonal pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19297,
+        "question_text": "How many square faces are on a cube?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19298,
+        "question_text": "How many non-square rectangular faces could a cuboid have?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "4",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19299,
+        "question_text": "If a prism has 8 faces in total, what shape is its base?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19300,
+        "question_text": "You are looking at a 3-D shape. You can see two circles and one rectangle. What is the shape?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19301,
+        "question_text": "I am building a 3-D shape using one square and four identical triangles. What shape am I building?",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19302,
+        "question_text": "If I place two identical cubes next to each other, what 3-D shape have I made?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19303,
+        "question_text": "What is the minimum number of 2-D shapes needed to make a triangular pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19304,
+        "question_text": "A prism has a total of 7 faces. What is the 2-D shape of its base?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagon",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19305,
+        "question_text": "A pyramid has a total of 7 faces. What is the 2-D shape of its base?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19306,
+        "question_text": "I have a set of 2-D shapes: two triangles and three rectangles. Can I build a square-based pyramid with them?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19307,
+        "question_text": "I have a 3-D shape. Its base is a triangle, and so are all its other faces. What is the shape?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19308,
+        "question_text": "If a 3-D shape is made from 6 identical 2-D shapes, what must that 2-D shape be?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19309,
+        "question_text": "A cube is painted blue and then cut in half. What new 2-D shapes are revealed on the inside faces?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19310,
+        "question_text": "How many rectangular faces does a hexagonal prism have?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19311,
+        "question_text": "How many triangular faces does a pentagonal pyramid have?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19312,
+        "question_text": "A shape has two triangular faces. Could it be a pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19313,
+        "question_text": "Imagine a standard can of soup (a cylinder). If you removed the top and bottom circles, what 2-D shape would the curved part become if you flattened it?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19314,
+        "question_text": "To build a pyramid with a hexagonal base, what 2-D shapes would you need?",
+        "answer_type": "text_input",
+        "correct_answer": "one hexagon and six triangles",
+        "alternative_answer_1": "1 hexagon 6 triangles",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19315,
+        "question_text": "A shape has 6 vertices. If it is a prism, what shape is its base?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19316,
+        "question_text": "A shape has 6 vertices. If it is a pyramid, what shape is its base?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagon",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19317,
+        "question_text": "I am looking at a 3-D shape. All I can see from any angle is a circle. What is the shape?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19318,
+        "question_text": "What is the total number of faces on a pentagonal prism?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19319,
+        "question_text": "What is the total number of faces on a hexagonal pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19320,
+        "question_text": "A cuboid has square faces at its ends. What 2-D shape must its other faces be?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "square",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19321,
+        "question_text": "A triangular prism is sliced in half parallel to its base. What 2-D shape is the new face that is revealed?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19322,
+        "question_text": "How many circles are on the surface of a cone?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19323,
+        "question_text": "Can you make a pyramid using only rectangles?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19324,
+        "question_text": "Can you make a prism that has circular faces?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19325,
+        "question_text": "I combine two identical triangular prisms by placing their rectangular faces together. What new 3-D shape might I have created?",
+        "answer_type": "text_input",
+        "correct_answer": "a larger triangular prism",
+        "alternative_answer_1": "a cuboid",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19326,
+        "question_text": "If I place two identical square-based pyramids together by joining their square bases, what 3-D shape have I made?",
+        "answer_type": "text_input",
+        "correct_answer": "octahedron",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19327,
+        "question_text": "A prism has 12 vertices. How many rectangular faces does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19328,
+        "question_text": "A pyramid has 12 edges. What 2-D shapes make up its surface?",
+        "answer_type": "text_input",
+        "correct_answer": "a hexagon and triangles",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19329,
+        "question_text": "Imagine slicing the corner off a cube. What new 2-D shape is likely to be revealed on the cut surface?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19330,
+        "question_text": "A 3-D shape has an equal number of faces, vertices, and edges. Is this possible for a simple polyhedron?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19331,
+        "question_text": "How would you describe the difference between a cuboid and a cube in terms of their 2-D faces?",
+        "answer_type": "text_input",
+        "correct_answer": "A cube must have all square faces, a cuboid can have rectangular faces.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19332,
+        "question_text": "If you stack three identical cubes on top of each other, what 3-D shape have you made?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19333,
+        "question_text": "A 3-D shape is made from a net containing 6 identical triangles. Could this shape be a prism?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19334,
+        "question_text": "A 3-D shape is made from a net containing 6 identical triangles. Could this shape be a pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19335,
+        "question_text": "A triangular prism is cut in half vertically through its triangular face. What 2-D shape is the new face revealed?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19336,
+        "question_text": "A shape has 7 faces and 10 vertices. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19337,
+        "question_text": "A shape has the same number of vertices as a cuboid. If it is a pyramid, what is its base shape?",
+        "answer_type": "text_input",
+        "correct_answer": "heptagon",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19338,
+        "question_text": "A shape has the same number of faces as a triangular prism. If it is a pyramid, what is its base shape?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "quadrilateral",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19339,
+        "question_text": "Which has more faces: a hexagonal prism or a hexagonal pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19340,
+        "question_text": "I build a 3-D shape using 8 triangles and 1 octagon. What shape is it?",
+        "answer_type": "text_input",
+        "correct_answer": "octagonal pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19341,
+        "question_text": "I build a 3-D shape using 2 octagons and 8 rectangles. What shape is it?",
+        "answer_type": "text_input",
+        "correct_answer": "octagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19342,
+        "question_text": "A Toblerone box (triangular prism) is made of what combination of 2-D shapes?",
+        "answer_type": "text_input",
+        "correct_answer": "2 triangles and 3 rectangles",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19343,
+        "question_text": "If you place a square-based pyramid on top of a cube (matching the square faces), how many faces does the new composite shape have?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19344,
+        "question_text": "A standard house shape can be made from two 3-D shapes. What are they?",
+        "answer_type": "text_input",
+        "correct_answer": "a cuboid and a triangular prism",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19345,
+        "question_text": "A shape has 1 face, 0 edges and 0 vertices. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19346,
+        "question_text": "How many different types of 2-D shapes are on the surface of a pentagonal prism?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19347,
+        "question_text": "How many different types of 2-D shapes are on the surface of a triangular pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19348,
+        "question_text": "A cross-section is the 2-D shape you see when you slice a 3-D shape. What is the cross-section of a cylinder if you slice it parallel to its base?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 19349,
+        "question_text": "What is the cross-section of a square-based pyramid if you slice it parallel to its base?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 460
+    },
+    {
+        "question_id": 20831,
+        "question_text": "What 2-D shape has 4 equal sides and 4 right angles?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20832,
+        "question_text": "What 2-D shape has 3 straight sides?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20833,
+        "question_text": "What is the name of a 2-D shape with one continuous curved side?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20834,
+        "question_text": "If you see a 3-D shape that looks like a standard dice, what is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20835,
+        "question_text": "If you see a 3-D shape that looks like a shoebox, what is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20836,
+        "question_text": "A 3-D shape looks like a ball. What is its mathematical name?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20837,
+        "question_text": "How many sides would you draw for a square?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20838,
+        "question_text": "How many sides would you draw for a triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "three",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20839,
+        "question_text": "How many sides would you draw for a rectangle?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20840,
+        "question_text": "I am drawing a shape with 4 sides. Two sides are long and two are short. What shape am I drawing?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20841,
+        "question_text": "To make a simple cube from straws, how many straws of the same length would you need?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20842,
+        "question_text": "If a cube is tilted on its side, is it still a cube?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20843,
+        "question_text": "Name a 3-D shape that can roll.",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "cylinder",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20844,
+        "question_text": "Name a 3-D shape that has a sharp point.",
+        "answer_type": "text_input",
+        "correct_answer": "cone",
+        "alternative_answer_1": "pyramid",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20845,
+        "question_text": "To draw a rectangle, you need to draw how many straight lines?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20846,
+        "question_text": "I am building a 3-D shape using only squares of clay. What shape am I making?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20847,
+        "question_text": "A can of soup is a cylinder. If you look at it from the top, what 2-D shape do you see?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20848,
+        "question_text": "A pyramid is sitting on a square base. If you look at it from directly above, what 2-D shape do you see?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20849,
+        "question_text": "What 2-D shape has no straight sides?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "oval",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20850,
+        "question_text": "If you see a cuboid lying on its longest side, is it still a cuboid?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20851,
+        "question_text": "To draw a circle, what kind of line do you use?",
+        "answer_type": "text_input",
+        "correct_answer": "curved",
+        "alternative_answer_1": "a curved line",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20852,
+        "question_text": "What 3-D shape looks like an ice cream cone?",
+        "answer_type": "text_input",
+        "correct_answer": "cone",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20853,
+        "question_text": "What 3-D shape looks like an orange?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20854,
+        "question_text": "If you are asked to draw a triangle, how many corners will it have?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "three",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20855,
+        "question_text": "If you are asked to draw a square, how many corners will it have?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20856,
+        "question_text": "How many sides would you need to draw for a pentagon?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "five",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20857,
+        "question_text": "How many sides would you need to draw for a hexagon?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20858,
+        "question_text": "I am making a 3-D shape from two circles and a rectangle made of paper. What shape am I making?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20859,
+        "question_text": "I am making a 3-D shape from one circle and another shape that makes a point. What am I making?",
+        "answer_type": "text_input",
+        "correct_answer": "cone",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20860,
+        "question_text": "A triangular prism is standing on its end. Describe its appearance.",
+        "answer_type": "text_input",
+        "correct_answer": "It looks like a triangle",
+        "alternative_answer_1": "A triangle shape",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20861,
+        "question_text": "A cylinder is lying on its side. Describe its appearance from the side.",
+        "answer_type": "text_input",
+        "correct_answer": "It looks like a rectangle",
+        "alternative_answer_1": "A rectangle",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20862,
+        "question_text": "What two types of 2-D shapes would you need to make a triangular prism?",
+        "answer_type": "text_input",
+        "correct_answer": "triangles and rectangles",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20863,
+        "question_text": "What two types of 2-D shapes would you need to make a square-based pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "a square and triangles",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20864,
+        "question_text": "To make a triangular pyramid, what is the only 2-D shape you need?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20865,
+        "question_text": "Describe the difference between a square and a pentagon.",
+        "answer_type": "text_input",
+        "correct_answer": "A square has 4 sides, a pentagon has 5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20866,
+        "question_text": "I am drawing a shape with 6 corners. What is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20867,
+        "question_text": "I am drawing a shape with 5 straight sides. What is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20868,
+        "question_text": "If you place a pyramid on its side, is it still a pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20869,
+        "question_text": "Describe the appearance of a cone lying on its side.",
+        "answer_type": "text_input",
+        "correct_answer": "It looks like a triangle",
+        "alternative_answer_1": "A triangle",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20870,
+        "question_text": "What 2-D shape would you see if you looked at the base of a hexagonal prism?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20871,
+        "question_text": "How many lines would you draw to create a hexagon?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20872,
+        "question_text": "How many lines would you draw to create a pentagon?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "five",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20873,
+        "question_text": "A 3-D shape is made from one square and four triangles. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20874,
+        "question_text": "To make a cuboid that is not a cube from straws, would all the straws need to be the same length?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20875,
+        "question_text": "A Toblerone box is a triangular prism. If you stand it on its end, what 2-D shape do you see from above?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20876,
+        "question_text": "Describe a cylinder by the 2-D shapes on its surface.",
+        "answer_type": "text_input",
+        "correct_answer": "It has two circles and a curved face",
+        "alternative_answer_1": "two circles",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20877,
+        "question_text": "Describe a cone by the 2-D shapes on its surface.",
+        "answer_type": "text_input",
+        "correct_answer": "It has one circle and a curved face",
+        "alternative_answer_1": "one circle",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20878,
+        "question_text": "Which 3-D shape rolls in a straight line?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20879,
+        "question_text": "If you are building a pentagonal prism, how many rectangles would you need for the sides?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "five",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20880,
+        "question_text": "If you are building a hexagonal pyramid, how many triangles would you need for the sides?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20881,
+        "question_text": "When drawing a regular pentagon, what must be true about its sides?",
+        "answer_type": "text_input",
+        "correct_answer": "They are all the same length",
+        "alternative_answer_1": "They are all equal",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20882,
+        "question_text": "A 3-D shape has 6 faces, 8 vertices and 12 edges. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "cube",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20883,
+        "question_text": "A 3-D shape has 5 faces, 5 vertices and 8 edges. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20884,
+        "question_text": "I need to make a triangular prism. How many vertices must I make with my modelling clay?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20885,
+        "question_text": "I need to make a square-based pyramid. How many edges will it have?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "eight",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20886,
+        "question_text": "Describe a cube by stating the number of faces, edges, and vertices.",
+        "answer_type": "text_input",
+        "correct_answer": "6 faces, 12 edges, 8 vertices",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20887,
+        "question_text": "Describe a cylinder by its properties.",
+        "answer_type": "text_input",
+        "correct_answer": "2 faces, 0 vertices, 2 curved edges",
+        "alternative_answer_1": "2 flat faces, 1 curved face",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20888,
+        "question_text": "Describe a cone by its properties.",
+        "answer_type": "text_input",
+        "correct_answer": "2 faces, 1 vertex, 1 curved edge",
+        "alternative_answer_1": "1 flat face, 1 curved face, 1 vertex",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20889,
+        "question_text": "A prism has a base with 6 sides. How many faces does it have in total?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "eight",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20890,
+        "question_text": "A pyramid has a base with 5 sides. How many vertices does it have in total?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20891,
+        "question_text": "If you are drawing a regular hexagon, how many equal sides must you draw?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20892,
+        "question_text": "Describe the faces of a triangular prism.",
+        "answer_type": "text_input",
+        "correct_answer": "2 triangles and 3 rectangles",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20893,
+        "question_text": "Describe the faces of a pentagonal pyramid.",
+        "answer_type": "text_input",
+        "correct_answer": "1 pentagon and 5 triangles",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20894,
+        "question_text": "A shape has 5 faces and 9 edges. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular prism",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20895,
+        "question_text": "Identify the 3-D shape that has 4 vertices and 6 edges.",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20896,
+        "question_text": "How many more edges does a cuboid have than a triangular pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20897,
+        "question_text": "How many more faces does a cube have than a cone?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20898,
+        "question_text": "How many vertices does a hexagonal prism have?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "twelve",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20899,
+        "question_text": "How many edges does a hexagonal pyramid have?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "twelve",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20900,
+        "question_text": "A shape has no vertices and one curved face. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20901,
+        "question_text": "What 3-D shape has no vertices (corners) and two circular flat faces?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20902,
+        "question_text": "If a 3-D shape can stack easily, what kind of faces must it have?",
+        "answer_type": "text_input",
+        "correct_answer": "flat faces",
+        "alternative_answer_1": "flat",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20903,
+        "question_text": "Why is it difficult to stack spheres on top of each other?",
+        "answer_type": "text_input",
+        "correct_answer": "They have curved faces",
+        "alternative_answer_1": "They roll",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20905,
+        "question_text": "I have a 3-D shape with two identical faces and all other faces are rectangles. What type of shape is it?",
+        "answer_type": "text_input",
+        "correct_answer": "prism",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20906,
+        "question_text": "A 3-D shape has 10 vertices and 7 faces. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20907,
+        "question_text": "A 3-D shape has 7 vertices and 7 faces. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagonal pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20908,
+        "question_text": "I am building a 3-D shape. I have used 2 hexagons and 6 squares. What shape have I made?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20909,
+        "question_text": "If a pyramid has 10 edges, describe its faces.",
+        "answer_type": "text_input",
+        "correct_answer": "1 pentagon and 5 triangles",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20910,
+        "question_text": "A prism has 12 edges. Describe its faces.",
+        "answer_type": "text_input",
+        "correct_answer": "2 quadrilaterals and 4 rectangles",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20911,
+        "question_text": "Why can a triangular pyramid also be called a tetrahedron?",
+        "answer_type": "text_input",
+        "correct_answer": "It has four faces",
+        "alternative_answer_1": "Tetra means four",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20912,
+        "question_text": "A shape has V vertices, E edges and F faces. If V=8 and F=6, what is E?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20913,
+        "question_text": "A shape has 10 edges and 6 vertices. How many faces does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20914,
+        "question_text": "Describe the difference between a prism and a pyramid in terms of their faces.",
+        "answer_type": "text_input",
+        "correct_answer": "A prism has two bases and rectangular sides, a pyramid has one base and triangular sides.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20915,
+        "question_text": "If you cut a cylinder in half from top to bottom, what 2-D shape is the new flat face?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20916,
+        "question_text": "I have a 3-D shape that can roll, but not in a straight line. What could it be?",
+        "answer_type": "text_input",
+        "correct_answer": "cone",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20917,
+        "question_text": "When seen from any direction, a 3-D shape always looks like a square. What is the shape?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20918,
+        "question_text": "A prism's base is a shape with 'n' sides. How many faces does this prism have?",
+        "answer_type": "text_input",
+        "correct_answer": "n + 2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20919,
+        "question_text": "A pyramid's base is a shape with 'n' sides. How many vertices does this pyramid have?",
+        "answer_type": "text_input",
+        "correct_answer": "n + 1",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20920,
+        "question_text": "Describe a triangular pyramid by its properties (faces, edges, vertices).",
+        "answer_type": "text_input",
+        "correct_answer": "4 faces, 6 edges, 4 vertices",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20921,
+        "question_text": "Describe a triangular prism by its properties (faces, edges, vertices).",
+        "answer_type": "text_input",
+        "correct_answer": "5 faces, 9 edges, 6 vertices",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20922,
+        "question_text": "I have a 3-D shape. If I look at it from the top it looks like a circle. If I look from the side it looks like a rectangle. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20923,
+        "question_text": "I have a 3-D shape. If I look at it from the top it looks like a circle. If I look from the side it looks like a triangle. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cone",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20924,
+        "question_text": "You are given a pile of 6 identical squares. What 3-D shape can you make?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20925,
+        "question_text": "You are given a pile of 4 identical triangles. What 3-D shape can you make?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20926,
+        "question_text": "What do a cylinder and a cone have in common?",
+        "answer_type": "text_input",
+        "correct_answer": "They both have a circular face",
+        "alternative_answer_1": "They have curved faces",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20927,
+        "question_text": "What do a cuboid and a square-based pyramid have in common?",
+        "answer_type": "text_input",
+        "correct_answer": "They have a square face",
+        "alternative_answer_1": "They have vertices and edges",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20928,
+        "question_text": "A shape has the same number of faces as a triangular pyramid. It has one vertex. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "This shape is impossible",
+        "alternative_answer_1": "impossible",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20929,
+        "question_text": "If a cube is resting on one of its vertices, what 2-D shape is its outline?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 20930,
+        "question_text": "If a 3-D shape has no flat faces, what must it be?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 462
+    },
+    {
+        "question_id": 23059,
+        "question_text": "To draw a square with a side length of 5cm, what tool do you need for the lengths?",
+        "answer_type": "text_input",
+        "correct_answer": "ruler",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23060,
+        "question_text": "To draw a square with 5cm sides, what angle must each corner be?",
+        "answer_type": "text_input",
+        "correct_answer": "90°",
+        "alternative_answer_1": "90",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23061,
+        "question_text": "You are asked to draw a rectangle 8cm long and 4cm wide. How many sides will you draw?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23062,
+        "question_text": "What tool do you need to make sure the corners of a rectangle are exactly 90°?",
+        "answer_type": "text_input",
+        "correct_answer": "protractor",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23063,
+        "question_text": "I draw a right-angled triangle. One side is 3cm and another is 4cm. What is the angle between these two sides?",
+        "answer_type": "text_input",
+        "correct_answer": "90°",
+        "alternative_answer_1": "90",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23064,
+        "question_text": "To draw a line segment 7cm long, what is the main tool you should use?",
+        "answer_type": "text_input",
+        "correct_answer": "ruler",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23065,
+        "question_text": "If you draw a rectangle with a width of 6cm, what will be the width of the opposite side?",
+        "answer_type": "text_input",
+        "correct_answer": "6cm",
+        "alternative_answer_1": "6",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23066,
+        "question_text": "If you draw a square with a side length of 10cm, what is the length of the other three sides?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23067,
+        "question_text": "I need to draw a triangle with sides 5cm, 5cm, and 5cm. What is this type of triangle called?",
+        "answer_type": "text_input",
+        "correct_answer": "equilateral",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23068,
+        "question_text": "I draw a baseline of 6cm. From one end, I draw a 90° angle. What shape might I be starting to draw?",
+        "answer_type": "text_input",
+        "correct_answer": "a square",
+        "alternative_answer_1": "a rectangle",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23069,
+        "question_text": "To draw a 90° angle, what is the name of the tool you use?",
+        "answer_type": "text_input",
+        "correct_answer": "protractor",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23070,
+        "question_text": "How many sides does a quadrilateral have?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23071,
+        "question_text": "You are drawing a square. You draw a 4cm side and then turn a 90° corner. How long is the next side you draw?",
+        "answer_type": "text_input",
+        "correct_answer": "4cm",
+        "alternative_answer_1": "4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23072,
+        "question_text": "You are drawing a rectangle with a length of 7cm. The angle at the corner is 90°. The width is 3cm. What is the length of the opposite side?",
+        "answer_type": "text_input",
+        "correct_answer": "7cm",
+        "alternative_answer_1": "7",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23073,
+        "question_text": "What two tools are essential for drawing a rectangle with specific dimensions?",
+        "answer_type": "text_input",
+        "correct_answer": "ruler and protractor",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23074,
+        "question_text": "I draw a shape with four 3cm sides and four 90° angles. What shape have I drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23075,
+        "question_text": "I draw a shape with two 6cm sides, two 4cm sides, and four 90° angles. What shape have I drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23076,
+        "question_text": "To draw an angle, you first draw a baseline. What is the next step?",
+        "answer_type": "text_input",
+        "correct_answer": "place the protractor on the line",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23077,
+        "question_text": "What does the dimension 5cm tell you to measure?",
+        "answer_type": "text_input",
+        "correct_answer": "length",
+        "alternative_answer_1": "side length",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23078,
+        "question_text": "What does the dimension 60° tell you to measure?",
+        "answer_type": "text_input",
+        "correct_answer": "angle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23079,
+        "question_text": "I draw a triangle with one 90° angle. What is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "right-angled triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23080,
+        "question_text": "When drawing a rectangle 10cm by 5cm, how many 90° angles do you need to draw?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23081,
+        "question_text": "If you draw a closed shape with 3 straight sides, what is it?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23082,
+        "question_text": "If you draw a closed shape with 4 straight sides, what is it called generally?",
+        "answer_type": "text_input",
+        "correct_answer": "quadrilateral",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23083,
+        "question_text": "You draw an angle of 90° from a line. What are the two lines to each other?",
+        "answer_type": "text_input",
+        "correct_answer": "perpendicular",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23084,
+        "question_text": "To draw a triangle with a 6cm base and base angles of 60° and 60°, what kind of triangle will you have drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "equilateral",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23085,
+        "question_text": "You are asked to draw a triangle with sides 5cm, 7cm and an angle of 45° between them. What tools do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "ruler and protractor",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23086,
+        "question_text": "I draw a parallelogram with a side of 8cm and an angle of 70°. What is the length of the opposite side?",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "8",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23087,
+        "question_text": "I draw a parallelogram with a side of 8cm and an angle of 70°. What is the size of the opposite angle?",
+        "answer_type": "text_input",
+        "correct_answer": "70°",
+        "alternative_answer_1": "70",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23088,
+        "question_text": "You draw a baseline of 8cm. At each end, you draw an angle of 60°. You extend the lines until they meet. What shape have you drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "equilateral triangle",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23089,
+        "question_text": "How many measurements (sides or angles) do you need to draw a specific, unique triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "three",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23090,
+        "question_text": "You need to draw a triangle with sides of 3cm, 4cm, and 5cm. What kind of triangle will this be?",
+        "answer_type": "text_input",
+        "correct_answer": "right-angled triangle",
+        "alternative_answer_1": "right-angled",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23091,
+        "question_text": "To draw a regular hexagon with 4cm sides, how many sides do you need to draw?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23092,
+        "question_text": "To draw a regular hexagon, what must the interior angle be?",
+        "answer_type": "text_input",
+        "correct_answer": "120°",
+        "alternative_answer_1": "120",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23093,
+        "question_text": "I draw a line 10cm long. I want to draw an isosceles triangle on this base. I draw a 50° angle at one end. What angle must I draw at the other end?",
+        "answer_type": "text_input",
+        "correct_answer": "50°",
+        "alternative_answer_1": "50",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23094,
+        "question_text": "You draw a triangle with angles 90°, 45°, and 45°. What is this shape called?",
+        "answer_type": "text_input",
+        "correct_answer": "isosceles right-angled triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23095,
+        "question_text": "To draw a rhombus with a side length of 6cm, what can you say about the other three sides?",
+        "answer_type": "text_input",
+        "correct_answer": "They are all 6cm",
+        "alternative_answer_1": "They are equal",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23096,
+        "question_text": "I draw a quadrilateral with one pair of parallel sides. What have I drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "trapezium",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23097,
+        "question_text": "You draw a baseline of 7cm. You draw a 90° line of 4cm at one end, and a 90° line of 4cm at the other. You join the tops. What shape is it?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23098,
+        "question_text": "If you are asked to draw a triangle with angles 80°, 50°, and 50°, what kind of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "isosceles",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23099,
+        "question_text": "You are drawing a kite. It has one side of 5cm and one side of 8cm. What are the lengths of the other two sides?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm and 8cm",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23100,
+        "question_text": "To construct a parallelogram, you draw a 6cm side, then a 110° angle, then a 4cm side. What is the next angle in the corner?",
+        "answer_type": "text_input",
+        "correct_answer": "70°",
+        "alternative_answer_1": "70",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23101,
+        "question_text": "How many angles do you need to measure when drawing a pentagon?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "five",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23102,
+        "question_text": "You are drawing a triangle. You have drawn a 6cm side and a 8cm side. Can the third side be 15cm long?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23103,
+        "question_text": "To draw an equilateral triangle with a side of 7cm, what should each angle be?",
+        "answer_type": "text_input",
+        "correct_answer": "60°",
+        "alternative_answer_1": "60",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23104,
+        "question_text": "I draw a shape with four equal sides but the angles are not 90°. What have I drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "rhombus",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23105,
+        "question_text": "If you draw a triangle with sides of length 6cm, 6cm, and 9cm, what type of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "isosceles",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23106,
+        "question_text": "If you draw a triangle with sides of length 5cm, 6cm, and 7cm, what type of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "scalene",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23107,
+        "question_text": "To draw a regular octagon, how many equal sides must you draw?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "eight",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23108,
+        "question_text": "A shape has 4 sides and all its angles are 90°. What two shapes could it be?",
+        "answer_type": "text_input",
+        "correct_answer": "square and rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23109,
+        "question_text": "You need to draw a triangle with a side of 8cm, and angles at each end of 40° and 50°. What is the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90°",
+        "alternative_answer_1": "90",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23110,
+        "question_text": "To draw a regular pentagon with sides of 5cm, what size must all the interior angles be?",
+        "answer_type": "text_input",
+        "correct_answer": "108°",
+        "alternative_answer_1": "108",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23111,
+        "question_text": "I draw a parallelogram with sides 10cm and 7cm. I measure one interior angle as 65°. What are the other three angles?",
+        "answer_type": "text_input",
+        "correct_answer": "65°, 115°, 115°",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23112,
+        "question_text": "A quadrilateral is drawn with angles 80°, 90°, and 100°. What is the fourth angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90°",
+        "alternative_answer_1": "90",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23113,
+        "question_text": "You draw a triangle with a 10cm base. You use a protractor to make a 90° angle at one end and a 45° angle at the other. What type of triangle have you drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "isosceles right-angled",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23114,
+        "question_text": "What is the sum of the interior angles in any triangle you can draw?",
+        "answer_type": "text_input",
+        "correct_answer": "180°",
+        "alternative_answer_1": "180",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23115,
+        "question_text": "What is the sum of the interior angles in any quadrilateral you can draw?",
+        "answer_type": "text_input",
+        "correct_answer": "360°",
+        "alternative_answer_1": "360",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23116,
+        "question_text": "To construct a specific triangle, you are given a side of 6.5cm, a side of 8.2cm and the angle between them of 35°. Will this create a unique triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23117,
+        "question_text": "You draw a shape with side lengths 4.5cm, 6.2cm, and 3.8cm. What shape have you drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "scalene triangle",
+        "alternative_answer_1": "triangle",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23118,
+        "question_text": "I need to draw an isosceles triangle with a perimeter of 20cm. If the base is 8cm, how long are the other two sides?",
+        "answer_type": "text_input",
+        "correct_answer": "6cm",
+        "alternative_answer_1": "6",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23119,
+        "question_text": "A shape is described as having sides of 5.5cm and interior angles of 60°. What shape is it?",
+        "answer_type": "text_input",
+        "correct_answer": "equilateral triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23120,
+        "question_text": "To draw a rhombus that is not a square, you can give it four 7cm sides. What could be a possible pair of opposite angles?",
+        "answer_type": "text_input",
+        "correct_answer": "e.g. 80° and 80°",
+        "alternative_answer_1": "e.g. 110° and 110°",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23121,
+        "question_text": "You are given dimensions to draw a quadrilateral: sides 4cm, 6cm, 4cm, 6cm and angles all 90°. What shape is it?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23122,
+        "question_text": "You draw a triangle. The first angle is 35°. The second angle is 55°. What is the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "90°",
+        "alternative_answer_1": "90",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23123,
+        "question_text": "Can you draw a quadrilateral with four acute angles?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23124,
+        "question_text": "To draw an accurate circle with a diameter of 9cm, what must you set your compass radius to?",
+        "answer_type": "text_input",
+        "correct_answer": "4.5cm",
+        "alternative_answer_1": "4.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23125,
+        "question_text": "I draw a polygon where the sum of interior angles is 540°. What shape have I drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagon",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23126,
+        "question_text": "When constructing a regular polygon with a side length of 3.5cm, are all the sides the same length?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23127,
+        "question_text": "I draw a quadrilateral with angles 75°, 105°, 75°, 105°. What shape could it be?",
+        "answer_type": "text_input",
+        "correct_answer": "parallelogram",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23128,
+        "question_text": "A shape is drawn with sides 6.1cm, 6.1cm, 6.1cm. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "equilateral triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23129,
+        "question_text": "A shape is drawn with sides 5.2cm, 8.0cm, 5.2cm, 8.0cm. What could it be?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "parallelogram",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23130,
+        "question_text": "You draw a triangle with sides 7.5cm and 4.5cm and an angle of 90° between them. What is the third angle?",
+        "answer_type": "text_input",
+        "correct_answer": "Cannot be determined",
+        "alternative_answer_1": "Not enough information",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23131,
+        "question_text": "To draw a specific shape, you are given these instructions: Draw a 5cm line. At one end, draw a 108° angle.... What shape are you likely drawing?",
+        "answer_type": "text_input",
+        "correct_answer": "regular pentagon",
+        "alternative_answer_1": "pentagon",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23132,
+        "question_text": "You draw a shape with four 5.1cm sides and four 90° angles. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23133,
+        "question_text": "You draw a shape with two 7.5cm sides and two 3.5cm sides. The angles are 90°. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23134,
+        "question_text": "You need to draw a shape made of two equilateral triangles joined along one side. What shape have you created?",
+        "answer_type": "text_input",
+        "correct_answer": "rhombus",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23135,
+        "question_text": "I draw a scale diagram of a rectangular room. The room is 6m by 4m. If I use a scale where 1cm represents 0.5m, what are the dimensions on my drawing?",
+        "answer_type": "text_input",
+        "correct_answer": "12cm by 8cm",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23136,
+        "question_text": "A shape is constructed by joining the midpoints of the sides of a 10cm by 10cm square. What shape is formed in the middle?",
+        "answer_type": "text_input",
+        "correct_answer": "a square",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23137,
+        "question_text": "You need to draw a regular dodecagon (12 sides). What is the size of each interior angle?",
+        "answer_type": "text_input",
+        "correct_answer": "150°",
+        "alternative_answer_1": "150",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23138,
+        "question_text": "Can you draw a regular polygon with an interior angle of 100°?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23139,
+        "question_text": "I need to draw an isosceles triangle with a perimeter of 25cm. One of the equal sides is 8.5cm. How long is the base?",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "8",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23140,
+        "question_text": "To create a scale drawing of a football pitch that is 100m long, you use a scale of 1:200. How long is the line you must draw in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "50cm",
+        "alternative_answer_1": "50",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23141,
+        "question_text": "You draw a triangle with sides 6cm, 8cm and 10cm. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "24cm²",
+        "alternative_answer_1": "24",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23142,
+        "question_text": "A shape is created by drawing a square (4cm sides) and an equilateral triangle on one of its sides. What is the perimeter of this new composite shape?",
+        "answer_type": "text_input",
+        "correct_answer": "20cm",
+        "alternative_answer_1": "20",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23143,
+        "question_text": "You are given a point (3,4). You need to draw a square with this point as the centre and sides parallel to the axes, with a side length of 4. What are the coordinates of the vertices?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,2), (5,2), (5,6), (1,6)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23144,
+        "question_text": "You draw a regular pentagon. What is the sum of its exterior angles?",
+        "answer_type": "text_input",
+        "correct_answer": "360°",
+        "alternative_answer_1": "360",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23145,
+        "question_text": "If you draw a circle with a radius of 5cm, what would you need to set your compass to?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm",
+        "alternative_answer_1": "5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23146,
+        "question_text": "A shape has angles 90°, 90°, 110°, 70°. Can this shape be a kite?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23147,
+        "question_text": "To draw a right-angled isosceles triangle with a hypotenuse of 10cm, what are the other two angles?",
+        "answer_type": "text_input",
+        "correct_answer": "45°",
+        "alternative_answer_1": "45",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23148,
+        "question_text": "I draw a shape by plotting (0,0), (5,0), (8,4), (3,4). What shape is it?",
+        "answer_type": "text_input",
+        "correct_answer": "parallelogram",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23149,
+        "question_text": "When drawing a regular star by connecting the vertices of a regular pentagon, what is the angle at each point of the star?",
+        "answer_type": "text_input",
+        "correct_answer": "36°",
+        "alternative_answer_1": "36",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23150,
+        "question_text": "You are designing a triangular garden bed. The lengths are 5.5m, 6.5m, and 7.0m. What type of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "scalene",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23151,
+        "question_text": "You draw a 12cm by 16cm rectangle. What is the length of its diagonal?",
+        "answer_type": "text_input",
+        "correct_answer": "20cm",
+        "alternative_answer_1": "20",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23152,
+        "question_text": "I draw two squares, one with side 3cm and one with side 4cm, and place them next to each other. What is the perimeter of the combined shape?",
+        "answer_type": "text_input",
+        "correct_answer": "22cm",
+        "alternative_answer_1": "22",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23153,
+        "question_text": "To draw a semicircle with a straight edge of 12cm, what should the radius be?",
+        "answer_type": "text_input",
+        "correct_answer": "6cm",
+        "alternative_answer_1": "6",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23154,
+        "question_text": "A shape has 4 equal sides and two pairs of equal angles (e.g. 100° and 80°). What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "rhombus",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23155,
+        "question_text": "You are given the coordinates for a triangle: (1,1), (7,1), (4,5). What is the area of this triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23156,
+        "question_text": "I draw a regular polygon. The angle at the centre for each side is 40°. How many sides does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "nine",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23157,
+        "question_text": "You are asked to draw a triangle with sides 12cm, 5cm, and 6cm. Can this be done?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23158,
+        "question_text": "A shape is created by removing a 2cm by 2cm square from each corner of a 10cm by 10cm square. What is the perimeter of the new shape?",
+        "answer_type": "text_input",
+        "correct_answer": "40cm",
+        "alternative_answer_1": "40",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 465
+    },
+    {
+        "question_id": 23461,
+        "question_text": "What is the name of a 3-D shape that looks like a shoebox?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23462,
+        "question_text": "What is the name of a 3-D shape that looks like a standard dice?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23463,
+        "question_text": "What is the name of a 3-D shape that looks like a ball?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23464,
+        "question_text": "What is the name of a 3-D shape that looks like a can of soup?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23465,
+        "question_text": "What is the name of a 3-D shape that looks like an Egyptian pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid",
+        "alternative_answer_1": "pyramid",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23466,
+        "question_text": "A net is a flat shape that can be folded to make a 3-D shape. True or False?",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "TRUE",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23467,
+        "question_text": "Which 3-D shape is made by folding a net that looks like a cross made of 6 squares?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23468,
+        "question_text": "If you are building a cube using modelling straws, how many straws of equal length do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23469,
+        "question_text": "Name a 3-D shape that has no flat faces.",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23470,
+        "question_text": "Name a 3-D shape with two circular faces.",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23471,
+        "question_text": "Name a 3-D shape with one circular face.",
+        "answer_type": "text_input",
+        "correct_answer": "cone",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23472,
+        "question_text": "To build a simple model of a cuboid, what 2-D shapes would you cut out?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangles",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23473,
+        "question_text": "Which 3-D shape has a square base and four triangular faces?",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid",
+        "alternative_answer_1": "pyramid",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23474,
+        "question_text": "Which 3-D shape has two triangular faces and three rectangular faces?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular prism",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23475,
+        "question_text": "If you unwrap the label from a can of soup, what 2-D shape do you get?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23476,
+        "question_text": "Describe a sphere by its main property.",
+        "answer_type": "text_input",
+        "correct_answer": "It is perfectly round",
+        "alternative_answer_1": "It has one curved face",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23477,
+        "question_text": "Describe a cone by its main properties.",
+        "answer_type": "text_input",
+        "correct_answer": "It has a flat circular base and a point",
+        "alternative_answer_1": "It has a vertex",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23478,
+        "question_text": "What is the name of the 3-D shape of a Toblerone box?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular prism",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23479,
+        "question_text": "To build a cone, what two shapes do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "a circle and a sector",
+        "alternative_answer_1": "a circle and part of a circle",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23480,
+        "question_text": "A net for a 3-D shape is made of 4 triangles. What shape does it make?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23481,
+        "question_text": "Which 3-D shape, with a circular base and a point, rolls in a circle?",
+        "answer_type": "text_input",
+        "correct_answer": "Cone",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23482,
+        "question_text": "Which 3-D shape cannot stack easily?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "cone",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23483,
+        "question_text": "What is the name of a pyramid with a triangular base?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23484,
+        "question_text": "What is the name of a prism with a triangular base?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular prism",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23485,
+        "question_text": "A net for a shape is made of 6 rectangles. What 3-D shape does it make?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23486,
+        "question_text": "Describe a cube by its number of faces, edges, and vertices.",
+        "answer_type": "text_input",
+        "correct_answer": "6 faces, 12 edges, 8 vertices",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23487,
+        "question_text": "Describe a square-based pyramid by its number of faces, edges, and vertices.",
+        "answer_type": "text_input",
+        "correct_answer": "5 faces, 8 edges, 5 vertices",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23488,
+        "question_text": "Describe a triangular prism by its number of faces, edges, and vertices.",
+        "answer_type": "text_input",
+        "correct_answer": "5 faces, 9 edges, 6 vertices",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23489,
+        "question_text": "A net is made of two hexagons and six rectangles. What 3-D shape will it build?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23490,
+        "question_text": "A net is made of one pentagon and five triangles. What 3-D shape will it build?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagonal pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23491,
+        "question_text": "If you sketch the net of a cylinder, what three 2-D shapes will you draw?",
+        "answer_type": "text_input",
+        "correct_answer": "two circles and one rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23492,
+        "question_text": "How many faces does a hexagonal prism have?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "eight",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23493,
+        "question_text": "How many vertices does a pentagonal pyramid have?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23494,
+        "question_text": "How many edges does an octagonal prism have?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23495,
+        "question_text": "I am describing a 3-D shape: it has 5 faces and 9 edges. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular prism",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23496,
+        "question_text": "I am describing a 3-D shape: it has 5 vertices and 8 edges. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23497,
+        "question_text": "A net has 6 squares in a row. Will this fold into a cube? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23498,
+        "question_text": "A net for a cuboid is made of rectangles. If the base is 4cm by 3cm and the height is 2cm, what are the dimensions of the 6 rectangles needed?",
+        "answer_type": "text_input",
+        "correct_answer": "Two 4x3, two 4x2, two 3x2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23499,
+        "question_text": "To build a pentagonal pyramid, what 2-D shapes would you need?",
+        "answer_type": "text_input",
+        "correct_answer": "1 pentagon and 5 triangles",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23500,
+        "question_text": "Which has more vertices: a cuboid or a triangular prism?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23501,
+        "question_text": "Which has more faces: a hexagonal pyramid or a pentagonal prism?",
+        "answer_type": "text_input",
+        "correct_answer": "They are equal",
+        "alternative_answer_1": "Neither",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23502,
+        "question_text": "A 3-D shape has no vertices and two curved edges. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23503,
+        "question_text": "To build a model of a cube, a student uses 8 balls of clay for vertices and some straws for edges. How many straws are needed?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23504,
+        "question_text": "A net is made of 1 square and 4 non-identical triangles. What shape does this make?",
+        "answer_type": "text_input",
+        "correct_answer": "an irregular pyramid",
+        "alternative_answer_1": "pyramid",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23505,
+        "question_text": "Can a net for a cube be made from a T-shape of 6 squares?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23506,
+        "question_text": "How many rectangular faces are on a pentagonal prism?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "five",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23507,
+        "question_text": "How many triangular faces are on an octagonal pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "eight",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23508,
+        "question_text": "If a 3-D shape has no parallel faces, could it be a prism?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23509,
+        "question_text": "If a 3-D shape has no triangular faces, could it be a pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23510,
+        "question_text": "Describe the net of a cone.",
+        "answer_type": "text_input",
+        "correct_answer": "a circle and a sector of a circle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23511,
+        "question_text": "You are given a net for a cuboid with dimensions 5cm x 3cm x 2cm. What is the total length of all the edges you would need to build it from straws?",
+        "answer_type": "text_input",
+        "correct_answer": "40cm",
+        "alternative_answer_1": "40",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23512,
+        "question_text": "A prism has 10 faces. What shape is its base?",
+        "answer_type": "text_input",
+        "correct_answer": "octagon",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23513,
+        "question_text": "A pyramid has 10 vertices. How many edges does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23514,
+        "question_text": "I am drawing a net for a triangular prism. The triangles are equilateral with 4cm sides. The prism is 10cm long. What are the dimensions of the rectangles I need to draw?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm by 4cm",
+        "alternative_answer_1": "10 by 4",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23515,
+        "question_text": "You build a shape by placing two identical square-based pyramids base-to-base. How many faces does the new shape have?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "eight",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23516,
+        "question_text": "A student draws a net for a cube with 7 squares. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23517,
+        "question_text": "A shape has 12 edges and 8 vertices. Describe its faces.",
+        "answer_type": "text_input",
+        "correct_answer": "6 faces",
+        "alternative_answer_1": "6 quadrilateral faces",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23518,
+        "question_text": "A shape has 9 edges and 5 faces. Describe its vertices.",
+        "answer_type": "text_input",
+        "correct_answer": "6 vertices",
+        "alternative_answer_1": "6",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23519,
+        "question_text": "Can you build a closed 3-D shape using only 3 flat faces?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23520,
+        "question_text": "You are given a 2-D shape and told it is the net of a pyramid. What must be true about the shapes that meet at the centre point?",
+        "answer_type": "text_input",
+        "correct_answer": "They must be triangles",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23521,
+        "question_text": "A net consists of a central rectangle with a square attached to each of its four sides. Can this make a 3-D shape?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23522,
+        "question_text": "Describe the properties of a hexagonal pyramid.",
+        "answer_type": "text_input",
+        "correct_answer": "7 faces, 12 edges, 7 vertices",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23523,
+        "question_text": "Describe the properties of a pentagonal prism.",
+        "answer_type": "text_input",
+        "correct_answer": "7 faces, 15 edges, 10 vertices",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23524,
+        "question_text": "I am building a shape from a net. The net is one large triangle split into four smaller identical triangles. What shape will I build?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "tetrahedron",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23525,
+        "question_text": "Why can't a net for a prism be made only of triangles?",
+        "answer_type": "text_input",
+        "correct_answer": "Prisms need rectangular side faces",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23526,
+        "question_text": "A cube has a net. If you unfold it, do all the faces have the same area?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23527,
+        "question_text": "An octagonal prism has how many more edges than a hexagonal prism?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "six",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23528,
+        "question_text": "An octagonal pyramid has how many more faces than a pentagonal pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "three",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23529,
+        "question_text": "A shape has one curved face and two flat faces. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23530,
+        "question_text": "You are given two squares and four non-square rectangles to build a 3-D shape. What shape is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "rectangular prism",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23531,
+        "question_text": "A student tries to build a cube but one of the faces is a rectangle, not a square. What shape have they built?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23532,
+        "question_text": "How many edges meet at the apex of an octagonal pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "eight",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23533,
+        "question_text": "A prism has 12 faces in total. What shape is its base?",
+        "answer_type": "text_input",
+        "correct_answer": "decagon",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23534,
+        "question_text": "A pyramid has 12 faces in total. What shape is its base?",
+        "answer_type": "text_input",
+        "correct_answer": "hendecagon",
+        "alternative_answer_1": "11-sided shape",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23535,
+        "question_text": "Is a cylinder a type of prism? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, it has two identical bases and a constant cross-section",
+        "alternative_answer_1": "Yes",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23536,
+        "question_text": "A shape is made by joining two cubes along one face. Describe the faces, edges, and vertices of the new shape.",
+        "answer_type": "text_input",
+        "correct_answer": "10 faces, 20 edges, 12 vertices",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23537,
+        "question_text": "A net for a 3-D shape is made of a square and four identical isosceles triangles. The base of each triangle is 6cm and the other sides are 5cm. Can this net form a pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23538,
+        "question_text": "A net for a 3-D shape is made of a square (side 6cm) and four equilateral triangles (side 6cm). Can this net form a pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23539,
+        "question_text": "A cube is cut perfectly in half diagonally from one top edge to the opposite bottom edge. Describe the new face revealed.",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23540,
+        "question_text": "A pyramid has 16 edges. How many faces does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "nine",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23541,
+        "question_text": "A prism has 21 edges. How many vertices does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "fourteen",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23542,
+        "question_text": "Imagine a cube. If you truncate it by slicing off every single one of its 8 vertices, what two shapes will the new faces be?",
+        "answer_type": "text_input",
+        "correct_answer": "triangles and octagons",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23543,
+        "question_text": "How could you describe a cylinder in terms of rotating a 2-D shape?",
+        "answer_type": "text_input",
+        "correct_answer": "by rotating a rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23544,
+        "question_text": "How could you describe a cone in terms of rotating a 2-D shape?",
+        "answer_type": "text_input",
+        "correct_answer": "by rotating a right-angled triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23545,
+        "question_text": "A net is made of 8 equilateral triangles. What 3-D shape does it build?",
+        "answer_type": "text_input",
+        "correct_answer": "octahedron",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23546,
+        "question_text": "You are given a net with one central square and a triangle attached to each side. To make a valid pyramid net, what must be true about the triangles?",
+        "answer_type": "text_input",
+        "correct_answer": "Their base must match the square's side length",
+        "alternative_answer_1": "Two of their sides must be equal",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23547,
+        "question_text": "I build a shape using 2 identical square-based pyramids, but I join them at the tips of their apexes. Is this a single new polyhedron?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23548,
+        "question_text": "What is the name for a 3-D shape made of 12 regular pentagons?",
+        "answer_type": "text_input",
+        "correct_answer": "dodecahedron",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23549,
+        "question_text": "What is the name for a 3-D shape made of 20 regular triangles?",
+        "answer_type": "text_input",
+        "correct_answer": "icosahedron",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23550,
+        "question_text": "A prism has a base with 'n' sides. Write a formula for its number of faces in terms of 'n'.",
+        "answer_type": "text_input",
+        "correct_answer": "n+2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23551,
+        "question_text": "A pyramid has a base with 'n' sides. Write a formula for its number of edges in terms of 'n'.",
+        "answer_type": "text_input",
+        "correct_answer": "2n",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23552,
+        "question_text": "A prism has a base with 'n' sides. Write a formula for its number of vertices in terms of 'n'.",
+        "answer_type": "text_input",
+        "correct_answer": "2n",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23553,
+        "question_text": "A cuboid is made from a net. The dimensions are L, W, and H. What is the total surface area of the net?",
+        "answer_type": "text_input",
+        "correct_answer": "2(LW + LH + WH)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23554,
+        "question_text": "A 3-D shape is described as having a circular base and a single vertex. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cone",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23555,
+        "question_text": "A 3-D shape is described as having a constant cross-section that is a circle. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23556,
+        "question_text": "If you place a cube on a table, how many of its faces are parallel to the table?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "two",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23557,
+        "question_text": "If you place a square-based pyramid on its base, how many of its faces are perpendicular to the table?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "zero",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23558,
+        "question_text": "I unfold a cuboid to make a net. The faces are 2cm x 3cm, 2cm x 4cm, and 3cm x 4cm. How many of each face are there?",
+        "answer_type": "text_input",
+        "correct_answer": "two of each",
+        "alternative_answer_1": "2 of each",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23559,
+        "question_text": "Can the net of a pyramid have parallel lines?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 23560,
+        "question_text": "Can the net of a triangular prism have perpendicular lines?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 466
+    },
+    {
+        "question_id": 29918,
+        "question_text": "You need to draw a regular pentagon. What tool would you need to make sure the sides are all the same length?",
+        "answer_type": "text_input",
+        "correct_answer": "A ruler",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 462
+    }
+]

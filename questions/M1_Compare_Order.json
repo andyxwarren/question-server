@@ -1,0 +1,2002 @@
+[
+    {
+        "question_id": 8250,
+        "question_text": "An elephant is heavier than a mouse. Which animal is lighter?",
+        "answer_type": "text_input",
+        "correct_answer": "mouse",
+        "alternative_answer_1": "The mouse",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8251,
+        "question_text": "A skyscraper is taller than a house. Which building is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "house",
+        "alternative_answer_1": "The house",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8252,
+        "question_text": "A swimming pool holds more water than a cup. Which holds less water?",
+        "answer_type": "text_input",
+        "correct_answer": "cup",
+        "alternative_answer_1": "The cup",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8253,
+        "question_text": "Brushing your teeth takes a shorter time than sleeping all night. Which activity is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "sleeping",
+        "alternative_answer_1": "Sleeping all night",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8254,
+        "question_text": "A book is heavier than a single page. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "book",
+        "alternative_answer_1": "The book",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8255,
+        "question_text": "A pencil is shorter than a baseball bat. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "baseball bat",
+        "alternative_answer_1": "The baseball bat",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8256,
+        "question_text": "A jug is fuller than an empty glass. Which one is emptier?",
+        "answer_type": "text_input",
+        "correct_answer": "glass",
+        "alternative_answer_1": "The empty glass",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8257,
+        "question_text": "Eating lunch happens sooner than eating dinner. Which meal happens later?",
+        "answer_type": "text_input",
+        "correct_answer": "dinner",
+        "alternative_answer_1": "Dinner",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8258,
+        "question_text": "A cat is lighter than a lion. Which animal is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "lion",
+        "alternative_answer_1": "The lion",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8259,
+        "question_text": "A ruler is longer than a paperclip. Which is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "paperclip",
+        "alternative_answer_1": "The paperclip",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8260,
+        "question_text": "A full bottle of water has a greater capacity than a spoon. Which has a smaller capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "spoon",
+        "alternative_answer_1": "The spoon",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8261,
+        "question_text": "Summer comes after Spring. Which season comes sooner?",
+        "answer_type": "text_input",
+        "correct_answer": "Spring",
+        "alternative_answer_1": "spring",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8262,
+        "question_text": "A bus is heavier than a bicycle. Which is lighter?",
+        "answer_type": "text_input",
+        "correct_answer": "bicycle",
+        "alternative_answer_1": "The bicycle",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8263,
+        "question_text": "A tree is taller than a flower. Which is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "flower",
+        "alternative_answer_1": "The flower",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8264,
+        "question_text": "A bucket holds more sand than a thimble. Which holds more?",
+        "answer_type": "text_input",
+        "correct_answer": "bucket",
+        "alternative_answer_1": "The bucket",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8265,
+        "question_text": "A year is a longer time than a day. Which is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "day",
+        "alternative_answer_1": "A day",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8266,
+        "question_text": "A car is lighter than an airplane. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "airplane",
+        "alternative_answer_1": "The airplane",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8267,
+        "question_text": "A snake is longer than a worm. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "snake",
+        "alternative_answer_1": "The snake",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8268,
+        "question_text": "A bathtub holds a larger volume of water than a sink. Which holds a smaller volume?",
+        "answer_type": "text_input",
+        "correct_answer": "sink",
+        "alternative_answer_1": "The sink",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8269,
+        "question_text": "Recess is shorter than the whole school day. Which is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "Recess",
+        "alternative_answer_1": "recess",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8270,
+        "question_text": "An apple is heavier than a grape. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "apple",
+        "alternative_answer_1": "The apple",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8271,
+        "question_text": "A scarf is shorter than a river. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "river",
+        "alternative_answer_1": "The river",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8272,
+        "question_text": "A paddling pool is emptier than the ocean. Which is fuller?",
+        "answer_type": "text_input",
+        "correct_answer": "ocean",
+        "alternative_answer_1": "The ocean",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8273,
+        "question_text": "Monday comes sooner than Friday. Which day comes later?",
+        "answer_type": "text_input",
+        "correct_answer": "Friday",
+        "alternative_answer_1": "friday",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8274,
+        "question_text": "A feather is lighter than a stone. Which is lighter?",
+        "answer_type": "text_input",
+        "correct_answer": "feather",
+        "alternative_answer_1": "The feather",
+        "original_pundex": 1,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8275,
+        "question_text": "A tower is 10 blocks high. A house is 7 blocks high. Which is taller?",
+        "answer_type": "text_input",
+        "correct_answer": "The tower",
+        "alternative_answer_1": "Tower",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8276,
+        "question_text": "A blue ribbon is 15 handspans long. A red ribbon is 12 handspans long. Which ribbon is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "The red ribbon",
+        "alternative_answer_1": "Red",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8277,
+        "question_text": "A jug holds 8 cupfuls of water. A bottle holds 6 cupfuls. Which holds more?",
+        "answer_type": "text_input",
+        "correct_answer": "The jug",
+        "alternative_answer_1": "Jug",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8278,
+        "question_text": "A race took 20 seconds. A second race took 30 seconds. Which race was quicker?",
+        "answer_type": "text_input",
+        "correct_answer": "The first race",
+        "alternative_answer_1": "The 20 second race",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8279,
+        "question_text": "A bag of apples weighs the same as 10 stones. A bag of feathers weighs the same as 1 stone. Which bag is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "The bag of apples",
+        "alternative_answer_1": "Apples",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8280,
+        "question_text": "Order these from shortest to longest: a worm, a snake, an ant.",
+        "answer_type": "text_input",
+        "correct_answer": "ant, worm, snake",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8281,
+        "question_text": "Order these from heaviest to lightest: a car, a bicycle, a truck.",
+        "answer_type": "text_input",
+        "correct_answer": "truck, car, bicycle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8282,
+        "question_text": "A bucket, a cup, and a thimble are containers. Order them from the one that holds the most to the one that holds the least.",
+        "answer_type": "text_input",
+        "correct_answer": "bucket, cup, thimble",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8283,
+        "question_text": "Three events are: brushing teeth, a school lesson, and a weekend. Order them from shortest to longest.",
+        "answer_type": "text_input",
+        "correct_answer": "brushing teeth, a school lesson, a weekend",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8284,
+        "question_text": "A path is 15 footsteps long. A road is 50 footsteps long. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "The road",
+        "alternative_answer_1": "Road",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8285,
+        "question_text": "A cat weighs the same as 12 books. A dog weighs the same as 15 books. Which animal is lighter?",
+        "answer_type": "text_input",
+        "correct_answer": "The cat",
+        "alternative_answer_1": "Cat",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8286,
+        "question_text": "A bottle holds 4 glasses of juice. A carton holds 6 glasses of juice. Which holds less?",
+        "answer_type": "text_input",
+        "correct_answer": "The bottle",
+        "alternative_answer_1": "Bottle",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8287,
+        "question_text": "A song is 3 minutes long. A movie is 90 minutes long. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "The movie",
+        "alternative_answer_1": "Movie",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8288,
+        "question_text": "Order these by height, from tallest to shortest: a door, a chair, a house.",
+        "answer_type": "text_input",
+        "correct_answer": "house, door, chair",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8289,
+        "question_text": "A watermelon, a grape, and an apple are on a scale. Order them from lightest to heaviest.",
+        "answer_type": "text_input",
+        "correct_answer": "grape, apple, watermelon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8290,
+        "question_text": "A swimming pool, a bathtub, and a glass of water. Order them by the volume they hold, from most to least.",
+        "answer_type": "text_input",
+        "correct_answer": "swimming pool, bathtub, glass of water",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8291,
+        "question_text": "Three periods of time are: a minute, a day, an hour. Order them from shortest to longest.",
+        "answer_type": "text_input",
+        "correct_answer": "a minute, an hour, a day",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8292,
+        "question_text": "A toy car is 5 cubes long. A real car is 100 cubes long. Which is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "The toy car",
+        "alternative_answer_1": "Toy car",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8293,
+        "question_text": "A book weighs 8 blocks. A magazine weighs 3 blocks. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "The book",
+        "alternative_answer_1": "Book",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8294,
+        "question_text": "A large bucket holds 20 spadefuls of sand. A small bucket holds 12 spadefuls. Which holds more?",
+        "answer_type": "text_input",
+        "correct_answer": "The large bucket",
+        "alternative_answer_1": "Large bucket",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8295,
+        "question_text": "A nap is shorter than a night's sleep. A blink is shorter than a nap. Which is the shortest?",
+        "answer_type": "text_input",
+        "correct_answer": "A blink",
+        "alternative_answer_1": "Blink",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8296,
+        "question_text": "A desk is 8 handspans wide. A door is 12 handspans wide. Which is wider?",
+        "answer_type": "text_input",
+        "correct_answer": "The door",
+        "alternative_answer_1": "Door",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8297,
+        "question_text": "An orange, a pumpkin, a cherry. Order these from heaviest to lightest.",
+        "answer_type": "text_input",
+        "correct_answer": "pumpkin, orange, cherry",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8298,
+        "question_text": "A fish tank holds 10 jugs of water. A vase holds 2 jugs of water. Which holds less?",
+        "answer_type": "text_input",
+        "correct_answer": "The vase",
+        "alternative_answer_1": "Vase",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8299,
+        "question_text": "A TV show is 30 minutes long. An advert is 1 minute long. A movie is 100 minutes long. Order them from longest to shortest.",
+        "answer_type": "text_input",
+        "correct_answer": "movie, TV show, advert",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8300,
+        "question_text": "A pencil is measured with paperclips and is 7 paperclips long. A crayon is 5 paperclips long. How much longer is the pencil, in paperclips?",
+        "answer_type": "text_input",
+        "correct_answer": "2 paperclips",
+        "alternative_answer_1": "2",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8301,
+        "question_text": "A bag of sugar balances 10 blocks. A bag of flour balances 15 blocks. How much heavier is the flour, in blocks?",
+        "answer_type": "text_input",
+        "correct_answer": "5 blocks",
+        "alternative_answer_1": "5",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8302,
+        "question_text": "A large bottle holds 12 cups of water. A small bottle holds 8 cups. What is the difference in their capacity, in cups?",
+        "answer_type": "text_input",
+        "correct_answer": "4 cups",
+        "alternative_answer_1": "4",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8303,
+        "question_text": "Walking to school takes 15 minutes. Getting the bus takes 10 minutes. How much longer does it take to walk?",
+        "answer_type": "text_input",
+        "correct_answer": "5 minutes",
+        "alternative_answer_1": "5 mins",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8304,
+        "question_text": "A snake is 20 beads long. A lizard is 12 beads long. How many beads shorter is the lizard?",
+        "answer_type": "text_input",
+        "correct_answer": "8 beads",
+        "alternative_answer_1": "8",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8305,
+        "question_text": "Order these four animals from lightest to heaviest: mouse, dog, elephant, ant.",
+        "answer_type": "text_input",
+        "correct_answer": "ant, mouse, dog, elephant",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8306,
+        "question_text": "Order these four containers by the volume they hold, from most to least: a bottle, a swimming pool, a spoon, a bucket.",
+        "answer_type": "text_input",
+        "correct_answer": "swimming pool, bucket, bottle, spoon",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8307,
+        "question_text": "Which takes longer: counting to 100 or writing your name?",
+        "answer_type": "text_input",
+        "correct_answer": "Counting to 100",
+        "alternative_answer_1": "counting",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8308,
+        "question_text": "A red rope is 25 footsteps long. A blue rope is 18 footsteps long. What is the difference in their length in footsteps?",
+        "answer_type": "text_input",
+        "correct_answer": "7 footsteps",
+        "alternative_answer_1": "7",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8309,
+        "question_text": "A pumpkin weighs 20 apples. A melon weighs 15 apples. How much lighter is the melon, in apples?",
+        "answer_type": "text_input",
+        "correct_answer": "5 apples",
+        "alternative_answer_1": "5",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8310,
+        "question_text": "A big jug fills 10 glasses. A small jug fills 6 glasses. How many more glasses can the big jug fill?",
+        "answer_type": "text_input",
+        "correct_answer": "4 glasses",
+        "alternative_answer_1": "4",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8311,
+        "question_text": "Which is a longer period of time: a school holiday or a school term?",
+        "answer_type": "text_input",
+        "correct_answer": "A school term",
+        "alternative_answer_1": "school term",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8312,
+        "question_text": "Order these five items by length, from shortest to longest: a bus, a car, a finger, a pencil, a shoe.",
+        "answer_type": "text_input",
+        "correct_answer": "a finger, a pencil, a shoe, a car, a bus",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8313,
+        "question_text": "Which is heavier: a bag with 10 oranges or a bag with 10 grapes?",
+        "answer_type": "text_input",
+        "correct_answer": "A bag with 10 oranges",
+        "alternative_answer_1": "the oranges",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8314,
+        "question_text": "A task takes 50 claps of a hand to complete. Another task takes 30 claps. How much quicker is the second task, in claps?",
+        "answer_type": "text_input",
+        "correct_answer": "20 claps",
+        "alternative_answer_1": "20",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8315,
+        "question_text": "Visually estimate which is taller: a giraffe or a house?",
+        "answer_type": "text_input",
+        "correct_answer": "A house",
+        "alternative_answer_1": "house",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8316,
+        "question_text": "A road is 100 strides long. A path is 40 strides long. How much shorter is the path, in strides?",
+        "answer_type": "text_input",
+        "correct_answer": "60 strides",
+        "alternative_answer_1": "60",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8317,
+        "question_text": "A large dog is heavier than a small cat. A small cat is heavier than a hamster. Which is the lightest?",
+        "answer_type": "text_input",
+        "correct_answer": "The hamster",
+        "alternative_answer_1": "hamster",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8318,
+        "question_text": "A swimming race took 60 seconds. A running race took 45 seconds. How much longer did the swimming race take?",
+        "answer_type": "text_input",
+        "correct_answer": "15 seconds",
+        "alternative_answer_1": "15",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8319,
+        "question_text": "Visually estimate which holds more water: a car or a bathtub?",
+        "answer_type": "text_input",
+        "correct_answer": "A car",
+        "alternative_answer_1": "car",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8320,
+        "question_text": "A tower made of big blocks is 8 blocks high. A tower made of small blocks is 15 blocks high. Can you tell which tower is actually taller?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "Not enough information",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8321,
+        "question_text": "A book has 100 pages. A comic has 25 pages. How many more pages does the book have?",
+        "answer_type": "text_input",
+        "correct_answer": "75 pages",
+        "alternative_answer_1": "75",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8322,
+        "question_text": "Which is a shorter amount of time: the month of February or the month of March?",
+        "answer_type": "text_input",
+        "correct_answer": "February",
+        "alternative_answer_1": "february",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8323,
+        "question_text": "Order these four objects by height, from tallest to shortest: a lamppost, a person, a dog, a cup.",
+        "answer_type": "text_input",
+        "correct_answer": "lamppost, person, dog, cup",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8324,
+        "question_text": "A TV show is 25 minutes long. A film is 90 minutes long. How much shorter is the TV show?",
+        "answer_type": "text_input",
+        "correct_answer": "65 minutes",
+        "alternative_answer_1": "65",
+        "original_pundex": 3,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8325,
+        "question_text": "A statement says: A minute is longer than an hour. Is this statement correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "Incorrect",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8326,
+        "question_text": "Order these five items from lightest to heaviest: a feather, a brick, a car, a piece of paper, a cat.",
+        "answer_type": "text_input",
+        "correct_answer": "feather, piece of paper, cat, brick, car",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8327,
+        "question_text": "A bottle holds 1 litre of water. A cup holds about 250ml. About how many cups do you estimate would fill the bottle?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8328,
+        "question_text": "A friend says a normal classroom door is about 10 metres tall. Is this a reasonable estimate?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "unreasonable",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8329,
+        "question_text": "Arrange these events in order of how long they take, from shortest to longest: a school year, a week, a season, a day.",
+        "answer_type": "text_input",
+        "correct_answer": "a day, a week, a season, a school year",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8330,
+        "question_text": "A statement claims a cat is heavier than a tiger. What is wrong with this comparison?",
+        "answer_type": "text_input",
+        "correct_answer": "A tiger is heavier than a cat",
+        "alternative_answer_1": "It is the wrong way around",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8331,
+        "question_text": "About how many centimetres long do you estimate a new, unsharpened pencil is?",
+        "answer_type": "text_input",
+        "correct_answer": "18cm",
+        "alternative_answer_1": "About 18cm",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8332,
+        "question_text": "Order these containers by capacity from smallest to largest: a bathtub, a swimming pool, a teaspoon, a jug.",
+        "answer_type": "text_input",
+        "correct_answer": "a teaspoon, a jug, a bathtub, a swimming pool",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8333,
+        "question_text": "A friend says it takes about 2 days to fly from London to New York. Is this estimate reasonable?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "unreasonable",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8334,
+        "question_text": "Someone has ordered these from tallest to shortest: Skyscraper, House, Person, Ant. Is this order correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "correct",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8335,
+        "question_text": "Which is a better estimate for the weight of a bag of sugar: 1kg or 10kg?",
+        "answer_type": "text_input",
+        "correct_answer": "1kg",
+        "alternative_answer_1": "1 kg",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8336,
+        "question_text": "A list orders events from latest to soonest: Dinner, Lunch, Breakfast. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "correct",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8337,
+        "question_text": "What is wrong with this statement: A swimming pool is fuller than a puddle, so it has a smaller capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "It has a larger capacity",
+        "alternative_answer_1": "Fullness does not determine capacity",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8338,
+        "question_text": "About how many metres tall do you estimate a fully grown man is?",
+        "answer_type": "text_input",
+        "correct_answer": "2 metres",
+        "alternative_answer_1": "About 2m",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8339,
+        "question_text": "Order these five time periods from longest to shortest: a decade, a day, a month, a year, a week.",
+        "answer_type": "text_input",
+        "correct_answer": "a decade, a year, a month, a week, a day",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8340,
+        "question_text": "A statement says a ruler is longer than a road. Identify the error.",
+        "answer_type": "text_input",
+        "correct_answer": "A road is longer than a ruler",
+        "alternative_answer_1": "It is incorrect",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8341,
+        "question_text": "Which is a reasonable estimate for the capacity of a drinks can: 300ml or 30 litres?",
+        "answer_type": "text_input",
+        "correct_answer": "300ml",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8342,
+        "question_text": "What is wrong with this ordering from shortest to tallest: child, adult, baby?",
+        "answer_type": "text_input",
+        "correct_answer": "A child is taller than a baby",
+        "alternative_answer_1": "The order is wrong",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8343,
+        "question_text": "A person claims a feather is heavier than a bowling ball. Is this comparison correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "Incorrect",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8344,
+        "question_text": "Estimate the length of a classroom in metres.",
+        "answer_type": "text_input",
+        "correct_answer": "10 metres",
+        "alternative_answer_1": "About 10m",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8345,
+        "question_text": "Order these from the one that holds the least to the one that holds the most: a car petrol tank, an oil tanker ship, a teaspoon.",
+        "answer_type": "text_input",
+        "correct_answer": "a teaspoon, a car petrol tank, an oil tanker ship",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8346,
+        "question_text": "Someone says it takes about 1 hour to walk 100 miles. Is this a sensible estimate?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "Not sensible",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8347,
+        "question_text": "A list of animals is ordered by weight: hamster, giraffe, lion. What is the error in this list?",
+        "answer_type": "text_input",
+        "correct_answer": "A giraffe is heavier than a lion",
+        "alternative_answer_1": "The order is wrong",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8348,
+        "question_text": "Which is a better estimate for the weight of a standard apple: 150 grams or 15 kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "150 grams",
+        "alternative_answer_1": "150g",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 8349,
+        "question_text": "A statement claims that a year has more seconds than a decade. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "Incorrect",
+        "original_pundex": 4,
+        "year_group": 1,
+        "topic_id": 484
+    },
+    {
+        "question_id": 9051,
+        "question_text": "A long pencil and a short crayon are on a table. Which one is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "crayon",
+        "alternative_answer_1": "The crayon",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9052,
+        "question_text": "You have a heavy book and a light feather. Which one is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "book",
+        "alternative_answer_1": "The book",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9053,
+        "question_text": "A full jug of water and an empty jug are next to each other. Which one holds more water right now?",
+        "answer_type": "text_input",
+        "correct_answer": "The full jug",
+        "alternative_answer_1": "full jug",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9054,
+        "question_text": "A tall tree and a short bush are in a garden. Which one is taller?",
+        "answer_type": "text_input",
+        "correct_answer": "tree",
+        "alternative_answer_1": "The tree",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9055,
+        "question_text": "A big rock is harder to lift than a small pebble. Which one is lighter?",
+        "answer_type": "text_input",
+        "correct_answer": "pebble",
+        "alternative_answer_1": "The pebble",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9056,
+        "question_text": "A large bucket and a small cup can both hold sand. Which one holds less?",
+        "answer_type": "text_input",
+        "correct_answer": "cup",
+        "alternative_answer_1": "The cup",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9057,
+        "question_text": "Order these from shortest to longest: a ruler, a paperclip, a desk.",
+        "answer_type": "text_input",
+        "correct_answer": "paperclip, ruler, desk",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9058,
+        "question_text": "Order these from lightest to heaviest: a chair, a car, a key.",
+        "answer_type": "text_input",
+        "correct_answer": "key, chair, car",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9059,
+        "question_text": "A bottle, a spoon, and a barrel are containers. Order them from the one that holds the most to the one that holds the least.",
+        "answer_type": "text_input",
+        "correct_answer": "barrel, bottle, spoon",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9060,
+        "question_text": "Which is longer: your finger or your leg?",
+        "answer_type": "text_input",
+        "correct_answer": "leg",
+        "alternative_answer_1": "My leg",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9061,
+        "question_text": "Which is heavier: a balloon filled with air or a bowling ball?",
+        "answer_type": "text_input",
+        "correct_answer": "bowling ball",
+        "alternative_answer_1": "The bowling ball",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9062,
+        "question_text": "A swimming pool and a bathtub both hold water. Which one has a larger volume?",
+        "answer_type": "text_input",
+        "correct_answer": "swimming pool",
+        "alternative_answer_1": "The swimming pool",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9063,
+        "question_text": "Order these from shortest to tallest: a giraffe, a mouse, a cat.",
+        "answer_type": "text_input",
+        "correct_answer": "mouse, cat, giraffe",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9064,
+        "question_text": "A bag of feathers and a bag of stones are the same size. Which one is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "bag of stones",
+        "alternative_answer_1": "The stones",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9065,
+        "question_text": "Order these from the one that holds the least to the one that holds the most: a cup, a jug, a thimble.",
+        "answer_type": "text_input",
+        "correct_answer": "thimble, cup, jug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9066,
+        "question_text": "Which is shorter: a bus or a car?",
+        "answer_type": "text_input",
+        "correct_answer": "car",
+        "alternative_answer_1": "The car",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9067,
+        "question_text": "Which is lighter: an apple or a watermelon?",
+        "answer_type": "text_input",
+        "correct_answer": "apple",
+        "alternative_answer_1": "The apple",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9068,
+        "question_text": "A fish tank and a glass of water are on a table. Which one holds more water?",
+        "answer_type": "text_input",
+        "correct_answer": "fish tank",
+        "alternative_answer_1": "The fish tank",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9069,
+        "question_text": "A long rope and a short string are shown. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "rope",
+        "alternative_answer_1": "The rope",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9070,
+        "question_text": "Which is heavier: a pillow or a brick?",
+        "answer_type": "text_input",
+        "correct_answer": "brick",
+        "alternative_answer_1": "The brick",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9071,
+        "question_text": "A water bottle and a puddle are shown. Which has a larger capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "water bottle",
+        "alternative_answer_1": "The water bottle",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9072,
+        "question_text": "Order these from tallest to shortest: a person, a lamppost, a dog.",
+        "answer_type": "text_input",
+        "correct_answer": "lamppost, person, dog",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9073,
+        "question_text": "Which is lighter: a leaf or a log?",
+        "answer_type": "text_input",
+        "correct_answer": "leaf",
+        "alternative_answer_1": "The leaf",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9074,
+        "question_text": "A large box and a small box are on the floor. Which has a smaller volume?",
+        "answer_type": "text_input",
+        "correct_answer": "small box",
+        "alternative_answer_1": "The small box",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9075,
+        "question_text": "Which is longer: a shoelace or a road?",
+        "answer_type": "text_input",
+        "correct_answer": "road",
+        "alternative_answer_1": "The road",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9076,
+        "question_text": "A pencil is 15cm long. A crayon is 9cm long. Which is longer? Use the > or < sign to compare the numbers (15 __ 9).",
+        "answer_type": "text_input",
+        "correct_answer": "15 > 9",
+        "alternative_answer_1": ">",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9077,
+        "question_text": "A cat weighs 5kg. A small dog weighs 8kg. Which is lighter? Use the > or < sign to compare their weights (5 __ 8).",
+        "answer_type": "text_input",
+        "correct_answer": "5 < 8",
+        "alternative_answer_1": "<",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9078,
+        "question_text": "A bottle holds 500ml of water. A glass holds 300ml. Which holds more? Compare the numbers using > or < (500 __ 300).",
+        "answer_type": "text_input",
+        "correct_answer": "500 > 300",
+        "alternative_answer_1": ">",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9079,
+        "question_text": "A tower is 20cm tall. A block is 5cm tall. Compare their heights using the > or < sign (20 __ 5).",
+        "answer_type": "text_input",
+        "correct_answer": "20 > 5",
+        "alternative_answer_1": ">",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9080,
+        "question_text": "A bag of sugar weighs 1kg. A bag of flour weighs 2kg. Which is heavier? Compare their weights (1 __ 2).",
+        "answer_type": "text_input",
+        "correct_answer": "1 < 2",
+        "alternative_answer_1": "<",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9081,
+        "question_text": "A jug has a capacity of 1 litre. A carton has a capacity of 2 litres. Compare their capacities (1 __ 2).",
+        "answer_type": "text_input",
+        "correct_answer": "1 < 2",
+        "alternative_answer_1": "<",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9082,
+        "question_text": "Order these lengths from shortest to longest: 10cm, 5cm, 12cm, 8cm.",
+        "answer_type": "text_input",
+        "correct_answer": "5cm, 8cm, 10cm, 12cm",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9083,
+        "question_text": "Order these weights from heaviest to lightest: 8kg, 15kg, 11kg, 9kg.",
+        "answer_type": "text_input",
+        "correct_answer": "15kg, 11kg, 9kg, 8kg",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9084,
+        "question_text": "Order these volumes from smallest to largest: 200ml, 100ml, 500ml, 250ml.",
+        "answer_type": "text_input",
+        "correct_answer": "100ml, 200ml, 250ml, 500ml",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9085,
+        "question_text": "Is a path that is 50m long shorter or longer than a path that is 45m long? Compare the numbers (50 __ 45).",
+        "answer_type": "text_input",
+        "correct_answer": "50 > 45",
+        "alternative_answer_1": "longer",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9086,
+        "question_text": "Is a book weighing 600g lighter or heavier than one weighing 800g? Compare the numbers (600 __ 800).",
+        "answer_type": "text_input",
+        "correct_answer": "600 < 800",
+        "alternative_answer_1": "lighter",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9087,
+        "question_text": "Does a bucket with a 5 litre capacity hold more or less than a bucket with a 10 litre capacity? Compare the numbers (5 __ 10).",
+        "answer_type": "text_input",
+        "correct_answer": "5 < 10",
+        "alternative_answer_1": "less",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9088,
+        "question_text": "A ruler is 30cm long. A pen is 14cm long. Which is longer? Compare the numbers (30 __ 14).",
+        "answer_type": "text_input",
+        "correct_answer": "30 > 14",
+        "alternative_answer_1": ">",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9089,
+        "question_text": "A rabbit weighs 2kg. A large cat weighs 6kg. Which is lighter? Compare the numbers (2 __ 6).",
+        "answer_type": "text_input",
+        "correct_answer": "2 < 6",
+        "alternative_answer_1": "<",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9090,
+        "question_text": "A swimming pool holds 10,000 litres. A paddling pool holds 500 litres. Which has a greater capacity? (10000 __ 500).",
+        "answer_type": "text_input",
+        "correct_answer": "10000 > 500",
+        "alternative_answer_1": ">",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9091,
+        "question_text": "Order these lengths from longest to shortest: 2m, 5m, 1m, 4m.",
+        "answer_type": "text_input",
+        "correct_answer": "5m, 4m, 2m, 1m",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9092,
+        "question_text": "Order these weights from lightest to heaviest: 25g, 50g, 15g, 40g.",
+        "answer_type": "text_input",
+        "correct_answer": "15g, 25g, 40g, 50g",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9093,
+        "question_text": "Compare a 2 litre bottle and a 1 litre carton. Which holds more? (2 __ 1).",
+        "answer_type": "text_input",
+        "correct_answer": "2 > 1",
+        "alternative_answer_1": ">",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9094,
+        "question_text": "Which is shorter, a 100m race or a 200m race? Compare the numbers (100 __ 200).",
+        "answer_type": "text_input",
+        "correct_answer": "100 < 200",
+        "alternative_answer_1": "<",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9095,
+        "question_text": "An apple weighs 150g. A plum weighs 80g. Which is heavier? (150 __ 80).",
+        "answer_type": "text_input",
+        "correct_answer": "150 > 80",
+        "alternative_answer_1": ">",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9096,
+        "question_text": "Order these capacities from largest to smallest: 750ml, 500ml, 1000ml, 250ml.",
+        "answer_type": "text_input",
+        "correct_answer": "1000ml, 750ml, 500ml, 250ml",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9097,
+        "question_text": "Which is longer, a 1m ribbon or a 90cm ribbon?",
+        "answer_type": "text_input",
+        "correct_answer": "1m ribbon",
+        "alternative_answer_1": "1m",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9098,
+        "question_text": "Which is heavier, a 1kg bag of sugar or a 500g bag of flour?",
+        "answer_type": "text_input",
+        "correct_answer": "1kg bag of sugar",
+        "alternative_answer_1": "1kg",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9099,
+        "question_text": "Compare a 25cm pencil and a 25cm ruler. Use the =, > or < sign.",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "25 = 25",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9100,
+        "question_text": "Order these five weights from heaviest to lightest: 10kg, 2kg, 15kg, 8kg, 12kg.",
+        "answer_type": "text_input",
+        "correct_answer": "15kg, 12kg, 10kg, 8kg, 2kg",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9101,
+        "question_text": "A rope is 1.5m long. A ribbon is 120cm long. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "The rope",
+        "alternative_answer_1": "Rope",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9102,
+        "question_text": "A bag of potatoes weighs 2.5kg. A bag of carrots weighs 2600g. Which is lighter?",
+        "answer_type": "text_input",
+        "correct_answer": "The potatoes",
+        "alternative_answer_1": "Potatoes",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9103,
+        "question_text": "A large bottle holds 2 litres of juice. A carton holds 1500ml. Which has a smaller capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "The carton",
+        "alternative_answer_1": "Carton",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9104,
+        "question_text": "Order these lengths from shortest to longest: 1m, 120cm, 0.9m, 95cm.",
+        "answer_type": "text_input",
+        "correct_answer": "0.9m, 95cm, 1m, 120cm",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9105,
+        "question_text": "A book weighs 1.2kg. A dictionary weighs 1100g. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "The book",
+        "alternative_answer_1": "Book",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9106,
+        "question_text": "Find a length that is between 1.4m and 150cm.",
+        "answer_type": "text_input",
+        "correct_answer": "145cm",
+        "alternative_answer_1": "1.45m",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9107,
+        "question_text": "Order these weights from heaviest to lightest: 3kg, 2500g, 2.8kg, 3100g.",
+        "answer_type": "text_input",
+        "correct_answer": "3100g, 3kg, 2.8kg, 2500g",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9108,
+        "question_text": "A jug holds 1.5 litres. A bottle holds 1600ml. Which holds more?",
+        "answer_type": "text_input",
+        "correct_answer": "The bottle",
+        "alternative_answer_1": "Bottle",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9109,
+        "question_text": "Which is shorter: half a metre or 60cm?",
+        "answer_type": "text_input",
+        "correct_answer": "Half a metre",
+        "alternative_answer_1": "half a metre",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9110,
+        "question_text": "A parcel weighs 4.5kg. Is this heavier or lighter than 4200g?",
+        "answer_type": "text_input",
+        "correct_answer": "Heavier",
+        "alternative_answer_1": "heavier",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9111,
+        "question_text": "Order these volumes from smallest to largest: 2.2L, 2500ml, 2L, 2100ml.",
+        "answer_type": "text_input",
+        "correct_answer": "2L, 2100ml, 2.2L, 2500ml",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9112,
+        "question_text": "Which is longer: a 2.1m rope or a 205cm rope?",
+        "answer_type": "text_input",
+        "correct_answer": "A 2.1m rope",
+        "alternative_answer_1": "2.1m",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9113,
+        "question_text": "A bag of rice is 1.8kg. A box of cereal is 1900g. Which is lighter?",
+        "answer_type": "text_input",
+        "correct_answer": "A bag of rice",
+        "alternative_answer_1": "The rice",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9114,
+        "question_text": "Which capacity is smaller: 0.75 litres or 800ml?",
+        "answer_type": "text_input",
+        "correct_answer": "0.75 litres",
+        "alternative_answer_1": "0.75L",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9115,
+        "question_text": "Estimate the length of a car in metres.",
+        "answer_type": "text_input",
+        "correct_answer": "4m",
+        "alternative_answer_1": "4 metres",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9116,
+        "question_text": "Order these from shortest to longest: 25mm, 2cm, 0.03m.",
+        "answer_type": "text_input",
+        "correct_answer": "2cm, 25mm, 0.03m",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9117,
+        "question_text": "Which is heavier: 3.5kg or 3400g?",
+        "answer_type": "text_input",
+        "correct_answer": "3.5kg",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9118,
+        "question_text": "Estimate the weight of a standard loaf of bread in grams.",
+        "answer_type": "text_input",
+        "correct_answer": "800g",
+        "alternative_answer_1": "About 800g",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9119,
+        "question_text": "A fish tank holds 25 litres. A large bucket holds 22,000ml. Which has a larger capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "The fish tank",
+        "alternative_answer_1": "fish tank",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9120,
+        "question_text": "Which is shorter: 1.1 metres or 111 centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.1 metres",
+        "alternative_answer_1": "1.1m",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9121,
+        "question_text": "A large pumpkin weighs 5.2kg. Is that more or less than 5500g?",
+        "answer_type": "text_input",
+        "correct_answer": "Less",
+        "alternative_answer_1": "less",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9122,
+        "question_text": "Order these from smallest to largest capacity: 1.2L, 900ml, 1L, 1050ml.",
+        "answer_type": "text_input",
+        "correct_answer": "900ml, 1L, 1050ml, 1.2L",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9123,
+        "question_text": "A person is 1.8m tall. A door is 210cm tall. Which is taller?",
+        "answer_type": "text_input",
+        "correct_answer": "The door",
+        "alternative_answer_1": "door",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9124,
+        "question_text": "Which is heavier: half a kilogram or 600 grams?",
+        "answer_type": "text_input",
+        "correct_answer": "600 grams",
+        "alternative_answer_1": "600g",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9125,
+        "question_text": "A recipe needs 0.5 litres of milk. You have a 450ml carton. Do you have enough?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9126,
+        "question_text": "A length is described as 1.25m. Another is 125cm. Which statement is correct: 1.25m > 125cm, 1.25m < 125cm, or 1.25m = 125cm?",
+        "answer_type": "text_input",
+        "correct_answer": "1.25m = 125cm",
+        "alternative_answer_1": "=",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9127,
+        "question_text": "A parcel weighs 2.05kg. A statement says it weighs 2500g. Is this statement correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "Incorrect",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9128,
+        "question_text": "Three ropes have lengths: 2.1m, 205cm, and 2.15m. Justify your choice for which rope is the longest.",
+        "answer_type": "text_input",
+        "correct_answer": "2.15m is the longest because it is 215cm.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9129,
+        "question_text": "A friend says that 0.5 litres is more than 50ml. Justify why they are correct.",
+        "answer_type": "text_input",
+        "correct_answer": "0.5 litres is 500ml, which is greater than 50ml.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9130,
+        "question_text": "A recipe requires 0.25kg of flour. You have 300g. Do you have enough flour? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, because 0.25kg is 250g and 300g is more.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9131,
+        "question_text": "Identify the error in this ordered list (shortest to longest): 80cm, 1.2m, 110cm.",
+        "answer_type": "text_input",
+        "correct_answer": "1.2m should be last",
+        "alternative_answer_1": "The order is wrong",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9132,
+        "question_text": "Which is the most appropriate unit to measure the length of a small ant: metres, centimetres, or millimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "millimetres",
+        "alternative_answer_1": "mm",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9133,
+        "question_text": "A jug's capacity is 1.8L. Is it possible to pour the contents of two 950ml bottles into it? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "No, because the total is 1900ml which is 1.9L.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9134,
+        "question_text": "A statement says 2.5kg + 1500g = 4kg. Is this correct? Justify your calculation.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, because 1500g is 1.5kg, and 2.5 + 1.5 = 4.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9135,
+        "question_text": "Which is the most appropriate unit to measure the weight of a large truck: grams, kilograms, or tonnes?",
+        "answer_type": "text_input",
+        "correct_answer": "tonnes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9136,
+        "question_text": "A runner completes a 5km race. Her friend runs 4900m. Who ran further, and by how much?",
+        "answer_type": "text_input",
+        "correct_answer": "The runner, by 100m",
+        "alternative_answer_1": "The first runner by 100m",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9137,
+        "question_text": "A box contains items weighing 800g, 1.2kg, and 500g. What is the total weight in kilograms?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5kg",
+        "alternative_answer_1": "2.5",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9138,
+        "question_text": "There are three bottles with capacities: 0.75L, 700ml, and 0.8L. Place them in order from largest to smallest capacity.",
+        "answer_type": "text_input",
+        "correct_answer": "0.8L, 0.75L, 700ml",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9139,
+        "question_text": "A baker uses 1.4kg of a 2kg bag of flour. How much flour is left, in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "600g",
+        "alternative_answer_1": "600 grams",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9140,
+        "question_text": "Identify the mistake in this comparison: 1050ml > 1.5L because 1050 is a bigger number than 1.5.",
+        "answer_type": "text_input",
+        "correct_answer": "The units are different",
+        "alternative_answer_1": "1.5L is 1500ml",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9141,
+        "question_text": "What is the total length of three pieces of wood measuring 1.2m, 80cm, and 1.5m? Give your answer in metres.",
+        "answer_type": "text_input",
+        "correct_answer": "3.5m",
+        "alternative_answer_1": "3.5",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9142,
+        "question_text": "A large container holds 5 litres. How many 400ml cups can be fully filled from it?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9143,
+        "question_text": "A cyclist travels 15km. A walker travels 1200m. What is the difference in their distances in km?",
+        "answer_type": "text_input",
+        "correct_answer": "13.8km",
+        "alternative_answer_1": "13.8",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9144,
+        "question_text": "A box weighs 3.2kg. Inside are books weighing 2800g. What is the weight of the empty box in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "400g",
+        "alternative_answer_1": "400 grams",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9145,
+        "question_text": "Which is heavier: a 2.5 tonne truck or a 2800kg elephant?",
+        "answer_type": "text_input",
+        "correct_answer": "The elephant",
+        "alternative_answer_1": "elephant",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9146,
+        "question_text": "To fill a 10 litre bucket, you use a 750ml jug. After 10 full jugs, how much more water is needed in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5L",
+        "alternative_answer_1": "2.5 litres",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9147,
+        "question_text": "What is the sum of 0.8kg, 1500g, and 1.2kg? Give the answer in kg.",
+        "answer_type": "text_input",
+        "correct_answer": "3.5kg",
+        "alternative_answer_1": "3.5",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9148,
+        "question_text": "A plank of wood is 4m long. A piece 120cm long and a piece 1.5m long are cut off. How much is left, in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.3m",
+        "alternative_answer_1": "1.3",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9149,
+        "question_text": "A water tank contains 50 litres. 15.5 litres are used. How much is left in millilitres?",
+        "answer_type": "text_input",
+        "correct_answer": "34500ml",
+        "alternative_answer_1": "34500",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    },
+    {
+        "question_id": 9150,
+        "question_text": "Identify the error in this statement: To convert kilograms to grams, you divide by 1000.",
+        "answer_type": "text_input",
+        "correct_answer": "You multiply by 1000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 486
+    }
+]

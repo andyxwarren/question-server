@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 17949,
+        "question_text": "What is 50% of 20?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17950,
+        "question_text": "What is 10% of 50?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17951,
+        "question_text": "What is 25% of 40?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17952,
+        "question_text": "What is 100% of 8?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17953,
+        "question_text": "What is 1% of 200?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17954,
+        "question_text": "Find 50% of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17955,
+        "question_text": "Find 10% of 30.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17956,
+        "question_text": "Find 25% of 20.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17957,
+        "question_text": "A test has 10 questions. If you score 50%, how many questions did you get right?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17958,
+        "question_text": "An item costs £40. How much is a 10% discount?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "£4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17959,
+        "question_text": "What is 1% of 500?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17960,
+        "question_text": "Which is larger: 10% of 100 or 50% of 10?",
+        "answer_type": "text_input",
+        "correct_answer": "10% of 100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17961,
+        "question_text": "A phone battery is at 25%. The phone has a 12 hour battery life when full. How much is 25% of 12?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17962,
+        "question_text": "Find 100% of 150.",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17963,
+        "question_text": "What is 50% of 60?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17964,
+        "question_text": "What is 10% of 90?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17965,
+        "question_text": "What is 25% of 8?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17966,
+        "question_text": "What is 1% of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17967,
+        "question_text": "There are 80 pupils in a year group. 50% are boys. How many are boys?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17968,
+        "question_text": "Which is smaller: 25% of 20 or 10% of 60?",
+        "answer_type": "text_input",
+        "correct_answer": "25% of 20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17969,
+        "question_text": "Find 50% of 18.",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17970,
+        "question_text": "Find 10% of 120.",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17971,
+        "question_text": "Find 25% of 24.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17972,
+        "question_text": "Calculate 1% of 200.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17973,
+        "question_text": "A ticket costs £10. You get a 50% discount. How much do you save?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "£5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17974,
+        "question_text": "What is 20% of 50?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17975,
+        "question_text": "What is 75% of 40?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17976,
+        "question_text": "Find 5% of 60.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17977,
+        "question_text": "A school has 200 pupils. 20% of them walk to school. How many pupils walk?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17978,
+        "question_text": "An item costs £80. How much is a 75% discount?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "£60",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17979,
+        "question_text": "Which is larger: 20% of 100 or 75% of 20?",
+        "answer_type": "text_input",
+        "correct_answer": "20% of 100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17980,
+        "question_text": "What is 5% of 120?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17981,
+        "question_text": "A phone battery is at 75%. The phone has a 12 hour battery life. How many hours are left?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17982,
+        "question_text": "Find 20% of 30.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17983,
+        "question_text": "What is 75% of 80?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17984,
+        "question_text": "Find 5% of 200.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17985,
+        "question_text": "In a survey of 60 people, 20% chose blue. How many people chose blue?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17986,
+        "question_text": "Which is smaller: 5% of 100 or 50% of 20?",
+        "answer_type": "text_input",
+        "correct_answer": "5% of 100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17987,
+        "question_text": "What is 20% of 150?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17988,
+        "question_text": "What is 75% of 16?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17989,
+        "question_text": "Find 5% of 80.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17990,
+        "question_text": "A T-shirt costs £20. It has a 20% discount. How much money do you save?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "£4",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17991,
+        "question_text": "What is 75% of 200?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17992,
+        "question_text": "Find 5% of 140.",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17993,
+        "question_text": "There are 300 students. 75% take the bus. How many students take the bus?",
+        "answer_type": "text_input",
+        "correct_answer": "225",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17994,
+        "question_text": "What is 20% of 25?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17995,
+        "question_text": "A car journey is 120 miles. After 75% of the journey, how many miles have been travelled?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17996,
+        "question_text": "Find 5% of 300.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17997,
+        "question_text": "Compare 20% of 60 and 10% of 100. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "20% of 60",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17998,
+        "question_text": "A bill is £40. A 5% service charge is added. How much is the charge?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "£2",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 17999,
+        "question_text": "What is 15% of 360?",
+        "answer_type": "text_input",
+        "correct_answer": "54",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18000,
+        "question_text": "Find 30% of 200.",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18001,
+        "question_text": "A shop has 400 items. 32% are on sale. How many items are on sale?",
+        "answer_type": "text_input",
+        "correct_answer": "128",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18002,
+        "question_text": "Calculate 60% of 70.",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18003,
+        "question_text": "In a survey of 300 people, 45% preferred coffee. How many people preferred coffee?",
+        "answer_type": "text_input",
+        "correct_answer": "135",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18004,
+        "question_text": "Which is larger: 15% of 200 or 25% of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "15% of 200",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18005,
+        "question_text": "What is 99% of 200?",
+        "answer_type": "text_input",
+        "correct_answer": "198",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18006,
+        "question_text": "A TV costs £500. It is reduced by 30% in a sale. What is the new price?",
+        "answer_type": "text_input",
+        "correct_answer": "350",
+        "alternative_answer_1": "£350",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18007,
+        "question_text": "Find 12% of 400.",
+        "answer_type": "text_input",
+        "correct_answer": "48",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18008,
+        "question_text": "What is 35% of 120?",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18009,
+        "question_text": "In a school of 500 students, 80% have a packed lunch. How many students do not have a packed lunch?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18010,
+        "question_text": "Calculate 40% of 90.",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18011,
+        "question_text": "An invoice is for £250. VAT at 20% is added. How much is the VAT?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "£50",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18012,
+        "question_text": "What is 11% of 600?",
+        "answer_type": "text_input",
+        "correct_answer": "66",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18013,
+        "question_text": "Compare 60% of 50 and 50% of 60.",
+        "answer_type": "text_input",
+        "correct_answer": "They are equal",
+        "alternative_answer_1": "equal",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18014,
+        "question_text": "Find 80% of 25.",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18015,
+        "question_text": "A team played 20 games and won 70% of them. How many games did they lose or draw?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18016,
+        "question_text": "What is 16% of 200?",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18017,
+        "question_text": "Find 55% of 160.",
+        "answer_type": "text_input",
+        "correct_answer": "88",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18018,
+        "question_text": "A rectangle is 40cm long. Its width is 30% of its length. What is its width?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18019,
+        "question_text": "What is 90% of 50?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18020,
+        "question_text": "A bag of 300 sweets has 22% that are blue. How many are blue?",
+        "answer_type": "text_input",
+        "correct_answer": "66",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18021,
+        "question_text": "Calculate 70% of 80.",
+        "answer_type": "text_input",
+        "correct_answer": "56",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18022,
+        "question_text": "Find 15% of 120.",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18023,
+        "question_text": "A journey is 360 miles. You have completed 90% of it. How many miles are left?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18024,
+        "question_text": "An item costs £120. Its price is increased by 10%. What is the new price?",
+        "answer_type": "text_input",
+        "correct_answer": "132",
+        "alternative_answer_1": "£132",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18025,
+        "question_text": "A population of 800 decreases by 20%. What is the new population?",
+        "answer_type": "text_input",
+        "correct_answer": "640",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18026,
+        "question_text": "If 10% of a number is 7, what is the whole number?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18027,
+        "question_text": "A TV costs £600. Its price is reduced by 15%. What is the sale price?",
+        "answer_type": "text_input",
+        "correct_answer": "510",
+        "alternative_answer_1": "£510",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18028,
+        "question_text": "25% of a number is 20. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18029,
+        "question_text": "A team won 12 games, which was 60% of the games they played. How many games did they play?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18030,
+        "question_text": "A price increases from £50 to £60. What is the percentage increase?",
+        "answer_type": "text_input",
+        "correct_answer": "20%",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18031,
+        "question_text": "A car worth £10,000 depreciates by 10% in one year. What is its value after one year?",
+        "answer_type": "text_input",
+        "correct_answer": "9000",
+        "alternative_answer_1": "£9000",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18032,
+        "question_text": "20% of a number is 15. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18033,
+        "question_text": "A crowd of 400 people increases by 5%. How many people are there now?",
+        "answer_type": "text_input",
+        "correct_answer": "420",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18034,
+        "question_text": "A camera costs £250. The price goes up by 20%. What is the new cost?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "£300",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18035,
+        "question_text": "70% of a number is 49. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18036,
+        "question_text": "A shop reduces the price of a £40 game by 5%. What is the new price?",
+        "answer_type": "text_input",
+        "correct_answer": "38",
+        "alternative_answer_1": "£38",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18037,
+        "question_text": "A company has 120 employees. This is a 20% increase on last year. How many employees did it have last year?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18038,
+        "question_text": "A price decreases from £80 to £60. What is the percentage decrease?",
+        "answer_type": "text_input",
+        "correct_answer": "25%",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18039,
+        "question_text": "30 is 50% of what number?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18040,
+        "question_text": "A salary of £30,000 is increased by 2%. What is the new salary?",
+        "answer_type": "text_input",
+        "correct_answer": "30600",
+        "alternative_answer_1": "£30600",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18041,
+        "question_text": "5% of a number is 4. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18042,
+        "question_text": "A bill of £150 has a 10% service charge added. Then, a 20% discount is applied to the new total. What is the final bill?",
+        "answer_type": "text_input",
+        "correct_answer": "132",
+        "alternative_answer_1": "£132",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18043,
+        "question_text": "A population of 500 grows by 10% one year, then decreases by 10% the next year. What is the final population?",
+        "answer_type": "text_input",
+        "correct_answer": "495",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18044,
+        "question_text": "15 is 75% of what number?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18045,
+        "question_text": "An item is priced at £200 plus 20% VAT. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "240",
+        "alternative_answer_1": "£240",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18046,
+        "question_text": "40% of a number is 32. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18047,
+        "question_text": "A camera is reduced by 25% in a sale. The sale price is £150. What was the original price?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "£200",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    },
+    {
+        "question_id": 18048,
+        "question_text": "A phone costs £500. It is reduced by 20%, then a further 10% is taken off the sale price. What is the final price?",
+        "answer_type": "text_input",
+        "correct_answer": "360",
+        "alternative_answer_1": "£360",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 200
+    }
+]

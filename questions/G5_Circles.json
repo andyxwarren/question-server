@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 20128,
+        "question_text": "What is the name for the distance around the outside of a circle?",
+        "answer_type": "text_input",
+        "correct_answer": "circumference",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20129,
+        "question_text": "What is the name of the point right in the middle of a circle?",
+        "answer_type": "text_input",
+        "correct_answer": "centre",
+        "alternative_answer_1": "center",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20130,
+        "question_text": "What is the name for a straight line from the centre of a circle to the circumference?",
+        "answer_type": "text_input",
+        "correct_answer": "radius",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20131,
+        "question_text": "What is the name for a straight line that passes through the centre of a circle, connecting two points on the circumference?",
+        "answer_type": "text_input",
+        "correct_answer": "diameter",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20132,
+        "question_text": "If the radius of a circle is 2cm, what is the diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "4cm",
+        "alternative_answer_1": "4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20133,
+        "question_text": "If the radius of a circle is 5cm, what is the diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20134,
+        "question_text": "A circle has a radius of 1cm. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "2cm",
+        "alternative_answer_1": "2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20135,
+        "question_text": "A circle has a radius of 3cm. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "6cm",
+        "alternative_answer_1": "6",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20136,
+        "question_text": "The line that goes all the way around a circle is called the...?",
+        "answer_type": "text_input",
+        "correct_answer": "circumference",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20137,
+        "question_text": "The line from the centre to the edge of a circle is called the...?",
+        "answer_type": "text_input",
+        "correct_answer": "radius",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20138,
+        "question_text": "The line that cuts a circle in half through the centre is called the...?",
+        "answer_type": "text_input",
+        "correct_answer": "diameter",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20139,
+        "question_text": "The exact middle of a circle is called the...?",
+        "answer_type": "text_input",
+        "correct_answer": "centre",
+        "alternative_answer_1": "center",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20140,
+        "question_text": "Which is longer, the radius or the diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "diameter",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20141,
+        "question_text": "If a circle's radius is 4cm, what is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "8",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20142,
+        "question_text": "If a circle's radius is 1.5cm, what is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "3cm",
+        "alternative_answer_1": "3",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20143,
+        "question_text": "A pizza is a circle. A line from the middle to the crust is called the...?",
+        "answer_type": "text_input",
+        "correct_answer": "radius",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20144,
+        "question_text": "A pizza is a circle. A straight cut from one side to the other, through the middle, is called the...?",
+        "answer_type": "text_input",
+        "correct_answer": "diameter",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20145,
+        "question_text": "A pizza is a circle. The crust all the way around the outside is called the...?",
+        "answer_type": "text_input",
+        "correct_answer": "circumference",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20146,
+        "question_text": "The radius of a circular pond is 3 metres. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "6m",
+        "alternative_answer_1": "6",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20147,
+        "question_text": "True or False: The diameter is half of the radius.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "FALSE",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20148,
+        "question_text": "The radius is 2.5cm. What is the diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm",
+        "alternative_answer_1": "5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20149,
+        "question_text": "How many times bigger is the diameter than the radius?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "twice",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20150,
+        "question_text": "Name the part of the circle that is the line from the centre to the edge.",
+        "answer_type": "text_input",
+        "correct_answer": "radius",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20151,
+        "question_text": "Name the part of the circle that is the line across the middle.",
+        "answer_type": "text_input",
+        "correct_answer": "diameter",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20152,
+        "question_text": "Name the part of the circle that is the outside edge.",
+        "answer_type": "text_input",
+        "correct_answer": "circumference",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20153,
+        "question_text": "If the diameter of a circle is 10cm, what is the radius?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm",
+        "alternative_answer_1": "5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20154,
+        "question_text": "If the diameter of a circle is 20m, what is the radius?",
+        "answer_type": "text_input",
+        "correct_answer": "10m",
+        "alternative_answer_1": "10",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20155,
+        "question_text": "A circle has a diameter of 12cm. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "6cm",
+        "alternative_answer_1": "6",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20156,
+        "question_text": "A circle has a diameter of 5m. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5m",
+        "alternative_answer_1": "2.5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20157,
+        "question_text": "The radius of a circle is 7cm. What is the diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "14cm",
+        "alternative_answer_1": "14",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20158,
+        "question_text": "The diameter of a circular plate is 30cm. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "15cm",
+        "alternative_answer_1": "15",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20159,
+        "question_text": "The radius of a wheel is 0.5m. What is the diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "1m",
+        "alternative_answer_1": "1",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20160,
+        "question_text": "A circular table has a diameter of 1.2m. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "0.6m",
+        "alternative_answer_1": "0.6",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20161,
+        "question_text": "Complete the sentence: The diameter is always _____ the radius.",
+        "answer_type": "text_input",
+        "correct_answer": "twice",
+        "alternative_answer_1": "double",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20162,
+        "question_text": "Complete the sentence: The radius is always _____ the diameter.",
+        "answer_type": "text_input",
+        "correct_answer": "half",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20163,
+        "question_text": "A straight line goes from one side of a circle to the other, but not through the centre. What is this line NOT called?",
+        "answer_type": "text_input",
+        "correct_answer": "diameter",
+        "alternative_answer_1": "radius",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20164,
+        "question_text": "The diameter of a coin is 2cm. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "1cm",
+        "alternative_answer_1": "1",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20165,
+        "question_text": "The radius of a circular garden is 25m. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "50m",
+        "alternative_answer_1": "50",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20166,
+        "question_text": "If the long hand of a clock is 8cm long, what is the diameter of the circle it traces?",
+        "answer_type": "text_input",
+        "correct_answer": "16cm",
+        "alternative_answer_1": "16",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20167,
+        "question_text": "A pizza has a diameter of 14 inches. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "7 inches",
+        "alternative_answer_1": "7",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20168,
+        "question_text": "A circle has a radius of 12.5cm. What is the diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "25cm",
+        "alternative_answer_1": "25",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20169,
+        "question_text": "A circle has a diameter of 9cm. What is the radius?",
+        "answer_type": "text_input",
+        "correct_answer": "4.5cm",
+        "alternative_answer_1": "4.5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20170,
+        "question_text": "Is it possible for a radius to be longer than a diameter in the same circle?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20171,
+        "question_text": "If you draw two different radii in a circle, will they always be the same length?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20172,
+        "question_text": "The diameter of a circular swimming pool is 8m. What is the distance from the centre to the edge?",
+        "answer_type": "text_input",
+        "correct_answer": "4m",
+        "alternative_answer_1": "4",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20173,
+        "question_text": "The radius of a CD is 6cm. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "12cm",
+        "alternative_answer_1": "12",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20174,
+        "question_text": "The diameter of a bicycle wheel is 60cm. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "30cm",
+        "alternative_answer_1": "30",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20175,
+        "question_text": "If d = 2r, and d is 18, what is r?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20176,
+        "question_text": "If r = d/2, and d is 7, what is r?",
+        "answer_type": "text_input",
+        "correct_answer": "3.5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20177,
+        "question_text": "What is the relationship between the diameter and the radius of a circle?",
+        "answer_type": "text_input",
+        "correct_answer": "The diameter is twice the radius",
+        "alternative_answer_1": "d=2r",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20178,
+        "question_text": "A circular flowerbed has a radius of 1.25m. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5m",
+        "alternative_answer_1": "2.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20179,
+        "question_text": "The diameter of a Ferris wheel is 100m. What is the length of one of the spokes (the radius)?",
+        "answer_type": "text_input",
+        "correct_answer": "50m",
+        "alternative_answer_1": "50",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20180,
+        "question_text": "A baker is making a circular cake with a diameter of 22cm. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "11cm",
+        "alternative_answer_1": "11",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20181,
+        "question_text": "The radius of a circle is 0.8m. What is the diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "1.6m",
+        "alternative_answer_1": "1.6",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20182,
+        "question_text": "A car tyre has a diameter of 65cm. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "32.5cm",
+        "alternative_answer_1": "32.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20183,
+        "question_text": "The circumference of a pond is approximately 3 times its diameter. If the diameter is 4m, what is the approximate circumference?",
+        "answer_type": "text_input",
+        "correct_answer": "12m",
+        "alternative_answer_1": "12",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20184,
+        "question_text": "A circular mirror has a radius of 20.5cm. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "41cm",
+        "alternative_answer_1": "41",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20185,
+        "question_text": "A circular running track has a diameter of 150m. How far is it from the centre of the field to the track?",
+        "answer_type": "text_input",
+        "correct_answer": "75m",
+        "alternative_answer_1": "75",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20186,
+        "question_text": "What is the diameter of a circle with a radius of 4.75cm?",
+        "answer_type": "text_input",
+        "correct_answer": "9.5cm",
+        "alternative_answer_1": "9.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20187,
+        "question_text": "What is the radius of a circle with a diameter of 0.9m?",
+        "answer_type": "text_input",
+        "correct_answer": "0.45m",
+        "alternative_answer_1": "0.45",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20188,
+        "question_text": "I am drawing a circle with a compass. I set the compass to a width of 5.5cm. What will the diameter of my circle be?",
+        "answer_type": "text_input",
+        "correct_answer": "11cm",
+        "alternative_answer_1": "11",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20189,
+        "question_text": "A semi-circle has a straight edge of 10cm. What is the radius of the full circle it came from?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm",
+        "alternative_answer_1": "5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20190,
+        "question_text": "A circular lid has a radius of 3.2cm. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "6.4cm",
+        "alternative_answer_1": "6.4",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20191,
+        "question_text": "A circular mat has a diameter of 1.5m. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "0.75m",
+        "alternative_answer_1": "0.75",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20192,
+        "question_text": "A student says a circle with a 4cm radius has a 6cm diameter. Correct their mistake.",
+        "answer_type": "text_input",
+        "correct_answer": "The diameter is 8cm",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20193,
+        "question_text": "A student says a circle with a 10m diameter has a 20m radius. Correct their mistake.",
+        "answer_type": "text_input",
+        "correct_answer": "The radius is 5m",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20194,
+        "question_text": "What is the diameter of a circle whose radius is 100cm?",
+        "answer_type": "text_input",
+        "correct_answer": "200cm",
+        "alternative_answer_1": "2m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20195,
+        "question_text": "What is the radius of a circle whose diameter is 3m?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5m",
+        "alternative_answer_1": "150cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20196,
+        "question_text": "You are told to draw a circle with a diameter of 15cm. What should you set your compass width (radius) to?",
+        "answer_type": "text_input",
+        "correct_answer": "7.5cm",
+        "alternative_answer_1": "7.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20197,
+        "question_text": "The diameter of a round lake is 500m. How far would you swim if you swam from the edge to the exact centre?",
+        "answer_type": "text_input",
+        "correct_answer": "250m",
+        "alternative_answer_1": "250",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20198,
+        "question_text": "The radius of a hoop is 0.45m. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "0.9m",
+        "alternative_answer_1": "0.9",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20199,
+        "question_text": "The diameter of a dinner plate is 27cm. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "13.5cm",
+        "alternative_answer_1": "13.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20200,
+        "question_text": "The radius of the Earth is about 6,371 km. What is its approximate diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "12742km",
+        "alternative_answer_1": "12742",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20201,
+        "question_text": "A circular pizza has a radius of 15cm. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "30cm",
+        "alternative_answer_1": "30",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20202,
+        "question_text": "A circular puddle has a diameter of 80cm. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "40cm",
+        "alternative_answer_1": "40",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20203,
+        "question_text": "The circumference of a circle is roughly 3.14 times its diameter. If a wheel has a radius of 10cm, what is its approximate circumference?",
+        "answer_type": "text_input",
+        "correct_answer": "62.8cm",
+        "alternative_answer_1": "62.8",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20204,
+        "question_text": "A semi-circle has a straight edge that is 20m long. What is the distance from the middle of the straight edge to the curved edge?",
+        "answer_type": "text_input",
+        "correct_answer": "10m",
+        "alternative_answer_1": "10",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20205,
+        "question_text": "Two identical circles with a radius of 5cm are placed side-by-side touching. What is the length of a straight line connecting their centres?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20206,
+        "question_text": "A car wheel has a diameter of 60cm. If it rolls one full turn, it travels the length of its circumference. Approximately how far does it travel in one turn?",
+        "answer_type": "text_input",
+        "correct_answer": "188.4cm",
+        "alternative_answer_1": "188.4",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20207,
+        "question_text": "A circle is drawn inside a square so it just touches the sides. If the side length of the square is 10cm, what is the radius of the circle?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm",
+        "alternative_answer_1": "5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20208,
+        "question_text": "A circle has a circumference of 31.4cm. Using 3.14 as the approximation for pi, what is the diameter of the circle?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20209,
+        "question_text": "What is the perimeter of a semi-circle with a radius of 5m? (Use 3.14 for pi)",
+        "answer_type": "text_input",
+        "correct_answer": "25.7m",
+        "alternative_answer_1": "25.7",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20210,
+        "question_text": "A goat is tied to a post with a rope that is 3m long. What is the diameter of the circular area of grass the goat can eat?",
+        "answer_type": "text_input",
+        "correct_answer": "6m",
+        "alternative_answer_1": "6",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20211,
+        "question_text": "A circular logo has a diameter of 8cm. A smaller circle inside it has a radius of 2cm. What is the distance between their circumferences at the widest point?",
+        "answer_type": "text_input",
+        "correct_answer": "2cm",
+        "alternative_answer_1": "2",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20212,
+        "question_text": "If the radius of a circle is 7.5cm, what is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "15cm",
+        "alternative_answer_1": "15",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20213,
+        "question_text": "If the diameter of a circle is 25m, what is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "12.5m",
+        "alternative_answer_1": "12.5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20214,
+        "question_text": "A circular table has a diameter of 1.4m. Will it fit through a doorway that is 1.5m wide?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20215,
+        "question_text": "A bicycle wheel has a radius of 35cm. How far does the bicycle travel in one full rotation of the wheel? (Use 3.14 for pi)",
+        "answer_type": "text_input",
+        "correct_answer": "219.8cm",
+        "alternative_answer_1": "219.8",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20216,
+        "question_text": "A circle has a circumference of 628cm. What is its radius? (Use 3.14 for pi)",
+        "answer_type": "text_input",
+        "correct_answer": "100cm",
+        "alternative_answer_1": "100",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20217,
+        "question_text": "I want to put a fence around a circular garden with a diameter of 20m. How many metres of fencing do I need? (Use 3.14 for pi)",
+        "answer_type": "text_input",
+        "correct_answer": "62.8m",
+        "alternative_answer_1": "62.8",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20218,
+        "question_text": "The minute hand of a clock is 10cm long. What is the diameter of the circle it makes?",
+        "answer_type": "text_input",
+        "correct_answer": "20cm",
+        "alternative_answer_1": "20",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20219,
+        "question_text": "A square with a side length of 14cm has a circle drawn inside it that touches all four sides. What is the diameter of the circle?",
+        "answer_type": "text_input",
+        "correct_answer": "14cm",
+        "alternative_answer_1": "14",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20220,
+        "question_text": "A square with a side length of 14cm has a circle drawn inside it that touches all four sides. What is the radius of the circle?",
+        "answer_type": "text_input",
+        "correct_answer": "7cm",
+        "alternative_answer_1": "7",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20221,
+        "question_text": "The London Eye has a diameter of 120 metres. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "60m",
+        "alternative_answer_1": "60",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20222,
+        "question_text": "A radio signal has a range of 50km. What is the diameter of the circular area it covers?",
+        "answer_type": "text_input",
+        "correct_answer": "100km",
+        "alternative_answer_1": "100",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20223,
+        "question_text": "A circular cake has a radius of 12cm. What is its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "24cm",
+        "alternative_answer_1": "24",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20224,
+        "question_text": "A circular coaster has a diameter of 9.5cm. What is its radius?",
+        "answer_type": "text_input",
+        "correct_answer": "4.75cm",
+        "alternative_answer_1": "4.75",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20225,
+        "question_text": "What is the relationship between a circle's circumference and its diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "The circumference is pi times the diameter",
+        "alternative_answer_1": "C=πd",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20226,
+        "question_text": "A semi-circle has a radius of 3cm. What is the length of its straight edge?",
+        "answer_type": "text_input",
+        "correct_answer": "6cm",
+        "alternative_answer_1": "6",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    },
+    {
+        "question_id": 20227,
+        "question_text": "A hula hoop has a diameter of 1 metre. What is its radius in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "50cm",
+        "alternative_answer_1": "50",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 461
+    }
+]

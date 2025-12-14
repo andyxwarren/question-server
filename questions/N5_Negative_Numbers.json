@@ -1,0 +1,3002 @@
+[
+    {
+        "question_id": 2336,
+        "question_text": "Start at 1 and count backwards by 1s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2337,
+        "question_text": "Count backwards from 0. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2338,
+        "question_text": "Start at 2 and count back 3 steps. What number do you land on?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2339,
+        "question_text": "What is one less than 0?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2340,
+        "question_text": "What is one less than -2?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "minus 3",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2341,
+        "question_text": "The temperature was 1 degree. It dropped by 2 degrees. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2342,
+        "question_text": "Count backwards: 2, 1, 0, __. What is next?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2343,
+        "question_text": "Start at 5 and count back 6. What is the result?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2344,
+        "question_text": "What number comes just before 0 when counting backwards?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2345,
+        "question_text": "Start at 0 and count back 4. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "-4",
+        "alternative_answer_1": "minus 4",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2346,
+        "question_text": "What is 1 less than -4?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "minus 5",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2347,
+        "question_text": "A lift is on floor 3. It goes down 4 floors. What floor is it on?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2348,
+        "question_text": "Count backwards. 0, -1, -2, __. What is next?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "minus 3",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2349,
+        "question_text": "Start at 8 and count back 9 steps. What is the result?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2350,
+        "question_text": "From 1, count backwards 1 step.",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2351,
+        "question_text": "The temperature is 0 degrees. It gets 3 degrees colder. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "minus 3",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2352,
+        "question_text": "What number is just before -1 when counting backwards?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2353,
+        "question_text": "Start at 4 and count back 5. What number do you land on?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2354,
+        "question_text": "What number is 2 less than 1?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2355,
+        "question_text": "Count backwards: 1, 0, __. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2356,
+        "question_text": "What is 3 less than 0?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "minus 3",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2357,
+        "question_text": "Start at 10 and count back 11. What is the result?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2358,
+        "question_text": "What is 1 less than -1?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2359,
+        "question_text": "You are on the ground floor (floor 0). You go down 2 floors in a lift. What floor are you on?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2360,
+        "question_text": "What is the number before -3?",
+        "answer_type": "text_input",
+        "correct_answer": "-4",
+        "alternative_answer_1": "minus 4",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2361,
+        "question_text": "The temperature was 5 degrees Celsius. It dropped by 8 degrees. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "-3 degrees",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2362,
+        "question_text": "Fill in the missing number: 2, 1, 0, __, -2",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2363,
+        "question_text": "Start at 12 and count back 15 steps. What number are you on?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "minus 3",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2364,
+        "question_text": "You are at an elevation of 10 metres. You go down 12 metres. What is your new elevation?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "-2 metres",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2365,
+        "question_text": "What number is missing? -5, -6, __, -8",
+        "answer_type": "text_input",
+        "correct_answer": "-7",
+        "alternative_answer_1": "minus 7",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2366,
+        "question_text": "Start at 15 and count backwards by 1s. What number comes after -1?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2367,
+        "question_text": "What is 6 less than 4?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2368,
+        "question_text": "The temperature is 2 degrees. It falls by 10 degrees. What is the temperature now?",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "-8 degrees",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2369,
+        "question_text": "What number is missing? 1, 0, -1, __, -3",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2370,
+        "question_text": "Start at 20 and count back 21 steps. What is the result?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2371,
+        "question_text": "A diver is 3 metres above the water. She dives down 8 metres. How many metres is she below the water?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-5 metres",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2372,
+        "question_text": "Fill in the blank: -8, -9, __",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "minus 10",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2373,
+        "question_text": "What is 10 less than 1?",
+        "answer_type": "text_input",
+        "correct_answer": "-9",
+        "alternative_answer_1": "minus 9",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2374,
+        "question_text": "Start at 11 and count back 15. What number do you get?",
+        "answer_type": "text_input",
+        "correct_answer": "-4",
+        "alternative_answer_1": "minus 4",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2375,
+        "question_text": "A bird is flying 15 feet above a cliff. It drops 25 feet. What is its new position relative to the cliff top?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "-10 feet",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2376,
+        "question_text": "Complete the sequence: 4, 3, 2, 1, 0, __, -2",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2377,
+        "question_text": "What is 18 less than 10?",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "minus 8",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2378,
+        "question_text": "The temperature was 1 degree, and it dropped to -9 degrees. How many degrees did it fall?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10 degrees",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2379,
+        "question_text": "What is missing? __, -2, -3, -4",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2380,
+        "question_text": "Start at 7 and count back 11. What is the answer?",
+        "answer_type": "text_input",
+        "correct_answer": "-4",
+        "alternative_answer_1": "minus 4",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2381,
+        "question_text": "What is 5 less than -5?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "minus 10",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2382,
+        "question_text": "The water level was at 1 metre. It went down by 3 metres. What is the new water level?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "-2 metres",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2383,
+        "question_text": "Complete the pattern: -4, __, -6, -7",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "minus 5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2384,
+        "question_text": "Start at 19 and count back 22. What number do you reach?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "minus 3",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2385,
+        "question_text": "What is 20 less than 15?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "minus 5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2386,
+        "question_text": "Start at 10 and count backwards in steps of 2. What number do you say after -2?",
+        "answer_type": "text_input",
+        "correct_answer": "-4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2387,
+        "question_text": "Your bank balance is £20. You spend £25. What is your new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-£5",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2388,
+        "question_text": "Count backwards in 5s from 15. What is the number after 0?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2389,
+        "question_text": "Start at 50 and count backwards in 10s. What is the 6th number you say?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2390,
+        "question_text": "What is missing in this sequence? 8, 3, __, -7",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2391,
+        "question_text": "You are at an altitude of 30 metres. Your submarine dives 50 metres. What is your new altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "-20 metres",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2392,
+        "question_text": "Start at 12 and count back in 2s. What number is missing? 8, 6, __, 2",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2393,
+        "question_text": "Count back in 10s from 25. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2394,
+        "question_text": "What is the missing term? 4, 2, 0, __, -4",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2395,
+        "question_text": "Your bank account has £5. You spend £15. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "-£10",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2396,
+        "question_text": "Count backwards in 5s from 20. What is the fifth number you say?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2397,
+        "question_text": "What number is missing? 2, -3, -8, __",
+        "answer_type": "text_input",
+        "correct_answer": "-13",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2398,
+        "question_text": "Start at 45 and count back in 10s. What is the fifth number in the sequence?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2399,
+        "question_text": "A climber is at 50m. They descend in 10m stages. After 6 stages, what is their altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "-10m",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2400,
+        "question_text": "What is missing? 1, -1, -3, __, -7",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2401,
+        "question_text": "Start at 18 and count backwards in 5s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2402,
+        "question_text": "What is 20 less than 5?",
+        "answer_type": "text_input",
+        "correct_answer": "-15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2403,
+        "question_text": "Count back in 2s from 3. What is the third number you say?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2404,
+        "question_text": "Complete the sequence: 22, 12, 2, __",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2405,
+        "question_text": "What is 30 less than 15?",
+        "answer_type": "text_input",
+        "correct_answer": "-15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2406,
+        "question_text": "Start at 3 and count back in 5s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2407,
+        "question_text": "Find the next number: 7, 5, 3, 1, -1, __",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2408,
+        "question_text": "What is 50 less than 40?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2409,
+        "question_text": "Count backwards in 5s from 2. What is the second number you say?",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2410,
+        "question_text": "What is 2 less than -18?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2411,
+        "question_text": "What is the rule for this pattern? 12, 7, 2, -3, -8",
+        "answer_type": "text_input",
+        "correct_answer": "Subtract 5",
+        "alternative_answer_1": "Count back in 5s",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2412,
+        "question_text": "A submarine is at a depth of -20 metres. It descends another 15 metres. What is its new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-35",
+        "alternative_answer_1": "-35 metres",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2413,
+        "question_text": "Start at -5 and count backwards in 3s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "minus 8",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2414,
+        "question_text": "How many steps of 3 does it take to get from 5 to -4?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 steps",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2415,
+        "question_text": "What is the missing number in this sequence? -10, __, -30, -40",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "minus 20",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2416,
+        "question_text": "The temperature in Moscow is -8°C. In Siberia it is 20 degrees colder. What is the temperature in Siberia?",
+        "answer_type": "text_input",
+        "correct_answer": "-28",
+        "alternative_answer_1": "-28°C",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2417,
+        "question_text": "Find the next two numbers in the sequence: 15, 9, 3, __, __",
+        "answer_type": "text_input",
+        "correct_answer": "-3, -9",
+        "alternative_answer_1": "-12",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2418,
+        "question_text": "Start at 20. Subtract 7 three times. What number do you end on?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2419,
+        "question_text": "What is the step size in this pattern? -5, -9, -13, -17",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Subtract 4",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2420,
+        "question_text": "A bank account has -£50. A bill for £25 is paid from it. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-75",
+        "alternative_answer_1": "-£75",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2421,
+        "question_text": "Calculate the interval between 8 and -5.",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2422,
+        "question_text": "Start at -12 and count backwards in 1s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-13",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2423,
+        "question_text": "What is 15 less than -10?",
+        "answer_type": "text_input",
+        "correct_answer": "-25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2424,
+        "question_text": "A sequence starts at 10 and counts back in 4s. What is the fourth number in the sequence?",
+        "answer_type": "text_input",
+        "correct_answer": "-6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2425,
+        "question_text": "Find the rule and the next number: 21, 14, 7, 0, __",
+        "answer_type": "text_input",
+        "correct_answer": "-7",
+        "alternative_answer_1": "minus 7",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2426,
+        "question_text": "How many steps of 5 are there between 11 and -9?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4 steps",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2427,
+        "question_text": "Start at -25 and count back 20. What is the result?",
+        "answer_type": "text_input",
+        "correct_answer": "-45",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2428,
+        "question_text": "What is the interval between 2 and -18?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2429,
+        "question_text": "What number is halfway between 10 and -10?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2430,
+        "question_text": "Continue the pattern: -15, -20, -25, __",
+        "answer_type": "text_input",
+        "correct_answer": "-30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2431,
+        "question_text": "Start at 1. Subtract 6. Then subtract 6 again. What is the final number?",
+        "answer_type": "text_input",
+        "correct_answer": "-11",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2432,
+        "question_text": "Find the next term in the sequence: -3, -10, -17, __",
+        "answer_type": "text_input",
+        "correct_answer": "-24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2433,
+        "question_text": "A freezer is at -18°C. The power goes off and it warms up by 10 degrees. Then it is fixed and cools by 15 degrees. What is the final temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-23",
+        "alternative_answer_1": "-23°C",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2434,
+        "question_text": "What is 50 less than -40?",
+        "answer_type": "text_input",
+        "correct_answer": "-90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2435,
+        "question_text": "What is the interval between 0 and -100?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 4
+    },
+    {
+        "question_id": 2936,
+        "question_text": "The temperature is -2°C. What is the temperature if it gets 1 degree warmer?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "-1°C",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2937,
+        "question_text": "Start at -5 and count forwards by 1. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-4",
+        "alternative_answer_1": "minus 4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2938,
+        "question_text": "A fish is at a depth of -15 metres. It swims down 1 metre. What is its new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-16",
+        "alternative_answer_1": "-16 metres",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2939,
+        "question_text": "Count backwards by 1 from -8. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-9",
+        "alternative_answer_1": "minus 9",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2940,
+        "question_text": "Start at 10 and count backwards in 10s. What is the number after 0?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "minus 10",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2941,
+        "question_text": "The temperature is -12°C. It gets 1 degree colder. What is the temperature now?",
+        "answer_type": "text_input",
+        "correct_answer": "-13",
+        "alternative_answer_1": "-13°C",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2942,
+        "question_text": "Count forwards in 10s from -20. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "minus 10",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2943,
+        "question_text": "What is the number just before -19 when counting backwards by 1s?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "minus 20",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2944,
+        "question_text": "A diver is at -8 metres. She swims up 1 metre. What is her new position?",
+        "answer_type": "text_input",
+        "correct_answer": "-7",
+        "alternative_answer_1": "-7 metres",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2945,
+        "question_text": "Count backwards in 10s from -10. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "minus 20",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2946,
+        "question_text": "What is the next number when counting forwards by 1 from -1?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2947,
+        "question_text": "The temperature is 5°C. It drops by 10 degrees. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-5°C",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2948,
+        "question_text": "What is the number after 1 when counting back by 1s?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2949,
+        "question_text": "Start at -18 and count forwards by 1. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-17",
+        "alternative_answer_1": "minus 17",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2950,
+        "question_text": "Count backwards in 1s from 0. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2951,
+        "question_text": "Start at -20 and count forwards in steps of 10. What is the number after -10?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2952,
+        "question_text": "A submarine is at -20 metres. It rises 10 metres. What is its new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "-10 metres",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2953,
+        "question_text": "The temperature is 12°C. It drops by 10 degrees. What is the temperature now?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2°C",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2954,
+        "question_text": "What number comes after -11 if you are counting forwards by 1?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "minus 10",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2955,
+        "question_text": "Count backwards by 10 from 20. What is the number after 10?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2956,
+        "question_text": "What is the previous number before -14 when counting by 1s?",
+        "answer_type": "text_input",
+        "correct_answer": "-15",
+        "alternative_answer_1": "minus 15",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2957,
+        "question_text": "Start at -3. Count forwards 1 step.",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2958,
+        "question_text": "Start at 2. Count backwards 10 steps.",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "minus 8",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2959,
+        "question_text": "The temperature is -19°C. It gets 1 degree warmer. What is the temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-18",
+        "alternative_answer_1": "-18°C",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2960,
+        "question_text": "A bank balance is £15. £20 is spent. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-£5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2961,
+        "question_text": "The temperature is -5°C and it rises by 10 degrees. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5°C",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2962,
+        "question_text": "What number is missing? -4, -2, __, 2",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2963,
+        "question_text": "Start at -25 and count forwards in 5s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "minus 20",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2964,
+        "question_text": "A diver is at -30 metres. She swims up 10 metres. What is her new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "-20 metres",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2965,
+        "question_text": "Count backwards in 2s from -10. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-12",
+        "alternative_answer_1": "minus 12",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2966,
+        "question_text": "A bank account has £-15. You deposit £20. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "£5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2967,
+        "question_text": "Fill in the missing number: 15, 10, 5, __, -5",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2968,
+        "question_text": "The temperature was 8°C. It dropped by 10 degrees. What is the temperature now?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "-2°C",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2969,
+        "question_text": "Start at -40 and count forwards in 10s. What is the number after -30?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "minus 20",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2970,
+        "question_text": "Count backwards in 5s. What is missing? -20, __, -30, -35",
+        "answer_type": "text_input",
+        "correct_answer": "-25",
+        "alternative_answer_1": "minus 25",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2971,
+        "question_text": "Start at 2 and count backwards in 2s. What is the third number you say?",
+        "answer_type": "text_input",
+        "correct_answer": "-4",
+        "alternative_answer_1": "minus 4",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2972,
+        "question_text": "If the temperature is -1°C and it gets 5 degrees warmer, what is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4°C",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2973,
+        "question_text": "What number is missing? -50, -40, __, -20",
+        "answer_type": "text_input",
+        "correct_answer": "-30",
+        "alternative_answer_1": "minus 30",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2974,
+        "question_text": "A lift is at floor -3. It goes up 5 floors. What floor is it on now?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "floor 2",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2975,
+        "question_text": "Count backwards in 1s from -48. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-49",
+        "alternative_answer_1": "minus 49",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2976,
+        "question_text": "Find the missing number in the sequence: 4, 2, 0, __, -4",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2977,
+        "question_text": "The temperature at the mountain base is 12°C. At the peak it is 20 degrees colder. What is the peak temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "-8°C",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2978,
+        "question_text": "Start at -1 and count forwards in 2s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "one",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2979,
+        "question_text": "Count backwards in 10s from 8. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2980,
+        "question_text": "What number is missing? -15, -10, __, 0",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "minus 5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2981,
+        "question_text": "You owe £20 (your balance is -£20). You pay back £10. What is your new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "-£10",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2982,
+        "question_text": "Start at 50 and count back in 10s. What is the number after 10?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2983,
+        "question_text": "Count forwards in 5s from -12. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-7",
+        "alternative_answer_1": "minus 7",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2984,
+        "question_text": "The temperature is -22°C. It gets 2 degrees warmer. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "-20°C",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2985,
+        "question_text": "Start at 25 and count backwards in 5s. What is the number after 5?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2986,
+        "question_text": "How many degrees difference is there between -5°C and 10°C?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 degrees",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2987,
+        "question_text": "Start at -10 and count forwards in steps of 3. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-7",
+        "alternative_answer_1": "minus 7",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2988,
+        "question_text": "Generate the next three numbers in the sequence starting at 20 and counting back in 6s.",
+        "answer_type": "text_input",
+        "correct_answer": "14, 8, 2",
+        "alternative_answer_1": "14 8 2",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2989,
+        "question_text": "What is the interval between -15 metres and 20 metres?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "35 metres",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2990,
+        "question_text": "Identify the pattern in this sequence: -12, -8, -4, 0, 4.",
+        "answer_type": "text_input",
+        "correct_answer": "Add 4",
+        "alternative_answer_1": "Count forwards in 4s",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2991,
+        "question_text": "A submarine at -80m rises in 20m intervals. What is its depth after two intervals?",
+        "answer_type": "text_input",
+        "correct_answer": "-40",
+        "alternative_answer_1": "-40m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2992,
+        "question_text": "Count backwards in 4s from 2. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2993,
+        "question_text": "A bank account has a balance of £-60. A deposit of £100 is made. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "£40",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2994,
+        "question_text": "What is the difference between an altitude of 50m and -50m?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2995,
+        "question_text": "Start at 10 and count back in 7s. What is the third number you say?",
+        "answer_type": "text_input",
+        "correct_answer": "-11",
+        "alternative_answer_1": "minus 11",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2996,
+        "question_text": "Generate a sequence by counting forwards in 20s from -50. What is the third number?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "minus 10",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2997,
+        "question_text": "What is the interval between -99 and -90?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "nine",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2998,
+        "question_text": "Start at -7 and count backwards in 8s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-15",
+        "alternative_answer_1": "minus 15",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 2999,
+        "question_text": "A sequence starts at 1. The rule is subtract 3. What is the fourth term?",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "minus 8",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3000,
+        "question_text": "What is 30 less than 12?",
+        "answer_type": "text_input",
+        "correct_answer": "-18",
+        "alternative_answer_1": "minus 18",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3001,
+        "question_text": "How many steps of 5 does it take to get from -18 to -3?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 steps",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3002,
+        "question_text": "What is the difference in temperature between -11°C and 4°C?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15°C",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3003,
+        "question_text": "Start at -90 and count forwards in 10s. What is the fifth number you say?",
+        "answer_type": "text_input",
+        "correct_answer": "-40",
+        "alternative_answer_1": "minus 40",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3004,
+        "question_text": "Count backwards in 6s from 4. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3005,
+        "question_text": "What number is halfway between -20 and 20?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3006,
+        "question_text": "Generate the sequence by counting backwards in 25s from 50. What is the third number?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3007,
+        "question_text": "What is the interval between 25 and -25?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3008,
+        "question_text": "Start at 0 and count backwards in 9s. What is the second number?",
+        "answer_type": "text_input",
+        "correct_answer": "-18",
+        "alternative_answer_1": "minus 18",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3009,
+        "question_text": "How far is -75 from 0?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3010,
+        "question_text": "A lift goes from floor 12 down to floor -3. How many floors has it travelled?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 floors",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3011,
+        "question_text": "The temperature in London is 6°C. In Oslo, it is -9°C. How much warmer is London than Oslo?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15°C",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3012,
+        "question_text": "A bank balance is -£55. A payment of £30 is made out, and then a deposit of £100 is paid in. What is the final balance?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "£15",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3013,
+        "question_text": "Correct the error in this sequence: 11, 4, -3, -9, -17",
+        "answer_type": "text_input",
+        "correct_answer": "-9",
+        "alternative_answer_1": "minus 9",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3014,
+        "question_text": "A submarine at -120m rises by 50m, then dives by 30m. What is its final depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-100",
+        "alternative_answer_1": "-100m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3015,
+        "question_text": "Find the interval between -150 and 50.",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3016,
+        "question_text": "A sequence counts backwards in 8s. If one number is -20, what was the number two steps before it?",
+        "answer_type": "text_input",
+        "correct_answer": "-4",
+        "alternative_answer_1": "minus 4",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3017,
+        "question_text": "Which is further from 0: -95 or 85?",
+        "answer_type": "text_input",
+        "correct_answer": "-95",
+        "alternative_answer_1": "minus 95",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3018,
+        "question_text": "The summit of a mountain is 250m above sea level. The sea floor at its base is -150m. What is the total height of the mountain from the sea floor to the summit?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "400m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3019,
+        "question_text": "What is the rule in this sequence? -80, -55, -30, -5",
+        "answer_type": "text_input",
+        "correct_answer": "Add 25",
+        "alternative_answer_1": "Count on in 25s",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3020,
+        "question_text": "Start at -7. Add 15, then subtract 20. What is the final number?",
+        "answer_type": "text_input",
+        "correct_answer": "-12",
+        "alternative_answer_1": "minus 12",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3021,
+        "question_text": "Find the error: A temperature of -10°C drops by 5 degrees, making it -5°C.",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-5°C",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3022,
+        "question_text": "Calculate the interval between -32 and 68.",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3023,
+        "question_text": "A number starts at 50. It halves, then has 40 subtracted from it. What is the result?",
+        "answer_type": "text_input",
+        "correct_answer": "-15",
+        "alternative_answer_1": "minus 15",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3024,
+        "question_text": "What is the difference between -45 and -110?",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3025,
+        "question_text": "A hiker starts at 80m elevation. She goes down 100m, then up 10m. What is her final elevation?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "-10m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3026,
+        "question_text": "I am thinking of a number. It is 20 less than -50. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "-70",
+        "alternative_answer_1": "minus 70",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3027,
+        "question_text": "Start at 100. Subtract 60, then subtract 60 again. What is the answer?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "minus 20",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3028,
+        "question_text": "A company's profit was £200. It then made a loss of £500. What is its new financial position?",
+        "answer_type": "text_input",
+        "correct_answer": "-300",
+        "alternative_answer_1": "-£300",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3029,
+        "question_text": "The temperature was -3°C at midnight. By noon it was 12°C. How much did the temperature rise?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15°C",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3030,
+        "question_text": "What number is halfway between -50 and 100?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3031,
+        "question_text": "Correct the mistake: Counting back 5 steps from 2 gives you -2.",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3032,
+        "question_text": "Start at -100. Add 25 three times. What is the result?",
+        "answer_type": "text_input",
+        "correct_answer": "-25",
+        "alternative_answer_1": "minus 25",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3033,
+        "question_text": "Tom has £-12. Sam has £8. What is the difference in their bank balances?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "£20",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3034,
+        "question_text": "A lift starts on floor 15. It goes down 20 floors, then up 2 floors. Where does it end up?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "floor -3",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3035,
+        "question_text": "Find the interval between two temperatures: -18°C and 32°C.",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50°C",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 5
+    },
+    {
+        "question_id": 3736,
+        "question_text": "The temperature is -2°C. It rises by 3 degrees. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1°C",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3737,
+        "question_text": "A bank account has £-5 (a £5 debt). You pay £5 back. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "£0",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3738,
+        "question_text": "Start at -3 and count forwards in 1s. What is the next number after -1?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3739,
+        "question_text": "Start at 2 and count backwards in 1s. What is the number after 0?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3740,
+        "question_text": "Using a number line, what is the interval between -1 and 1?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3741,
+        "question_text": "A fish is at a depth of -4 metres. It swims up 4 metres. What is its new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "0 metres",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3742,
+        "question_text": "Count forwards in 1s from -5. What is the third number you say?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3743,
+        "question_text": "Count backwards in 1s from 5. What is the number after 1?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3744,
+        "question_text": "By counting on a number line, find the interval between -2 and 3.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3745,
+        "question_text": "The temperature is -1°C. It gets 5 degrees warmer. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4°C",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3746,
+        "question_text": "Start at 10 and count back in 10s. What is the next number after 0?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "minus 10",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3747,
+        "question_text": "Start at -10 and count forwards in 10s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3748,
+        "question_text": "What is the interval between -5 and 5? Count the steps on a number line.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3749,
+        "question_text": "You have a debt of £8 (-£8). You earn £10. What is your financial position now?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "£2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3750,
+        "question_text": "Count backwards from 1. What is the number after -1?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3751,
+        "question_text": "What is the distance on a number line between -4 and 0?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3752,
+        "question_text": "The temperature is -10°C. It rises by 10 degrees. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "0°C",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3753,
+        "question_text": "Count forwards from -2. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3754,
+        "question_text": "What is the interval between -3 and 2? You can count the steps.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3755,
+        "question_text": "Your bank account shows -£7. You deposit £8. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "£1",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3756,
+        "question_text": "Start at -9 and count forwards by 1. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-8",
+        "alternative_answer_1": "minus 8",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3757,
+        "question_text": "Count backwards by 1 from -9. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "minus 10",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3758,
+        "question_text": "What is the interval between -10 and 0?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3759,
+        "question_text": "The temperature is 3°C. It falls by 5 degrees. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "-2°C",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3760,
+        "question_text": "A lift is on floor 2. It goes down 4 floors. What floor is it on?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "floor -2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3761,
+        "question_text": "A submarine is at an altitude of -25 metres. It rises 10 metres. What is its new altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "-15",
+        "alternative_answer_1": "-15 metres",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3762,
+        "question_text": "What is the interval between -10 and 15?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3763,
+        "question_text": "Count forwards in 5s from -15. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "minus 10",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3764,
+        "question_text": "Your bank balance is £-30. You make a deposit of £20. What is your new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "-£10",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3765,
+        "question_text": "Count backwards in 2s from 1. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3766,
+        "question_text": "What is the difference in altitude between 20m and -10m?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30m",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3767,
+        "question_text": "Start at -28 and count forwards in 2s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-26",
+        "alternative_answer_1": "minus 26",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3768,
+        "question_text": "The temperature is 5°C. It falls by 15 degrees. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "-10°C",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3769,
+        "question_text": "Count backwards in 10s from -20. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-30",
+        "alternative_answer_1": "minus 30",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3770,
+        "question_text": "Calculate the interval between -22 and 8.",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3771,
+        "question_text": "A bird is flying at an altitude of 10m. It dives 15m. What is its new altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-5m",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3772,
+        "question_text": "Count forwards in 5s from -30. What is the number after -25?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "minus 20",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3773,
+        "question_text": "What is the interval between -18 and 12?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3774,
+        "question_text": "A bank account has £-12. A bill for £10 is paid. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-22",
+        "alternative_answer_1": "-£22",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3775,
+        "question_text": "Count backwards in 5s from 3. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3776,
+        "question_text": "What is the temperature change from -5°C to 25°C?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30°C",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3777,
+        "question_text": "Start at -29 and count forwards by 1. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-28",
+        "alternative_answer_1": "minus 28",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3778,
+        "question_text": "A lift is on floor 15. It travels down 20 floors. What floor is it on?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "floor -5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3779,
+        "question_text": "Count backwards in 2s from -26. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-28",
+        "alternative_answer_1": "minus 28",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3780,
+        "question_text": "What is the interval between -30 and 20?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3781,
+        "question_text": "What is 10 more than -5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3782,
+        "question_text": "What is 20 less than 10?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3783,
+        "question_text": "Count forwards in 2s from -7. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3784,
+        "question_text": "Count backwards in 5s from -15. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3785,
+        "question_text": "Calculate the interval between -1 and 29.",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3786,
+        "question_text": "Count backwards in 7s from 5. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3787,
+        "question_text": "What is the distance between -15 and 20 on a number line?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3788,
+        "question_text": "The temperature is -8°C. It rises to 12°C. How many degrees has it risen?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20 degrees",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3789,
+        "question_text": "Start at -50 and count forwards in 6s. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-44",
+        "alternative_answer_1": "minus 44",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3790,
+        "question_text": "A company had a profit of £-90. It then made a profit of £100. What is the final profit?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "£10",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3791,
+        "question_text": "Calculate the interval between -45 and 55.",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3792,
+        "question_text": "Count backwards in 9s from 4. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "minus 5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3793,
+        "question_text": "A Roman city was founded in 50 BC (-50) and destroyed in 70 AD (70). How many years did it last?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "120 years",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3794,
+        "question_text": "Start at 100 and count backwards in 20s. What is the number after 0?",
+        "answer_type": "text_input",
+        "correct_answer": "-20",
+        "alternative_answer_1": "minus 20",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3795,
+        "question_text": "What is the interval between a depth of -75m and a height of 25m?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3796,
+        "question_text": "Count forwards in 11s from -33. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-22",
+        "alternative_answer_1": "minus 22",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3797,
+        "question_text": "The temperature rose from -18°C to 12°C. What was the change in temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30 degrees",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3798,
+        "question_text": "Start at -99 and count forwards by 1. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-98",
+        "alternative_answer_1": "minus 98",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3799,
+        "question_text": "Calculate the difference between -62 and 38.",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3800,
+        "question_text": "Count backwards in 3s from -88. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-91",
+        "alternative_answer_1": "minus 91",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3801,
+        "question_text": "A mole is digging at -25cm relative to the ground. It digs down another 15cm. What is its new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-40",
+        "alternative_answer_1": "-40cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3802,
+        "question_text": "What is the interval between -80 and 80?",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3803,
+        "question_text": "Start at -12 and count forwards in 4s. What is the fourth number you say?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "four",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3804,
+        "question_text": "What is the difference in value between £-50 and £50?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "£100",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3805,
+        "question_text": "Count backwards in 12s from 10. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3806,
+        "question_text": "The lowest point in a valley is -35m. The highest hill is 65m. What is the total change in elevation?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3807,
+        "question_text": "Start at 100 and count back in 15s. What is the first negative number you reach?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "minus 5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3808,
+        "question_text": "What is the interval between -1 and 99?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3809,
+        "question_text": "Count forwards in 8s from -20. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-12",
+        "alternative_answer_1": "minus 12",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3810,
+        "question_text": "Count backwards in 25s from 20. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "minus 5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3811,
+        "question_text": "What is the interval between -10 and -5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "five",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3812,
+        "question_text": "A lift starts at floor 8. It goes down 12 floors, then up 2 floors. What is its final position?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "floor -2",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3813,
+        "question_text": "Which is larger, the interval between -20 and 10, or the interval between -10 and 25?",
+        "answer_type": "text_input",
+        "correct_answer": "The interval between -10 and 25",
+        "alternative_answer_1": "The second one",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3814,
+        "question_text": "The temperature was -5°C. It rose by 8°C, then fell by 12°C. What was the final temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-9",
+        "alternative_answer_1": "-9°C",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3815,
+        "question_text": "What is the interval between -85 and -25?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "sixty",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3816,
+        "question_text": "A bank balance started at £25. A cheque for £50 was cashed, then a bill for £15 was paid. What is the final balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-40",
+        "alternative_answer_1": "-£40",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3817,
+        "question_text": "Identify the error: To find the interval between -15 and 20, you do 20 - 15 = 5.",
+        "answer_type": "text_input",
+        "correct_answer": "You should add the distances from zero",
+        "alternative_answer_1": "You add 15 and 20",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3818,
+        "question_text": "A diver starts at -10m. He goes down 15m, then up 20m. What is his final depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-5m",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3819,
+        "question_text": "Compare the intervals: A is from -50 to 50. B is from -10 to -90. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "A",
+        "alternative_answer_1": "Interval A",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3820,
+        "question_text": "Find the interval between -125 and -75.",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3821,
+        "question_text": "A share price is £50. It falls £60, then rises £5. What is the final price?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-£5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3822,
+        "question_text": "To get from 12 to -12, you must subtract what number?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3823,
+        "question_text": "A mole is at -30cm. It digs down 10cm, then up 15cm. What is its final position?",
+        "answer_type": "text_input",
+        "correct_answer": "-25",
+        "alternative_answer_1": "-25cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3824,
+        "question_text": "What is the interval between -300 and -150?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3825,
+        "question_text": "A freezer at -18°C is unplugged and warms by 25°C. It is plugged back in and cools by 10°C. What is the final temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "-3°C",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3826,
+        "question_text": "Justify your answer: Is the interval between -100 and 100 the same as the interval between 0 and 200?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "Yes they are both 200",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3827,
+        "question_text": "What is the change in elevation from a trench at -200m to a hill at 300m?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "500m",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3828,
+        "question_text": "A starting number is 10. You subtract 5, then subtract 8, then add 2. What is the result?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "minus 1",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3829,
+        "question_text": "Find the interval between -42 and -32.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3830,
+        "question_text": "Your bank balance is £-5. You are charged a £10 fee, then you deposit £25. What is the final balance?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "£10",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3831,
+        "question_text": "Is this statement correct? The difference between -20 and -30 is -10. Explain why or why not.",
+        "answer_type": "text_input",
+        "correct_answer": "No, the interval is 10",
+        "alternative_answer_1": "No",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3832,
+        "question_text": "A point on a graph is at (0, 5). It moves down 10 units, then up 3 units. What is its final y-coordinate?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "minus 2",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3833,
+        "question_text": "What is the interval between -500 and 500?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3834,
+        "question_text": "Start at -2. Subtract 10, then add 5. What is the final number?",
+        "answer_type": "text_input",
+        "correct_answer": "-7",
+        "alternative_answer_1": "minus 7",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    },
+    {
+        "question_id": 3835,
+        "question_text": "Compare the interval from -30 to 0 with the interval from -60 to -20. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "The interval from -60 to -20",
+        "alternative_answer_1": "The second one",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 6
+    }
+]

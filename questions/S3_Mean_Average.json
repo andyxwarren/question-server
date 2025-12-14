@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 9753,
+        "question_text": "What is the mean of the numbers 2 and 4?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9754,
+        "question_text": "Find the mean of the numbers 1 and 5.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9755,
+        "question_text": "Calculate the mean of 3 and 7.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9756,
+        "question_text": "What is the mean average of 5 and 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9757,
+        "question_text": "Two friends have pocket money of £6 and £4. What is their mean pocket money?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "£5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9758,
+        "question_text": "Find the mean of 8 and 2.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9759,
+        "question_text": "What is the mean of 1, 2, and 3?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9760,
+        "question_text": "Three baskets have 2, 3, and 4 apples. What is the mean number of apples per basket?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9761,
+        "question_text": "Calculate the mean of 10 and 0.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9762,
+        "question_text": "Find the mean of the numbers 6 and 8.",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9763,
+        "question_text": "Two plants have heights of 5cm and 7cm. What is their mean height?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9764,
+        "question_text": "What is the mean of 4, 5, and 6?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9765,
+        "question_text": "Find the mean of 9 and 1.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9766,
+        "question_text": "Calculate the mean of 7 and 7.",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9767,
+        "question_text": "What is the mean of 0 and 8?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9768,
+        "question_text": "Two boxes weigh 3kg and 5kg. What is their mean weight?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4kg",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9769,
+        "question_text": "Find the mean of 2, 4, and 6.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9770,
+        "question_text": "Calculate the mean of 1 and 3.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9771,
+        "question_text": "What is the mean average of 10 and 2?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9772,
+        "question_text": "Three children have 1, 1, and 4 sweets. What is the mean number of sweets?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9773,
+        "question_text": "Find the mean of 6 and 10.",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9774,
+        "question_text": "Two books have 8 pages and 6 pages. What is the mean number of pages?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9775,
+        "question_text": "Calculate the mean of 5, 6, and 7.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9776,
+        "question_text": "What is the mean of 3 and 9?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9777,
+        "question_text": "Find the mean of 4 and 8.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9778,
+        "question_text": "What is the mean of the numbers 10, 20, and 30?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9779,
+        "question_text": "Four friends score 5, 6, 7, and 6 points in a game. What is their mean score?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9780,
+        "question_text": "Find the mean of 1, 2, 3, 4, and 5.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9781,
+        "question_text": "The temperatures for three days were 8°C, 9°C, and 10°C. What was the mean temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9°C",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9782,
+        "question_text": "Calculate the mean of 15 and 25.",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9783,
+        "question_text": "A team scored 4 goals in their first game and 6 in their second. What is their mean number of goals per game?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9784,
+        "question_text": "What is the mean of 7, 8, 9, 10, and 11?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9785,
+        "question_text": "A student's test scores are 8 and 10. What is their mean test score?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9786,
+        "question_text": "Find the mean of the numbers 5, 10, 15.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9787,
+        "question_text": "The number of books read by four children was 3, 4, 4, and 5. What is the mean number of books read?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9788,
+        "question_text": "Calculate the mean of 12, 14, and 16.",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9789,
+        "question_text": "What is the mean of 20, 20, and 20?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9790,
+        "question_text": "Two runners ran for 10 minutes and 14 minutes. What was their mean running time?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12 minutes",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9791,
+        "question_text": "Find the mean of 2, 7, and 9.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9792,
+        "question_text": "Five dogs have weights of 4kg, 5kg, 6kg, 7kg, and 8kg. What is their mean weight?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6kg",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9793,
+        "question_text": "What is the mean of 11 and 19?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9794,
+        "question_text": "Calculate the mean of 4, 8, and 15.",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9795,
+        "question_text": "Three friends saved £5, £10, and £15. What was the mean amount they saved?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "£10",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9796,
+        "question_text": "Find the mean of 2, 4, 6, and 8.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9797,
+        "question_text": "What is the mean of 13 and 17?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9798,
+        "question_text": "The heights of three flowers are 10cm, 12cm, and 14cm. What is their mean height?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9799,
+        "question_text": "Calculate the mean of 3, 5, 7, and 9.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9800,
+        "question_text": "What is the mean average of 22 and 28?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9801,
+        "question_text": "A pupil's scores in three tests were 6, 7, and 8. What is their mean score?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9802,
+        "question_text": "Find the mean of 9, 10, and 11.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9803,
+        "question_text": "What is the mean of the numbers 8 and 9?",
+        "answer_type": "text_input",
+        "correct_answer": "8.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9804,
+        "question_text": "Calculate the mean of 1, 2, and 4.",
+        "answer_type": "text_input",
+        "correct_answer": "2.33",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9805,
+        "question_text": "The weekly rainfall was 5mm, 0mm, 7mm, 2mm, 1mm, 8mm, and 5mm. What was the mean daily rainfall?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4mm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9806,
+        "question_text": "Find the mean of the set of numbers: 10, 12, 14, 16.",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9807,
+        "question_text": "What is the mean of 10 and 15?",
+        "answer_type": "text_input",
+        "correct_answer": "12.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9808,
+        "question_text": "Four children weigh 20kg, 22kg, 23kg, and 25kg. What is their mean weight?",
+        "answer_type": "text_input",
+        "correct_answer": "22.5",
+        "alternative_answer_1": "22.5kg",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9809,
+        "question_text": "Calculate the mean of 5, 8, and 10.",
+        "answer_type": "text_input",
+        "correct_answer": "7.67",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9810,
+        "question_text": "A cricketer scores 10, 0, and 20 runs in three innings. What is their mean score?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9811,
+        "question_text": "Find the mean of the numbers 6 and 7.",
+        "answer_type": "text_input",
+        "correct_answer": "6.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9812,
+        "question_text": "What is the mean of 1, 1, 1, and 5?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9813,
+        "question_text": "The lunch costs for three days were £3, £4, and £6. What was the mean cost?",
+        "answer_type": "text_input",
+        "correct_answer": "4.33",
+        "alternative_answer_1": "£4.33",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9814,
+        "question_text": "Calculate the mean of 20, 30, and 40.",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9815,
+        "question_text": "Find the mean of 2 and 5.",
+        "answer_type": "text_input",
+        "correct_answer": "3.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9816,
+        "question_text": "The number of goals scored in 5 matches was 2, 0, 3, 1, 4. What was the mean number of goals per match?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9817,
+        "question_text": "What is the mean of 15 and 16?",
+        "answer_type": "text_input",
+        "correct_answer": "15.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9818,
+        "question_text": "Calculate the mean of 8, 10, and 11.",
+        "answer_type": "text_input",
+        "correct_answer": "9.67",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9819,
+        "question_text": "Find the mean of 100 and 150.",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9820,
+        "question_text": "The daily temperatures for 4 days were 10, 12, 11, and 13 degrees. What was the mean temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "11.5",
+        "alternative_answer_1": "11.5 degrees",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9821,
+        "question_text": "What is the mean of 5, 5, 5, and 25?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9822,
+        "question_text": "Calculate the mean of 1 and 4.",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9823,
+        "question_text": "Find the mean of 20, 21, and 22.",
+        "answer_type": "text_input",
+        "correct_answer": "21",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9824,
+        "question_text": "The journey times to school for 5 pupils were 10, 12, 15, 8, and 10 minutes. What was the mean journey time?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "11 minutes",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9825,
+        "question_text": "What is the mean of 50 and 60?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9826,
+        "question_text": "Calculate the mean of 1, 2, 3, 4, 5, 6, 7.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9827,
+        "question_text": "The heights of two brothers are 1.4m and 1.5m. What is their mean height?",
+        "answer_type": "text_input",
+        "correct_answer": "1.45",
+        "alternative_answer_1": "1.45m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9828,
+        "question_text": "The mean of three numbers is 10. Two of the numbers are 8 and 12. What is the third number?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9829,
+        "question_text": "A basketball player has a mean score of 20 points over 2 games. In the first game, they scored 15 points. How many points did they score in the second game?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9830,
+        "question_text": "The mean of four numbers is 6. What is their sum?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9831,
+        "question_text": "The temperatures for a week had a mean of 15°C. What was the total of all the temperatures for the week?",
+        "answer_type": "text_input",
+        "correct_answer": "105",
+        "alternative_answer_1": "105°C",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9832,
+        "question_text": "The mean of two numbers is 8.5. One of the numbers is 7. What is the other number?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9833,
+        "question_text": "A family of 4 has a mean age of 20. What is the sum of their ages?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9834,
+        "question_text": "The mean of 5, 10, and another number is 8. What is the other number?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9835,
+        "question_text": "A team's mean score over 3 matches is 2. In the first two matches, they scored 1 goal and 3 goals. How many goals did they score in the third match?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9836,
+        "question_text": "The mean of four numbers is 10. Three of the numbers are 5, 10, and 15. What is the fourth number?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9837,
+        "question_text": "The mean height of two children is 1.2m. One child is 1m tall. How tall is the other child?",
+        "answer_type": "text_input",
+        "correct_answer": "1.4",
+        "alternative_answer_1": "1.4m",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9838,
+        "question_text": "A set of 5 numbers has a mean of 7. What is the sum of these numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9839,
+        "question_text": "The mean of two numbers is 7. One number is twice as big as the other. What are the two numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "4.67 and 9.33",
+        "alternative_answer_1": "14/3 and 28/3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9840,
+        "question_text": "The mean of a boy's savings over 4 weeks is £5. For the first three weeks, he saved £4, £6, and £5. How much did he save in the fourth week?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "£5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9841,
+        "question_text": "The mean of two numbers is 12. What is their sum?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9842,
+        "question_text": "A class of 10 pupils has a mean test score of 8. What was the total score for the whole class?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9843,
+        "question_text": "The mean of 10, 20, and a third number is 15. Find the third number.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9844,
+        "question_text": "The mean number of pets for 3 friends is 2. One friend has 1 pet, another has 3 pets. How many pets does the third friend have?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9845,
+        "question_text": "If the mean of 5 numbers is 20, what is their total?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9846,
+        "question_text": "The mean of two numbers is 9. One number is 4. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9847,
+        "question_text": "A car's mean travel time over 3 journeys is 40 minutes. The first two journeys were 30 and 50 minutes. How long was the third journey?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40 minutes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9848,
+        "question_text": "The mean of 100, 200, and a third number is 150. What is the third number?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9849,
+        "question_text": "The mean of three numbers is 7. Their sum must be what number?",
+        "answer_type": "text_input",
+        "correct_answer": "21",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9850,
+        "question_text": "A set of data is 5, 8, 12, and x. Its mean is 9. What is the value of x?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9851,
+        "question_text": "The mean weight of 3 bags is 6kg. One bag weighs 5kg and another weighs 7kg. What is the weight of the third bag?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6kg",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    },
+    {
+        "question_id": 9852,
+        "question_text": "The mean of 4, 6, and x is 5. What is x?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 372
+    }
+]

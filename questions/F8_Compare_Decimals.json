@@ -1,0 +1,3002 @@
+[
+    {
+        "question_id": 9151,
+        "question_text": "Which number is larger: 2.5 or 2.1?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9152,
+        "question_text": "Which number is smaller: 7.8 or 7.9?",
+        "answer_type": "text_input",
+        "correct_answer": "7.8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9153,
+        "question_text": "Use <, > or = to compare: 3.4 __ 3.6",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9154,
+        "question_text": "Use <, > or = to compare: 8.2 __ 8.1",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9155,
+        "question_text": "Which is greater: 0.7 or 0.3?",
+        "answer_type": "text_input",
+        "correct_answer": "0.7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9156,
+        "question_text": "Which is less: 5.6 or 5.2?",
+        "answer_type": "text_input",
+        "correct_answer": "5.2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9157,
+        "question_text": "Use the correct symbol (<, >, =): 9.5 __ 9.5",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9158,
+        "question_text": "Is 4.3 bigger or smaller than 4.8?",
+        "answer_type": "text_input",
+        "correct_answer": "smaller",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9159,
+        "question_text": "Is 6.7 larger or smaller than 6.1?",
+        "answer_type": "text_input",
+        "correct_answer": "larger",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9160,
+        "question_text": "Which number is greater: 1.9 or 1.2?",
+        "answer_type": "text_input",
+        "correct_answer": "1.9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9161,
+        "question_text": "Which number is smaller: 0.4 or 0.8?",
+        "answer_type": "text_input",
+        "correct_answer": "0.4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9162,
+        "question_text": "Use <, > or = to compare: 5.0 __ 5.1",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9163,
+        "question_text": "Use <, > or = to compare: 2.8 __ 2.8",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9164,
+        "question_text": "Which is more: 9.9 or 9.0?",
+        "answer_type": "text_input",
+        "correct_answer": "9.9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9165,
+        "question_text": "Which is less: 3.1 or 3.2?",
+        "answer_type": "text_input",
+        "correct_answer": "3.1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9166,
+        "question_text": "Compare 4.5 and 4.4. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "4.5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9167,
+        "question_text": "Compare 8.6 and 8.7. Which is smaller?",
+        "answer_type": "text_input",
+        "correct_answer": "8.6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9168,
+        "question_text": "Insert <, > or = : 1.1 __ 1.0",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9169,
+        "question_text": "Insert <, > or = : 7.2 __ 7.3",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9170,
+        "question_text": "Which number has a greater value: 6.2 or 6.5?",
+        "answer_type": "text_input",
+        "correct_answer": "6.5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9171,
+        "question_text": "Which number has a smaller value: 9.8 or 9.6?",
+        "answer_type": "text_input",
+        "correct_answer": "9.6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9172,
+        "question_text": "Use a symbol (<, >, =) to make this true: 5.7 __ 5.3",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9173,
+        "question_text": "Use a symbol (<, >, =) to make this true: 0.2 __ 0.9",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9174,
+        "question_text": "Which is heavier: a book weighing 1.2 kg or a book weighing 1.4 kg?",
+        "answer_type": "text_input",
+        "correct_answer": "1.4 kg",
+        "alternative_answer_1": "the second book",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9175,
+        "question_text": "Which is shorter: a ribbon of 3.5 metres or a ribbon of 3.8 metres?",
+        "answer_type": "text_input",
+        "correct_answer": "3.5 metres",
+        "alternative_answer_1": "the first ribbon",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9176,
+        "question_text": "Which number is larger: 4.25 or 4.21?",
+        "answer_type": "text_input",
+        "correct_answer": "4.25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9177,
+        "question_text": "Which number is smaller: 8.76 or 8.79?",
+        "answer_type": "text_input",
+        "correct_answer": "8.76",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9178,
+        "question_text": "Use <, > or = to compare: 5.45 __ 5.54",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9179,
+        "question_text": "Use <, > or = to compare: 9.80 __ 9.8",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9180,
+        "question_text": "Which is more money: £0.50 or £0.05?",
+        "answer_type": "text_input",
+        "correct_answer": "£0.50",
+        "alternative_answer_1": "0.5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9181,
+        "question_text": "Which is less: 6.08 or 6.80?",
+        "answer_type": "text_input",
+        "correct_answer": "6.08",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9182,
+        "question_text": "Use the correct symbol (<, >, =): 7.12 __ 7.21",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9183,
+        "question_text": "Is 2.55 bigger or smaller than 2.50?",
+        "answer_type": "text_input",
+        "correct_answer": "bigger",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9184,
+        "question_text": "Which is larger: 1.09 or 1.90?",
+        "answer_type": "text_input",
+        "correct_answer": "1.9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9185,
+        "question_text": "Which number is greater: 3.4 or 3.39?",
+        "answer_type": "text_input",
+        "correct_answer": "3.4",
+        "alternative_answer_1": "3.4",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9186,
+        "question_text": "Which number is smaller: 0.7 or 0.71?",
+        "answer_type": "text_input",
+        "correct_answer": "0.7",
+        "alternative_answer_1": "0.7",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9187,
+        "question_text": "Use <, > or = to compare: 4.6 __ 4.60",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9188,
+        "question_text": "Which costs more: an apple for £0.45 or an orange for £0.50?",
+        "answer_type": "text_input",
+        "correct_answer": "the orange",
+        "alternative_answer_1": "£0.50",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9189,
+        "question_text": "Use <, > or = to compare: 8.99 __ 9.01",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9190,
+        "question_text": "Which is less: 5.15 or 5.51?",
+        "answer_type": "text_input",
+        "correct_answer": "5.15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9191,
+        "question_text": "Compare 2.03 and 2.30. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "2.3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9192,
+        "question_text": "Compare 1.45 and 1.46. Which is smaller?",
+        "answer_type": "text_input",
+        "correct_answer": "1.45",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9193,
+        "question_text": "Insert <, > or = : 7.5 __ 7.49",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9194,
+        "question_text": "Insert <, > or = : 0.08 __ 0.80",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9195,
+        "question_text": "Which price is higher: £3.75 or £3.57?",
+        "answer_type": "text_input",
+        "correct_answer": "£3.75",
+        "alternative_answer_1": "3.75",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9196,
+        "question_text": "Which value is smaller: 9.9 or 9.91?",
+        "answer_type": "text_input",
+        "correct_answer": "9.9",
+        "alternative_answer_1": "9.9",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9197,
+        "question_text": "Use a symbol (<, >, =) to make this true: 6.43 __ 6.34",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9198,
+        "question_text": "Which is cheaper: £1.20 or £1.02?",
+        "answer_type": "text_input",
+        "correct_answer": "£1.02",
+        "alternative_answer_1": "1.02",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9199,
+        "question_text": "Use <, > or = : 5.09 __ 5.90",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9200,
+        "question_text": "Is 0.25m longer or shorter than 0.52m?",
+        "answer_type": "text_input",
+        "correct_answer": "shorter",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9201,
+        "question_text": "Order these numbers from smallest to largest: 15.6, 16.5, 15.4",
+        "answer_type": "text_input",
+        "correct_answer": "15.4, 15.6, 16.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9202,
+        "question_text": "Order these weights from heaviest to lightest: 12.05 kg, 12.50 kg, 12.15 kg",
+        "answer_type": "text_input",
+        "correct_answer": "12.50 kg, 12.15 kg, 12.05 kg",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9203,
+        "question_text": "Find a number with two decimal places that is between 24.5 and 24.6.",
+        "answer_type": "text_input",
+        "correct_answer": "24.51",
+        "alternative_answer_1": "24.55",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9204,
+        "question_text": "Which is the longest length: 45.6m, 46.5m, or 45.4m?",
+        "answer_type": "text_input",
+        "correct_answer": "46.5m",
+        "alternative_answer_1": "46.5",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9205,
+        "question_text": "Put these in ascending order: 88.8, 8.88, 88.08",
+        "answer_type": "text_input",
+        "correct_answer": "8.88, 88.08, 88.8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9206,
+        "question_text": "A weight is more than 33.4 kg but less than 33.45 kg. What could the weight be?",
+        "answer_type": "text_input",
+        "correct_answer": "33.41",
+        "alternative_answer_1": "33.42",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9207,
+        "question_text": "Use <, > or = to compare: 50.01 __ 50.10",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9208,
+        "question_text": "Order these from smallest to largest: 9.99, 10.01, 10.10",
+        "answer_type": "text_input",
+        "correct_answer": "9.99, 10.01, 10.10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9209,
+        "question_text": "Which runner was fastest (had the smallest time)? Runner A: 12.34s, Runner B: 12.43s, Runner C: 12.30s",
+        "answer_type": "text_input",
+        "correct_answer": "Runner C",
+        "alternative_answer_1": "12.30s",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9210,
+        "question_text": "Find a number that is greater than 75.9 but smaller than 76.",
+        "answer_type": "text_input",
+        "correct_answer": "75.91",
+        "alternative_answer_1": "75.95",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9211,
+        "question_text": "Order these decimals: 40.04, 4.40, 40.40",
+        "answer_type": "text_input",
+        "correct_answer": "4.40, 40.04, 40.40",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9212,
+        "question_text": "Which is the smallest value: 67.8, 68.7, 67.7",
+        "answer_type": "text_input",
+        "correct_answer": "67.7",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9213,
+        "question_text": "Put these in descending order: 21.12, 21.21, 22.11",
+        "answer_type": "text_input",
+        "correct_answer": "22.11, 21.21, 21.12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9214,
+        "question_text": "A plant was 15.2 cm tall. A week later it was 15.25 cm tall. Has it grown?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9215,
+        "question_text": "Which is heavier: 99.9 kg or 99.09 kg?",
+        "answer_type": "text_input",
+        "correct_answer": "99.9 kg",
+        "alternative_answer_1": "99.9",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9216,
+        "question_text": "Order these numbers: 5.5, 5.05, 5.55",
+        "answer_type": "text_input",
+        "correct_answer": "5.05, 5.5, 5.55",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9217,
+        "question_text": "Find a number with one decimal place between 30.1 and 30.3",
+        "answer_type": "text_input",
+        "correct_answer": "30.2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9218,
+        "question_text": "Which is the largest number: 78.87, 78.78, 77.88?",
+        "answer_type": "text_input",
+        "correct_answer": "78.87",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9219,
+        "question_text": "Use <, > or = : 14.2 __ 14.20",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9220,
+        "question_text": "Order these amounts of money from least to most: £18.80, £18.08, £18.81",
+        "answer_type": "text_input",
+        "correct_answer": "£18.08, £18.80, £18.81",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9221,
+        "question_text": "Which is the middle value when these are ordered? 25.1, 21.5, 25.0",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9222,
+        "question_text": "A bag of sugar weighs 1.5 kg. A bag of flour weighs 1.55 kg. Which is lighter?",
+        "answer_type": "text_input",
+        "correct_answer": "the sugar",
+        "alternative_answer_1": "1.5 kg",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9223,
+        "question_text": "What number with two decimal places comes just before 40?",
+        "answer_type": "text_input",
+        "correct_answer": "39.99",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9224,
+        "question_text": "Order from smallest to largest: 6.07, 6.70, 7.06",
+        "answer_type": "text_input",
+        "correct_answer": "6.07, 6.70, 7.06",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9225,
+        "question_text": "Which is the smallest: 90.9, 9.09, 99.0?",
+        "answer_type": "text_input",
+        "correct_answer": "9.09",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9226,
+        "question_text": "Order these five numbers from smallest to largest: 121.1, 121.01, 112.1, 121.11, 112.11",
+        "answer_type": "text_input",
+        "correct_answer": "112.1, 112.11, 121.01, 121.1, 121.11",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9227,
+        "question_text": "Which is greater: 150.5 + 0.05 or 150.6 - 0.1?",
+        "answer_type": "text_input",
+        "correct_answer": "150.5 + 0.05",
+        "alternative_answer_1": "the first one",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9228,
+        "question_text": "Find the error in this ordered list: 45.4, 45.44, 45.05, 45.5",
+        "answer_type": "text_input",
+        "correct_answer": "45.05",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9229,
+        "question_text": "List all the whole numbers between 299.9 and 302.1",
+        "answer_type": "text_input",
+        "correct_answer": "300, 301, 302",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9230,
+        "question_text": "What is the largest number you can make using the digits 7, 1, 8, and a decimal point, with two decimal places?",
+        "answer_type": "text_input",
+        "correct_answer": "8.71",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9231,
+        "question_text": "Which is smaller: 500 - 0.01 or 499 + 0.9?",
+        "answer_type": "text_input",
+        "correct_answer": "499 + 0.9",
+        "alternative_answer_1": "the second one",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9232,
+        "question_text": "Order these results from smallest to largest: 10.5+0.5, 12.1-1, 11.2+0.02",
+        "answer_type": "text_input",
+        "correct_answer": "11.1, 11.22, 11.0",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9233,
+        "question_text": "Order these results from smallest to largest: 10.5+0.5, 12.1-1.0, 11.0+0.22",
+        "answer_type": "text_input",
+        "correct_answer": "10.5+0.5, 12.1-1.0, 11.0+0.22",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9234,
+        "question_text": "Find the largest value: 345.01, 345.10, 354.01, 345.11",
+        "answer_type": "text_input",
+        "correct_answer": "354.01",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9235,
+        "question_text": "Put these runners' times in order from fastest to slowest: 25.5s, 24.95s, 25.05s, 25s, 24.9s",
+        "answer_type": "text_input",
+        "correct_answer": "24.9s, 24.95s, 25s, 25.05s, 25.5s",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9236,
+        "question_text": "A number has two decimal places. It is greater than 19.9 but less than 20. The sum of its digits is 21. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "19.92",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9237,
+        "question_text": "Which is closer to 500: 499.95 or 500.04?",
+        "answer_type": "text_input",
+        "correct_answer": "500.04",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9238,
+        "question_text": "Identify the mistake in this sequence: 10.01, 10.1, 10.11, 11.0, 11.1",
+        "answer_type": "text_input",
+        "correct_answer": "There is no mistake",
+        "alternative_answer_1": "No mistake",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9239,
+        "question_text": "Four parcels weigh 1.2kg, 1.22kg, 1.02kg and 1.21kg. What is the weight of the second heaviest parcel?",
+        "answer_type": "text_input",
+        "correct_answer": "1.21kg",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9240,
+        "question_text": "Which is smaller: half of 50.4 or one third of 75.3?",
+        "answer_type": "text_input",
+        "correct_answer": "one third of 75.3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9241,
+        "question_text": "What is the smallest number you can make with the digits 0, 9, 2 and a decimal point, with two decimal places?",
+        "answer_type": "text_input",
+        "correct_answer": "0.29",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9242,
+        "question_text": "Find the middle value when these are placed in order: 99.9, 9.99, 100, 99.09, 99.99",
+        "answer_type": "text_input",
+        "correct_answer": "99.9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9243,
+        "question_text": "Which number is the outlier (furthest from the others) in this set: 5.1, 5.11, 5.09, 5.91?",
+        "answer_type": "text_input",
+        "correct_answer": "5.91",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9244,
+        "question_text": "A temperature is recorded as 21.5 C. The next hour it is 21.45 C. Has it got warmer or cooler?",
+        "answer_type": "text_input",
+        "correct_answer": "cooler",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9245,
+        "question_text": "Order these lengths from shortest to longest: 1.01m, 1.1m, 100cm, 111cm",
+        "answer_type": "text_input",
+        "correct_answer": "100cm, 1.01m, 1.1m, 111cm",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9246,
+        "question_text": "Which is larger: 20.2 - 0.02 or 20 + 0.19?",
+        "answer_type": "text_input",
+        "correct_answer": "20 + 0.19",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9247,
+        "question_text": "Find a number with two decimal places between 145.8 and 145.85",
+        "answer_type": "text_input",
+        "correct_answer": "145.81",
+        "alternative_answer_1": "145.82",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9248,
+        "question_text": "What is the largest of these five amounts? £500.05, £500.50, £50.50, £505.00, £5.55",
+        "answer_type": "text_input",
+        "correct_answer": "£505.00",
+        "alternative_answer_1": "505",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9249,
+        "question_text": "I have two lengths of wood, 1.75m and 1.8m. I need the longer one. Which do I choose?",
+        "answer_type": "text_input",
+        "correct_answer": "1.8m",
+        "alternative_answer_1": "1.8",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9250,
+        "question_text": "Which is the correct order for these numbers? A) 7.7, 7.07, 7.77 B) 7.07, 7.7, 7.77 C) 7.7, 7.77, 7.07",
+        "answer_type": "text_input",
+        "correct_answer": "B",
+        "alternative_answer_1": "b",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 139
+    },
+    {
+        "question_id": 9953,
+        "question_text": "Write the number twenty-three and forty-five hundredths in digits.",
+        "answer_type": "text_input",
+        "correct_answer": "23.45",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9954,
+        "question_text": "In the number 14.72, what is the value of the digit 7?",
+        "answer_type": "text_input",
+        "correct_answer": "7 tenths",
+        "alternative_answer_1": "0.7",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9955,
+        "question_text": "Which is larger: 56.78 or 56.87?",
+        "answer_type": "text_input",
+        "correct_answer": "56.87",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9956,
+        "question_text": "Order these numbers from smallest to largest: 8.1, 8.01, 8.11.",
+        "answer_type": "text_input",
+        "correct_answer": "8.01, 8.1, 8.11",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9957,
+        "question_text": "In 90.25, what is the value of the digit 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5 hundredths",
+        "alternative_answer_1": "0.05",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9958,
+        "question_text": "Write fifty and six tenths in digits.",
+        "answer_type": "text_input",
+        "correct_answer": "50.6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9959,
+        "question_text": "Use <, > or = to compare: 45.9 __ 45.09",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9960,
+        "question_text": "Which is smaller: 77.7 or 77.77?",
+        "answer_type": "text_input",
+        "correct_answer": "77.7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9961,
+        "question_text": "Order these from largest to smallest: 3.14, 3.41, 3.04.",
+        "answer_type": "text_input",
+        "correct_answer": "3.41, 3.14, 3.04",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9962,
+        "question_text": "What does the digit 2 represent in the number 16.82?",
+        "answer_type": "text_input",
+        "correct_answer": "2 hundredths",
+        "alternative_answer_1": "0.02",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9963,
+        "question_text": "Write 9.19 in words.",
+        "answer_type": "text_input",
+        "correct_answer": "nine and nineteen hundredths",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9964,
+        "question_text": "Which number is greater: 60.6 or 60.06?",
+        "answer_type": "text_input",
+        "correct_answer": "60.6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9965,
+        "question_text": "Order these: 11.1, 1.11, 11.01",
+        "answer_type": "text_input",
+        "correct_answer": "1.11, 11.01, 11.1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9966,
+        "question_text": "In 8.41, what is the value of the 4?",
+        "answer_type": "text_input",
+        "correct_answer": "4 tenths",
+        "alternative_answer_1": "0.4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9967,
+        "question_text": "Write one and one hundredth as a decimal number.",
+        "answer_type": "text_input",
+        "correct_answer": "1.01",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9968,
+        "question_text": "Use <, > or = : 99.9 __ 99.90",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9969,
+        "question_text": "Which is smaller: 12.34 or 12.43?",
+        "answer_type": "text_input",
+        "correct_answer": "12.34",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9970,
+        "question_text": "Order from least to greatest: 7.5, 7.45, 7.54",
+        "answer_type": "text_input",
+        "correct_answer": "7.45, 7.5, 7.54",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9971,
+        "question_text": "In 0.82, what value does the 8 hold?",
+        "answer_type": "text_input",
+        "correct_answer": "8 tenths",
+        "alternative_answer_1": "0.8",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9972,
+        "question_text": "Write the number 42.07 in words.",
+        "answer_type": "text_input",
+        "correct_answer": "forty-two and seven hundredths",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9973,
+        "question_text": "Which is larger: 29.1 or 21.9?",
+        "answer_type": "text_input",
+        "correct_answer": "29.1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9974,
+        "question_text": "Order these money amounts from smallest to largest: £1.10, £1.01, £1.11",
+        "answer_type": "text_input",
+        "correct_answer": "£1.01, £1.10, £1.11",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9975,
+        "question_text": "What is the value of the digit 9 in 19.52?",
+        "answer_type": "text_input",
+        "correct_answer": "9 units",
+        "alternative_answer_1": "9",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9976,
+        "question_text": "Write sixty-eight and two tenths as a number.",
+        "answer_type": "text_input",
+        "correct_answer": "68.2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9977,
+        "question_text": "Which number is smaller: 30.03 or 30.30?",
+        "answer_type": "text_input",
+        "correct_answer": "30.03",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9978,
+        "question_text": "Write the number seven and one hundred twenty-five thousandths in digits.",
+        "answer_type": "text_input",
+        "correct_answer": "7.125",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9979,
+        "question_text": "In the number 9.875, what is the value of the digit 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5 thousandths",
+        "alternative_answer_1": "0.005",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9980,
+        "question_text": "Which is smaller: 4.567 or 4.576?",
+        "answer_type": "text_input",
+        "correct_answer": "4.567",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9981,
+        "question_text": "Order these numbers: 1.1, 1.101, 1.011",
+        "answer_type": "text_input",
+        "correct_answer": "1.011, 1.1, 1.101",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9982,
+        "question_text": "What does the digit 2 represent in 0.329?",
+        "answer_type": "text_input",
+        "correct_answer": "2 hundredths",
+        "alternative_answer_1": "0.02",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9983,
+        "question_text": "Write 6.008 in words.",
+        "answer_type": "text_input",
+        "correct_answer": "six and eight thousandths",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9984,
+        "question_text": "Use <, > or = to compare: 8.45 __ 8.451",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9985,
+        "question_text": "Which is larger: 3.1 or 3.099?",
+        "answer_type": "text_input",
+        "correct_answer": "3.1",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9986,
+        "question_text": "A measurement is 0.125 kg. What is the value of the 1 in this measurement?",
+        "answer_type": "text_input",
+        "correct_answer": "1 tenth",
+        "alternative_answer_1": "0.1",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9987,
+        "question_text": "Order from smallest to largest: 5.8, 5.08, 5.808",
+        "answer_type": "text_input",
+        "correct_answer": "5.08, 5.8, 5.808",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9988,
+        "question_text": "Write two and thirty-four thousandths as a decimal number.",
+        "answer_type": "text_input",
+        "correct_answer": "2.034",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9989,
+        "question_text": "What is the missing digit? 4.5_7 > 4.588",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9990,
+        "question_text": "Which is smaller: 9.09 or 9.091?",
+        "answer_type": "text_input",
+        "correct_answer": "9.09",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9991,
+        "question_text": "In the number 1.234, which digit has the smallest value?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9992,
+        "question_text": "Order these: 6.7, 6.77, 6.077",
+        "answer_type": "text_input",
+        "correct_answer": "6.077, 6.7, 6.77",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9993,
+        "question_text": "Write the number 0.501 in words.",
+        "answer_type": "text_input",
+        "correct_answer": "five hundred one thousandths",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9994,
+        "question_text": "Use <, > or = : 2.1 __ 2.099",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9995,
+        "question_text": "Which number is larger: 8.88 or 8.808?",
+        "answer_type": "text_input",
+        "correct_answer": "8.88",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9996,
+        "question_text": "A piece of wire is 0.125 m long. What does the 5 represent in this length?",
+        "answer_type": "text_input",
+        "correct_answer": "5 thousandths",
+        "alternative_answer_1": "0.005",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9997,
+        "question_text": "Order from largest to smallest: 4.4, 4.39, 4.41",
+        "answer_type": "text_input",
+        "correct_answer": "4.41, 4.4, 4.39",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9998,
+        "question_text": "Fill the blank with a digit to make this true: 7.1_2 < 7.111",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 9999,
+        "question_text": "Write five and five thousandths in digits.",
+        "answer_type": "text_input",
+        "correct_answer": "5.005",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10000,
+        "question_text": "What is the value of the 6 in 3.605?",
+        "answer_type": "text_input",
+        "correct_answer": "6 tenths",
+        "alternative_answer_1": "0.6",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10001,
+        "question_text": "Which is shorter: 0.8 m or 0.088 m?",
+        "answer_type": "text_input",
+        "correct_answer": "0.088 m",
+        "alternative_answer_1": "0.088",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10002,
+        "question_text": "Order smallest to largest: 2.345, 2.4, 2.34",
+        "answer_type": "text_input",
+        "correct_answer": "2.34, 2.345, 2.4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10003,
+        "question_text": "Create a number with three decimal places that is larger than 567.89 but smaller than 567.9.",
+        "answer_type": "text_input",
+        "correct_answer": "567.891",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10004,
+        "question_text": "What is the value of the digit 7 in the number 123.457?",
+        "answer_type": "text_input",
+        "correct_answer": "7 thousandths",
+        "alternative_answer_1": "0.007",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10005,
+        "question_text": "Order this set of numbers from largest to smallest: 909.9, 990.09, 909.09, 990.9",
+        "answer_type": "text_input",
+        "correct_answer": "990.9, 990.09, 909.9, 909.09",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10006,
+        "question_text": "Write a number that has a 5 in the thousandths place and a 2 in the tens place.",
+        "answer_type": "text_input",
+        "correct_answer": "20.005",
+        "alternative_answer_1": "123.455",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10007,
+        "question_text": "The length of an insect is 1.055 cm. A different insect is 1.505 cm. Which is longer?",
+        "answer_type": "text_input",
+        "correct_answer": "1.505 cm",
+        "alternative_answer_1": "1.505",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10008,
+        "question_text": "A scientist measured a chemical as 0.125 grams. Write this amount in words.",
+        "answer_type": "text_input",
+        "correct_answer": "one hundred twenty-five thousandths",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10009,
+        "question_text": "Find a number with two decimal places between 99.99 and 100.",
+        "answer_type": "text_input",
+        "correct_answer": "There is no number",
+        "alternative_answer_1": "impossible",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10010,
+        "question_text": "Find a number with three decimal places between 99.99 and 100.",
+        "answer_type": "text_input",
+        "correct_answer": "99.991",
+        "alternative_answer_1": "99.995",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10011,
+        "question_text": "Order these masses from lightest to heaviest: 0.505 kg, 0.550 kg, 0.055 kg, 0.5 kg",
+        "answer_type": "text_input",
+        "correct_answer": "0.055 kg, 0.5 kg, 0.505 kg, 0.550 kg",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10012,
+        "question_text": "Create a number where the hundredths digit is twice the tenths digit.",
+        "answer_type": "text_input",
+        "correct_answer": "0.12",
+        "alternative_answer_1": "0.24",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10013,
+        "question_text": "Write the number seven hundred one and five hundredths in digits.",
+        "answer_type": "text_input",
+        "correct_answer": "701.05",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10014,
+        "question_text": "What is the largest number you can make using the digits 1, 9, 2, 8 with one decimal place?",
+        "answer_type": "text_input",
+        "correct_answer": "982.1",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10015,
+        "question_text": "What is the smallest number you can make using the digits 1, 9, 2, 8 with two decimal places?",
+        "answer_type": "text_input",
+        "correct_answer": "1.289",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10016,
+        "question_text": "Is 345.678 greater than 354.1? Answer yes or no.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10017,
+        "question_text": "What number is halfway between 8.1 and 8.2?",
+        "answer_type": "text_input",
+        "correct_answer": "8.15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10018,
+        "question_text": "Order from smallest to largest: 202.2, 220.02, 202.02, 22.22",
+        "answer_type": "text_input",
+        "correct_answer": "22.22, 202.02, 202.2, 220.02",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10019,
+        "question_text": "What is the value of the zero in 5.082?",
+        "answer_type": "text_input",
+        "correct_answer": "0 tenths",
+        "alternative_answer_1": "zero tenths",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10020,
+        "question_text": "Create a number where the units digit is 1, the tenths digit is 2, and the thousandths digit is 3.",
+        "answer_type": "text_input",
+        "correct_answer": "1.203",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10021,
+        "question_text": "In the number 987.654, which digit has the greatest value?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10022,
+        "question_text": "Which is the smallest number: 10.001, 10.010, 10.100?",
+        "answer_type": "text_input",
+        "correct_answer": "10.001",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10023,
+        "question_text": "Write a number between 150.1 and 150.11",
+        "answer_type": "text_input",
+        "correct_answer": "150.105",
+        "alternative_answer_1": "150.101",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10024,
+        "question_text": "Which measurement is the most precise: 12m, 12.1m, or 12.11m?",
+        "answer_type": "text_input",
+        "correct_answer": "12.11m",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10025,
+        "question_text": "Order these from greatest to least: 9.09, 9.9, 9.009, 9.909",
+        "answer_type": "text_input",
+        "correct_answer": "9.909, 9.9, 9.09, 9.009",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10026,
+        "question_text": "A machine part must be 2.55 cm. A part that measures 2.545 cm is produced. Is it too big or too small?",
+        "answer_type": "text_input",
+        "correct_answer": "too small",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10027,
+        "question_text": "What is the value of the 5 in 555.555?",
+        "answer_type": "text_input",
+        "correct_answer": "Any of: 500, 50, 5, 0.5, 0.05, 0.005",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10029,
+        "question_text": "Find the result of 12.5 + 0.05 and compare it to 12.506. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "12.506",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10030,
+        "question_text": "The number 45.678 has been written down incorrectly. The tenths and thousandths digits have been swapped. What should the number be?",
+        "answer_type": "text_input",
+        "correct_answer": "45.876",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10031,
+        "question_text": "Create a number with three decimal places that, when multiplied by 10, is greater than 123.4 but less than 123.5.",
+        "answer_type": "text_input",
+        "correct_answer": "12.345",
+        "alternative_answer_1": "12.341",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10032,
+        "question_text": "What is the difference between the largest and smallest numbers you can make with the digits 3, 0, 8, 1 and one decimal place?",
+        "answer_type": "text_input",
+        "correct_answer": "819.9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10033,
+        "question_text": "What is the difference between the largest and smallest 3-digit numbers you can make using 3, 0, 8, with one decimal place?",
+        "answer_type": "text_input",
+        "correct_answer": "52.5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10034,
+        "question_text": "A calculation gives an answer of 25.125. A second calculation gives an answer of 25 + 1/8. Which answer is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "They are equal",
+        "alternative_answer_1": "equal",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10035,
+        "question_text": "I am thinking of a number. It has three decimal places. It is 0.005 more than 10.99. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "10.995",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10036,
+        "question_text": "Order these from smallest to largest: 1/2, 0.505, 5/8, 0.6",
+        "answer_type": "text_input",
+        "correct_answer": "1/2, 0.505, 0.6, 5/8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10037,
+        "question_text": "A runner's time was 45.67 seconds. The timing was found to be 0.025 seconds too slow. What was the correct time?",
+        "answer_type": "text_input",
+        "correct_answer": "45.645",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10038,
+        "question_text": "Which value is the median of this set: 1.1, 1.01, 1.11, 1.101, 1.011?",
+        "answer_type": "text_input",
+        "correct_answer": "1.1",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10039,
+        "question_text": "What number is exactly halfway between 3.45 and 3.46?",
+        "answer_type": "text_input",
+        "correct_answer": "3.455",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10040,
+        "question_text": "Find the sum of 10.1 and 1.01 and subtract it from 12.",
+        "answer_type": "text_input",
+        "correct_answer": "0.89",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10041,
+        "question_text": "A digit is missing from this number: 12.3_5. If the number is less than 12.32, what must the missing digit be?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "1",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10042,
+        "question_text": "I have two numbers, A=100-0.01 and B=99+0.999. Which number is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "B",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10043,
+        "question_text": "Create a number where the tenths digit is the sum of the hundredths and thousandths digits.",
+        "answer_type": "text_input",
+        "correct_answer": "0.523",
+        "alternative_answer_1": "0.954",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10044,
+        "question_text": "Order these from greatest to smallest: 2/3, 0.6, 0.66, 0.667",
+        "answer_type": "text_input",
+        "correct_answer": "0.667, 2/3, 0.66, 0.6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10045,
+        "question_text": "The sum of two numbers is 5. One number is 2.455. What is the other number?",
+        "answer_type": "text_input",
+        "correct_answer": "2.545",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10046,
+        "question_text": "What is the smallest positive number you can make using the digits 4, 0, 1 with three decimal places?",
+        "answer_type": "text_input",
+        "correct_answer": "0.014",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10047,
+        "question_text": "Which is larger, 3/8 or 0.37? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10048,
+        "question_text": "A piece of wood is 10 metres long. I cut off 3.5m and then another 3.55m. Which piece was longer?",
+        "answer_type": "text_input",
+        "correct_answer": "3.55m",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10049,
+        "question_text": "The population of a town is recorded as 899.99 thousand. A neighbouring town is 900.01 thousand. Which town is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "The second town",
+        "alternative_answer_1": "900.01 thousand",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10050,
+        "question_text": "A scientist needs a measurement between 1.005 g and 1.01 g. Which of these is a valid measurement: 1.05g, 1.009g, 1.1g?",
+        "answer_type": "text_input",
+        "correct_answer": "1.009g",
+        "alternative_answer_1": "1.009",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10051,
+        "question_text": "What is the result of 1 - 0.001?",
+        "answer_type": "text_input",
+        "correct_answer": "0.999",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10052,
+        "question_text": "I have 1.5 litres of juice. I drink 1/2 a litre (0.5L). My friend has 1.2 litres and drinks 1/4 a litre (0.25L). Who has more juice left?",
+        "answer_type": "text_input",
+        "correct_answer": "Your friend",
+        "alternative_answer_1": "my friend",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 10053,
+        "question_text": "I have 1.5 litres of juice. I drink 0.5 litres. My friend has 1.2 litres and drinks 0.25 litres. Who has more juice left?",
+        "answer_type": "text_input",
+        "correct_answer": "You",
+        "alternative_answer_1": "I do",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 140
+    },
+    {
+        "question_id": 14459,
+        "question_text": "Which number is greater: 0.5 or 0.7?",
+        "answer_type": "text_input",
+        "correct_answer": "0.7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14460,
+        "question_text": "Which number is smaller: 0.8 or 0.2?",
+        "answer_type": "text_input",
+        "correct_answer": "0.2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14461,
+        "question_text": "Use <, >, or = to compare 3.4 and 3.9.",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14462,
+        "question_text": "Use <, >, or = to compare 5.6 and 5.1.",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14463,
+        "question_text": "Order these numbers from smallest to largest: 0.3, 0.9, 0.1.",
+        "answer_type": "text_input",
+        "correct_answer": "0.1, 0.3, 0.9",
+        "alternative_answer_1": "0.1 0.3 0.9",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14464,
+        "question_text": "Order these numbers from largest to smallest: 8.2, 8.5, 8.1.",
+        "answer_type": "text_input",
+        "correct_answer": "8.5, 8.2, 8.1",
+        "alternative_answer_1": "8.5 8.2 8.1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14465,
+        "question_text": "Which is greater: 1.0 or 0.9?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14466,
+        "question_text": "Which is smaller: 2.1 or 2.0?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14467,
+        "question_text": "Use the correct symbol (<, >, =) for 9.9 __ 9.8.",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14468,
+        "question_text": "Use the correct symbol (<, >, =) for 0.4 __ 0.5.",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14469,
+        "question_text": "Put these in order, starting with the smallest: 4.8, 4.3, 4.6.",
+        "answer_type": "text_input",
+        "correct_answer": "4.3, 4.6, 4.8",
+        "alternative_answer_1": "4.3 4.6 4.8",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14470,
+        "question_text": "Which number is bigger, 6.7 or 6.5?",
+        "answer_type": "text_input",
+        "correct_answer": "6.7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14471,
+        "question_text": "Which number is smaller, 1.9 or 9.1?",
+        "answer_type": "text_input",
+        "correct_answer": "1.9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14472,
+        "question_text": "Is 0.2 greater than 0.1? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14473,
+        "question_text": "Is 7.5 less than 7.4? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14474,
+        "question_text": "Order these from smallest to largest: 0.9, 0.5, 0.7.",
+        "answer_type": "text_input",
+        "correct_answer": "0.5, 0.7, 0.9",
+        "alternative_answer_1": "0.5 0.7 0.9",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14475,
+        "question_text": "Compare 2.3 and 2.3. Use <, >, or =.",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14476,
+        "question_text": "Which is larger: 3.0 or 2.9?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14477,
+        "question_text": "What is the smallest number in this list: 5.1, 5.8, 5.0?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14478,
+        "question_text": "What is the largest number in this list: 9.2, 9.6, 9.4?",
+        "answer_type": "text_input",
+        "correct_answer": "9.6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14479,
+        "question_text": "Use < or > to compare 0.1 and 0.6.",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14480,
+        "question_text": "Use < or > to compare 8.9 and 8.7.",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14481,
+        "question_text": "Order from largest to smallest: 1.1, 1.4, 1.2.",
+        "answer_type": "text_input",
+        "correct_answer": "1.4, 1.2, 1.1",
+        "alternative_answer_1": "1.4 1.2 1.1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14482,
+        "question_text": "Which is smaller: 4.5 or 5.4?",
+        "answer_type": "text_input",
+        "correct_answer": "4.5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14483,
+        "question_text": "Which is greater: 0.0 or 0.1?",
+        "answer_type": "text_input",
+        "correct_answer": "0.1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14484,
+        "question_text": "Which number is greater: 0.25 or 0.45?",
+        "answer_type": "text_input",
+        "correct_answer": "0.45",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14485,
+        "question_text": "Which number is smaller: 0.78 or 0.71?",
+        "answer_type": "text_input",
+        "correct_answer": "0.71",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14486,
+        "question_text": "Use <, >, or = to compare 5.36 and 5.39.",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14487,
+        "question_text": "Use <, >, or = to compare 1.05 and 1.50.",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14488,
+        "question_text": "Order these numbers from smallest to largest: 0.81, 0.18, 0.88.",
+        "answer_type": "text_input",
+        "correct_answer": "0.18, 0.81, 0.88",
+        "alternative_answer_1": "0.18 0.81 0.88",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14489,
+        "question_text": "Order these numbers from largest to smallest: 9.90, 9.09, 9.99.",
+        "answer_type": "text_input",
+        "correct_answer": "9.99, 9.90, 9.09",
+        "alternative_answer_1": "9.99 9.90 9.09",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14490,
+        "question_text": "Which is greater: 3.50 or 3.05?",
+        "answer_type": "text_input",
+        "correct_answer": "3.5",
+        "alternative_answer_1": "3.5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14491,
+        "question_text": "Which is smaller: 7.42 or 7.24?",
+        "answer_type": "text_input",
+        "correct_answer": "7.24",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14492,
+        "question_text": "Use the correct symbol (<, >, =) for 2.11 __ 2.01.",
+        "answer_type": "text_input",
+        "correct_answer": ">",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14493,
+        "question_text": "Use the correct symbol (<, >, =) for 0.67 __ 0.76.",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14494,
+        "question_text": "Put these in order, starting with the smallest: 4.81, 4.18, 4.88.",
+        "answer_type": "text_input",
+        "correct_answer": "4.18, 4.81, 4.88",
+        "alternative_answer_1": "4.18 4.81 4.88",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14495,
+        "question_text": "Which number is bigger, 1.23 or 1.32?",
+        "answer_type": "text_input",
+        "correct_answer": "1.32",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14496,
+        "question_text": "A length is 1.25m. Another is 1.52m. Which is shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "1.25",
+        "alternative_answer_1": "1.25m",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14497,
+        "question_text": "Is 0.55 greater than 0.50? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14498,
+        "question_text": "Is 8.01 less than 8.10? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14499,
+        "question_text": "Order from smallest to largest: 0.51, 0.15, 0.55.",
+        "answer_type": "text_input",
+        "correct_answer": "0.15, 0.51, 0.55",
+        "alternative_answer_1": "0.15 0.51 0.55",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14500,
+        "question_text": "Compare 6.40 and 6.4. Use <, >, or =.",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14501,
+        "question_text": "A bag of sugar weighs 0.75kg. A bag of flour weighs 0.70kg. Which is heavier?",
+        "answer_type": "text_input",
+        "correct_answer": "0.75",
+        "alternative_answer_1": "0.75kg",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14502,
+        "question_text": "What is the smallest number in this list: 2.12, 2.21, 2.11?",
+        "answer_type": "text_input",
+        "correct_answer": "2.11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14503,
+        "question_text": "What is the largest number in this list: 9.87, 9.78, 9.88?",
+        "answer_type": "text_input",
+        "correct_answer": "9.88",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14504,
+        "question_text": "Use < or > to compare 0.01 and 0.10.",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14505,
+        "question_text": "Use < or > to compare 3.45 and 3.54.",
+        "answer_type": "text_input",
+        "correct_answer": "<",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14506,
+        "question_text": "Order from largest to smallest: 1.11, 1.10, 1.01.",
+        "answer_type": "text_input",
+        "correct_answer": "1.11, 1.10, 1.01",
+        "alternative_answer_1": "1.11 1.10 1.01",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14507,
+        "question_text": "Which is smaller: 8.99 or 9.01?",
+        "answer_type": "text_input",
+        "correct_answer": "8.99",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14508,
+        "question_text": "A race time was 9.58 seconds. Another was 9.69 seconds. Which time was faster?",
+        "answer_type": "text_input",
+        "correct_answer": "9.58",
+        "alternative_answer_1": "9.58 seconds",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14509,
+        "question_text": "Which number is larger: 15.89 or 15.9?",
+        "answer_type": "text_input",
+        "correct_answer": "15.9",
+        "alternative_answer_1": "15.9",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14510,
+        "question_text": "Order this list of numbers from smallest to largest: 0.7, 0.77, 0.07.",
+        "answer_type": "text_input",
+        "correct_answer": "0.07, 0.7, 0.77",
+        "alternative_answer_1": "0.07 0.7 0.77",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14511,
+        "question_text": "Find a number that is between 4.5 and 4.6.",
+        "answer_type": "text_input",
+        "correct_answer": "4.55",
+        "alternative_answer_1": "any from 4.51 to 4.59",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14512,
+        "question_text": "Use <, >, or = to compare 23.5 and 23.50.",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14513,
+        "question_text": "What is the largest number in this set: 50.1, 50.01, 51.0?",
+        "answer_type": "text_input",
+        "correct_answer": "51",
+        "alternative_answer_1": "51",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14514,
+        "question_text": "Put these measurements in order from longest to shortest: 1.2m, 1.22m, 1.02m, 1.21m.",
+        "answer_type": "text_input",
+        "correct_answer": "1.22m, 1.21m, 1.2m, 1.02m",
+        "alternative_answer_1": "1.22 1.21 1.2 1.02",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14515,
+        "question_text": "Which is smaller: 10.1 or 10.09?",
+        "answer_type": "text_input",
+        "correct_answer": "10.09",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14516,
+        "question_text": "Find a number with two decimal places that is greater than 8.8 but less than 8.82.",
+        "answer_type": "text_input",
+        "correct_answer": "8.81",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14517,
+        "question_text": "Order these amounts of money from least to most: £0.50, £0.05, £0.55.",
+        "answer_type": "text_input",
+        "correct_answer": "£0.05, £0.50, £0.55",
+        "alternative_answer_1": "0.05 0.50 0.55",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14518,
+        "question_text": "Is 45.99 larger than 46.01?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14519,
+        "question_text": "Which of these numbers is closest to 10? 9.9, 10.01, 9.95.",
+        "answer_type": "text_input",
+        "correct_answer": "10.01",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14520,
+        "question_text": "Complete the sequence: 3.2, 3.4, 3.6, __, 4.0.",
+        "answer_type": "text_input",
+        "correct_answer": "3.8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14521,
+        "question_text": "Write a number that fits the comparison: 5.6 < __ < 5.62.",
+        "answer_type": "text_input",
+        "correct_answer": "5.61",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14522,
+        "question_text": "Order these numbers: 7.5, 7.55, 7.05, 7.51.",
+        "answer_type": "text_input",
+        "correct_answer": "7.05, 7.5, 7.51, 7.55",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14523,
+        "question_text": "Which number is smaller: 99.9 or 100.0?",
+        "answer_type": "text_input",
+        "correct_answer": "99.9",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14524,
+        "question_text": "Find a number between 0.1 and 0.11.",
+        "answer_type": "text_input",
+        "correct_answer": "0.105",
+        "alternative_answer_1": "any from 0.101 to 0.109",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14525,
+        "question_text": "Use <, >, or = to compare 8.4 and 8.40.",
+        "answer_type": "text_input",
+        "correct_answer": "=",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14526,
+        "question_text": "Which weight is heaviest: 2.2kg, 2.02kg, or 2.22kg?",
+        "answer_type": "text_input",
+        "correct_answer": "2.22kg",
+        "alternative_answer_1": "2.22",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14527,
+        "question_text": "Order these from smallest to largest: 1.9, 1.99, 1.09.",
+        "answer_type": "text_input",
+        "correct_answer": "1.09, 1.9, 1.99",
+        "alternative_answer_1": "1.09 1.9 1.99",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14528,
+        "question_text": "What is the largest number you can make using the digits 2, 5, and a decimal point, with two decimal places?",
+        "answer_type": "text_input",
+        "correct_answer": "0.52",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14529,
+        "question_text": "Is 6.08 greater than 6.8?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14530,
+        "question_text": "Complete the sequence: 9.85, 9.90, 9.95, __.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14531,
+        "question_text": "Find a number with two decimal places that is exactly halfway between 3.6 and 3.7.",
+        "answer_type": "text_input",
+        "correct_answer": "3.65",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14532,
+        "question_text": "Order these race times from fastest to slowest: 9.8s, 9.81s, 9.79s.",
+        "answer_type": "text_input",
+        "correct_answer": "9.79s, 9.8s, 9.81s",
+        "alternative_answer_1": "9.79 9.8 9.81",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14533,
+        "question_text": "Which is larger: one and a half (1.5) or one and a quarter (1.25)?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "one and a half",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14534,
+        "question_text": "A calculation gives the answer 5.67. Another gives 5.76. Which result is greater?",
+        "answer_type": "text_input",
+        "correct_answer": "5.76",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14535,
+        "question_text": "Find a number that satisfies these conditions: it is greater than 25.4, less than 25.5, and has two decimal places.",
+        "answer_type": "text_input",
+        "correct_answer": "25.45",
+        "alternative_answer_1": "any from 25.41 to 25.49",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14536,
+        "question_text": "The population of Town A is 0.5 million. The population of Town B is 0.45 million. Which town is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "Town A",
+        "alternative_answer_1": "A",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14537,
+        "question_text": "My bank balance is £567.89. My friend's is £576.98. Who has more money?",
+        "answer_type": "text_input",
+        "correct_answer": "My friend",
+        "alternative_answer_1": "The friend",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14538,
+        "question_text": "Order the following from smallest to largest: 99.9, 100.0, 99.99.",
+        "answer_type": "text_input",
+        "correct_answer": "99.9, 99.99, 100.0",
+        "alternative_answer_1": "99.9 99.99 100.0",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14539,
+        "question_text": "A number is divided by 10, giving 4.5. Another is divided by 100, giving 4.55. Which original number was bigger?",
+        "answer_type": "text_input",
+        "correct_answer": "The second one",
+        "alternative_answer_1": "The one that gave 4.55",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14540,
+        "question_text": "A computer calculated a length as 3.14m. A manual measurement was 3.1m. Which is the more precise measurement?",
+        "answer_type": "text_input",
+        "correct_answer": "3.14m",
+        "alternative_answer_1": "3.14",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14541,
+        "question_text": "Which of these numbers is not like the others? 0.5, 0.50, 0.05, 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "0.05",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14542,
+        "question_text": "A product costs £19.99. Another costs £20.01. What is the difference in price?",
+        "answer_type": "text_input",
+        "correct_answer": "0.02",
+        "alternative_answer_1": "2p",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14543,
+        "question_text": "Find a number that fits the condition: x > 500.05 and x < 500.1.",
+        "answer_type": "text_input",
+        "correct_answer": "500.06",
+        "alternative_answer_1": "any from 500.06 to 500.09",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14544,
+        "question_text": "The result of 100 / 4 is 25. The result of 10 / 0.4 is also 25. Are the results equal?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14545,
+        "question_text": "Order these results of calculations: (5+5.1), (20-9.9), (10*1.1).",
+        "answer_type": "text_input",
+        "correct_answer": "10.1, 10.1, 11",
+        "alternative_answer_1": "The first two are equal and smaller than the third.",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14546,
+        "question_text": "A shop sells cheese for £9.80 per kg. A market sells it for £9.75 per kg. Where is it cheaper?",
+        "answer_type": "text_input",
+        "correct_answer": "The market",
+        "alternative_answer_1": "market",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14547,
+        "question_text": "I am thinking of a number. It has two decimal places. It is between 1.0 and 1.1. The sum of its digits is 9. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "1.08",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14548,
+        "question_text": "A piece of wood is 1.55m long. It is cut into two pieces. One piece is 0.8m. Is the other piece longer or shorter?",
+        "answer_type": "text_input",
+        "correct_answer": "Shorter",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14549,
+        "question_text": "Which is the largest value: 999.9, 999.99, or 999 + 0.98?",
+        "answer_type": "text_input",
+        "correct_answer": "999.99",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14550,
+        "question_text": "Two numbers, A and B, add up to 10. A is 4.8. Is B larger or smaller than A?",
+        "answer_type": "text_input",
+        "correct_answer": "Larger",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14551,
+        "question_text": "A calculation result is 12.34. If this is rounded to one decimal place, it is 12.3. Is the original number larger or smaller than the rounded number?",
+        "answer_type": "text_input",
+        "correct_answer": "Larger",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14552,
+        "question_text": "Which number is closer to 50: 49.95 or 50.06?",
+        "answer_type": "text_input",
+        "correct_answer": "49.95",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14553,
+        "question_text": "Order these lengths from shortest to longest: 10.1cm, 101mm, 1.1m.",
+        "answer_type": "text_input",
+        "correct_answer": "10.1cm, 101mm, 1.1m",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14554,
+        "question_text": "The sum of 3.45 and 4.55 is 8. The sum of 2.9 and 5.1 is also 8. Are the sums equal?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14555,
+        "question_text": "The sum of 3.45 and 4.55 is 8.00. The sum of 2.9 and 5.1 is 8.0. Are the sums equal?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14556,
+        "question_text": "The answer to a maths problem is 9.99. The accepted answer is 10.00. What is the difference between the two?",
+        "answer_type": "text_input",
+        "correct_answer": "0.01",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14557,
+        "question_text": "A swimmer's time is 58.09 seconds. The world record is 57.99 seconds. Is the swimmer's time faster or slower than the record?",
+        "answer_type": "text_input",
+        "correct_answer": "Slower",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    },
+    {
+        "question_id": 14558,
+        "question_text": "Order these values: 100/10, 100/1, 100/100.",
+        "answer_type": "text_input",
+        "correct_answer": "100/100, 100/10, 100/1",
+        "alternative_answer_1": "1, 10, 100",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 385
+    }
+]

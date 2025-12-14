@@ -1,0 +1,6002 @@
+[
+    {
+        "question_id": 6846,
+        "question_text": "What is the improper fraction 3/2 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "1 and 1/2",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6847,
+        "question_text": "Convert the improper fraction 5/4 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/4",
+        "alternative_answer_1": "1 and 1/4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6848,
+        "question_text": "Convert the improper fraction 4/3 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/3",
+        "alternative_answer_1": "1 and 1/3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6849,
+        "question_text": "Write 7/5 as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/5",
+        "alternative_answer_1": "1 and 2/5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6850,
+        "question_text": "Change 6/5 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/5",
+        "alternative_answer_1": "1 and 1/5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6851,
+        "question_text": "What is 5/3 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/3",
+        "alternative_answer_1": "1 and 2/3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6852,
+        "question_text": "If you have 7 quarters, how many whole ones and quarters do you have? (e.g. 1 1/4)",
+        "answer_type": "text_input",
+        "correct_answer": "1 3/4",
+        "alternative_answer_1": "1 and 3/4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6853,
+        "question_text": "The improper fraction is 9/5. What is the mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1 4/5",
+        "alternative_answer_1": "1 and 4/5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6854,
+        "question_text": "Express 5/2 as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/2",
+        "alternative_answer_1": "2 and 1/2",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6855,
+        "question_text": "Express 8/5 as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 3/5",
+        "alternative_answer_1": "1 and 3/5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6856,
+        "question_text": "Turn 9/4 into a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/4",
+        "alternative_answer_1": "2 and 1/4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6857,
+        "question_text": "An improper fraction is 7/3. Write it as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/3",
+        "alternative_answer_1": "2 and 1/3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6858,
+        "question_text": "Convert 11/5 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/5",
+        "alternative_answer_1": "2 and 1/5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6859,
+        "question_text": "Convert 10/4 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/2",
+        "alternative_answer_1": "2 and 2/4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6860,
+        "question_text": "What is the mixed number for 13/5?",
+        "answer_type": "text_input",
+        "correct_answer": "2 3/5",
+        "alternative_answer_1": "2 and 3/5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6861,
+        "question_text": "What is the mixed number for 7/2?",
+        "answer_type": "text_input",
+        "correct_answer": "3 1/2",
+        "alternative_answer_1": "3 and 1/2",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6862,
+        "question_text": "Write 8/3 as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2 2/3",
+        "alternative_answer_1": "2 and 2/3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6863,
+        "question_text": "Write 11/4 as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2 3/4",
+        "alternative_answer_1": "2 and 3/4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6864,
+        "question_text": "Change 9/2 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "4 1/2",
+        "alternative_answer_1": "4 and 1/2",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6865,
+        "question_text": "Convert 15/4 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "3 3/4",
+        "alternative_answer_1": "3 and 3/4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6866,
+        "question_text": "What is 12/5 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "2 2/5",
+        "alternative_answer_1": "2 and 2/5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6867,
+        "question_text": "What is 10/3 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "3 1/3",
+        "alternative_answer_1": "3 and 1/3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6868,
+        "question_text": "Express 16/5 as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "3 1/5",
+        "alternative_answer_1": "3 and 1/5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6869,
+        "question_text": "Turn 17/4 into a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "4 1/4",
+        "alternative_answer_1": "4 and 1/4",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6870,
+        "question_text": "Convert 11/3 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "3 2/3",
+        "alternative_answer_1": "3 and 2/3",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6871,
+        "question_text": "Convert the mixed number 1 1/2 to an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6872,
+        "question_text": "Convert the mixed number 2 1/4 to an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6873,
+        "question_text": "What is 1 2/3 as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6874,
+        "question_text": "Write 3 1/5 as an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "16-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6875,
+        "question_text": "Calculate 3/5 + 4/5 and write the answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/5",
+        "alternative_answer_1": "1 and 2/5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6876,
+        "question_text": "Calculate 7/10 + 5/10 and write the answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  1/5",
+        "alternative_answer_1": "1 and 2/10",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6877,
+        "question_text": "Change the mixed number 2 3/4 to an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "11-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6878,
+        "question_text": "Change the improper fraction 13/10 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  3/10",
+        "alternative_answer_1": "1 and 3/10",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6879,
+        "question_text": "What is 2 1/6 as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "13-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6880,
+        "question_text": "What is 11/8 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1 3/8",
+        "alternative_answer_1": "1 and 3/8",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6881,
+        "question_text": "Calculate 5/8 + 5/8 and write the answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/4",
+        "alternative_answer_1": "1 and 2/8",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6882,
+        "question_text": "Calculate 2/3 + 2/3 and write the answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/3",
+        "alternative_answer_1": "1 and 1/3",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6883,
+        "question_text": "Turn 4 1/2 into an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6884,
+        "question_text": "Turn 17/10 into a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1  7/10",
+        "alternative_answer_1": "1 and 7/10",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6885,
+        "question_text": "What is the sum of 5/6 and 2/6, written as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/6",
+        "alternative_answer_1": "1 and 1/6",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6886,
+        "question_text": "Convert 3 2/5 to an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "17-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6887,
+        "question_text": "Convert 19/8 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2 3/8",
+        "alternative_answer_1": "2 and 3/8",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6888,
+        "question_text": "2/5 + 4/5 = ? Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/5",
+        "alternative_answer_1": "1 and 1/5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6889,
+        "question_text": "8/9 + 3/9 = ? Write your answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/9",
+        "alternative_answer_1": "1 and 2/9",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6890,
+        "question_text": "What is 5 1/4 as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "21-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6891,
+        "question_text": "What is 20/7 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "2 6/7",
+        "alternative_answer_1": "2 and 6/7",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6892,
+        "question_text": "4/7 + 4/7 = ? (as a mixed number)",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/7",
+        "alternative_answer_1": "1 and 1/7",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6893,
+        "question_text": "Convert 2 7/10 to an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "27-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6894,
+        "question_text": "Convert 15/6 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/2",
+        "alternative_answer_1": "2 and 3/6",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6895,
+        "question_text": "What is 3/8 + 6/8 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/8",
+        "alternative_answer_1": "1 and 1/8",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6896,
+        "question_text": "A recipe requires 3/2 cups of flour. Write this amount as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "1 and 1/2",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6897,
+        "question_text": "A plank of wood is 2 3/4 metres long. What is its length as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "11-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6898,
+        "question_text": "Is the statement 13/5 = 2 3/5 correct? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6899,
+        "question_text": "A student converted 17/6 to 2 4/6. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6900,
+        "question_text": "What is 150/100 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1  1/2",
+        "alternative_answer_1": "1 and 50/100",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6901,
+        "question_text": "Convert 4 5/12 to an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "53/12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6902,
+        "question_text": "Convert 35/8 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "4 3/8",
+        "alternative_answer_1": "4 and 3/8",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6903,
+        "question_text": "Calculate 7/9 + 8/9 and write the answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "1 2/3",
+        "alternative_answer_1": "1 and 6/9",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6904,
+        "question_text": "A journey takes 11/4 hours. Write this as a mixed number of hours.",
+        "answer_type": "text_input",
+        "correct_answer": "2 3/4",
+        "alternative_answer_1": "2 and 3/4",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6905,
+        "question_text": "I need 2 1/8 metres of fabric. How would I write this as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "17-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6906,
+        "question_text": "What is wrong with this statement: 11/2 = 5 1/3?",
+        "answer_type": "text_input",
+        "correct_answer": "The denominator is wrong",
+        "alternative_answer_1": "11/2 = 5 1/2",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6907,
+        "question_text": "What is 10 1/10 as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "101/10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6908,
+        "question_text": "Change 25/7 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "3 4/7",
+        "alternative_answer_1": "3 and 4/7",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6909,
+        "question_text": "What is 12/20 + 15/20 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1  7/20",
+        "alternative_answer_1": "1 and 7/20",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6910,
+        "question_text": "A container holds 5 1/2 litres. How many half-litres is that in total?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6911,
+        "question_text": "Convert 100/30 to a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "3  1/3",
+        "alternative_answer_1": "3 and 10/30",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6912,
+        "question_text": "If you have 15 quarter-pieces of apple, how many whole apples do you have?",
+        "answer_type": "text_input",
+        "correct_answer": "3 3/4",
+        "alternative_answer_1": "3 and 3/4",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6913,
+        "question_text": "Which is the correct conversion for 23/10: 2 3/10 or 23 1/10?",
+        "answer_type": "text_input",
+        "correct_answer": "2  3/10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6914,
+        "question_text": "What is 12 1/4 as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "49/4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6915,
+        "question_text": "What is 50/12 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "4  1/6",
+        "alternative_answer_1": "4 and 2/12",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6916,
+        "question_text": "A film is 9/4 hours long. How long is this in hours and fractions of an hour?",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/4",
+        "alternative_answer_1": "2 and 1/4",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6917,
+        "question_text": "Convert 3 7/9 to an improper fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "34/9",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6918,
+        "question_text": "Express 40/11 as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "3  7/11",
+        "alternative_answer_1": "3 and 7/11",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6919,
+        "question_text": "What is 8/15 + 8/15 as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1  1/15",
+        "alternative_answer_1": "1 and 1/15",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6920,
+        "question_text": "A full glass of water is 1. Another glass has 3/5 of a glass. If you pour them together, what is the amount as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "08-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6921,
+        "question_text": "Which is larger: 11/4 or 2 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "11-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6922,
+        "question_text": "A baker uses 7/2 kg of flour from a 4kg bag. How much is left, as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6923,
+        "question_text": "Order these from smallest to largest: 2 1/3, 8/3, 2 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "2 1/3, 2 2/3, 8/3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6924,
+        "question_text": "What must be added to 3/4 to make 7/4? Write your answer as a mixed number if needed.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6925,
+        "question_text": "John ran 5/2 miles and Sarah ran 2 3/4 miles. Who ran further?",
+        "answer_type": "text_input",
+        "correct_answer": "Sarah",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6926,
+        "question_text": "A jug contains 1 1/5 litres of water. 4/5 of a litre is added. What is the total volume as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "10-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6927,
+        "question_text": "Which is smaller: 10/3 or 3 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "3 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6928,
+        "question_text": "I have two planks of wood. One is 9/4 metres long, the other is 2 1/2 metres long. What is the total length as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "4 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6929,
+        "question_text": "A cake recipe needs 3/2 cups of sugar. I only have 1 1/4 cups. How much more do I need, as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6930,
+        "question_text": "What is the value of 15/10 as a mixed number, simplified?",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6931,
+        "question_text": "Arrange in descending order: 3, 13/4, 3 1/2",
+        "answer_type": "text_input",
+        "correct_answer": "3 1/2, 13/4, 3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6932,
+        "question_text": "A container has a capacity of 2 litres. It is 7/5 full. Is this possible?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6933,
+        "question_text": "Find the total of 4/3 and 5/3. Give the answer as a mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6934,
+        "question_text": "Which is greater: 20/6 or 3 1/3?",
+        "answer_type": "text_input",
+        "correct_answer": "They are equal",
+        "alternative_answer_1": "equal",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6935,
+        "question_text": "A movie lasts for 5/2 hours. If it started at 6:00pm, what time will it finish?",
+        "answer_type": "text_input",
+        "correct_answer": "8:30pm",
+        "alternative_answer_1": "08:30",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6936,
+        "question_text": "From a rope that is 10/3 metres long, 1 2/3 metres is cut off. What is the remaining length?",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6937,
+        "question_text": "Which number is halfway between 2 and 11/4?",
+        "answer_type": "text_input",
+        "correct_answer": "2 3/8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6938,
+        "question_text": "A bag of flour weighs 12/5 kg. A bag of sugar weighs 2 1/5 kg. What is the difference in their weights?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6939,
+        "question_text": "What do you need to subtract from 17/5 to get 3?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6940,
+        "question_text": "Find the sum of 1 3/8 and 5/8. Write as a simplified mixed number.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6941,
+        "question_text": "A painter mixes 5/4 litres of white paint with 1/4 litre of blue paint. How much paint is there in total, as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "1 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6942,
+        "question_text": "If you add 2/3 to an unknown number, you get 5/3. What is the unknown number?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6943,
+        "question_text": "Which is the odd one out? 5/2, 2.5, 2 1/2, 3 1/2",
+        "answer_type": "text_input",
+        "correct_answer": "3 1/2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6944,
+        "question_text": "A rectangle has a length of 7/2 cm and a width of 1 1/2 cm. What is its perimeter as a mixed number?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 6945,
+        "question_text": "What is the result of 11/5 + 1 4/5, as an improper fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "20-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 445
+    },
+    {
+        "question_id": 14659,
+        "question_text": "Which fraction is equivalent to 1/2? (1/3, 2/4, 2/5)",
+        "answer_type": "text_input",
+        "correct_answer": "02-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14660,
+        "question_text": "True or False: 1/3 is equivalent to 2/6.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "TRUE",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14661,
+        "question_text": "From a diagram showing a bar split into 4 pieces with 2 shaded, what is the equivalent fraction with a denominator of 2?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14662,
+        "question_text": "Recognise the equivalent fraction for 1/4 from this list: 2/8, 1/8, 3/8.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14663,
+        "question_text": "A circle is split into 6 equal parts. If 3 parts are shaded, what is the equivalent fraction in halves?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14664,
+        "question_text": "Is 1/5 equivalent to 2/10?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14665,
+        "question_text": "Which of these is the same as 1/2? 3/5, 4/8, 5/9",
+        "answer_type": "text_input",
+        "correct_answer": "04-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14666,
+        "question_text": "A diagram shows a rectangle split into 6 parts with 2 parts shaded. This represents 2/6. What is the equivalent fraction in thirds?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14667,
+        "question_text": "From a picture of a pie cut into 8 slices with 4 eaten, what equivalent fraction represents the eaten part?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "02-Apr",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14668,
+        "question_text": "Is 2/2 equivalent to 3/3? (Think about what they both represent)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14669,
+        "question_text": "Identify the equivalent fraction to 1/3 from this list: 2/4, 2/6, 2/8.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14670,
+        "question_text": "A shape is divided into 10 parts, and 5 are shaded. What is this as a fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14671,
+        "question_text": "True or False: 1/4 and 2/6 are equivalent.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "FALSE",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14672,
+        "question_text": "A bar is split into 4 equal sections. If 2 are coloured in, what fraction is coloured in?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "02-Apr",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14673,
+        "question_text": "Which fraction is equal to 1/5? (2/8, 2/10, 2/12)",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14674,
+        "question_text": "If a square is divided into 4 smaller squares and 2 are shaded, what fraction is shaded?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "02-Apr",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14675,
+        "question_text": "Recognise the equivalent fraction for 3/6 from a visual model showing halves.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14676,
+        "question_text": "Is 2/3 equivalent to 4/6?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14677,
+        "question_text": "A pie has 6 slices. You eat 3 slices. What fraction did you eat?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "03-Jun",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14678,
+        "question_text": "Which fraction is the same as 1/4? (3/12, 4/12, 5/12)",
+        "answer_type": "text_input",
+        "correct_answer": "03-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14679,
+        "question_text": "If a diagram shows 2 parts shaded out of 8, what is that fraction in quarters?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14680,
+        "question_text": "True or False: 5/10 is equivalent to 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "TRUE",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14681,
+        "question_text": "A diagram shows a shape split into 6 pieces. How many would need to be shaded to show 1/3?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14682,
+        "question_text": "What is 4/8 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14683,
+        "question_text": "Which of these fractions is equivalent to 1/3? (3/6, 3/9, 3/12)",
+        "answer_type": "text_input",
+        "correct_answer": "03-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14684,
+        "question_text": "Complete the equivalent fraction: 1/2 = ?/8",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14685,
+        "question_text": "Complete the equivalent fraction: 1/3 = 3/?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14686,
+        "question_text": "Show that 1/4 is equivalent to 2/8 by completing the sum: 1 x ? = 2 and 4 x ? = 8.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14687,
+        "question_text": "Find the missing number: 1/5 = ?/10",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14688,
+        "question_text": "Fill in the blank: 2/3 = 4/?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14689,
+        "question_text": "A diagram shows a bar split into 5 pieces, with 2 shaded. If the bar was split into 10 pieces, how many would be shaded to be equivalent?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14690,
+        "question_text": "Which of these fractions is equivalent to 3/4? (6/8, 5/8, 7/8)",
+        "answer_type": "text_input",
+        "correct_answer": "06-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14691,
+        "question_text": "Complete the sentence: 1/3 is equivalent to ?/9.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14692,
+        "question_text": "Find the missing value: 3/5 = 6/?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14693,
+        "question_text": "How would you show that 1/2 is the same as 5/10?",
+        "answer_type": "text_input",
+        "correct_answer": "Multiply top and bottom by 5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14694,
+        "question_text": "Complete the equivalent fraction: 4/5 = 8/?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14695,
+        "question_text": "What is the missing number? 1/4 = ?/12",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14696,
+        "question_text": "A diagram has 10 sections. How many must be shaded to show a fraction equivalent to 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14697,
+        "question_text": "Match the equivalent fractions: 1/3, 1/4, 1/5 with 2/8, 2/10, 2/6.",
+        "answer_type": "text_input",
+        "correct_answer": "1/3=2/6, 1/4=2/8, 1/5=2/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14698,
+        "question_text": "Fill in the blank: 2/4 = ?/8",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14699,
+        "question_text": "Find the missing part: 1/5 = 3/?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14700,
+        "question_text": "To show 1/3 on a diagram with 9 parts, how many parts do you shade?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14701,
+        "question_text": "Complete this pair: 3/4 = ?/12",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14702,
+        "question_text": "Is 2/5 equivalent to 3/10? Answer yes or no.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14703,
+        "question_text": "Show 2/5 is equivalent to 4/10 by completing this: 2 x ? = 4 and 5 x ? = 10",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14704,
+        "question_text": "If a pie is cut into 8 slices, how many slices make a quarter of the pie?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14705,
+        "question_text": "Find the missing number to make the fractions equal: 2/6 = 1/?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14706,
+        "question_text": "What is the equivalent fraction for 4/10 in fifths?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14707,
+        "question_text": "A bar is split into 3 columns. If you shade 1 column, what is the equivalent fraction if the bar was split into 9 squares?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14708,
+        "question_text": "Complete the pair: 2/2 = ?/6",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14709,
+        "question_text": "What is the missing numerator in this sequence of equivalent fractions: 1/4, 2/8, ?/12?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14710,
+        "question_text": "Explain why 3/5 is not equivalent to 6/12.",
+        "answer_type": "text_input",
+        "correct_answer": "The top is x2 but bottom is not",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14711,
+        "question_text": "Find a fraction with a denominator of 12 that is equivalent to 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "08-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14712,
+        "question_text": "Find the missing denominator: 5/6 = 10/?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14713,
+        "question_text": "Which fraction is the odd one out? 1/2, 5/10, 6/12, 4/9",
+        "answer_type": "text_input",
+        "correct_answer": "04-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14714,
+        "question_text": "Complete the pair: 3/7 = ?/14",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14715,
+        "question_text": "Simplify the fraction 8/12 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14716,
+        "question_text": "What is the missing number? 6/10 = ?/5",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14717,
+        "question_text": "Use multiplication to show that 3/4 and 9/12 are equivalent.",
+        "answer_type": "text_input",
+        "correct_answer": "3x3=9, 4x3=12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14718,
+        "question_text": "A pizza is cut into 10 slices. Tom eats 2/5 of the pizza. How many slices did he eat?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14719,
+        "question_text": "Which fraction is not equivalent to the others? 2/3, 4/6, 8/12, 9/12",
+        "answer_type": "text_input",
+        "correct_answer": "09-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14720,
+        "question_text": "Complete the sequence: 1/5, 2/10, 3/15, ?/20",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14721,
+        "question_text": "Simplify the fraction 9/12.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14722,
+        "question_text": "A bag contains 12 sweets. 4 of them are red. What fraction are red, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14723,
+        "question_text": "Fill in the blank: 3/5 = ?/15",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14724,
+        "question_text": "I am equivalent to 1/2. My denominator is 12. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "06-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14725,
+        "question_text": "Find a fraction equivalent to 2/5 with a denominator of 20.",
+        "answer_type": "text_input",
+        "correct_answer": "Aug-20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14726,
+        "question_text": "Simplify 6/9.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14727,
+        "question_text": "A class has 12 children. 8 of them are boys. What fraction are boys, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14728,
+        "question_text": "What is the missing numerator? 2/7 = ?/21",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14729,
+        "question_text": "Simplify 10/12.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14730,
+        "question_text": "I am equivalent to 3/4. My numerator is 9. What is my denominator?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14731,
+        "question_text": "There are 10 cars in a car park. 4 are red. What fraction is red, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14732,
+        "question_text": "Find a fraction equivalent to 1/6 with a numerator of 2.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14733,
+        "question_text": "Simplify the fraction 6/8.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14734,
+        "question_text": "You eat 4/8 of a pizza. Your friend eats 3/6. Who ate more? Explain your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Neither",
+        "alternative_answer_1": "You ate the same",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14735,
+        "question_text": "Create a chain of three equivalent fractions, starting with 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "2/3, 4/6, 6/9",
+        "alternative_answer_1": "2/3, 4/6, 8/12",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14736,
+        "question_text": "Simplify the fraction 12/18 to its lowest terms.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14737,
+        "question_text": "Find two fractions that are equivalent to 4/12.",
+        "answer_type": "text_input",
+        "correct_answer": "1/3, 2/6",
+        "alternative_answer_1": "1/3, 8/24",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14738,
+        "question_text": "A recipe requires 6/8 of a cup of sugar. What is this amount in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14739,
+        "question_text": "Find a fraction equivalent to 1/2 that has a denominator greater than 50.",
+        "answer_type": "text_input",
+        "correct_answer": "50/100",
+        "alternative_answer_1": "30/60",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14740,
+        "question_text": "There are 20 questions on a test. You got 15 correct. What fraction of the test did you get correct, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14741,
+        "question_text": "I am thinking of a fraction equivalent to 2/5. The sum of my numerator and denominator is 21. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "Jun-15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14742,
+        "question_text": "To add 1/4 and 1/6, you need a common denominator. What is the smallest common denominator and what are the two equivalent fractions?",
+        "answer_type": "text_input",
+        "correct_answer": "12, 3/12, 2/12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14743,
+        "question_text": "A class has 18 boys and 12 girls. What fraction of the class are girls, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14744,
+        "question_text": "Fill in the blank to make the statement true: 16/20 = ?/5",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14745,
+        "question_text": "A team won 10 games and lost 5. What fraction of their games did they win, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14746,
+        "question_text": "Find a fraction equivalent to 3/7 with a denominator between 20 and 30.",
+        "answer_type": "text_input",
+        "correct_answer": "Dec-28",
+        "alternative_answer_1": "Sep-21",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14747,
+        "question_text": "What is 15/25 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14748,
+        "question_text": "You have a bag of 100 sweets. 50 are red, 25 are blue. What fraction are red, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14749,
+        "question_text": "A runner completes 8 laps of a 12-lap race. What fraction of the race has she completed, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14750,
+        "question_text": "I am a fraction equivalent to 3/4. My denominator is a multiple of 6. What could I be?",
+        "answer_type": "text_input",
+        "correct_answer": "09-Dec",
+        "alternative_answer_1": "18/24",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14751,
+        "question_text": "Simplify 14/21.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14752,
+        "question_text": "A phone's battery is at 75/100. What is this fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14753,
+        "question_text": "Find a fraction with a numerator of 10 that is equivalent to 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "Oct-15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14754,
+        "question_text": "You walk 500 metres of a 1000 metre journey. What fraction have you walked?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14755,
+        "question_text": "Simplify 18/24.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14756,
+        "question_text": "A car park has 30 spaces. 25 are taken. What fraction of spaces is taken, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14757,
+        "question_text": "To compare 1/3 and 2/5, what equivalent fractions could you use?",
+        "answer_type": "text_input",
+        "correct_answer": "5/15 and 6/15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 14758,
+        "question_text": "A chocolate bar has 12 squares. You eat 9. What fraction have you eaten, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 164
+    },
+    {
+        "question_id": 15259,
+        "question_text": "Which fraction is part of the family of 1/2? (2/3, 3/6, 4/7)",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15260,
+        "question_text": "Complete the sequence of equivalent fractions: 1/4, 2/8, ?/12.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15261,
+        "question_text": "From the list, find the fraction equivalent to 1/3: (2/5, 2/6, 2/7).",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15262,
+        "question_text": "What is the next fraction in this family? 1/2, 2/4, ...",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15263,
+        "question_text": "A diagram shows a bar split into 8 parts, with 4 shaded. This represents 4/8. What is this fraction in the family of halves?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15264,
+        "question_text": "Complete the pair: 1/3 = ?/9.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15265,
+        "question_text": "Which fraction belongs to the family of 1/4? (2/6, 2/8, 2/10)",
+        "answer_type": "text_input",
+        "correct_answer": "02-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15266,
+        "question_text": "What is the missing numerator? 1/2 = 5/?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15267,
+        "question_text": "What is the missing denominator? 1/2 = 5/?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15268,
+        "question_text": "A diagram shows a pie cut into 12 pieces with 3 pieces shaded. What is this fraction in the family of quarters?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15269,
+        "question_text": "Complete the family: 1/3, 2/6, 3/9, ?/12.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15270,
+        "question_text": "Find the fraction from the list that is equivalent to 1/2: (4/9, 5/10, 6/11).",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15271,
+        "question_text": "Which two fractions are from the same family? (1/2, 1/3, 2/6)",
+        "answer_type": "text_input",
+        "correct_answer": "1/3 and 2/6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15272,
+        "question_text": "A shape is split into 10 parts and 5 are shaded. This is 5/10. What family does this fraction belong to?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15273,
+        "question_text": "Find the missing number: 1/4 = 2/?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15274,
+        "question_text": "What is the next fraction in the sequence? 1/4, 2/8, 3/12, ...",
+        "answer_type": "text_input",
+        "correct_answer": "Apr-16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15275,
+        "question_text": "Which of these shows a fraction from the 1/3 family? A) 3/8 B) 4/12 C) 5/14",
+        "answer_type": "text_input",
+        "correct_answer": "B",
+        "alternative_answer_1": "04-Dec",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15276,
+        "question_text": "From a diagram of a grid with 9 squares where 3 are shaded, what family does the fraction belong to?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15277,
+        "question_text": "Complete the equivalent pair: 1/2 = ?/12",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15278,
+        "question_text": "What is the missing numerator? 1/3 = ?/12",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15279,
+        "question_text": "Which two are equivalent? 1/4, 2/8, 3/10",
+        "answer_type": "text_input",
+        "correct_answer": "1/4 and 2/8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15280,
+        "question_text": "A bar is split into 6. To show 1/2, how many parts must be shaded?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15281,
+        "question_text": "A pie has 8 slices. To show 1/4, how many slices must be taken?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15282,
+        "question_text": "Which fraction is in the family of 1/2? (3/7, 6/12, 5/9)",
+        "answer_type": "text_input",
+        "correct_answer": "06-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15283,
+        "question_text": "Complete this sequence: 1/4, ?/8, 3/12.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15284,
+        "question_text": "Create an equivalent fraction for 1/5 by multiplying the numerator and denominator by 3.",
+        "answer_type": "text_input",
+        "correct_answer": "Mar-15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15285,
+        "question_text": "Complete the equivalent fraction pair: 1/10 = ?/20.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15286,
+        "question_text": "Match 1/3 to its equivalent fraction: (3/10, 4/12, 5/16).",
+        "answer_type": "text_input",
+        "correct_answer": "04-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15287,
+        "question_text": "What is the missing numerator? 1/5 = 4/?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15288,
+        "question_text": "What is the missing denominator? 1/5 = 4/?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15289,
+        "question_text": "Start a family of fractions for 1/10. What are the next two fractions?",
+        "answer_type": "text_input",
+        "correct_answer": "2/20, 3/30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15290,
+        "question_text": "Find the fraction equivalent to 1/4 with a denominator of 20.",
+        "answer_type": "text_input",
+        "correct_answer": "May-20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15291,
+        "question_text": "Complete the sequence: 1/3, 2/6, 3/9, 4/12, ?/15.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15292,
+        "question_text": "Which of these is equivalent to 1/5? (3/15, 3/16, 3/18)",
+        "answer_type": "text_input",
+        "correct_answer": "Mar-15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15293,
+        "question_text": "How do you create an equivalent fraction for 1/2 with a denominator of 16?",
+        "answer_type": "text_input",
+        "correct_answer": "Multiply top and bottom by 8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15294,
+        "question_text": "What is the missing numerator: 1/2 = ?/18?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15295,
+        "question_text": "Find the equivalent for 1/10 that has a denominator of 20.",
+        "answer_type": "text_input",
+        "correct_answer": "Feb-20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15296,
+        "question_text": "Complete the fraction family for 1/4: 1/4, 2/8, 3/12, 4/16, ?/20.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15297,
+        "question_text": "Is 4/15 part of the 1/3 family? Answer yes or no.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15298,
+        "question_text": "What number do you multiply the top and bottom of 1/5 by to get 4/20?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15299,
+        "question_text": "What is the missing denominator? 1/3 = 5/?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15300,
+        "question_text": "Find the next fraction in the sequence for 1/5: 1/5, 2/10, 3/15, ...",
+        "answer_type": "text_input",
+        "correct_answer": "Apr-20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15301,
+        "question_text": "Match 1/4 with its equivalent: (4/12, 4/16, 4/20).",
+        "answer_type": "text_input",
+        "correct_answer": "Apr-16",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15302,
+        "question_text": "What is the missing numerator in the pair: 1/10 = ?/20?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15303,
+        "question_text": "Create an equivalent fraction for 1/3 with a denominator of 18.",
+        "answer_type": "text_input",
+        "correct_answer": "Jun-18",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15304,
+        "question_text": "Which fraction is from the 1/5 family? (2/8, 3/15, 4/16)",
+        "answer_type": "text_input",
+        "correct_answer": "Mar-15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15305,
+        "question_text": "Complete the sequence: 1/2, 2/4, 3/6, 4/8, 5/10, ?/12.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15306,
+        "question_text": "What do you multiply 1/4 by to get 5/20?",
+        "answer_type": "text_input",
+        "correct_answer": "05-May",
+        "alternative_answer_1": "5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15307,
+        "question_text": "Find the missing number: ?/16 = 1/2",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15308,
+        "question_text": "What is the missing denominator? 1/4 = 5/?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15309,
+        "question_text": "Write 1/4 as a fraction with a denominator of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "25/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15310,
+        "question_text": "What is 3/10 as a fraction with a denominator of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "30/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15311,
+        "question_text": "A pizza is cut into 10 slices. Tom ate 1/2 of the pizza. What fraction with a denominator of 10 represents what Tom ate?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15312,
+        "question_text": "Complete the pair: 1/25 = ?/100.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15313,
+        "question_text": "Find the missing numerator: 2/5 = ?/100.",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15314,
+        "question_text": "A test has 10 questions. You score 7/10. What is this score as a fraction out of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "70/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15315,
+        "question_text": "What is 1/20 as a fraction with a denominator of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "5/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15316,
+        "question_text": "Compare 1/4 and 20/100. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15317,
+        "question_text": "Complete the equivalent fraction: 3/4 = ?/100.",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15318,
+        "question_text": "A bag of sweets has 100 sweets. 1/10 are red. How many are red?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15319,
+        "question_text": "Write a fraction equivalent to 4/10 with a denominator of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "40/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15320,
+        "question_text": "Which is smaller: 1/2 or 45/100?",
+        "answer_type": "text_input",
+        "correct_answer": "45/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15321,
+        "question_text": "What is the missing denominator? 3/5 = 60/?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15322,
+        "question_text": "Find the equivalent fraction for 1/50 with a denominator of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "2/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15323,
+        "question_text": "To compare 1/4 and 3/10, what common denominator could you use?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "40",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15324,
+        "question_text": "What is 9/10 as a fraction out of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "90/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15325,
+        "question_text": "Find the missing numerator: 4/25 = ?/100.",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15326,
+        "question_text": "A tank is 1/4 full. What is this as a fraction of 100 parts?",
+        "answer_type": "text_input",
+        "correct_answer": "25/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15327,
+        "question_text": "Which is the correct equivalent for 1/20? (5/100, 10/100, 20/100)",
+        "answer_type": "text_input",
+        "correct_answer": "5/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15328,
+        "question_text": "How many hundredths are in one tenth?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15329,
+        "question_text": "Complete the pair: 7/10 = ?/100.",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15330,
+        "question_text": "Which is larger: 3/4 or 80/100?",
+        "answer_type": "text_input",
+        "correct_answer": "80/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15331,
+        "question_text": "Find the equivalent for 2/5 that has a denominator of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "40/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15332,
+        "question_text": "What is 1/2 as hundredths?",
+        "answer_type": "text_input",
+        "correct_answer": "50/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15333,
+        "question_text": "A battery is 1/5 charged. How many hundredths of the battery is charged?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15334,
+        "question_text": "Create a family of three fractions that are all equivalent to 3/4.",
+        "answer_type": "text_input",
+        "correct_answer": "3/4, 6/8, 9/12",
+        "alternative_answer_1": "3/4, 75/100, 12/16",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15335,
+        "question_text": "Explain the error in this statement: To find an equivalent fraction for 2/3, I added 5 to the top and bottom to get 7/8.",
+        "answer_type": "text_input",
+        "correct_answer": "You must multiply, not add",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15336,
+        "question_text": "To add the fractions 1/3 and 1/4, you need to find equivalent fractions. What would they be?",
+        "answer_type": "text_input",
+        "correct_answer": "4/12 and 3/12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15337,
+        "question_text": "Which of these fractions is NOT in the same family as the others? 2/5, 4/10, 8/20, 10/30",
+        "answer_type": "text_input",
+        "correct_answer": "Oct-30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15338,
+        "question_text": "Start with 1/7. Create a chain of three equivalent fractions.",
+        "answer_type": "text_input",
+        "correct_answer": "1/7, 2/14, 3/21",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15339,
+        "question_text": "A bag contains 24 sweets. 1/3 are red and 2/6 are green. What can you say about the number of red and green sweets?",
+        "answer_type": "text_input",
+        "correct_answer": "They are the same",
+        "alternative_answer_1": "equal",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15340,
+        "question_text": "Find a fraction that is equivalent to 5/6, where the denominator is 18.",
+        "answer_type": "text_input",
+        "correct_answer": "15/18",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15341,
+        "question_text": "Simplify 16/20 to prepare it for addition with a fraction in fifths.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15342,
+        "question_text": "I am equivalent to 3/5. My numerator and denominator add up to 40. What fraction am I?",
+        "answer_type": "text_input",
+        "correct_answer": "15/25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15343,
+        "question_text": "To compare 3/4 and 7/10, what would be their equivalent fractions using the smallest common denominator?",
+        "answer_type": "text_input",
+        "correct_answer": "15/20 and 14/20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15344,
+        "question_text": "Find the mistake: 2/3 = 4/6 = 8/12 = 12/18.",
+        "answer_type": "text_input",
+        "correct_answer": "Dec-18",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15346,
+        "question_text": "Find the mistake: 2/3 = 4/6 = 6/9 = 8/10.",
+        "answer_type": "text_input",
+        "correct_answer": "08-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15347,
+        "question_text": "Create a family of three equivalent fractions for 5/8.",
+        "answer_type": "text_input",
+        "correct_answer": "5/8, 10/16, 15/24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15348,
+        "question_text": "To subtract 1/4 from 1/2, what equivalent fraction for 1/2 should you use?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15349,
+        "question_text": "Write a fraction equivalent to 20/100, but with a different denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "02-Oct",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15350,
+        "question_text": "Explain why 1/3 cannot have an equivalent fraction with a denominator of 10.",
+        "answer_type": "text_input",
+        "correct_answer": "10 is not a multiple of 3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15351,
+        "question_text": "A class has 30 students. 20 are boys. To add the fraction of boys to the fraction of girls (10/30), do you need equivalent fractions?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15352,
+        "question_text": "What is the most useful equivalent fraction for 1/4 when comparing it to 5/12?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15353,
+        "question_text": "I am equivalent to 2/7. My denominator is 21. What is my numerator?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15354,
+        "question_text": "Simplify the fraction 25/100.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15355,
+        "question_text": "A garden is 12/16 roses. In another garden, 3/4 are roses. Which garden has a greater fraction of roses?",
+        "answer_type": "text_input",
+        "correct_answer": "Neither",
+        "alternative_answer_1": "they are the same",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15356,
+        "question_text": "To add 1/2 + 1/3 + 1/5, what is the smallest common denominator you could use to create equivalent fractions?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15357,
+        "question_text": "What is the error? 3/5 = 6/10 = 12/20 = 20/40",
+        "answer_type": "text_input",
+        "correct_answer": "20/40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15358,
+        "question_text": "Create an equivalent fraction for 1/25 by multiplying the numerator and denominator by 4.",
+        "answer_type": "text_input",
+        "correct_answer": "4/100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    },
+    {
+        "question_id": 15840,
+        "question_text": "If a diagram shows a shape split into 4 parts with 2 shaded, what is this fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15841,
+        "question_text": "A picture shows a bar divided into 10 parts, and 5 parts are coloured. Write the equivalent fraction in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15842,
+        "question_text": "A circle is divided into 6 equal sectors, with 3 shaded. Name the equivalent fraction for the shaded part.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15843,
+        "question_text": "A diagram shows a grid of 8 squares with 2 shaded. Write the equivalent fraction in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15844,
+        "question_text": "From a visual of a pie with 10 slices and 2 eaten, write the equivalent fraction of eaten pie in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15845,
+        "question_text": "A bar is split into 12 sections and 4 are highlighted. Identify the equivalent fraction in simplest terms.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15846,
+        "question_text": "A visual shows a shape split into 5 parts, with one part shaded. Write the equivalent fraction with a denominator of 10.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15847,
+        "question_text": "A diagram has 100 squares and 50 are shaded. Name the equivalent fraction for the shaded area.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15848,
+        "question_text": "If a diagram shows 2/8, what is the equivalent fraction with a denominator of 4?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15849,
+        "question_text": "A rectangle is split into 10 equal parts. If 4 parts are shaded, what is this fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15850,
+        "question_text": "From a diagram showing 6/8, write the equivalent fraction in quarters.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15851,
+        "question_text": "A visual shows 9/12 shaded. What is the equivalent fraction with a denominator of 4?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15852,
+        "question_text": "A diagram shows 5/20 of a shape shaded. What is this fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15853,
+        "question_text": "A hundred-square grid has 25 squares coloured in. What is this as a fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15854,
+        "question_text": "If a diagram shows a bar split into 10 parts with 8 shaded, write the equivalent fraction in fifths.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15855,
+        "question_text": "A picture shows 3/9 of a shape coloured. Name the equivalent fraction in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15856,
+        "question_text": "A visual representation shows 4/6. What is the equivalent fraction with a denominator of 3?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15857,
+        "question_text": "A hundred-square grid has 20 squares shaded. Write this as a fraction in simplest terms.",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15858,
+        "question_text": "From a diagram of 10 stars where 4 are shining, what is the fraction of shining stars in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15859,
+        "question_text": "A picture shows 6/9 of a bar shaded. What is the equivalent fraction in thirds?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15860,
+        "question_text": "A visual shows a shape divided into 15 parts with 5 shaded. What is this fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15861,
+        "question_text": "A grid of 16 squares has 4 shaded. Write the fraction of shaded squares in simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15862,
+        "question_text": "A diagram shows 10/20. What is this fraction in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15863,
+        "question_text": "From a visual of 12 dots where 8 are coloured, what is the simplest fraction of coloured dots?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15864,
+        "question_text": "A hundred-square shows 75 squares shaded. What is 75/100 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15865,
+        "question_text": "Write an equivalent fraction for the number 3/5, based on a denominator of 10.",
+        "answer_type": "text_input",
+        "correct_answer": "06-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15866,
+        "question_text": "Find the missing number to complete the equivalent fraction: 2/3 = ?/9.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15867,
+        "question_text": "A hundred square has 40 squares shaded. Write 40/100 in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15868,
+        "question_text": "I am equivalent to 1/4. My denominator is 20. What is my numerator?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15869,
+        "question_text": "Simplify the fraction 6/10.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15870,
+        "question_text": "Write 7/10 as a fraction with a denominator of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "70/100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15871,
+        "question_text": "What is the missing denominator? 3/4 = 15/?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15872,
+        "question_text": "A diagram shows 12/16 shaded. Simplify this fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15873,
+        "question_text": "Find the equivalent fraction for 1/20 with a denominator of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "5/100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15874,
+        "question_text": "What is 8/10 as a fraction in fifths?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15875,
+        "question_text": "Complete the equivalent fraction: 2/5 = ?/20.",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15876,
+        "question_text": "A hundred square shows 60 shaded squares. What is 60/100 as a simplified fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15877,
+        "question_text": "Name an equivalent fraction for 1/3 with a denominator of 15.",
+        "answer_type": "text_input",
+        "correct_answer": "May-15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15878,
+        "question_text": "Simplify the fraction 10/15.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15879,
+        "question_text": "Fill in the blank: 1/50 = ?/100.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15880,
+        "question_text": "What is 9/10 as a fraction with a denominator of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "90/100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15881,
+        "question_text": "A fraction is equivalent to 3/4, and its numerator is 9. What is the denominator of this fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15882,
+        "question_text": "Simplify 14/20.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15883,
+        "question_text": "A visual shows 15/20 of a shape shaded. What is this fraction in quarters?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15884,
+        "question_text": "What is the missing numerator: 4/5 = ?/20?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15885,
+        "question_text": "What is 80/100 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15886,
+        "question_text": "Write an equivalent fraction for 1/25 with a denominator of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "4/100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15887,
+        "question_text": "Simplify 6/18.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15888,
+        "question_text": "A diagram shows 50/100 shaded. Write this fraction using a denominator of 10.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15889,
+        "question_text": "Complete the pair: 3/10 = ?/100",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15890,
+        "question_text": "A bag contains 12 red sweets and 8 blue sweets. What fraction of the sweets are red, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15891,
+        "question_text": "Tom scored 18 out of 20 on a test. What is this score as a fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "09-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15892,
+        "question_text": "Explain why 15/20 and 3/4 are equivalent.",
+        "answer_type": "text_input",
+        "correct_answer": "You can divide 15 and 20 by 5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15893,
+        "question_text": "Find the missing number: 12/15 = 4/?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15894,
+        "question_text": "A rectangle is 10cm long and 5cm wide. What fraction is the width of the length, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15895,
+        "question_text": "Which fraction is the odd one out? 9/12, 6/8, 75/100, 10/15",
+        "answer_type": "text_input",
+        "correct_answer": "Oct-15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15896,
+        "question_text": "Write 35/100 as a fraction in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "Jul-20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15897,
+        "question_text": "A runner completes 800 metres of a 1000 metre race. What fraction of the race has she completed, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15898,
+        "question_text": "Find a fraction equivalent to 2/3 with a denominator of 18.",
+        "answer_type": "text_input",
+        "correct_answer": "Dec-18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15899,
+        "question_text": "I am equivalent to 3/5. My denominator is 25. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "15/25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15900,
+        "question_text": "Simplify 24/30.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15901,
+        "question_text": "A car park has 100 spaces. 48 are filled. What fraction of the car park is filled, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "Dec-25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15902,
+        "question_text": "Which is larger: 18/20 or 8/10?",
+        "answer_type": "text_input",
+        "correct_answer": "18/20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15903,
+        "question_text": "Fill in the blank: 18/30 = 3/?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15904,
+        "question_text": "Find a fraction equivalent to 2/7 with a numerator of 6.",
+        "answer_type": "text_input",
+        "correct_answer": "Jun-21",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15905,
+        "question_text": "A class has 15 girls and 10 boys. What fraction of the class are boys, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15906,
+        "question_text": "Simplify 30/100.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15907,
+        "question_text": "I am equivalent to 2/3. The sum of my numerator and denominator is 15. What fraction am I?",
+        "answer_type": "text_input",
+        "correct_answer": "06-Sep",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15908,
+        "question_text": "Write 45/100 in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "Sep-20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15909,
+        "question_text": "You have £10 and spend £4. What fraction of your money did you spend, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15910,
+        "question_text": "Which is smaller: 12/15 or 3/5?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15911,
+        "question_text": "Simplify 21/28.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15912,
+        "question_text": "A journey is 20 miles. You travel 16 miles. What fraction have you travelled in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15913,
+        "question_text": "Find an equivalent fraction for 7/8 with a numerator of 14.",
+        "answer_type": "text_input",
+        "correct_answer": "14/16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15914,
+        "question_text": "There are 100 cents in a dollar. What fraction of a dollar is 8 cents, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "Feb-25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15915,
+        "question_text": "A recipe needs 12/16 of a litre of stock. In simplest terms, what fraction is this?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15916,
+        "question_text": "To compare 3/5 and 7/10, what is the most useful equivalent fraction to find for 3/5?",
+        "answer_type": "text_input",
+        "correct_answer": "06-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15917,
+        "question_text": "I am a fraction equivalent to 3/4. My denominator is a multiple of 10. What is the simplest such fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "15/20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15918,
+        "question_text": "Explain how you know that 10/12 is equivalent to 5/6.",
+        "answer_type": "text_input",
+        "correct_answer": "Divide top and bottom by 2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15919,
+        "question_text": "A bag of 30 marbles has 18 red ones. What is the fraction of red marbles in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15920,
+        "question_text": "A survey found that 64 out of 100 people prefer summer. Express this as a fraction in its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "16/25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15921,
+        "question_text": "To add 2/5 and 1/2, what pair of equivalent fractions would you use?",
+        "answer_type": "text_input",
+        "correct_answer": "4/10 and 5/10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15922,
+        "question_text": "Find a fraction equivalent to 7/8 where the sum of the numerator and denominator is 45.",
+        "answer_type": "text_input",
+        "correct_answer": "21/24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15923,
+        "question_text": "A shop sold 45 out of 60 newspapers. What is this as a fraction in simplest terms?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15924,
+        "question_text": "Write a justification for why 5/8 is NOT equivalent to 15/25.",
+        "answer_type": "text_input",
+        "correct_answer": "The multipliers are different",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15925,
+        "question_text": "Simplify the fraction 28/42.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15926,
+        "question_text": "A runner wants to complete 10km. She has run 4km. What fraction of the race is left, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15927,
+        "question_text": "I am equivalent to 4/5. My numerator is 16. What is my denominator?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15928,
+        "question_text": "In a class of 28 students, 21 have a pet. What fraction of the class has a pet, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15929,
+        "question_text": "What is 36/100 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "Sep-25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15930,
+        "question_text": "To compare 5/6 and 7/9, what is the smallest common denominator you can use?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15931,
+        "question_text": "There are 24 hours in a day. You spend 16 hours awake. What fraction of the day are you awake, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15932,
+        "question_text": "Find an equivalent fraction for 3/8 with a numerator of 15.",
+        "answer_type": "text_input",
+        "correct_answer": "15/40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15933,
+        "question_text": "You get 30 questions on a test and answer 27 correctly. What fraction is this, simplified?",
+        "answer_type": "text_input",
+        "correct_answer": "09-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15934,
+        "question_text": "Write three equivalent fractions for 2/3, with one having a denominator of 100 (Hint: this is a trick question).",
+        "answer_type": "text_input",
+        "correct_answer": "4/6, 6/9, 8/12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15935,
+        "question_text": "A group has 15 men and 18 women. What fraction are men, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Nov",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15936,
+        "question_text": "Simplify 40/64.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15937,
+        "question_text": "A recipe uses 50g of sugar and 200g of flour. What fraction of this mix is sugar, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15938,
+        "question_text": "Find an equivalent fraction for 2/9 where the denominator is 36.",
+        "answer_type": "text_input",
+        "correct_answer": "Aug-36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 15939,
+        "question_text": "You have £50 and save £35. What fraction of your money did you save, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 166
+    },
+    {
+        "question_id": 16140,
+        "question_text": "Simplify the fraction 2/4.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16141,
+        "question_text": "Simplify the fraction 5/10.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16142,
+        "question_text": "Express 1/2 as a fraction with a denominator of 4.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16143,
+        "question_text": "Express 1/4 as a fraction with a denominator of 8.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16144,
+        "question_text": "What is the simplest form of 2/6?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16145,
+        "question_text": "Express 1/2 in tenths.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16146,
+        "question_text": "Simplify 2/10.",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16147,
+        "question_text": "What is 1/4 with a denominator of 12?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16148,
+        "question_text": "Simplify 10/20.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16149,
+        "question_text": "Express 1/5 as a fraction with a denominator of 10.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16150,
+        "question_text": "What is the simplest form of 3/6?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16151,
+        "question_text": "To compare 1/2 and 1/3, what common denominator could you use?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16152,
+        "question_text": "Simplify 5/15.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16153,
+        "question_text": "Express 1/3 as a fraction with a denominator of 6.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16154,
+        "question_text": "Simplify 2/8.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16155,
+        "question_text": "What is 1/5 with a denominator of 20?",
+        "answer_type": "text_input",
+        "correct_answer": "Apr-20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16156,
+        "question_text": "Simplify the fraction 10/12 to its lowest terms.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16157,
+        "question_text": "Express 1/2 and 1/4 using a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "2/4 and 1/4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16158,
+        "question_text": "What is 3/9 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16159,
+        "question_text": "Express 1/4 as a fraction with a denominator of 16.",
+        "answer_type": "text_input",
+        "correct_answer": "Apr-16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16160,
+        "question_text": "Simplify 4/8.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16161,
+        "question_text": "To compare 1/4 and 1/5, what common denominator could you use?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16162,
+        "question_text": "Simplify 5/20.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16163,
+        "question_text": "Express 1/3 as sixths.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16164,
+        "question_text": "Simplify 4/6.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16165,
+        "question_text": "Reduce the fraction 6/8 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16166,
+        "question_text": "Express 1/3 and 1/2 in the same denomination.",
+        "answer_type": "text_input",
+        "correct_answer": "2/6 and 3/6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16167,
+        "question_text": "What is 9/12 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16168,
+        "question_text": "Express 2/5 and 1/2 using a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "4/10 and 5/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16169,
+        "question_text": "Simplify the fraction 8/10.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16170,
+        "question_text": "To add 1/3 and 1/5, what common denominator should you use?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16171,
+        "question_text": "What is the simplest form of 6/9?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16172,
+        "question_text": "Express 3/4 and 1/3 with the same denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "9/12 and 4/12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16173,
+        "question_text": "Simplify 4/12.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16174,
+        "question_text": "Express 2/3 and 3/5 using a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "10/15 and 9/15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16175,
+        "question_text": "What is 10/15 simplified?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16176,
+        "question_text": "To compare 1/4 and 2/3, what would their new numerators be if you used a denominator of 12?",
+        "answer_type": "text_input",
+        "correct_answer": "3 and 8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16177,
+        "question_text": "Simplify the fraction 8/12.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16178,
+        "question_text": "Express 1/2 and 1/6 using the same denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "3/6 and 1/6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16179,
+        "question_text": "What is 6/12 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16180,
+        "question_text": "Use a common denominator to compare 2/3 and 5/6.",
+        "answer_type": "text_input",
+        "correct_answer": "4/6 and 5/6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16181,
+        "question_text": "Simplify 9/15.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16182,
+        "question_text": "Express 1/4 and 1/6 using their lowest common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "3/12 and 2/12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16183,
+        "question_text": "What is 10/20 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16184,
+        "question_text": "To add 2/5 and 1/4, what common denominator would you use?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16185,
+        "question_text": "Reduce the fraction 6/10 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16186,
+        "question_text": "Express 2/3 and 1/6 with a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "4/6 and 1/6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16187,
+        "question_text": "What is 8/16 in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16188,
+        "question_text": "To subtract 1/5 from 1/2, what equivalent fractions should you use?",
+        "answer_type": "text_input",
+        "correct_answer": "5/10 and 2/10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16189,
+        "question_text": "Simplify 12/16.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16190,
+        "question_text": "Simplify the fraction 12/16 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16191,
+        "question_text": "Express 1/2, 1/3, and 1/4 in the same denomination.",
+        "answer_type": "text_input",
+        "correct_answer": "6/12, 4/12, 3/12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16192,
+        "question_text": "What is 18/24 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16193,
+        "question_text": "To add 1/4, 2/5, and 1/10, what is the lowest common denominator you can use?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16194,
+        "question_text": "A class has 15 boys and 20 girls. What fraction of the class are boys, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jul",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16195,
+        "question_text": "Simplify 25/100.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16196,
+        "question_text": "Express 1/2, 2/5, and 3/10 all with a denominator of 10.",
+        "answer_type": "text_input",
+        "correct_answer": "5/10, 4/10, 3/10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16197,
+        "question_text": "What is the simplest form of the fraction 20/30?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16198,
+        "question_text": "To compare 3/4, 5/6, and 2/3, what common denominator would be best?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16199,
+        "question_text": "Simplify 16/24.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16200,
+        "question_text": "There are 21 correct answers on a test with 28 questions. What fraction of the answers were correct, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16201,
+        "question_text": "Express 3/4, 1/6, and 5/12 all with the same denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "9/12, 2/12, 5/12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16202,
+        "question_text": "What is 24/36 simplified?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16203,
+        "question_text": "To add 1/3, 1/6 and 1/9, what is the lowest common denominator?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16204,
+        "question_text": "Simplify the fraction 30/45.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16205,
+        "question_text": "Express 2/3 and 4/7 using the same denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "14/21 and 12/21",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16206,
+        "question_text": "Simplify 18/30.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16207,
+        "question_text": "To calculate 1/5 + 3/10 + 1/20, what is the best denominator to use?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16208,
+        "question_text": "A shop sold 14 red shirts and 7 blue shirts. What fraction of the shirts sold were red, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16209,
+        "question_text": "Simplify 28/35.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16210,
+        "question_text": "Express 3/8 and 1/6 with a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "9/24 and 4/24",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16211,
+        "question_text": "What is 32/40 simplified to its lowest terms?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16212,
+        "question_text": "To order the fractions 1/2, 3/5, 7/10, what denominator should you use?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16213,
+        "question_text": "Simplify 24/40.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16214,
+        "question_text": "What is 20/50 in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16215,
+        "question_text": "A bag contains 12 red, 8 blue, and 4 green marbles. What fraction of the marbles are blue, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16216,
+        "question_text": "To solve 1/6 + 2/9, what is the most efficient common denominator to use?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16217,
+        "question_text": "A team played 24 games. They won 16 and drew 2. What fraction of their games did they win, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16218,
+        "question_text": "You have to compare 3/8, 5/12, and 1/6. What common denominator would you use?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16219,
+        "question_text": "What is 48/60 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16220,
+        "question_text": "I am simplifying 24/32. I divide by 2 to get 12/16. Is this the simplest form? If not, what is?",
+        "answer_type": "text_input",
+        "correct_answer": "No, 3/4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16221,
+        "question_text": "Express 5/6 and 3/8 using their lowest common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "20/24 and 9/24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16222,
+        "question_text": "In a survey of 40 people, 25 preferred tea. What fraction is this in simplest terms?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16223,
+        "question_text": "To solve 3/4 - 1/10, you could use a denominator of 40. What is a more efficient denominator?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16224,
+        "question_text": "Simplify 42/56.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16225,
+        "question_text": "There are 100 cents in a Euro. What fraction of a Euro is 55 cents, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "Nov-20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16226,
+        "question_text": "Express 2/9 and 5/12 using their lowest common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "8/36 and 15/36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16227,
+        "question_text": "What is 45/75 in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16228,
+        "question_text": "In a car park of 48 cars, 18 are silver. What is the fraction of silver cars in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16229,
+        "question_text": "To compare 3/10 and 4/15, what is the best denominator to convert them to?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16230,
+        "question_text": "Simplify 36/60.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16231,
+        "question_text": "A team won 12 games, lost 6, and drew 6. What fraction of their games did they win, simplified?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16232,
+        "question_text": "Express 1/6, 3/8, and 5/12 using their lowest common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "4/24, 9/24, 10/24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16233,
+        "question_text": "Simplify 50/75.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16234,
+        "question_text": "You work for 40 hours a week. You spend 15 hours in meetings. What fraction of your work week is spent in meetings, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16235,
+        "question_text": "To calculate 1/8 + 5/6, what are the equivalent fractions you should use?",
+        "answer_type": "text_input",
+        "correct_answer": "3/24 and 20/24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16236,
+        "question_text": "What is 40/100 in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16237,
+        "question_text": "A journey is 60 miles. You travel 45 miles. What fraction of the journey have you travelled, simplified?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16238,
+        "question_text": "What is the lowest common denominator for 1/4, 1/5, and 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 16239,
+        "question_text": "Simplify the fraction 60/90.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 167
+    },
+    {
+        "question_id": 22209,
+        "question_text": "Reduce the fraction 2/4 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22210,
+        "question_text": "Reduce the fraction 5/10 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22211,
+        "question_text": "To compare 1/2 and 1/4, what common denominator could you use?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22212,
+        "question_text": "Simplify 2/6.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22213,
+        "question_text": "What is 1/2 written as a fraction with a denominator of 10?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22214,
+        "question_text": "Simplify the fraction 10/20.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22215,
+        "question_text": "Simplify 3/6.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22216,
+        "question_text": "To compare 1/2 and 3/8, what common denominator could you use?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22217,
+        "question_text": "What is 1/4 written with a denominator of 8?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22218,
+        "question_text": "Simplify the fraction 4/8.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22219,
+        "question_text": "Reduce the fraction 2/10 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22220,
+        "question_text": "Express 1/2 and 1/3 with a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "3/6 and 2/6",
+        "alternative_answer_1": "2/6 and 3/6",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22221,
+        "question_text": "Simplify the fraction 5/15.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22222,
+        "question_text": "What is 1/5 with a denominator of 10?",
+        "answer_type": "text_input",
+        "correct_answer": "02-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22223,
+        "question_text": "Simplify 4/10.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22224,
+        "question_text": "What common denominator can be used for the fractions 1/5 and 1/10?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22225,
+        "question_text": "Simplify 10/100.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22226,
+        "question_text": "Reduce the fraction 2/8 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22227,
+        "question_text": "Express 1/2 as a fraction with 6 as the denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22228,
+        "question_text": "Simplify 50/100.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22229,
+        "question_text": "Simplify 3/9.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22230,
+        "question_text": "To compare 1/3 and 1/6, what common denominator would you use?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22231,
+        "question_text": "Reduce the fraction 25/100 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22232,
+        "question_text": "What is 1/4 as a fraction with a denominator of 12?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22233,
+        "question_text": "Simplify the fraction 2/12.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22234,
+        "question_text": "Write 6/8 as a simplified fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22235,
+        "question_text": "Express the fractions 2/3 and 1/4 in the same denomination.",
+        "answer_type": "text_input",
+        "correct_answer": "8/12 and 3/12",
+        "alternative_answer_1": "3/12 and 8/12",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22236,
+        "question_text": "Simplify 9/12 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22237,
+        "question_text": "What is the lowest common denominator for the fractions 1/6 and 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22238,
+        "question_text": "Simplify 8/10.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22239,
+        "question_text": "Rewrite 3/5 and 1/2 with a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "6/10 and 5/10",
+        "alternative_answer_1": "5/10 and 6/10",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22240,
+        "question_text": "Simplify the fraction 10/12.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22241,
+        "question_text": "What common denominator would you use to compare 1/3 and 2/5?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22242,
+        "question_text": "Reduce the fraction 6/9 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22243,
+        "question_text": "Express 2/5 and 3/4 with a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "8/20 and 15/20",
+        "alternative_answer_1": "15/20 and 8/20",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22244,
+        "question_text": "Simplify 12/15.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22245,
+        "question_text": "What is the lowest common denominator for 1/8 and 1/12?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22246,
+        "question_text": "Simplify the fraction 14/20.",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22247,
+        "question_text": "Rewrite 1/2 and 2/7 using a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "7/14 and 4/14",
+        "alternative_answer_1": "4/14 and 7/14",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22248,
+        "question_text": "Simplify 15/20.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22249,
+        "question_text": "Which common denominator could be used for 1/6 and 3/8?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "48",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22250,
+        "question_text": "Simplify 18/20.",
+        "answer_type": "text_input",
+        "correct_answer": "09-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22251,
+        "question_text": "Express 1/3 and 3/4 in the same denomination.",
+        "answer_type": "text_input",
+        "correct_answer": "4/12 and 9/12",
+        "alternative_answer_1": "9/12 and 4/12",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22252,
+        "question_text": "Simplify the fraction 6/15.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22253,
+        "question_text": "What is the lowest common denominator you could use for 1/10 and 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22254,
+        "question_text": "Simplify 10/15.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22255,
+        "question_text": "Rewrite 1/4 and 2/5 using a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "5/20 and 8/20",
+        "alternative_answer_1": "8/20 and 5/20",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22256,
+        "question_text": "Simplify 12/18.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22257,
+        "question_text": "What common denominator would you use for 1/5 and 1/6?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22258,
+        "question_text": "Simplify 8/12.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22259,
+        "question_text": "Reduce the fraction 12/16 to its lowest terms.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22260,
+        "question_text": "Express these fractions with the same denominator: 1/4, 1/2, 5/8.",
+        "answer_type": "text_input",
+        "correct_answer": "2/8, 4/8, 5/8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22261,
+        "question_text": "Reduce the fraction 24/30 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22262,
+        "question_text": "Prepare these fractions for addition by finding a common denominator: 1/5, 1/3, 1/2.",
+        "answer_type": "text_input",
+        "correct_answer": "6/30, 10/30, 15/30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22263,
+        "question_text": "Simplify 30/45 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22264,
+        "question_text": "What is the lowest common denominator for 1/9 and 5/12?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22265,
+        "question_text": "Simplify 20/24.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22266,
+        "question_text": "Express 1/2, 2/3, and 5/6 with the same denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "3/6, 4/6, 5/6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22267,
+        "question_text": "Simplify the fraction 21/28 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22268,
+        "question_text": "To compare 3/10 and 4/15, what is the lowest common denominator you should use?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22269,
+        "question_text": "Simplify 32/40.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22270,
+        "question_text": "Rewrite these fractions with a common denominator: 2/5, 1/4, 3/10.",
+        "answer_type": "text_input",
+        "correct_answer": "8/20, 5/20, 6/20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22271,
+        "question_text": "Simplify 18/24 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22272,
+        "question_text": "What is the lowest common denominator for 3/8 and 5/6?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22273,
+        "question_text": "Simplify 24/36.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22274,
+        "question_text": "Prepare these fractions for ordering by finding a common denominator: 3/4, 7/12, 2/3.",
+        "answer_type": "text_input",
+        "correct_answer": "9/12, 7/12, 8/12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22275,
+        "question_text": "Simplify 40/100.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22276,
+        "question_text": "What is the lowest common denominator for 1/6, 1/9 and 1/2?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22277,
+        "question_text": "Simplify 16/20.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22278,
+        "question_text": "Rewrite 1/3, 5/12, and 1/6 with a common denominator.",
+        "answer_type": "text_input",
+        "correct_answer": "4/12, 5/12, 2/12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22279,
+        "question_text": "Simplify 25/30.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Jun",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22280,
+        "question_text": "What is the lowest common denominator of 1/12 and 1/8?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22281,
+        "question_text": "Simplify 15/25.",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22282,
+        "question_text": "Express 1/4, 2/5, and 1/2 in the same denomination.",
+        "answer_type": "text_input",
+        "correct_answer": "5/20, 8/20, 10/20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22283,
+        "question_text": "Reduce the fraction 28/35 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22284,
+        "question_text": "You ate 12/16 of a pizza. In simplest terms, what fraction of the pizza did you eat?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22285,
+        "question_text": "A class has 30 students. 18 are boys. What fraction of the class are boys, in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22286,
+        "question_text": "To add 1/6 and 3/8, what is the smallest common denominator you should use?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22287,
+        "question_text": "There are 24 hours in a day. You sleep for 9 hours. What fraction of the day do you sleep, in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22288,
+        "question_text": "Simplify the fraction 48/60.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22289,
+        "question_text": "Order these fractions from smallest to largest by finding a common denominator: 2/3, 5/6, 3/4.",
+        "answer_type": "text_input",
+        "correct_answer": "2/3, 3/4, 5/6",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22290,
+        "question_text": "A bag contains 25 red sweets and 15 blue sweets. What fraction of the sweets are red, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22291,
+        "question_text": "To subtract 2/9 from 5/12, what common denominator should you use?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22292,
+        "question_text": "Simplify the fraction 36/48.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22293,
+        "question_text": "A car journey is 100 miles. You have travelled 75 miles. What fraction of the journey is left, in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22294,
+        "question_text": "A recipe needs 1/2 cup of flour, 1/3 cup of sugar, and 1/4 cup of butter. To measure them all with the same size cup, what denominator should it have?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22295,
+        "question_text": "Simplify the fraction 50/75.",
+        "answer_type": "text_input",
+        "correct_answer": "02-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22296,
+        "question_text": "Which is larger, 5/8 or 7/12? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "05-Aug",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22297,
+        "question_text": "You have 36 coloured pencils. 16 are red, 12 are blue, and 8 are green. What fraction are blue, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22298,
+        "question_text": "Reduce the fraction 42/56 to its simplest form.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22299,
+        "question_text": "To compare 3/5, 5/8 and 1/2, what common denominator would be best?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22300,
+        "question_text": "An inheritance of £60,000 is shared. Person A gets £30,000, Person B gets £20,000, and Person C gets £10,000. What fraction did Person B get, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22301,
+        "question_text": "Simplify 27/36.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22302,
+        "question_text": "Order these from smallest to largest: 4/5, 7/10, 17/20.",
+        "answer_type": "text_input",
+        "correct_answer": "7/10, 4/5, 17/20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22303,
+        "question_text": "Simplify 64/80.",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22304,
+        "question_text": "A football team won 15 of their 25 games. What fraction of their games did they win, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22305,
+        "question_text": "What is the lowest common denominator for 1/12 and 1/15?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22306,
+        "question_text": "Simplify 72/96.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22307,
+        "question_text": "A playlist has 45 songs. 27 of them are pop songs. What fraction are pop songs, in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 22308,
+        "question_text": "To compare 7/9 and 4/6, what is the best common denominator to use?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 423
+    },
+    {
+        "question_id": 29948,
+        "question_text": "Which fraction is larger: 3/4 or 7/10? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 165
+    }
+]

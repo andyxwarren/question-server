@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 24137,
+        "question_text": "Which shape has more sides: a square or a triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24138,
+        "question_text": "Which shape has fewer corners: a rectangle or a triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24139,
+        "question_text": "Does a circle have straight sides or curved sides?",
+        "answer_type": "text_input",
+        "correct_answer": "curved sides",
+        "alternative_answer_1": "curved",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24140,
+        "question_text": "Which of these 3-D shapes can roll: a cube or a sphere?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24141,
+        "question_text": "Which of these 3-D shapes can you stack easily: a cuboid or a cone?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24142,
+        "question_text": "I am sorting shapes into a group with 4 sides. Which of these belongs in the group: circle, square, triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24143,
+        "question_text": "I am sorting shapes into a group with curved sides. Which of these belongs in the group: rectangle, circle, triangle?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24144,
+        "question_text": "Sort these shapes by the number of sides (least to most): square, triangle, circle.",
+        "answer_type": "text_input",
+        "correct_answer": "circle, triangle, square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24145,
+        "question_text": "A ball and a book are on a table. Which one is a sphere?",
+        "answer_type": "text_input",
+        "correct_answer": "ball",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24146,
+        "question_text": "A can of beans and a dice are on a table. Which one is a cube?",
+        "answer_type": "text_input",
+        "correct_answer": "dice",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24147,
+        "question_text": "Compare a square and a rectangle. What is the same about them?",
+        "answer_type": "text_input",
+        "correct_answer": "They both have 4 sides",
+        "alternative_answer_1": "They have 4 corners",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24148,
+        "question_text": "Compare a cylinder and a sphere. What is the same about them?",
+        "answer_type": "text_input",
+        "correct_answer": "They can both roll",
+        "alternative_answer_1": "They both have curved surfaces",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24149,
+        "question_text": "I have a group of shapes with three corners. What are the shapes called?",
+        "answer_type": "text_input",
+        "correct_answer": "triangles",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24150,
+        "question_text": "I have a group of objects that do not roll. Which object could be in my group: an orange or a box?",
+        "answer_type": "text_input",
+        "correct_answer": "a box",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24151,
+        "question_text": "Which has more faces: a cube or a sphere?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24152,
+        "question_text": "A door is an example of which 2-D shape?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24153,
+        "question_text": "A pizza slice is an example of which 2-D shape?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24154,
+        "question_text": "I am sorting by one property: has a point. Which shape belongs: cylinder or pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24155,
+        "question_text": "I am sorting by one property: has 6 faces. Which shape belongs: cube or cone?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24156,
+        "question_text": "Which 2-D shape has no corners?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24157,
+        "question_text": "Which 3-D shape has no flat faces?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24158,
+        "question_text": "A sandwich can be cut to make two triangles. What was the original shape?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "rectangle",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24159,
+        "question_text": "Which is different: a football, a tennis ball, a shoebox?",
+        "answer_type": "text_input",
+        "correct_answer": "a shoebox",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24160,
+        "question_text": "Which is different: a triangle, a square, a circle?",
+        "answer_type": "text_input",
+        "correct_answer": "a circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24161,
+        "question_text": "How are a cube and a cuboid similar?",
+        "answer_type": "text_input",
+        "correct_answer": "They both have 6 faces",
+        "alternative_answer_1": "They have 8 vertices",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24162,
+        "question_text": "I am sorting shapes into a group. The rule is has 4 sides AND all sides are equal. Which shape belongs: rectangle or square?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24163,
+        "question_text": "I am sorting 3-D shapes. The rule is has a curved face AND a flat face. Which shape belongs: cube or cone?",
+        "answer_type": "text_input",
+        "correct_answer": "cone",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24164,
+        "question_text": "A pentagon and a hexagon are in a group. What could the sorting rule be?",
+        "answer_type": "text_input",
+        "correct_answer": "has more than 4 sides",
+        "alternative_answer_1": "has straight sides",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24165,
+        "question_text": "A cylinder and a cone are in a group. What could the sorting rule be?",
+        "answer_type": "text_input",
+        "correct_answer": "has a circular face",
+        "alternative_answer_1": "has a curved face",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24166,
+        "question_text": "Sort these shapes into two groups: square, pentagon, rectangle, hexagon.",
+        "answer_type": "text_input",
+        "correct_answer": "4 sides: square, rectangle; More than 4 sides: pentagon, hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24167,
+        "question_text": "Sort these shapes into two groups: sphere, cube, cone, cuboid.",
+        "answer_type": "text_input",
+        "correct_answer": "Can roll: sphere, cone; Cannot roll easily: cube, cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24168,
+        "question_text": "A shape has 5 sides. What is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24169,
+        "question_text": "A shape has 6 corners. What is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24170,
+        "question_text": "Compare a cone and a cylinder. What is one property they share?",
+        "answer_type": "text_input",
+        "correct_answer": "They both have a circular face",
+        "alternative_answer_1": "They both have a curved surface",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24171,
+        "question_text": "Compare a cone and a cylinder. What is one property that is different?",
+        "answer_type": "text_input",
+        "correct_answer": "A cone has a point (vertex)",
+        "alternative_answer_1": "A cylinder has two circular faces",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24172,
+        "question_text": "My sorting rule is has at least one triangular face. Which shape belongs: triangular prism or cube?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular prism",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24173,
+        "question_text": "My sorting rule is has zero vertices. Which shape belongs: sphere or pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24174,
+        "question_text": "What do a pentagon and a triangle have in common?",
+        "answer_type": "text_input",
+        "correct_answer": "They have straight sides",
+        "alternative_answer_1": "They are polygons",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24175,
+        "question_text": "What is the difference between a square and a pentagon?",
+        "answer_type": "text_input",
+        "correct_answer": "The number of sides",
+        "alternative_answer_1": "A square has 4 sides, a pentagon has 5",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24176,
+        "question_text": "Place these shapes in order of their number of sides: hexagon, triangle, pentagon.",
+        "answer_type": "text_input",
+        "correct_answer": "triangle, pentagon, hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24177,
+        "question_text": "Place these shapes in order of their number of vertices: cube, cone, pyramid.",
+        "answer_type": "text_input",
+        "correct_answer": "cone, pyramid, cube",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24178,
+        "question_text": "A shape has 6 straight sides and 6 corners. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24179,
+        "question_text": "A shape has two flat faces and one curved face. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24180,
+        "question_text": "My sorting rule is all faces are the same. Which belongs: cuboid or cube?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24181,
+        "question_text": "My sorting rule is has no straight edges. Which belongs: sphere or cylinder?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24182,
+        "question_text": "How can you sort a cube, a sphere, and a pyramid into two groups?",
+        "answer_type": "text_input",
+        "correct_answer": "Has a square face: cube, pyramid; No square face: sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24183,
+        "question_text": "A regular pentagon and a regular hexagon are different because a hexagon has one more... what?",
+        "answer_type": "text_input",
+        "correct_answer": "side",
+        "alternative_answer_1": "corner",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24184,
+        "question_text": "What is a similarity between a square-based pyramid and a triangular prism?",
+        "answer_type": "text_input",
+        "correct_answer": "They both have 5 faces",
+        "alternative_answer_1": "They have vertices",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24185,
+        "question_text": "A shape has 8 sides. What is it called?",
+        "answer_type": "text_input",
+        "correct_answer": "octagon",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24186,
+        "question_text": "An object has two flat, circular ends and can roll in a straight line. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24187,
+        "question_text": "I am sorting quadrilaterals. A shape has 4 equal sides but no right angles. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "rhombus",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24188,
+        "question_text": "Sort these 3-D shapes using a Venn diagram with circles for Has a square face and Has a triangular face: cube, triangular prism, square-based pyramid. Which shape goes in the intersection?",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24189,
+        "question_text": "Classify this shape: It has 4 sides. Opposite sides are parallel. All sides are equal length. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "rhombus",
+        "alternative_answer_1": "square",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24190,
+        "question_text": "Classify this shape: It has 6 faces, 12 edges and 8 vertices.",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "cube",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24191,
+        "question_text": "A shape has 5 faces. Two are triangles and three are rectangles. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular prism",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24192,
+        "question_text": "A shape has 5 faces. One is a square and four are triangles. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24193,
+        "question_text": "Use a Carroll diagram to sort these shapes: cube, cylinder, cone. The categories are Has a curved face and Has a flat face. Where does the cube go?",
+        "answer_type": "text_input",
+        "correct_answer": "Flat face / Not curved face",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24194,
+        "question_text": "Use a Carroll diagram to sort these shapes: cube, cylinder, cone. The categories are Has a curved face and Has a flat face. Where does the cylinder go?",
+        "answer_type": "text_input",
+        "correct_answer": "Flat face / Curved face",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24195,
+        "question_text": "What is the difference between a prism and a pyramid?",
+        "answer_type": "text_input",
+        "correct_answer": "A prism has two bases, a pyramid has one",
+        "alternative_answer_1": "A prism has rectangular sides, a pyramid has triangular sides",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24196,
+        "question_text": "A shape has one curved surface and no flat faces. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "sphere",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24197,
+        "question_text": "A shape has one curved surface and one flat face. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cone",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24198,
+        "question_text": "A shape has one curved surface and two flat faces. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cylinder",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24199,
+        "question_text": "A prism has 8 faces. What shape are its bases?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagon",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24200,
+        "question_text": "A pyramid has 8 faces. What shape is its base?",
+        "answer_type": "text_input",
+        "correct_answer": "heptagon",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24201,
+        "question_text": "All the faces of my 3-D shape are triangles. What could my shape be?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "octahedron",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24202,
+        "question_text": "My shape has 4 sides. It has two right angles. What could it be?",
+        "answer_type": "text_input",
+        "correct_answer": "rectangle",
+        "alternative_answer_1": "square",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24203,
+        "question_text": "How would you classify a shape with 4 equal sides and 4 equal angles?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24204,
+        "question_text": "How would you classify a shape with 3 equal sides and 3 equal angles?",
+        "answer_type": "text_input",
+        "correct_answer": "equilateral triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24205,
+        "question_text": "A shape has 6 rectangular faces and 2 hexagonal faces. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "hexagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24206,
+        "question_text": "A shape has 5 triangular faces and 1 pentagonal face. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "pentagonal pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24207,
+        "question_text": "What property do all prisms (except a cube) share that pyramids do not?",
+        "answer_type": "text_input",
+        "correct_answer": "They have rectangular faces",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24208,
+        "question_text": "What property do all pyramids share that prisms do not?",
+        "answer_type": "text_input",
+        "correct_answer": "They have a point (apex)",
+        "alternative_answer_1": "They have triangular side faces",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24209,
+        "question_text": "Sort by number of flat faces (most to least): cone, cuboid, cylinder.",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid, cylinder, cone",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24210,
+        "question_text": "Sort by number of vertices (least to most): square-based pyramid, cone, cube.",
+        "answer_type": "text_input",
+        "correct_answer": "cone, square-based pyramid, cube",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24211,
+        "question_text": "I have a shape with 6 edges and 4 vertices. Classify it.",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24212,
+        "question_text": "A shape has 6 faces, 8 vertices and 12 edges. All faces are identical. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24213,
+        "question_text": "A shape has 6 faces, 8 vertices and 12 edges. It has 3 pairs of identical faces. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cuboid",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24214,
+        "question_text": "A prism has 12 vertices. How many edges does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24215,
+        "question_text": "A pyramid has 12 edges. How many faces does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24216,
+        "question_text": "A shape is a prism. Its base is a regular polygon. All its faces (bases and sides) are identical regular polygons. What must the shape be?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24217,
+        "question_text": "A shape is a pyramid. Its base is a regular polygon, and all its other faces are identical regular polygons. What could it be?",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "square-based pyramid",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24218,
+        "question_text": "I am sorting quadrilaterals. My rule is diagonals are perpendicular. Which of these belong: square, rectangle, rhombus?",
+        "answer_type": "text_input",
+        "correct_answer": "square, rhombus",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24219,
+        "question_text": "I am sorting quadrilaterals. My rule is has rotational symmetry of order 2 or more. Which of these belong: parallelogram, kite, trapezium?",
+        "answer_type": "text_input",
+        "correct_answer": "parallelogram",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24220,
+        "question_text": "Why is a square a special type of rectangle?",
+        "answer_type": "text_input",
+        "correct_answer": "Because it has 4 right angles and its sides are all equal",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24221,
+        "question_text": "Why is a square a special type of rhombus?",
+        "answer_type": "text_input",
+        "correct_answer": "Because it has 4 equal sides and its angles are all equal",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24222,
+        "question_text": "You have an unlimited supply of identical equilateral triangles. Name a 3-D shape you can build.",
+        "answer_type": "text_input",
+        "correct_answer": "triangular pyramid",
+        "alternative_answer_1": "octahedron",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24223,
+        "question_text": "A pyramid has 5 faces and 5 vertices. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24224,
+        "question_text": "A prism has 8 vertices and 6 faces. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "cube",
+        "alternative_answer_1": "cuboid",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24225,
+        "question_text": "A shape has no parallel lines but has one line of symmetry. What could it be?",
+        "answer_type": "text_input",
+        "correct_answer": "isosceles triangle",
+        "alternative_answer_1": "kite",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24226,
+        "question_text": "A shape has two pairs of parallel sides but no right angles. What could it be?",
+        "answer_type": "text_input",
+        "correct_answer": "rhombus",
+        "alternative_answer_1": "parallelogram",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24227,
+        "question_text": "Sort these by number of edges: cube, triangular prism, square-based pyramid.",
+        "answer_type": "text_input",
+        "correct_answer": "square-based pyramid, triangular prism, cube",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24228,
+        "question_text": "Sort these by number of faces: pentagonal pyramid, cube, pentagonal prism.",
+        "answer_type": "text_input",
+        "correct_answer": "pentagonal pyramid, cube, pentagonal prism",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24229,
+        "question_text": "What property makes a regular polygon regular?",
+        "answer_type": "text_input",
+        "correct_answer": "all sides and all angles are equal",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24230,
+        "question_text": "An object is a prism. It has 10 vertices. How many faces does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24231,
+        "question_text": "An object is a pyramid. It has 9 faces. How many edges does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24232,
+        "question_text": "A shape has two pairs of equal sides, but no parallel sides. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "kite",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24233,
+        "question_text": "What do you call a polygon with 10 sides?",
+        "answer_type": "text_input",
+        "correct_answer": "decagon",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24234,
+        "question_text": "Can a prism have an odd number of vertices?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24235,
+        "question_text": "Can a pyramid have an odd number of edges?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    },
+    {
+        "question_id": 24236,
+        "question_text": "Classify a shape with 4 sides where only one pair of sides is parallel.",
+        "answer_type": "text_input",
+        "correct_answer": "trapezium",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 467
+    }
+]

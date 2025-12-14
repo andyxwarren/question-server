@@ -1,0 +1,5002 @@
+[
+    {
+        "question_id": 12958,
+        "question_text": "In the number 14, how many tens are there?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12959,
+        "question_text": "In the number 18, how many ones are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12960,
+        "question_text": "What is the value of the digit 1 in the number 12?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12961,
+        "question_text": "What is the value of the digit 7 in the number 17?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12962,
+        "question_text": "The number 19 has 1 ten and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12963,
+        "question_text": "The number 13 has 3 ones and how many tens?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12964,
+        "question_text": "A picture shows one ten rod and five ones cubes. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12965,
+        "question_text": "What number has 1 ten and 6 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12966,
+        "question_text": "How many ones are in the number 20?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12967,
+        "question_text": "How many tens are in the number 20?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12968,
+        "question_text": "In the number 11, what is the value of the first digit?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12969,
+        "question_text": "In the number 11, what is the value of the second digit?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12970,
+        "question_text": "What number is made of 1 ten and 0 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12971,
+        "question_text": "How would you partition the number 12 into tens and ones?",
+        "answer_type": "text_input",
+        "correct_answer": "1 ten and 2 ones",
+        "alternative_answer_1": "10 and 2",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12972,
+        "question_text": "What is the value of the digit 2 in the number 2?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12973,
+        "question_text": "How many tens are in the number 8?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12974,
+        "question_text": "How many ones are in the number 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12975,
+        "question_text": "A picture shows two ten rods. What number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12976,
+        "question_text": "Which digit is in the tens place in the number 18?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12977,
+        "question_text": "Which digit is in the ones place in the number 13?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12978,
+        "question_text": "What does the digit 1 represent in the number 16?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "One ten",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12979,
+        "question_text": "What does the digit 9 represent in the number 19?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine ones",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12980,
+        "question_text": "What number has 1 ten and 1 one?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12983,
+        "question_text": "In the number 37, what is the value of the digit 3?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12984,
+        "question_text": "In the number 42, what is the value of the digit 2?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12985,
+        "question_text": "What number is made of 1 ten and 13 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "23",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12986,
+        "question_text": "How can you represent the number 34 using tens and ones?",
+        "answer_type": "text_input",
+        "correct_answer": "3 tens and 4 ones",
+        "alternative_answer_1": "30 and 4",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12987,
+        "question_text": "What number is the same as 2 tens and 15 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12988,
+        "question_text": "In the number 49, how many tens are there?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12989,
+        "question_text": "In the number 28, how many ones are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12990,
+        "question_text": "What is the value of the tens digit in 45?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "Forty",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12991,
+        "question_text": "What is the value of the ones digit in 36?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12992,
+        "question_text": "The number 27 has 2 tens and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12993,
+        "question_text": "The number 41 has 1 one and how many tens?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12994,
+        "question_text": "A picture shows four ten rods and three ones cubes. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "43",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12995,
+        "question_text": "What number has 3 tens and 8 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "38",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12996,
+        "question_text": "How many ones are in the number 50?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12997,
+        "question_text": "How many tens are in the number 50?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12998,
+        "question_text": "Which digit is in the tens place in the number 25?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 12999,
+        "question_text": "Which digit is in the ones place in the number 46?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13000,
+        "question_text": "What does the digit 3 represent in the number 31?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Three tens",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13001,
+        "question_text": "What does the digit 9 represent in the number 49?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine ones",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13002,
+        "question_text": "What number has 4 tens and 1 one?",
+        "answer_type": "text_input",
+        "correct_answer": "41",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13003,
+        "question_text": "How many ones are in 30?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13004,
+        "question_text": "What number is represented by 2 ten rods and 13 ones cubes?",
+        "answer_type": "text_input",
+        "correct_answer": "33",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13005,
+        "question_text": "The number 47 can be represented as 3 tens and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "Seventeen",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13006,
+        "question_text": "The number 31 can be represented as 2 tens and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "Eleven",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13008,
+        "question_text": "In the number 81, what is the value of the digit 8?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "Eighty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13009,
+        "question_text": "In the number 92, what is the value of the digit 2?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13011,
+        "question_text": "The number 56 is shown as 4 tens and 15 ones. Is this representation correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13012,
+        "question_text": "What number is the same as 8 tens and 11 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "91",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13013,
+        "question_text": "In the number 77, what is the value of the first digit?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13014,
+        "question_text": "In the number 66, what is the value of the second digit?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13015,
+        "question_text": "A representation shows 5 tens and 23 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "73",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13016,
+        "question_text": "Correct the misrepresentation: The number 85 is made of 7 tens and 5 ones.",
+        "answer_type": "text_input",
+        "correct_answer": "8 tens and 5 ones",
+        "alternative_answer_1": "7 tens and 15 ones",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13017,
+        "question_text": "The number 99 has 9 tens and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13018,
+        "question_text": "The number 63 is represented as 5 tens and some ones. How many ones are there?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "Thirteen",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13019,
+        "question_text": "What number is made of 0 tens and 54 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "54",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13020,
+        "question_text": "What number has 7 tens and 18 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "88",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13021,
+        "question_text": "How many tens are in the number 90?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13023,
+        "question_text": "Which digit is in the ones place in the number 99?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13024,
+        "question_text": "What does the digit 5 represent in the number 51?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Five tens",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13025,
+        "question_text": "What does the digit 7 represent in the number 87?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven ones",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13026,
+        "question_text": "What number has 6 tens and 1 one?",
+        "answer_type": "text_input",
+        "correct_answer": "61",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13027,
+        "question_text": "How many ones are in 80?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13028,
+        "question_text": "What number is represented by 7 ten rods and 14 ones cubes?",
+        "answer_type": "text_input",
+        "correct_answer": "84",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13029,
+        "question_text": "The number 92 can be represented as 8 tens and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13030,
+        "question_text": "What is the total value of 5 tens and 10 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13031,
+        "question_text": "What number is made of 3 tens and 33 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "63",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13032,
+        "question_text": "Correct the error: The number 42 has 4 tens and 12 ones.",
+        "answer_type": "text_input",
+        "correct_answer": "4 tens and 2 ones",
+        "alternative_answer_1": "3 tens and 12 ones",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13033,
+        "question_text": "Explain why the digit 7 in the number 72 has a greater value than the digit 9 in the number 19.",
+        "answer_type": "text_input",
+        "correct_answer": "7 is in the tens place",
+        "alternative_answer_1": "Its value is 70",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13034,
+        "question_text": "What number is made of 9 tens and 5 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "95",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13035,
+        "question_text": "What is the value of the 7 in the number 70?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13036,
+        "question_text": "What is the value of the 0 in the number 70?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13037,
+        "question_text": "If you partition 63 in a non-standard way, you could have 5 tens. How many ones would you need?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "Thirteen",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13038,
+        "question_text": "What number is 8 tens and 10 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13039,
+        "question_text": "Explain the value of each digit in the number 88.",
+        "answer_type": "text_input",
+        "correct_answer": "The first 8 is 80, the second is 8",
+        "alternative_answer_1": "8 tens and 8 ones",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13040,
+        "question_text": "What number is 10 more than 5 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13041,
+        "question_text": "What number is 1 less than 4 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "39",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13042,
+        "question_text": "Which is greater: 6 tens and 5 ones, or 5 tens and 16 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "5 tens and 16 ones",
+        "alternative_answer_1": "66",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13043,
+        "question_text": "How would you write the number 70 using only ones?",
+        "answer_type": "text_input",
+        "correct_answer": "70 ones",
+        "alternative_answer_1": "Seventy ones",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13044,
+        "question_text": "What is the number if it has 9 tens and 9 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "99",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13045,
+        "question_text": "Explain why the number 25 is smaller than 52.",
+        "answer_type": "text_input",
+        "correct_answer": "It has fewer tens",
+        "alternative_answer_1": "2 tens is less than 5 tens",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13046,
+        "question_text": "What is the number that is made of 10 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13047,
+        "question_text": "You have the digits 7 and 2. What is the value of the 7 in the largest number you can make?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "Seventy",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13048,
+        "question_text": "You have the digits 7 and 2. What is the value of the 7 in the smallest number you can make?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13049,
+        "question_text": "If you add one ten to 81, what is the new number?",
+        "answer_type": "text_input",
+        "correct_answer": "91",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13050,
+        "question_text": "If you take away one ten from 54, what is the new number?",
+        "answer_type": "text_input",
+        "correct_answer": "44",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13051,
+        "question_text": "What number is made of 6 tens and 0 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13052,
+        "question_text": "How many ones do you need to add to 8 tens to make 83?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13053,
+        "question_text": "Why does the number 07 still have a value of 7?",
+        "answer_type": "text_input",
+        "correct_answer": "Because there are 0 tens",
+        "alternative_answer_1": "The 0 has no value here",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13054,
+        "question_text": "What number has 1 more ten than 89?",
+        "answer_type": "text_input",
+        "correct_answer": "99",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13055,
+        "question_text": "What number has 2 fewer ones than 55?",
+        "answer_type": "text_input",
+        "correct_answer": "53",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13056,
+        "question_text": "Partition 98 into tens and ones.",
+        "answer_type": "text_input",
+        "correct_answer": "9 tens and 8 ones",
+        "alternative_answer_1": "90 and 8",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13057,
+        "question_text": "Combine 7 ones and 8 tens to make a number.",
+        "answer_type": "text_input",
+        "correct_answer": "87",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 13558,
+        "question_text": "In the number 1234, how many thousands are there?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13559,
+        "question_text": "In the number 1862, how many hundreds are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13560,
+        "question_text": "What is the value of the digit 1 in the number 1523?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "One thousand",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13561,
+        "question_text": "What is the value of the digit 7 in the number 1740?",
+        "answer_type": "text_input",
+        "correct_answer": "700",
+        "alternative_answer_1": "Seven hundred",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13562,
+        "question_text": "The number 1965 has 1 thousand, 9 hundreds, 6 tens, and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13563,
+        "question_text": "A place value chart shows one 1000-counter, five 100-counters, three 10-counters and two 1-counters. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "1532",
+        "alternative_answer_1": "1,532",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13564,
+        "question_text": "What number has 1 thousand, 6 hundreds, 8 tens and 4 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "1684",
+        "alternative_answer_1": "1,684",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13565,
+        "question_text": "How many ones are in the number 2000?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13566,
+        "question_text": "How many tens are in the number 1900?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13567,
+        "question_text": "For the number 1500, how many groups of one hundred are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13568,
+        "question_text": "In the number 1111, what is the value of the first digit?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "One thousand",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13569,
+        "question_text": "In the number 1111, what is the value of the third digit?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13570,
+        "question_text": "What number is made of 1 thousand, 0 hundreds, 8 tens, and 1 one?",
+        "answer_type": "text_input",
+        "correct_answer": "1081",
+        "alternative_answer_1": "1,081",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13571,
+        "question_text": "Partition the number 1234 into its place value parts.",
+        "answer_type": "text_input",
+        "correct_answer": "1 thousand, 2 hundreds, 2 tens, 4 ones",
+        "alternative_answer_1": "1000, 200, 30, 4",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13572,
+        "question_text": "What is the value of the digit 9 in the number 987?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "Nine hundred",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13573,
+        "question_text": "How many thousands are in the number 842?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13574,
+        "question_text": "A place value chart shows one 1000-counter. What number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1,000",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13575,
+        "question_text": "Which digit is in the thousands place in the number 1825?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13576,
+        "question_text": "Which digit is in the hundreds place in the number 1357?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13577,
+        "question_text": "What does the digit 1 represent in the number 1642?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "One thousand",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13578,
+        "question_text": "What does the digit 9 represent in the number 1923?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "Nine hundred",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13579,
+        "question_text": "What number has 1 thousand, 1 hundred, 1 ten, and 1 one?",
+        "answer_type": "text_input",
+        "correct_answer": "1111",
+        "alternative_answer_1": "1,111",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13580,
+        "question_text": "How many ones are in 1000?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13581,
+        "question_text": "What number is represented by 1 thousands cube and 3 hundreds flats?",
+        "answer_type": "text_input",
+        "correct_answer": "1300",
+        "alternative_answer_1": "1,300",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13582,
+        "question_text": "In 1888, what is the value of the 8 in the hundreds place?",
+        "answer_type": "text_input",
+        "correct_answer": "800",
+        "alternative_answer_1": "Eight hundred",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13583,
+        "question_text": "In the number 3750, what is the value of the digit 3?",
+        "answer_type": "text_input",
+        "correct_answer": "3000",
+        "alternative_answer_1": "Three thousand",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13584,
+        "question_text": "What number is represented by 4000 + 500 + 60 + 7?",
+        "answer_type": "text_input",
+        "correct_answer": "4567",
+        "alternative_answer_1": "4,567",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13585,
+        "question_text": "A place value chart shows 3 thousands, 0 hundreds, 5 tens and 2 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "3052",
+        "alternative_answer_1": "3,052",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13586,
+        "question_text": "Arrow cards show 4000, 200, and 9. What number do they represent?",
+        "answer_type": "text_input",
+        "correct_answer": "4209",
+        "alternative_answer_1": "4,209",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13587,
+        "question_text": "What number is the same as 2 thousands and 15 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "3500",
+        "alternative_answer_1": "3,500",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13588,
+        "question_text": "In the number 4999, how many thousands are there?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13589,
+        "question_text": "In the number 2086, how many tens are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13590,
+        "question_text": "What is the value of the thousands digit in 4050?",
+        "answer_type": "text_input",
+        "correct_answer": "4000",
+        "alternative_answer_1": "Four thousand",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13591,
+        "question_text": "What is the value of the ones digit in 3006?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13592,
+        "question_text": "The number 2700 has 2 thousands and how many hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13593,
+        "question_text": "The number 4100 has 1 hundred and how many thousands?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13594,
+        "question_text": "What number has 3 thousands and 8 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "3800",
+        "alternative_answer_1": "3,800",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13595,
+        "question_text": "How many hundreds are in the number 5000?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13596,
+        "question_text": "Which digit is in the tens place in the number 2510?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13597,
+        "question_text": "Which digit is in the thousands place in the number 4681?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13598,
+        "question_text": "What does the digit 3 represent in the number 3100?",
+        "answer_type": "text_input",
+        "correct_answer": "3000",
+        "alternative_answer_1": "Three thousand",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13599,
+        "question_text": "What does the digit 9 represent in the number 4950?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "Nine hundred",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13600,
+        "question_text": "What number has 4 thousands and 1 ten?",
+        "answer_type": "text_input",
+        "correct_answer": "4010",
+        "alternative_answer_1": "4,010",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13601,
+        "question_text": "How many ones are in 3000?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13602,
+        "question_text": "What number is represented by 2 thousands cubes and 13 hundreds flats?",
+        "answer_type": "text_input",
+        "correct_answer": "3300",
+        "alternative_answer_1": "3,300",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13603,
+        "question_text": "The number 4700 can be represented as 3 thousands and how many hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "Seventeen",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13604,
+        "question_text": "The number 3100 can be represented as 2 thousands and how many hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "Eleven",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13605,
+        "question_text": "What is the total value of 1 thousand and 19 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "2900",
+        "alternative_answer_1": "2,900",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13606,
+        "question_text": "What is the expanded form for 5029?",
+        "answer_type": "text_input",
+        "correct_answer": "5000 + 20 + 9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13607,
+        "question_text": "What number is 3 thousands, 4 hundreds and 5 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "3450",
+        "alternative_answer_1": "3,450",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13608,
+        "question_text": "In the number 8123, what is the value of the digit 8?",
+        "answer_type": "text_input",
+        "correct_answer": "8000",
+        "alternative_answer_1": "Eight thousand",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13609,
+        "question_text": "What number is made of 6 thousands, 14 hundreds, and 3 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "7430",
+        "alternative_answer_1": "7,430",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13610,
+        "question_text": "The number 5610 is shown as 4 thousands, 15 hundreds, and 11 tens. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13611,
+        "question_text": "What number is the same as 8 thousands and 11 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "9100",
+        "alternative_answer_1": "9,100",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13612,
+        "question_text": "In the number 7070, what is the value of the first 0?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "Zero",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13613,
+        "question_text": "A representation shows 5 thousands, 2 hundreds, and 23 tens. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "5430",
+        "alternative_answer_1": "5,430",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13614,
+        "question_text": "Correct the misrepresentation: The number 8500 is made of 7 thousands and 5 hundreds.",
+        "answer_type": "text_input",
+        "correct_answer": "8 thousands and 5 hundreds",
+        "alternative_answer_1": "7 thousands and 15 hundreds",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13615,
+        "question_text": "The number 9999 has 9 thousands, 9 hundreds, 9 tens, and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "Nine",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13616,
+        "question_text": "The number 6300 is represented as 5 thousands and some hundreds. How many hundreds are there?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "Thirteen",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13617,
+        "question_text": "What number is made of 0 thousands, 54 hundreds and 3 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "5430",
+        "alternative_answer_1": "5,430",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13618,
+        "question_text": "What number has 7 thousands and 18 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "8800",
+        "alternative_answer_1": "8,800",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13619,
+        "question_text": "How many tens are in the number 9000?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "Nine hundred",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13620,
+        "question_text": "Which digit is in the thousands place in the number 8002?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13621,
+        "question_text": "What does the digit 5 represent in the number 5100?",
+        "answer_type": "text_input",
+        "correct_answer": "5000",
+        "alternative_answer_1": "Five thousand",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13622,
+        "question_text": "What number has 6 thousands and 10 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "7000",
+        "alternative_answer_1": "7,000",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13623,
+        "question_text": "What number is represented by 7 thousands cubes and 14 hundreds flats?",
+        "answer_type": "text_input",
+        "correct_answer": "8400",
+        "alternative_answer_1": "8,400",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13624,
+        "question_text": "The number 9200 can be represented as 8 thousands and how many hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13625,
+        "question_text": "What is the total value of 5 thousands and 10 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "5100",
+        "alternative_answer_1": "5,100",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13626,
+        "question_text": "What number is made of 3 thousands and 33 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "6300",
+        "alternative_answer_1": "6,300",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13627,
+        "question_text": "The number 10,000 has how many thousands?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13628,
+        "question_text": "What number has 1 thousand, 1 hundred, 1 ten and 10 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "1120",
+        "alternative_answer_1": "1,120",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13629,
+        "question_text": "In 2020, what is the value of the first 2?",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "2,000",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13630,
+        "question_text": "In 5500, what is the value of the second 5?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "Five hundred",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13631,
+        "question_text": "I have 1 thousand, 12 hundreds and 3 tens. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "2230",
+        "alternative_answer_1": "2,230",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13633,
+        "question_text": "What number has 5 thousands, 15 hundreds, 5 tens and 15 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "6565",
+        "alternative_answer_1": "6,565",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13634,
+        "question_text": "If you multiply 6 tens by 10, what is the place value of the 6 in the answer?",
+        "answer_type": "text_input",
+        "correct_answer": "Hundreds",
+        "alternative_answer_1": "hundreds place",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13635,
+        "question_text": "If you divide 4 thousands by 10, what is the place value of the 4 in the answer?",
+        "answer_type": "text_input",
+        "correct_answer": "Hundreds",
+        "alternative_answer_1": "hundreds place",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13636,
+        "question_text": "What number is 100 more than 50 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13637,
+        "question_text": "What number is 10 less than 40 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "3990",
+        "alternative_answer_1": "3,990",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13638,
+        "question_text": "Which is greater: 6 thousands and 5 ones, or 5 thousands and 16 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "5 thousands and 16 hundreds",
+        "alternative_answer_1": "6600",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13639,
+        "question_text": "How would you write the number 7000 using only hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "70 hundreds",
+        "alternative_answer_1": "Seventy hundreds",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13640,
+        "question_text": "Explain why the number 2500 is smaller than 5002.",
+        "answer_type": "text_input",
+        "correct_answer": "It has fewer thousands",
+        "alternative_answer_1": "2 thousands is less than 5 thousands",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13641,
+        "question_text": "What is the number that is made of 10 thousands?",
+        "answer_type": "text_input",
+        "correct_answer": "10000",
+        "alternative_answer_1": "10,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13642,
+        "question_text": "You have the digits 7, 2, 1, 0. What is the value of the 7 in the largest number you can make?",
+        "answer_type": "text_input",
+        "correct_answer": "7000",
+        "alternative_answer_1": "Seven thousand",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13643,
+        "question_text": "You have the digits 7, 2, 1, 0. What is the value of the 7 in the smallest number you can make?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13644,
+        "question_text": "If you add one hundred to 8910, what is the new number?",
+        "answer_type": "text_input",
+        "correct_answer": "9010",
+        "alternative_answer_1": "9,010",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13645,
+        "question_text": "If you take away one thousand from 5400, what is the new number?",
+        "answer_type": "text_input",
+        "correct_answer": "4400",
+        "alternative_answer_1": "4,400",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13646,
+        "question_text": "What number has 1 more thousand than 8999?",
+        "answer_type": "text_input",
+        "correct_answer": "9999",
+        "alternative_answer_1": "9,999",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13647,
+        "question_text": "What number has 2 fewer hundreds than 5555?",
+        "answer_type": "text_input",
+        "correct_answer": "5355",
+        "alternative_answer_1": "5,355",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13648,
+        "question_text": "Combine 7 ones, 8 tens, 9 hundreds and 1 thousand to make a number.",
+        "answer_type": "text_input",
+        "correct_answer": "1987",
+        "alternative_answer_1": "1,987",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13649,
+        "question_text": "What number has the same number of thousands as 3456, but 5 fewer tens?",
+        "answer_type": "text_input",
+        "correct_answer": "3406",
+        "alternative_answer_1": "3,406",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13650,
+        "question_text": "I have 4 thousands, 12 hundreds, and 5 tens. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "5250",
+        "alternative_answer_1": "5,250",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13651,
+        "question_text": "Which has a greater value: the 5 in 510, or the 5 in 1050?",
+        "answer_type": "text_input",
+        "correct_answer": "the 5 in 510",
+        "alternative_answer_1": "510",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13652,
+        "question_text": "How many tens do you need to add to 8000 to make 8300?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13653,
+        "question_text": "In the number 4444, what is the total value of the first two digits?",
+        "answer_type": "text_input",
+        "correct_answer": "4400",
+        "alternative_answer_1": "4,400",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13654,
+        "question_text": "What number has 10 hundreds and 10 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "1100",
+        "alternative_answer_1": "1,100",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13655,
+        "question_text": "What number has 1 more hundred than 9900?",
+        "answer_type": "text_input",
+        "correct_answer": "10000",
+        "alternative_answer_1": "10,000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13656,
+        "question_text": "Which digit's value is multiplied by 100 to get from 45 to 4500?",
+        "answer_type": "text_input",
+        "correct_answer": "Both",
+        "alternative_answer_1": "Both digits",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 13657,
+        "question_text": "What is the place value of the zero in 7089?",
+        "answer_type": "text_input",
+        "correct_answer": "Hundreds",
+        "alternative_answer_1": "hundreds place",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 15159,
+        "question_text": "What number does the Roman numeral V represent?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15160,
+        "question_text": "What number does the Roman numeral X represent?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15161,
+        "question_text": "How is the number 2 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "II",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15162,
+        "question_text": "How is the number 3 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "III",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15163,
+        "question_text": "Read the Roman numeral VI. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15164,
+        "question_text": "Read the Roman numeral XI. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15165,
+        "question_text": "What number is VII?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15166,
+        "question_text": "What number is XII?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15167,
+        "question_text": "Write the number 8 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "VIII",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15168,
+        "question_text": "Write the number 13 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XIII",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15169,
+        "question_text": "A clock shows the Roman numeral I. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15170,
+        "question_text": "In the number 20, what does the 0 act as?",
+        "answer_type": "text_input",
+        "correct_answer": "A placeholder",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15171,
+        "question_text": "What is the value of the Roman numeral XX?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15172,
+        "question_text": "How do you write 15 in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XV",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15173,
+        "question_text": "Read the Roman numeral XV. What is this number?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15174,
+        "question_text": "In the number 10, the 1 represents ten and the 0 represents zero ones. True or False?",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15175,
+        "question_text": "What is the number for the Roman numeral IX?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15176,
+        "question_text": "What is the number for the Roman numeral IV?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15177,
+        "question_text": "Write 14 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XIV",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15178,
+        "question_text": "Write 19 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XIX",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15179,
+        "question_text": "Read the Roman numeral XIV. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15180,
+        "question_text": "Read the Roman numeral XIX. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15181,
+        "question_text": "What is the concept that the Roman numeral system lacks, which is present in our number system (e.g. in the number 101)?",
+        "answer_type": "text_input",
+        "correct_answer": "Zero",
+        "alternative_answer_1": "A placeholder",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15182,
+        "question_text": "What is 20 in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XX",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15183,
+        "question_text": "What number is XVI?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15184,
+        "question_text": "What number does the Roman numeral L represent?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15185,
+        "question_text": "What is the value of the Roman numeral XXX?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15186,
+        "question_text": "How do you write 40 in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XL",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15187,
+        "question_text": "Read the Roman numeral XL. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15188,
+        "question_text": "What is the number for XXXV?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15189,
+        "question_text": "What is the number for XLV?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15190,
+        "question_text": "Write the number 25 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XXV",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15191,
+        "question_text": "Write the number 38 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XXXVIII",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15192,
+        "question_text": "Read the Roman numeral XXIX. What is this number?",
+        "answer_type": "text_input",
+        "correct_answer": "29",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15193,
+        "question_text": "Read the Roman numeral XLII. What is this number?",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15194,
+        "question_text": "In the number 305, the zero acts as a placeholder for which column?",
+        "answer_type": "text_input",
+        "correct_answer": "Tens",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15195,
+        "question_text": "What is larger: XX or XV?",
+        "answer_type": "text_input",
+        "correct_answer": "XX",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15196,
+        "question_text": "What is smaller: XL or XXX?",
+        "answer_type": "text_input",
+        "correct_answer": "XXX",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15197,
+        "question_text": "How is the number 22 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XXII",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15198,
+        "question_text": "How is the number 49 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XLIX",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15199,
+        "question_text": "A book has Chapter XXVII. What chapter number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15200,
+        "question_text": "A king was called Louis XIV. What number is XIV?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15201,
+        "question_text": "The Roman numeral L stands for 50. What does X stand for?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15202,
+        "question_text": "Complete the sequence in Roman numerals: X, XX, __, XL.",
+        "answer_type": "text_input",
+        "correct_answer": "XXX",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15203,
+        "question_text": "What number is XLVI?",
+        "answer_type": "text_input",
+        "correct_answer": "46",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15204,
+        "question_text": "Why is our number system (e.g. 502) often easier for calculations than the Roman system?",
+        "answer_type": "text_input",
+        "correct_answer": "It has place value",
+        "alternative_answer_1": "It has zero",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15205,
+        "question_text": "Write the number 31 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XXXI",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15206,
+        "question_text": "What is the value of LII?",
+        "answer_type": "text_input",
+        "correct_answer": "52",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15207,
+        "question_text": "A monument was built in year XX. What year was it?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15208,
+        "question_text": "Which Roman numeral is used for the number 50?",
+        "answer_type": "text_input",
+        "correct_answer": "L",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15209,
+        "question_text": "What number does the Roman numeral C represent?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15210,
+        "question_text": "How do you write 90 in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XC",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15211,
+        "question_text": "Read the Roman numeral XC. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15212,
+        "question_text": "What is the number for LX?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15213,
+        "question_text": "Write the number 75 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "LXXV",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15214,
+        "question_text": "Write the number 99 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XCIX",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15215,
+        "question_text": "Read the Roman numeral LXXXVIII. What number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "88",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15216,
+        "question_text": "A building has the date MCM written on it. Does the C mean that it is 100 years old?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15217,
+        "question_text": "In the number 105, the zero shows there are no tens. How would you show this absence in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "You can't",
+        "alternative_answer_1": "It is not possible",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15218,
+        "question_text": "What is larger: LXXX or XC?",
+        "answer_type": "text_input",
+        "correct_answer": "XC",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15219,
+        "question_text": "Complete the sequence in Roman numerals: L, LX, LXX, __.",
+        "answer_type": "text_input",
+        "correct_answer": "LXXX",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15220,
+        "question_text": "How is the number 58 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "LVIII",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15221,
+        "question_text": "A film series has a movie titled Part IX. If the previous film was Part VIII, is this the correct numbering?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15222,
+        "question_text": "The number 72 is written as LXXII. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15223,
+        "question_text": "What number is XCV?",
+        "answer_type": "text_input",
+        "correct_answer": "95",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15224,
+        "question_text": "Which system makes it easier to see that 100 is ten times bigger than 10: Roman numerals (C and X) or our system (100 and 10)?",
+        "answer_type": "text_input",
+        "correct_answer": "Our system",
+        "alternative_answer_1": "Hindu-Arabic",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15225,
+        "question_text": "Write the number 64 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "LXIV",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15226,
+        "question_text": "What is the value of XCI?",
+        "answer_type": "text_input",
+        "correct_answer": "91",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15227,
+        "question_text": "A historical document is dated with the year C. What year is this?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15228,
+        "question_text": "What does the C in XC stand for?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15229,
+        "question_text": "Order these Roman numerals from smallest to largest: L, C, X.",
+        "answer_type": "text_input",
+        "correct_answer": "X, L, C",
+        "alternative_answer_1": "X L C",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15230,
+        "question_text": "In the number 222, each 2 has a different value (200, 20, 2). Could you do this with Roman numerals (e.g. II)?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15231,
+        "question_text": "What number is LXXIX?",
+        "answer_type": "text_input",
+        "correct_answer": "79",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15232,
+        "question_text": "Write the number 83 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "LXXXIII",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15233,
+        "question_text": "What is 100 in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "C",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15234,
+        "question_text": "A Roman numeral is written as VIIII. Why is this incorrect, and what should it be?",
+        "answer_type": "text_input",
+        "correct_answer": "IX",
+        "alternative_answer_1": "You cannot have four Is together",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15235,
+        "question_text": "What is C - X in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XC",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15236,
+        "question_text": "If you add L and XL, what number do you get?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15237,
+        "question_text": "A book was written in the year XCV. Another was written in the year L. What is the difference in years?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45 years",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15238,
+        "question_text": "Which number system is better for multiplying large numbers like 25 x 49, and why?",
+        "answer_type": "text_input",
+        "correct_answer": "Our system because of place value",
+        "alternative_answer_1": "Hindu-Arabic",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15239,
+        "question_text": "What is the number just before C in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XCIX",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15240,
+        "question_text": "A queen reigned for 44 years. Her name was Elizabeth. How would you write Elizabeth the 44th?",
+        "answer_type": "text_input",
+        "correct_answer": "Elizabeth XLIV",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15241,
+        "question_text": "The number 94 is written as XCIV. Explain the meaning of each part.",
+        "answer_type": "text_input",
+        "correct_answer": "XC is 90, IV is 4",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15242,
+        "question_text": "What is half of C?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "L",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15243,
+        "question_text": "A building has the date LIX on it. What number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "59",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15244,
+        "question_text": "Why can't you write 99 as IC?",
+        "answer_type": "text_input",
+        "correct_answer": "You can only subtract I from V and X",
+        "alternative_answer_1": "The subtraction rule is limited",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15245,
+        "question_text": "What is L + XX + V + II?",
+        "answer_type": "text_input",
+        "correct_answer": "77",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15246,
+        "question_text": "If C is 100 and L is 50, what is C - L?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "L",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15247,
+        "question_text": "The number 49 could be written as IL. Why is this incorrect?",
+        "answer_type": "text_input",
+        "correct_answer": "I can only be subtracted from V and X",
+        "alternative_answer_1": "It should be XLIX",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15248,
+        "question_text": "Without the concept of zero, what kind of numbers would be very difficult to write?",
+        "answer_type": "text_input",
+        "correct_answer": "Large numbers",
+        "alternative_answer_1": "Numbers like 100, 1000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15249,
+        "question_text": "What is the sum of all the Roman numerals from I to V?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15250,
+        "question_text": "A king is the 23rd of his name. How is this written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XXIII",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15251,
+        "question_text": "What is the difference between XC and XL?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15252,
+        "question_text": "Could you easily add 102 and 205 using Roman numerals (CII + CCV)? Explain why or why not.",
+        "answer_type": "text_input",
+        "correct_answer": "No, there is no place value",
+        "alternative_answer_1": "No, it is difficult",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15253,
+        "question_text": "A TV series is on its 48th episode. How would this be written using Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XLVIII",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15254,
+        "question_text": "What is the number just after LXXIX?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "LXXX",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15255,
+        "question_text": "How was the concept of place value an improvement on the Roman system?",
+        "answer_type": "text_input",
+        "correct_answer": "It lets digits have different values",
+        "alternative_answer_1": "It makes calculations easier",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15256,
+        "question_text": "Add the Roman numerals: V + X + L",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15257,
+        "question_text": "What is the value of the number in the sequence after XCIX?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "C",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15258,
+        "question_text": "The year is 88. How is this written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "LXXXVIII",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 387
+    },
+    {
+        "question_id": 15740,
+        "question_text": "What number does the Roman numeral X represent?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15742,
+        "question_text": "How is the number 60 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "LX",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15743,
+        "question_text": "Read the Roman numeral LXX. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15744,
+        "question_text": "A book has Chapter XXXV. What chapter number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15745,
+        "question_text": "Convert the number 40 into Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XL",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15746,
+        "question_text": "The year 2000 is often written as MM. What does the M stand for?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15747,
+        "question_text": "What number is LXXX?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15748,
+        "question_text": "A building is dated C years old. How old is the building?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100 years",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15749,
+        "question_text": "Convert the Roman numeral XLV to a number.",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15750,
+        "question_text": "How would you write the number 28 in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XXVIII",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15751,
+        "question_text": "What is the value of the Roman numeral LXXV?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15752,
+        "question_text": "A list is numbered up to L. What is the last number on the list?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15753,
+        "question_text": "The Roman numeral for 49 is XLIX. Is this number greater or less than 50 (L)?",
+        "answer_type": "text_input",
+        "correct_answer": "Less",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15754,
+        "question_text": "What does the C mean in the year MCMLXX?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15755,
+        "question_text": "How is the number 39 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XXXIX",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15756,
+        "question_text": "What number is represented by XXXII?",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15757,
+        "question_text": "Is the Roman numeral C larger than the Roman numeral L?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15758,
+        "question_text": "A clock face has an IV. What number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15759,
+        "question_text": "What is the number for LXVI?",
+        "answer_type": "text_input",
+        "correct_answer": "66",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15760,
+        "question_text": "Convert 48 to a Roman numeral.",
+        "answer_type": "text_input",
+        "correct_answer": "XLVIII",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15761,
+        "question_text": "What does the M stand for in the year MMXXIV?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15762,
+        "question_text": "Read the number LXXX. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15763,
+        "question_text": "Write the number fifty as a Roman numeral.",
+        "answer_type": "text_input",
+        "correct_answer": "L",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15764,
+        "question_text": "What number is XXX?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15766,
+        "question_text": "How is the number 90 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "XC",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15767,
+        "question_text": "Read the Roman numeral CC. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15768,
+        "question_text": "What is the number for CD?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15769,
+        "question_text": "Write the number 150 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "CL",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15770,
+        "question_text": "Write the number 95 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XCV",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15771,
+        "question_text": "Read the Roman numeral CCCL. What is this number?",
+        "answer_type": "text_input",
+        "correct_answer": "350",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15772,
+        "question_text": "A building is dated MCD. What year is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1400",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15773,
+        "question_text": "The year MM is what number?",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15774,
+        "question_text": "What is larger: C or D?",
+        "answer_type": "text_input",
+        "correct_answer": "D",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15775,
+        "question_text": "Complete the sequence in Roman numerals: C, CC, CCC, __.",
+        "answer_type": "text_input",
+        "correct_answer": "CD",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15776,
+        "question_text": "How is the number 220 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "CCXX",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15777,
+        "question_text": "A book was published in the year MCM. What year was it?",
+        "answer_type": "text_input",
+        "correct_answer": "1900",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15778,
+        "question_text": "The Roman numeral for 100 is C. What is the Roman numeral for 500?",
+        "answer_type": "text_input",
+        "correct_answer": "D",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15779,
+        "question_text": "What number is CDL?",
+        "answer_type": "text_input",
+        "correct_answer": "450",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15780,
+        "question_text": "Write the number 300 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "CCC",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15781,
+        "question_text": "What is the value of CXXI?",
+        "answer_type": "text_input",
+        "correct_answer": "121",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15782,
+        "question_text": "A statue is dated CIX. What number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "109",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15783,
+        "question_text": "What does the D in the year MD stand for?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15784,
+        "question_text": "Order these Roman numerals from smallest to largest: D, C, L.",
+        "answer_type": "text_input",
+        "correct_answer": "L, C, D",
+        "alternative_answer_1": "L C D",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15785,
+        "question_text": "What number is CCCIX?",
+        "answer_type": "text_input",
+        "correct_answer": "309",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15786,
+        "question_text": "Write the number ninety-two in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "XCII",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15787,
+        "question_text": "What is the value of CCL?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15788,
+        "question_text": "The year of a great fire was written as MDC. What year was this?",
+        "answer_type": "text_input",
+        "correct_answer": "1600",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15789,
+        "question_text": "Convert 490 to Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "CDXC",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15790,
+        "question_text": "What number does the Roman numeral M represent?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15791,
+        "question_text": "How do you write 900 in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "CM",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15792,
+        "question_text": "Read the Roman numeral DCC. What number is it?",
+        "answer_type": "text_input",
+        "correct_answer": "700",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15793,
+        "question_text": "What is the number for CMXC?",
+        "answer_type": "text_input",
+        "correct_answer": "990",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15794,
+        "question_text": "Write the year you were born in Roman numerals. (Example: 2015)",
+        "answer_type": "text_input",
+        "correct_answer": "MMXV",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15795,
+        "question_text": "Write the current year in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "MMXXIV",
+        "alternative_answer_1": "MMXXV",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15796,
+        "question_text": "Read the Roman numeral DCCC. What number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "800",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15797,
+        "question_text": "A historical date is given as MCL. What year is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1150",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15798,
+        "question_text": "What is larger: D or M?",
+        "answer_type": "text_input",
+        "correct_answer": "M",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15799,
+        "question_text": "Complete the sequence: D, DC, DCC, __, CM.",
+        "answer_type": "text_input",
+        "correct_answer": "DCCC",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15800,
+        "question_text": "How is the number 650 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "DCL",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15801,
+        "question_text": "A film was made in the year MCML. What year was this?",
+        "answer_type": "text_input",
+        "correct_answer": "1950",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15802,
+        "question_text": "The Roman numeral for 500 is D. What is the Roman numeral for 1000?",
+        "answer_type": "text_input",
+        "correct_answer": "M",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15803,
+        "question_text": "What number is CMXI?",
+        "answer_type": "text_input",
+        "correct_answer": "911",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15804,
+        "question_text": "Write the number 888 in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "DCCCLXXXVIII",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15805,
+        "question_text": "What is the value of DIX?",
+        "answer_type": "text_input",
+        "correct_answer": "509",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15806,
+        "question_text": "A book is on Volume C. What volume number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15807,
+        "question_text": "What does the CM in the year MCMXCIX stand for?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15808,
+        "question_text": "Order these Roman numerals: M, D, C.",
+        "answer_type": "text_input",
+        "correct_answer": "C, D, M",
+        "alternative_answer_1": "C D M",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15809,
+        "question_text": "What number is DCLXVI?",
+        "answer_type": "text_input",
+        "correct_answer": "666",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15810,
+        "question_text": "Write the number nine hundred and ninety in Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "CMXC",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15811,
+        "question_text": "What is the value of DCCL?",
+        "answer_type": "text_input",
+        "correct_answer": "750",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15812,
+        "question_text": "A significant historical event is dated MCDXCII. What year is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1492",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15813,
+        "question_text": "Convert 777 to Roman numerals.",
+        "answer_type": "text_input",
+        "correct_answer": "DCCLXXVII",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15814,
+        "question_text": "The current monarch is King Charles III. Who was Charles II?",
+        "answer_type": "text_input",
+        "correct_answer": "Charles the Second",
+        "alternative_answer_1": "The second",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15815,
+        "question_text": "How is the number 999 written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "CMXCIX",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15816,
+        "question_text": "A Roman numeral is written as LLL. Why is this incorrect, and what should it be?",
+        "answer_type": "text_input",
+        "correct_answer": "CL",
+        "alternative_answer_1": "You cannot have three Ls",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15817,
+        "question_text": "What is M - C in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "CM",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15818,
+        "question_text": "If you add C and D, what number do you get?",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "DC",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15819,
+        "question_text": "A film was made in MCMLXXXIV. What year is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1984",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15820,
+        "question_text": "What is the number just before M in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "CMXCIX",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15821,
+        "question_text": "The number 499 is written as CDXCIX. Explain the meaning of each part.",
+        "answer_type": "text_input",
+        "correct_answer": "CD is 400, XC is 90, IX is 9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15822,
+        "question_text": "What is half of M?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "D",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15823,
+        "question_text": "A building has the date MDCLXVI on it. What year is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1666",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15824,
+        "question_text": "Why can't you write 499 as ID?",
+        "answer_type": "text_input",
+        "correct_answer": "You can only subtract a single power of ten",
+        "alternative_answer_1": "The subtraction rule is limited",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15825,
+        "question_text": "What is D + C + L + X + V + I?",
+        "answer_type": "text_input",
+        "correct_answer": "666",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15826,
+        "question_text": "If M is 1000 and D is 500, what is M - D?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "D",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15827,
+        "question_text": "The number 950 could be written as LM. Why is this incorrect?",
+        "answer_type": "text_input",
+        "correct_answer": "L cannot be subtracted from M",
+        "alternative_answer_1": "It should be CML",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15828,
+        "question_text": "A historical event happened in CDLIV. What number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "454",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15829,
+        "question_text": "What is the sum of all the main Roman numerals (I, V, X, L, C, D, M)?",
+        "answer_type": "text_input",
+        "correct_answer": "1666",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15830,
+        "question_text": "A TV channel is called Channel 44. How would this be written using Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "Channel XLIV",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15831,
+        "question_text": "What is the difference between CM and MC?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15832,
+        "question_text": "A friend writes 999 as IM. Explain why this is wrong.",
+        "answer_type": "text_input",
+        "correct_answer": "I cannot be subtracted from M",
+        "alternative_answer_1": "It should be CMXCIX",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15833,
+        "question_text": "The year 1990 is written as MCMXC. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15834,
+        "question_text": "What is the value of the number in the sequence after DCCCXCIX?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "CM",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15835,
+        "question_text": "Add the Roman numerals: C + L + X + V",
+        "answer_type": "text_input",
+        "correct_answer": "165",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15836,
+        "question_text": "What is the value of the sequence M, CM, DCCC... continuing?",
+        "answer_type": "text_input",
+        "correct_answer": "DCC",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15837,
+        "question_text": "The year is 1444. How is this written in Roman numerals?",
+        "answer_type": "text_input",
+        "correct_answer": "MCDXLIV",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15838,
+        "question_text": "A document is dated MDCCLXXVI. What year is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1776",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 15839,
+        "question_text": "What is C divided by X?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "X",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 28565,
+        "question_text": "In the number 123, what is the value of the digit 2?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "2 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28566,
+        "question_text": "What is the value of the 1 in the number 184?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "1 hundred",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28567,
+        "question_text": "In 152, which digit is in the ones place?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28568,
+        "question_text": "What is the value of the 9 in 196?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "9 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28569,
+        "question_text": "Which digit is in the hundreds place in the number 147?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28570,
+        "question_text": "In the number 138, what is the value of the 8?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8 ones",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28571,
+        "question_text": "What is the value of the digit 7 in 171?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "7 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28572,
+        "question_text": "In the number 165, which digit represents the hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28573,
+        "question_text": "What is the value of the 4 in the number 124?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4 ones",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28574,
+        "question_text": "In 182, what does the digit 8 stand for?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "8 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28575,
+        "question_text": "Which digit is in the tens place in 193?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28576,
+        "question_text": "What is the value of the first digit in the number 158?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "1 hundred",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28577,
+        "question_text": "In 146, what is the value of the 6?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6 ones",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28578,
+        "question_text": "What does the digit 1 represent in 111?",
+        "answer_type": "text_input",
+        "correct_answer": "100, 10, or 1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28579,
+        "question_text": "What does the first digit 1 represent in 111?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "1 hundred",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28580,
+        "question_text": "In 199, what is the value of the first 9?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "9 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28581,
+        "question_text": "What is the value of the units digit in 187?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28582,
+        "question_text": "In the number 162, what is the value of the 6?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "6 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28583,
+        "question_text": "Which digit holds the place for the tens in 142?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28584,
+        "question_text": "What is the value of the hundreds digit in 134?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28585,
+        "question_text": "In 178, what does the 7 represent?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "7 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28586,
+        "question_text": "What is the value of the 3 in 131?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "3 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28587,
+        "question_text": "Which digit is in the ones place in 159?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28588,
+        "question_text": "What is the value of the digit 1 in 186?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "1 hundred",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28589,
+        "question_text": "In the number 125, what is the value of the 2?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "2 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28591,
+        "question_text": "In the number 305, what is the value of the 3?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "3 hundreds",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28592,
+        "question_text": "What is the value of the 4 in 420?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "4 hundreds",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28593,
+        "question_text": "Which digit is in the tens place in 208?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28594,
+        "question_text": "What number has 3 hundreds, 0 tens, and 7 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "307",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28595,
+        "question_text": "In 490, what is the value of the 9?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "9 tens",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28596,
+        "question_text": "Write the number that has 2 hundreds, 5 tens and 0 ones.",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28597,
+        "question_text": "What is the value of the digit 8 in 380?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "8 tens",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28598,
+        "question_text": "In the number 401, which digit represents the hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28599,
+        "question_text": "What is the value of the 5 in the number 205?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5 ones",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28600,
+        "question_text": "In 482, what does the digit 4 stand for?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "4 hundreds",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28601,
+        "question_text": "What number is shown by: 3 hundreds + 2 tens + 1 one?",
+        "answer_type": "text_input",
+        "correct_answer": "321",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28602,
+        "question_text": "What is the value of the first digit in the number 458?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "4 hundreds",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28603,
+        "question_text": "In 360, what is the value of the 0?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "0 ones",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28604,
+        "question_text": "What does the digit 2 represent in 211?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "2 hundreds",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28605,
+        "question_text": "In 499, what is the value of the 4?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "4 hundreds",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28606,
+        "question_text": "What is the value of the units digit in 307?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28607,
+        "question_text": "In the number 260, what is the value of the 6?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "6 tens",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28608,
+        "question_text": "Which digit holds the place for the ones in 420?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28609,
+        "question_text": "What is the value of the hundreds digit in 304?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28610,
+        "question_text": "Write the number represented by 4 hundreds and 5 ones.",
+        "answer_type": "text_input",
+        "correct_answer": "405",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28611,
+        "question_text": "What is the value of the 3 in 310?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "3 hundreds",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28612,
+        "question_text": "In 209, which digit is in the ones place?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28613,
+        "question_text": "What is the value of the digit 1 in 108?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "1 hundred",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28614,
+        "question_text": "In the number 250, what is the value of the 2?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "2 hundreds",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28615,
+        "question_text": "What is the value of the 5 in 405?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5 ones",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28616,
+        "question_text": "What number is made from 2 hundreds, 14 tens, and 3 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "343",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28617,
+        "question_text": "A number is represented as 1 hundred, 16 tens, and 5 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "265",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28618,
+        "question_text": "Tom says the number 411 is made of 3 hundreds and 11 tens. Is he correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28619,
+        "question_text": "Tom says the number 410 is made of 3 hundreds and 11 tens. Is he correct? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28620,
+        "question_text": "The number 528 has 5 hundreds, 2 tens, and 8 ones. Is this representation correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28621,
+        "question_text": "What is the number represented by 12 tens and 7 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "127",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28622,
+        "question_text": "A number is shown with arrow cards as 600, 150, and 3. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "753",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28623,
+        "question_text": "What is the value of 2 hundreds and 11 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "310",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28624,
+        "question_text": "What number has 8 hundreds, 10 tens, and 10 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "910",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28625,
+        "question_text": "Jane wrote that 567 is 4 hundreds, 15 tens, and 7 ones. Is she correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28626,
+        "question_text": "What is the number if it has 25 tens and 4 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "254",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28627,
+        "question_text": "In the number 703, what is the value of the 7?",
+        "answer_type": "text_input",
+        "correct_answer": "700",
+        "alternative_answer_1": "7 hundreds",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28628,
+        "question_text": "How would you write 1 hundred, 18 tens, and 9 ones as a standard number?",
+        "answer_type": "text_input",
+        "correct_answer": "289",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28629,
+        "question_text": "What number is represented by 32 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "320",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28630,
+        "question_text": "Correct the mistake: 6 hundreds, 2 tens, and 15 ones is 625.",
+        "answer_type": "text_input",
+        "correct_answer": "635",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28631,
+        "question_text": "What number is 2 hundreds, 20 tens and 2 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "402",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28632,
+        "question_text": "Is it true that 891 is the same as 7 hundreds, 19 tens, and 1 one?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28633,
+        "question_text": "What is 15 tens and 15 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "165",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28634,
+        "question_text": "A number has a 9 in the hundreds place. It has 12 tens. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "1020",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28635,
+        "question_text": "A number has a 9 in the hundreds place. It has 12 tens and 0 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "1020",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28636,
+        "question_text": "A number is made of 9 hundreds and 5 tens. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "950",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28637,
+        "question_text": "A number has 4 hundreds, 1 ten, and 23 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "433",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28638,
+        "question_text": "What is the value of 5 hundreds and 17 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "670",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28639,
+        "question_text": "What number has a 0 in the ones place, a 5 in the hundreds place, and 12 in the tens place?",
+        "answer_type": "text_input",
+        "correct_answer": "620",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28640,
+        "question_text": "Correct the error: The number 707 is made of 7 hundreds and 7 tens.",
+        "answer_type": "text_input",
+        "correct_answer": "7 hundreds and 7 ones",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28642,
+        "question_text": "How many tens are there in the number 456 altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28643,
+        "question_text": "Partition the number 623 in a non-standard way using 5 hundreds.",
+        "answer_type": "text_input",
+        "correct_answer": "5 hundreds, 12 tens, 3 ones",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28644,
+        "question_text": "Explain why the 8 in 821 is worth more than the 2.",
+        "answer_type": "text_input",
+        "correct_answer": "The 8 is 8 hundreds, the 2 is 2 tens.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28645,
+        "question_text": "What number is made from 3 hundreds, 12 tens, and 14 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "434",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28646,
+        "question_text": "How would you write 789 using only tens and ones?",
+        "answer_type": "text_input",
+        "correct_answer": "78 tens and 9 ones",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28647,
+        "question_text": "How many ones are there in the number 234 altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "234",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28648,
+        "question_text": "Take the number 543. What is the sum of the values of its digits?",
+        "answer_type": "text_input",
+        "correct_answer": "543",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28649,
+        "question_text": "A number has 5 hundreds. If you add 10 more tens to it, what is the new number?",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28650,
+        "question_text": "Partition 912 in a different way.",
+        "answer_type": "text_input",
+        "correct_answer": "8 hundreds, 11 tens, 2 ones",
+        "alternative_answer_1": "91 tens, 2 ones",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28651,
+        "question_text": "How many hundreds are in 999 altogether? (Do not round)",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28652,
+        "question_text": "In 582, what is the product of the value of the 5 and the value of the 2?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28653,
+        "question_text": "Why is the number 105 different from 150?",
+        "answer_type": "text_input",
+        "correct_answer": "The zero is in a different place",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28654,
+        "question_text": "If you have 4 hundreds and 25 tens, what number do you have?",
+        "answer_type": "text_input",
+        "correct_answer": "650",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28655,
+        "question_text": "How many tens do you need to add to 8 hundreds and 5 ones to make 905?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10 tens",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28656,
+        "question_text": "What is 10 less than the number made of 4 hundreds and 3 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "420",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28657,
+        "question_text": "Partition 350 into hundreds and tens in two different ways.",
+        "answer_type": "text_input",
+        "correct_answer": "3h 5t and 2h 15t",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28658,
+        "question_text": "A number is made of 42 tens and 7 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "427",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28659,
+        "question_text": "Explain what the zero in 609 means.",
+        "answer_type": "text_input",
+        "correct_answer": "There are no tens",
+        "alternative_answer_1": "It is a placeholder",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28660,
+        "question_text": "How many tens are in 720 altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "72",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28661,
+        "question_text": "What is the largest 3-digit number you can make where the hundreds digit is 4?",
+        "answer_type": "text_input",
+        "correct_answer": "499",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28662,
+        "question_text": "In 333, how many times larger is the first 3 than the last 3?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28663,
+        "question_text": "If I have 2 hundreds, 15 tens and 8 ones, what number do I have?",
+        "answer_type": "text_input",
+        "correct_answer": "358",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28664,
+        "question_text": "A number has 9 hundreds and 11 tens. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "1010",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28665,
+        "question_text": "Take the number 842. How many tens can you make from it in total?",
+        "answer_type": "text_input",
+        "correct_answer": "84",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 28666,
+        "question_text": "Create a 3-digit number where the tens digit is the sum of the hundreds and ones digits.",
+        "answer_type": "text_input",
+        "correct_answer": "154",
+        "alternative_answer_1": "275",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 27
+    },
+    {
+        "question_id": 29840,
+        "question_text": "In the number 19, what is the value of the digit 1?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "1 ten",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 29841,
+        "question_text": "In the number 14, how many tens and how many ones are there?",
+        "answer_type": "text_input",
+        "correct_answer": "1 ten and 4 ones",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 29842,
+        "question_text": "Represent the number 35 as tens and ones.",
+        "answer_type": "text_input",
+        "correct_answer": "3 tens and 5 ones",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 29885,
+        "question_text": "What is the value of the digit 9 in 19,876?",
+        "answer_type": "text_input",
+        "correct_answer": "9000",
+        "alternative_answer_1": "9 thousands",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 28
+    },
+    {
+        "question_id": 29961,
+        "question_text": "A number has 5 tens and 12 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "62",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 29976,
+        "question_text": "What number is made of 1 ten and 17 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 26
+    },
+    {
+        "question_id": 29984,
+        "question_text": "Write the Roman numeral for the number 40.",
+        "answer_type": "text_input",
+        "correct_answer": "XL",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 388
+    },
+    {
+        "question_id": 29985,
+        "question_text": "What year is represented by the Roman numerals MD?",
+        "answer_type": "text_input",
+        "correct_answer": "1500",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 388
+    }
+]

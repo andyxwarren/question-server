@@ -109,6 +109,8 @@
             <a href="#session-8" class="nav-btn">S8</a>
             <a href="#session-9" class="nav-btn">S9</a>
             <a href="#session-10" class="nav-btn">S10</a>
+            <a href="#session-11" class="nav-btn">S11</a>
+            <a href="#session-12" class="nav-btn">S12</a>
         </div>
     </header>
 
@@ -501,6 +503,97 @@
             <li><strong>Power Up Animation</strong>: Created a celebratory overlay animation that plays when completing all four Pundex tiers (Ignition → Charging → Ready → Power Up), showing the meter filling and flashing.</li>
             <li><strong>Level Up Animation</strong>: Added a distinct animation when advancing to the next level after completing Power Up, with visual feedback showing progression.</li>
             <li><strong>Sequenced Effects</strong>: Animations use timed sequences with CSS transitions to show lights filling, flashing, and the overlay fading out.</li>
+        </ul>
+    </div>
+
+    <div id="session-11" class="session">
+        <h2>Session Eleven: December 13-14, 2025</h2>
+        <p>Progress Dashboard mobile layout refinements and Pathway Selector laptop view improvements.</p>
+
+        <h3>Progress Dashboard - Mobile Header Bar</h3>
+        <ul>
+            <li><strong>Fixed Mobile Header</strong>: Implemented a separate fixed header bar (<code>.mobile-table-header</code>) showing Mission/L1/L2/L3 columns positioned below the sticky Progress Dashboard header.</li>
+            <li><strong>Header Positioning</strong>: Set header bar to <code>position: fixed</code> at <code>top: 80px</code> with <code>z-index: 500</code> to stay visible during scrolling.</li>
+            <li><strong>Column Width Alignment</strong>: Configured header cells with explicit widths (40% for Mission, 20% for each level) to match table column widths.</li>
+        </ul>
+
+        <h3>Progress Dashboard - Mobile Column Visibility</h3>
+        <ul>
+            <li><strong>Hide Extra Columns</strong>: Used <code>nth-child(n+5)</code> selector to hide Level 4, 5, 6 columns (columns 5-7) on mobile with <code>display: none</code>, <code>width: 0</code>, and <code>visibility: collapse</code>.</li>
+            <li><strong>Colgroup Control</strong>: Applied column widths via <code>colgroup col</code> selectors for consistent table layout with <code>table-layout: fixed</code>.</li>
+            <li><strong>Realm Row Columns</strong>: Ensured realm rows also hide columns 5+ and display columns 2-4 with proper widths.</li>
+        </ul>
+
+        <h3>Progress Dashboard - Sticky Elements</h3>
+        <ul>
+            <li><strong>Realm Row Positioning</strong>: Set realm rows to <code>position: sticky</code> at <code>top: 110px</code> to stick below the fixed header bar.</li>
+            <li><strong>Dashboard Container Padding</strong>: Added <code>padding-top: 30px</code> to account for the fixed header height.</li>
+            <li><strong>Z-Index Layering</strong>: Configured proper z-index values (500 for header bar, 50 for realm rows) to ensure correct stacking order.</li>
+        </ul>
+
+        <h3>Pathway Selector - Laptop View (No Scrolling)</h3>
+        <ul>
+            <li><strong>Container Sizing</strong>: Reduced container margin to <code>2vh</code>, padding to <code>15px</code>, and set <code>overflow-y: hidden</code> to prevent scrolling.</li>
+            <li><strong>Smaller Arcade Buttons</strong>: Reduced button size from 155px to 130px (width/height) and font-size to 0.9em.</li>
+            <li><strong>Reduced Grid Gap</strong>: Changed grid gap from <code>32px 24px</code> to <code>20px 20px</code> for tighter button spacing.</li>
+            <li><strong>Compact Title/Subtitle</strong>: Reduced title min-height to 50px with font-size 1.4em, subtitle margin-bottom to 10px with font-size 0.9em.</li>
+        </ul>
+
+        <h3>Pathway Selector - FDP Page Fixes</h3>
+        <ul>
+            <li><strong>Single-Line Title</strong>: Added page-specific CSS (<code>#fdpSubTopicsPage .title</code>) with <code>font-size: 1.05em</code> and <code>white-space: nowrap</code> so "FRACTIONS, DECIMALS AND PERCENTAGES" fits on one line.</li>
+            <li><strong>Reduced Problem Solving Gap</strong>: Changed Problem Solving button wrapper margins from <code>margin-top: 32px; margin-bottom: 48px</code> to <code>margin-top: 0; margin-bottom: 10px</code>.</li>
+            <li><strong>Smaller Problem Solving Button</strong>: Reduced button padding from <code>20px 40px</code> to <code>15px 30px</code> and box-shadow intensity.</li>
+        </ul>
+
+        <h3>Files Modified</h3>
+        <ul>
+            <li><code>Progress_Dashboard_dynamic_levels.html</code> - Mobile CSS for header bar, column visibility, sticky positioning</li>
+            <li><code>Pathway_Selector.html</code> - Laptop view sizing, FDP title styling, Problem Solving button spacing</li>
+        </ul>
+    </div>
+
+    <div id="session-12" class="session">
+        <h2>Session Twelve: December 14, 2025</h2>
+        <p>Progress Dashboard hierarchical unlocking, Mission Reference Document creation, and Pathway Selector CDR framework alignment.</p>
+
+        <h3>Pathway Selector - CDR Framework Rebuild</h3>
+        <ul>
+            <li><strong>Google AI Studio Rebuild</strong>: Remade the Pathway Selector using Google AI Studio to ensure consistency with the new Content Domain Reference (CDR) framework.</li>
+            <li><strong>CDR Alignment</strong>: Updated mission structure to match the 56-mission curriculum with proper CDR codes (N1-N6, C1-C9, F1-F12, R1-R4, A1-A5, M1-M12, G1-G5, P1-P3, S1-S3).</li>
+        </ul>
+
+        <h3>Progress Dashboard - Hierarchical Mission Unlocking</h3>
+        <ul>
+            <li><strong>Prerequisite Logic</strong>: Implemented hierarchical unlocking where missions starting at Level N only appear after all missions at levels below N are completed to Power Up.</li>
+            <li><strong>Level Completion Check</strong>: Added <code>isLevelFullyCompleted()</code> function to verify all missions at a given level have Power Up status.</li>
+            <li><strong>Locked Mission Styling</strong>: Created <code>.locked-mission</code> CSS class to hide missions that haven't met prerequisites (<code>display: none</code>).</li>
+            <li><strong>Dynamic Availability</strong>: Missions dynamically appear as users complete prerequisite levels, encouraging systematic progression.</li>
+        </ul>
+
+        <h3>Progress Dashboard - Curriculum-Based Level Availability</h3>
+        <ul>
+            <li><strong>Available Levels Data</strong>: Added <code>availableLevels</code> object mapping each CDR to its available year levels based on <code>topic_rows.csv</code> curriculum data.</li>
+            <li><strong>Unavailable Level Marking</strong>: <code>markUnavailableLevels()</code> function marks cells as unavailable if not in curriculum (shows dash "—").</li>
+            <li><strong>14 Level 1 Missions</strong>: Verified exactly 14 missions are available at Level 1, matching curriculum structure.</li>
+        </ul>
+
+        <h3>Mission Reference Document (Progress_Dashboard_all_levels.html)</h3>
+        <ul>
+            <li><strong>New Reference File</strong>: Created <code>Progress_Dashboard_all_levels.html</code> as a visual reference showing all 56 missions and all 6 levels.</li>
+            <li><strong>No Login Required</strong>: Removed <code>user-auth.js</code> dependency and login requirement for standalone viewing.</li>
+            <li><strong>No Click Functionality</strong>: Removed launch buttons and click handlers - mission names show default cursor.</li>
+            <li><strong>Tooltips Preserved</strong>: Kept hover tooltips (desktop) and tap-toggle tooltips (mobile/tablet) showing module descriptions.</li>
+            <li><strong>Mission Counts in Headers</strong>: Level headers show mission counts, e.g., "Level 1 (14)", "Level 2 (47)".</li>
+            <li><strong>Simplified Legend</strong>: Removed all legend items except "No Modules" indicator.</li>
+            <li><strong>Module Data Keys Fixed</strong>: Updated <code>moduleData</code> object keys to match actual HTML mission names for tooltip functionality.</li>
+        </ul>
+
+        <h3>Files Modified</h3>
+        <ul>
+            <li><code>Progress_Dashboard_dynamic_levels.html</code> - Hierarchical unlocking logic, curriculum-based availability, locked mission styling</li>
+            <li><code>Progress_Dashboard_all_levels.html</code> - New reference document with all missions/levels visible, no login, tooltips only</li>
+            <li><code>Pathway_Selector.html</code> - Rebuilt with Google AI Studio for CDR framework consistency</li>
         </ul>
     </div>
 

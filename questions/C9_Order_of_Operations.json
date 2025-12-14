@@ -1,0 +1,4002 @@
+[
+    {
+        "question_id": 2036,
+        "question_text": "Calculate: 5 + 2 * 3",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2037,
+        "question_text": "Calculate: 10 - 3 * 2",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2038,
+        "question_text": "Calculate: 4 * 5 + 6",
+        "answer_type": "text_input",
+        "correct_answer": "26",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2039,
+        "question_text": "Calculate: 20 - 10 / 2",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2040,
+        "question_text": "Calculate: 8 + 6 / 3",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2041,
+        "question_text": "Calculate: 7 * 3 - 5",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2042,
+        "question_text": "Calculate: 15 / 5 + 4",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2043,
+        "question_text": "Calculate: 9 + 4 * 2",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2044,
+        "question_text": "Calculate: 18 - 12 / 6",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2045,
+        "question_text": "Calculate: 3 * 6 + 7",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2046,
+        "question_text": "Calculate: 2 + 5 * 4",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2047,
+        "question_text": "Calculate: 30 - 4 * 5",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2048,
+        "question_text": "Calculate: 6 * 6 - 10",
+        "answer_type": "text_input",
+        "correct_answer": "26",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2049,
+        "question_text": "Calculate: 24 / 8 + 9",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2050,
+        "question_text": "Calculate: 14 + 10 / 5",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2051,
+        "question_text": "Calculate: 8 * 4 - 20",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2052,
+        "question_text": "Calculate: 50 - 30 / 3",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2053,
+        "question_text": "Calculate: 10 * 3 + 15",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2054,
+        "question_text": "Calculate: 6 + 21 / 7",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2055,
+        "question_text": "Calculate: 9 * 5 - 25",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2056,
+        "question_text": "Calculate: 16 / 2 + 12",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2057,
+        "question_text": "Calculate: 25 - 5 * 3",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2058,
+        "question_text": "Calculate: 1 + 8 * 5",
+        "answer_type": "text_input",
+        "correct_answer": "41",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2059,
+        "question_text": "Calculate: 40 / 4 - 3",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2060,
+        "question_text": "Calculate: 11 + 6 * 4",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2061,
+        "question_text": "Calculate: (5 + 3) * 4",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2062,
+        "question_text": "Calculate: 20 - (4 * 3)",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2063,
+        "question_text": "Calculate: 6 * (10 - 3)",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2064,
+        "question_text": "Calculate: 30 / (2 + 3)",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2065,
+        "question_text": "Calculate: 2 + 3 * 4 - 1",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2066,
+        "question_text": "Calculate: (15 - 5) * 2",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2067,
+        "question_text": "Calculate: 50 - (20 + 10)",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2068,
+        "question_text": "Calculate: 8 * 2 + 5 * 3",
+        "answer_type": "text_input",
+        "correct_answer": "31",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2069,
+        "question_text": "Calculate: 10 + (30 / 6)",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2070,
+        "question_text": "Calculate: (8 + 4) / 3",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2071,
+        "question_text": "Calculate: 7 + 2 * 6 - 4",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2072,
+        "question_text": "Calculate: 9 * (2 + 3)",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2073,
+        "question_text": "Calculate: 100 - 10 * 8",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2074,
+        "question_text": "Calculate: 4 * 5 + 3 * 2",
+        "answer_type": "text_input",
+        "correct_answer": "26",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2075,
+        "question_text": "Calculate: (25 - 10) / 5",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2076,
+        "question_text": "Calculate: 12 + 8 / 2 - 3",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2077,
+        "question_text": "Calculate: 3 * (4 + 6)",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2078,
+        "question_text": "Calculate: 60 / (10 - 4)",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2079,
+        "question_text": "Calculate: 5 * 6 - 2 * 7",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2080,
+        "question_text": "Calculate: (9 + 9) / 2",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2081,
+        "question_text": "Calculate: 20 + 5 * 2 - 10",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2082,
+        "question_text": "Calculate: 8 * (12 - 5)",
+        "answer_type": "text_input",
+        "correct_answer": "56",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2083,
+        "question_text": "Calculate: 70 - (5 * 10)",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2084,
+        "question_text": "Calculate: 18 / 3 + 4 * 5",
+        "answer_type": "text_input",
+        "correct_answer": "26",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2085,
+        "question_text": "Calculate: 4 * (20 - 15)",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2086,
+        "question_text": "Calculate: 10 * (6 + 4) - 20",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2087,
+        "question_text": "Calculate: 100 - (5 * 8 + 10)",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2088,
+        "question_text": "A student calculated 10 + 5 * 2 and got 30. What is the correct answer?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2089,
+        "question_text": "Add brackets to make this equation true: 4 + 6 * 3 = 30",
+        "answer_type": "text_input",
+        "correct_answer": "(4 + 6) * 3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2090,
+        "question_text": "Calculate: 50 / (10 - 5) + 15",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2091,
+        "question_text": "Calculate: 8 * (20 - 10) / 4",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2092,
+        "question_text": "A student calculated 50 - 20 / 5 and got 6. What is the correct answer?",
+        "answer_type": "text_input",
+        "correct_answer": "46",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2093,
+        "question_text": "Add brackets to make this equation true: 20 - 8 - 2 = 14",
+        "answer_type": "text_input",
+        "correct_answer": "20 - (8 - 2)",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2094,
+        "question_text": "Calculate: 7 + (50 - 10) / 8",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2095,
+        "question_text": "Calculate: (6 + 9) * 10 - 50",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2096,
+        "question_text": "Add brackets to make this equation true: 3 * 7 + 3 = 30",
+        "answer_type": "text_input",
+        "correct_answer": "3 * (7 + 3)",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2097,
+        "question_text": "Calculate: 120 / (4 * 5) + 10",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2098,
+        "question_text": "A student calculated 6 * 5 + 5 * 5 and got 200. What is the correct answer?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2099,
+        "question_text": "Calculate: 200 - 10 * (5 + 5)",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2100,
+        "question_text": "Add brackets to make this equation true: 24 / 4 + 2 = 4",
+        "answer_type": "text_input",
+        "correct_answer": "24 / (4 + 2)",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2101,
+        "question_text": "Calculate: 9 * 9 - (20 + 21)",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2102,
+        "question_text": "Calculate: (15 + 25) / 4 + 90",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2103,
+        "question_text": "A student calculated (10 + 2) * 5 and got 22. What is the correct answer?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2104,
+        "question_text": "Add brackets to make this equation true: 100 - 50 - 25 = 75",
+        "answer_type": "text_input",
+        "correct_answer": "100 - (50 - 25)",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2105,
+        "question_text": "Calculate: 6 * (100 / 10) - 30",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2106,
+        "question_text": "Calculate: 45 + 5 * (20 - 10)",
+        "answer_type": "text_input",
+        "correct_answer": "95",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2107,
+        "question_text": "A student calculated 3 + 4 * 10 - 2 and got 68. What is the correct answer?",
+        "answer_type": "text_input",
+        "correct_answer": "41",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2108,
+        "question_text": "Add brackets to make this equation true: 18 / 6 + 3 = 2",
+        "answer_type": "text_input",
+        "correct_answer": "18 / (6 + 3)",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2109,
+        "question_text": "Calculate: (50 - 10) / (4 + 4)",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2110,
+        "question_text": "Calculate: 30 * (15 - 5) + 100",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2111,
+        "question_text": "Calculate: 10 * (8 + (30 / 3))",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2112,
+        "question_text": "Calculate: 250 - (100 - (20 * 4))",
+        "answer_type": "text_input",
+        "correct_answer": "230",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2113,
+        "question_text": "A shop sells apples for £2 and bananas for £3. Tom buys 5 apples and 4 bananas. How much does he spend?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2114,
+        "question_text": "Calculate: (60 / (10 + 2)) * 11",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2115,
+        "question_text": "Calculate: 5 * (3 + 2) * (10 - 6)",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2116,
+        "question_text": "A bus has 50 seats. 3 groups of 8 students get on, and 2 groups of 4 students get on. How many empty seats are left?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2117,
+        "question_text": "Calculate: ((10 + 20) * 3) + 10",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2118,
+        "question_text": "Calculate: 1000 / (2 * (4 + 1))",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2119,
+        "question_text": "Kate earns £100. She spends £25 on food and then buys 5 books that cost £10 each. How much money does she have left?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2120,
+        "question_text": "Calculate: 8 * (100 - (5 * 10))",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2121,
+        "question_text": "Calculate: (7 + 3) * (50 / (2 + 3))",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2122,
+        "question_text": "There are 200 fish in a tank. The owner adds 10 new fish every day for 5 days. Then, he sells half of all the fish. How many fish are left?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2123,
+        "question_text": "Calculate: 20 + ((8 * 10) / 4)",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2124,
+        "question_text": "Calculate: (500 - (10 * 10)) / 10",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2125,
+        "question_text": "A library has 12 shelves with 20 books on each shelf. If 50 books are borrowed, how many books remain?",
+        "answer_type": "text_input",
+        "correct_answer": "190",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2126,
+        "question_text": "Calculate: 15 * (4 + (12 / 2))",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2127,
+        "question_text": "Calculate: ((90 / 9) + 10) * 5",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2128,
+        "question_text": "A farmer has 10 fields, and each field has 30 sheep. He sells 5 sheep from each of 4 fields. How many sheep does he have left?",
+        "answer_type": "text_input",
+        "correct_answer": "280",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2129,
+        "question_text": "Calculate: 300 / (10 * (2 + 1))",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2130,
+        "question_text": "Calculate: 6 * (25 - (100 / 10))",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2131,
+        "question_text": "Sam has 3 boxes of 50 crayons. He gives 20 crayons to his brother and loses 5. How many crayons does Sam have left?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2132,
+        "question_text": "Calculate: (8 * 8) + (6 * 6)",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2133,
+        "question_text": "Calculate: 7 * (10 + (4 * 5))",
+        "answer_type": "text_input",
+        "correct_answer": "210",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2134,
+        "question_text": "A baker makes 15 cakes. He puts 8 strawberries on 10 of the cakes and 5 strawberries on the remaining 5 cakes. How many strawberries did he use in total?",
+        "answer_type": "text_input",
+        "correct_answer": "105",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 2135,
+        "question_text": "Calculate: 100 - (4 * (10 + 5))",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 402
+    },
+    {
+        "question_id": 10456,
+        "question_text": "What is 2 x 4?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10457,
+        "question_text": "What is 4 x 2?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10458,
+        "question_text": "Is the answer to 2 x 4 the same as 4 x 2? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10459,
+        "question_text": "Multiply 3 by 5.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10460,
+        "question_text": "What is 5 x 3?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10461,
+        "question_text": "Is 3 x 5 the same as 5 x 3? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10462,
+        "question_text": "What is 6 ÷ 2?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10463,
+        "question_text": "Can you calculate 2 ÷ 6 to get a whole number?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10464,
+        "question_text": "Is 6 ÷ 2 the same as 2 ÷ 6? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10465,
+        "question_text": "What is 8 ÷ 4?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10466,
+        "question_text": "Is 8 ÷ 4 the same as 4 ÷ 8? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10467,
+        "question_text": "What is 10 ÷ 5?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10468,
+        "question_text": "Is 10 ÷ 5 the same as 5 ÷ 10? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10469,
+        "question_text": "If you have 3 rows of 2 dots, you have 6 dots. Is this the same as 2 rows of 3 dots? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10470,
+        "question_text": "I have 4 bags with 5 apples in each. Do I have the same number of apples as 5 bags with 4 apples in each? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10471,
+        "question_text": "Calculate 1 x 7.",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10472,
+        "question_text": "Calculate 7 x 1.",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10473,
+        "question_text": "Is 1 x 7 the same as 7 x 1? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10474,
+        "question_text": "Is sharing 9 sweets among 3 friends the same as sharing 3 sweets among 9 friends? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10475,
+        "question_text": "What is 6 x 1?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10476,
+        "question_text": "Is 6 x 1 the same as 1 x 6?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10477,
+        "question_text": "What is 9 ÷ 3?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10478,
+        "question_text": "Is 9 ÷ 3 the same as 3 ÷ 9?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10479,
+        "question_text": "Look at the sum 2 x 5 = 10. Write another multiplication sum using the same numbers that gives the same answer.",
+        "answer_type": "text_input",
+        "correct_answer": "5 x 2 = 10",
+        "alternative_answer_1": "5 x 2",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10480,
+        "question_text": "Look at the sum 8 ÷ 2 = 4. Can you swap the numbers to make another division sum?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10481,
+        "question_text": "True or False: 4 x 10 is the same as 10 x 4.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10482,
+        "question_text": "True or False: 3 x 15 is the same as 15 x 3.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10483,
+        "question_text": "True or False: 5 x 8 gives the same answer as 8 x 5.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10484,
+        "question_text": "True or False: 20 ÷ 4 is the same as 4 ÷ 20.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10485,
+        "question_text": "True or False: 30 ÷ 10 gives the same answer as 10 ÷ 30.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10486,
+        "question_text": "If you know that 12 x 4 = 48, what other multiplication fact using these numbers do you also know?",
+        "answer_type": "text_input",
+        "correct_answer": "4 x 12 = 48",
+        "alternative_answer_1": "4 x 12",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10487,
+        "question_text": "If you know that 3 x 11 = 33, what other multiplication fact using these numbers do you also know?",
+        "answer_type": "text_input",
+        "correct_answer": "11 x 3 = 33",
+        "alternative_answer_1": "11 x 3",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10488,
+        "question_text": "Which statement is correct? A) 25 ÷ 5 = 5 ÷ 25 or B) 5 x 5 = 5 x 5",
+        "answer_type": "text_input",
+        "correct_answer": "B",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10489,
+        "question_text": "Which statement is correct? A) 2 x 18 = 18 x 2 or B) 18 ÷ 2 = 2 ÷ 18",
+        "answer_type": "text_input",
+        "correct_answer": "A",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10490,
+        "question_text": "Does 20 x 2 give the same answer as 2 x 20?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10491,
+        "question_text": "Does 45 ÷ 5 give the same answer as 5 ÷ 45?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10492,
+        "question_text": "Complete the pair of related facts: 14 x 2 = 28, so __ x 14 = 28.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10493,
+        "question_text": "Complete the pair of related facts: 5 x 9 = 45, so __ x 5 = 45.",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10494,
+        "question_text": "Is the following statement true or false? 50 ÷ 10 = 10 ÷ 50.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10495,
+        "question_text": "Is the following statement true or false? 1 x 49 = 49 x 1.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10496,
+        "question_text": "An array shows 3 rows of 12 dots. Does this array have the same number of dots as an array with 12 rows of 3 dots?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10497,
+        "question_text": "Which sum is easier to calculate mentally: 2 x 25 or 25 x 2?",
+        "answer_type": "text_input",
+        "correct_answer": "2 x 25",
+        "alternative_answer_1": "They are the same",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10498,
+        "question_text": "You know that 40 ÷ 8 = 5. Does this mean you also know that 8 ÷ 40 = 5?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10499,
+        "question_text": "Look at the fact 10 x 5 = 50. Write the other multiplication fact for this family.",
+        "answer_type": "text_input",
+        "correct_answer": "5 x 10 = 50",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10500,
+        "question_text": "True or False: 16 x 2 has the same value as 2 x 16.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10501,
+        "question_text": "True or False: 36 ÷ 4 has the same value as 4 ÷ 36.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10502,
+        "question_text": "If 4 groups of 11 is 44, are 11 groups of 4 also 44?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10503,
+        "question_text": "Can you swap the numbers in 24 ÷ 4 and get the same answer?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10504,
+        "question_text": "Which of these is the same as 3 x 13? A) 13 x 3 or B) 13 ÷ 3",
+        "answer_type": "text_input",
+        "correct_answer": "A",
+        "alternative_answer_1": "13 x 3",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10505,
+        "question_text": "Which of these is NOT the same as 40 ÷ 10? A) 4 or B) 10 ÷ 40",
+        "answer_type": "text_input",
+        "correct_answer": "B",
+        "alternative_answer_1": "10 ÷ 40",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10506,
+        "question_text": "Explain in one sentence why 20 x 4 gives the same answer as 4 x 20.",
+        "answer_type": "text_input",
+        "correct_answer": "Because multiplication is commutative.",
+        "alternative_answer_1": "You can swap the numbers in multiplication.",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10507,
+        "question_text": "Explain in one sentence why 60 ÷ 6 is different from 6 ÷ 60.",
+        "answer_type": "text_input",
+        "correct_answer": "Because division is not commutative.",
+        "alternative_answer_1": "You cannot swap the numbers in division.",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10508,
+        "question_text": "A baker has 15 tins. Each tin holds 6 cakes. Is this the same number of cakes as having 6 tins with 15 cakes in each? Explain why.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, because 15 x 6 = 6 x 15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10509,
+        "question_text": "To calculate 18 x 5, it is easier to calculate 5 x 18. Why does this work?",
+        "answer_type": "text_input",
+        "correct_answer": "Because you can swap the numbers in multiplication.",
+        "alternative_answer_1": "Multiplication is commutative.",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10510,
+        "question_text": "Tom says that because 7 x 8 = 56, it must be true that 56 ÷ 7 = 8. Is he correct? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10511,
+        "question_text": "Ben says that because 50 ÷ 10 = 5, it must be true that 10 ÷ 50 = 5. Is he correct? Explain why.",
+        "answer_type": "text_input",
+        "correct_answer": "No, because division is not commutative.",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10512,
+        "question_text": "Which of these calculations would you swap around to make it easier to solve mentally? A) 2 x 35 or B) 35 x 2",
+        "answer_type": "text_input",
+        "correct_answer": "B",
+        "alternative_answer_1": "35 x 2",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10513,
+        "question_text": "To find the number of squares in a chocolate bar with 4 rows of 9 squares, you calculate 4 x 9. What other sum gives the same answer?",
+        "answer_type": "text_input",
+        "correct_answer": "9 x 4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10514,
+        "question_text": "Write two multiplication sentences for a grid that has 25 rows with 4 dots in each.",
+        "answer_type": "text_input",
+        "correct_answer": "25 x 4 = 100 and 4 x 25 = 100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10515,
+        "question_text": "A field is 30 metres long and 5 metres wide. Is its area the same as a field that is 5 metres long and 30 metres wide?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10516,
+        "question_text": "Why can you not swap the numbers in the sum share 100 sweets among 10 people?",
+        "answer_type": "text_input",
+        "correct_answer": "Division is not commutative.",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10517,
+        "question_text": "True or False: 16 x 6 is equal to 6 x 16.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10518,
+        "question_text": "True or False: 72 ÷ 9 is equal to 9 ÷ 72.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10519,
+        "question_text": "To solve 22 x 4, I can swap the numbers to make 4 x 22. Why is this allowed?",
+        "answer_type": "text_input",
+        "correct_answer": "Multiplication is commutative.",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10520,
+        "question_text": "Sam has 12 boxes with 8 pencils in each. Jane has 8 boxes with 12 pencils in each. Who has more pencils?",
+        "answer_type": "text_input",
+        "correct_answer": "They have the same number",
+        "alternative_answer_1": "Neither",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10521,
+        "question_text": "If 24 x 3 = 72, what is 3 x 24?",
+        "answer_type": "text_input",
+        "correct_answer": "72",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10522,
+        "question_text": "Can you use commutativity to solve 81 ÷ 9?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10523,
+        "question_text": "A marching band has 10 rows of 9 musicians. Is this the same number of musicians as 9 rows of 10?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10524,
+        "question_text": "Explain why 90 ÷ 10 gives a whole number but 10 ÷ 90 does not.",
+        "answer_type": "text_input",
+        "correct_answer": "Because you cannot swap the numbers in division.",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10525,
+        "question_text": "Which calculation gives the same answer as 15 x 6?",
+        "answer_type": "text_input",
+        "correct_answer": "6 x 15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10526,
+        "question_text": "Which calculation gives a different answer to 64 ÷ 8?",
+        "answer_type": "text_input",
+        "correct_answer": "8 ÷ 64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10527,
+        "question_text": "A crate holds 12 bottles. How many bottles in 7 crates? Write down two possible multiplication sums.",
+        "answer_type": "text_input",
+        "correct_answer": "12 x 7 and 7 x 12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10528,
+        "question_text": "Is it always true that a x b = b x a? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10529,
+        "question_text": "Is it always true that a ÷ b = b ÷ a? Yes or No.",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10530,
+        "question_text": "To calculate the number of days in 14 weeks, you can do 14 x 7. What is another way to write this sum?",
+        "answer_type": "text_input",
+        "correct_answer": "7 x 14",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10531,
+        "question_text": "Ben says that 50 ÷ 10 is the same as 10 ÷ 50 because multiplication is commutative. Is he correct? Explain your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "No, he is confusing division with multiplication.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10532,
+        "question_text": "The property that allows you to swap numbers in multiplication, like 4 x 25 = 25 x 4, is called the _______ property.",
+        "answer_type": "text_input",
+        "correct_answer": "Commutative",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10533,
+        "question_text": "Which calculation is easier to do mentally: 50 x 2 or 2 x 50? Explain why.",
+        "answer_type": "text_input",
+        "correct_answer": "2 x 50, because it is double 50.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10534,
+        "question_text": "What is 5 x 18? Use the fact that multiplication is commutative to check your answer with a different sum.",
+        "answer_type": "text_input",
+        "correct_answer": "90, check with 18 x 5",
+        "alternative_answer_1": "90",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10535,
+        "question_text": "A teacher has 30 sweets to share among 15 children. She calculates 30 ÷ 15 = 2. Why can't she check her answer by calculating 15 ÷ 30?",
+        "answer_type": "text_input",
+        "correct_answer": "Division is not commutative.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10536,
+        "question_text": "A student's work shows 100 ÷ 20 = 5, and 20 ÷ 100 = 5. Find and explain the error.",
+        "answer_type": "text_input",
+        "correct_answer": "20 ÷ 100 is not 5.",
+        "alternative_answer_1": "The second part is wrong.",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10537,
+        "question_text": "To calculate 17 x 3, you can calculate (10 x 3) + (7 x 3). Can you also calculate 3 x 17 by doing (3 x 10) + (3 x 7)?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10538,
+        "question_text": "Use commutativity to make this sum easier: 4 x 15.",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "15 x 4 = 60",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10539,
+        "question_text": "Complete the statement: a x b = b x a shows that multiplication is _________.",
+        "answer_type": "text_input",
+        "correct_answer": "Commutative",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10540,
+        "question_text": "Complete the statement: a ÷ b ≠ b ÷ a shows that division is not _________.",
+        "answer_type": "text_input",
+        "correct_answer": "Commutative",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10541,
+        "question_text": "Is it easier to mentally calculate 16 x 5 or 5 x 16? Why?",
+        "answer_type": "text_input",
+        "correct_answer": "5 x 16, you can do half of 16 times 10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10542,
+        "question_text": "To calculate 25 x 4, you can swap it to 4 x 25. Why might this be helpful?",
+        "answer_type": "text_input",
+        "correct_answer": "It is easier to count in 25s.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10543,
+        "question_text": "Which of these operations is NOT commutative? Addition, Subtraction, Multiplication.",
+        "answer_type": "text_input",
+        "correct_answer": "Subtraction",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10544,
+        "question_text": "Correct the reasoning: Since 12 - 4 = 8, then 4 - 12 must also be 8 because they use the same numbers.",
+        "answer_type": "text_input",
+        "correct_answer": "Subtraction is not commutative",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10545,
+        "question_text": "Use an efficient strategy to solve 14 x 5.",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10546,
+        "question_text": "If you know 15 x 6 = 90, what is 6 x 15?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10547,
+        "question_text": "A student calculates 96 ÷ 8 = 12. They check their answer by calculating 96 ÷ 12 = 8. Is this a valid check using commutativity?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10548,
+        "question_text": "Solve 18 x 5 mentally.",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10549,
+        "question_text": "Does commutativity apply to a calculation with three numbers, like 2 x 3 x 4?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10550,
+        "question_text": "A teacher asks her class to calculate 2 x 29. Tom does 2 x 20 + 2 x 9. Sally does 29 x 2. Do they get the same answer? Why?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, because of commutativity",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10551,
+        "question_text": "Find the error: To make it easier, I swapped 80 ÷ 10 to 10 ÷ 80.",
+        "answer_type": "text_input",
+        "correct_answer": "You cannot swap numbers in division",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10552,
+        "question_text": "Solve 25 x 6. Now solve 6 x 25. What do you notice?",
+        "answer_type": "text_input",
+        "correct_answer": "They are the same",
+        "alternative_answer_1": "Both are 150",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10553,
+        "question_text": "Which property of multiplication is shown by 19 x 4 = 4 x 19?",
+        "answer_type": "text_input",
+        "correct_answer": "Commutative property",
+        "alternative_answer_1": "Commutativity",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10554,
+        "question_text": "To solve a word problem, you need to calculate 7 lots of 12. Write this calculation in two different ways.",
+        "answer_type": "text_input",
+        "correct_answer": "7 x 12 and 12 x 7",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 10555,
+        "question_text": "If you partition 17 x 4 as (10 x 4) + (7 x 4), can you also partition 4 x 17 in a similar way?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 68
+    },
+    {
+        "question_id": 20631,
+        "question_text": "Calculate: 2 + 3 x 4",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20632,
+        "question_text": "Calculate: 10 - 6 ÷ 2",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20633,
+        "question_text": "Calculate: 5 x 2 + 3",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20634,
+        "question_text": "Calculate: 12 ÷ 4 + 1",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20635,
+        "question_text": "Calculate: 20 - 3 x 3",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20636,
+        "question_text": "Calculate: 5 + 10 ÷ 5",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20637,
+        "question_text": "Solve: 6 x 3 - 2",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20638,
+        "question_text": "Solve: 15 ÷ 3 + 2",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20639,
+        "question_text": "Solve: 4 + 5 x 2",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20640,
+        "question_text": "Solve: 16 - 8 ÷ 4",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20641,
+        "question_text": "In the sum 7 + 4 x 2, which part do you calculate first?",
+        "answer_type": "text_input",
+        "correct_answer": "4 x 2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20642,
+        "question_text": "In the sum 30 - 10 ÷ 2, which part do you calculate first?",
+        "answer_type": "text_input",
+        "correct_answer": "10 ÷ 2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20643,
+        "question_text": "What is 8 x 2 + 2?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20644,
+        "question_text": "What is 10 + 4 ÷ 2?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20645,
+        "question_text": "What is 20 - 5 x 2?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20646,
+        "question_text": "What is 18 ÷ 6 + 7?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20647,
+        "question_text": "Calculate: 3 x 3 + 3",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20648,
+        "question_text": "Calculate: 4 + 2 x 5",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20649,
+        "question_text": "Calculate: 12 - 6 ÷ 3",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20650,
+        "question_text": "Calculate: 24 ÷ 4 + 2",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20651,
+        "question_text": "Calculate: 10 x 2 - 5",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20652,
+        "question_text": "Calculate: 9 + 9 ÷ 3",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20653,
+        "question_text": "Calculate: 7 x 3 - 1",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20654,
+        "question_text": "Calculate: 50 - 10 x 4",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20655,
+        "question_text": "Calculate: 100 ÷ 10 + 10",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20656,
+        "question_text": "Calculate: (2 + 3) x 4",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20657,
+        "question_text": "Calculate: (10 - 6) ÷ 2",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20658,
+        "question_text": "Calculate: 5 x (4 + 3)",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20659,
+        "question_text": "Calculate: 20 ÷ (4 + 1)",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20660,
+        "question_text": "Calculate: 10 - 4 ÷ 2 + 3",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20661,
+        "question_text": "Calculate: 5 + 2 x 3 - 1",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20662,
+        "question_text": "Solve: 6 x (3 + 2)",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20663,
+        "question_text": "Solve: 24 ÷ (3 + 1)",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20664,
+        "question_text": "Solve: 4 + 10 ÷ 2 - 1",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20665,
+        "question_text": "Solve: 16 - 2 x 5 + 3",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20666,
+        "question_text": "In the sum 5 x (8 - 2), which part do you calculate first?",
+        "answer_type": "text_input",
+        "correct_answer": "08-Feb",
+        "alternative_answer_1": "The bracket",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20667,
+        "question_text": "What is 8 x (2 + 2)?",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20668,
+        "question_text": "What is (10 + 4) ÷ 2?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20669,
+        "question_text": "What is 20 - (5 x 2)?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20670,
+        "question_text": "What is 18 ÷ (6 - 3)?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20671,
+        "question_text": "Calculate: 3 x 3 + 3 x 2",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20672,
+        "question_text": "Calculate: 20 ÷ 4 + 30 ÷ 5",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20673,
+        "question_text": "Calculate: 12 - 2 x 4 + 6",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20674,
+        "question_text": "Calculate: (5 + 7) x 3",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20675,
+        "question_text": "Calculate: 50 ÷ (2 x 5)",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20676,
+        "question_text": "Calculate: 10 + 5 - 2 x 3",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20677,
+        "question_text": "Calculate: 2 + 8 x 2 - 6",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20678,
+        "question_text": "Calculate: 30 ÷ 3 + 2 x 5",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20679,
+        "question_text": "Calculate: 100 - 10 x 5",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20680,
+        "question_text": "Calculate: (100 - 10) x 5",
+        "answer_type": "text_input",
+        "correct_answer": "450",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20681,
+        "question_text": "Calculate: 5 x (10 - 5) + 2",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20682,
+        "question_text": "Calculate: 20 ÷ (4 + 6) x 3",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20683,
+        "question_text": "Calculate: (50 - 20) ÷ 3 + 7",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20684,
+        "question_text": "Insert brackets to make this true: 5 + 3 x 2 = 16",
+        "answer_type": "text_input",
+        "correct_answer": "(5 + 3) x 2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20685,
+        "question_text": "Insert brackets to make this true: 30 - 10 ÷ 2 = 10",
+        "answer_type": "text_input",
+        "correct_answer": "(30 - 10) ÷ 2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20686,
+        "question_text": "Insert brackets to make this true: 4 x 2 + 3 = 20",
+        "answer_type": "text_input",
+        "correct_answer": "4 x (2 + 3)",
+        "alternative_answer_1": "4 * (2+3)",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20687,
+        "question_text": "What is the error in this calculation? 12 + 8 ÷ 4 = 5.",
+        "answer_type": "text_input",
+        "correct_answer": "Addition was done first",
+        "alternative_answer_1": "Did not use BODMAS",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20688,
+        "question_text": "What is the error in this calculation? 20 - 8 x 2 = 24.",
+        "answer_type": "text_input",
+        "correct_answer": "Subtraction was done first",
+        "alternative_answer_1": "Did not use BODMAS",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20689,
+        "question_text": "Solve: 50 - (4 x 5 + 10)",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20690,
+        "question_text": "Solve: 8 x 9 - (10 + 2)",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20691,
+        "question_text": "Solve: 100 ÷ (5 x 5) + 6",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20692,
+        "question_text": "Solve: 6 x 6 ÷ 3",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20693,
+        "question_text": "Solve: 100 ÷ 10 x 5",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20694,
+        "question_text": "Calculate: 8 + 48 ÷ (2 + 4)",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20695,
+        "question_text": "Calculate: 50 x 2 - 100 ÷ 10",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20696,
+        "question_text": "Calculate: 3 x (4 + 6) ÷ 2",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20697,
+        "question_text": "Is (5+5)x5 equal to 5+5x5?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20698,
+        "question_text": "Is 100-50÷10 equal to (100-50)÷10?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20699,
+        "question_text": "Insert brackets to make the answer 12: 10 - 4 x 2",
+        "answer_type": "text_input",
+        "correct_answer": "(10 - 4) x 2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20700,
+        "question_text": "Insert brackets to make the answer 1: 5 - 2 x 2",
+        "answer_type": "text_input",
+        "correct_answer": "This is impossible.",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20701,
+        "question_text": "What is 50 - (5 x 5)?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20702,
+        "question_text": "What is (50 - 5) x 5?",
+        "answer_type": "text_input",
+        "correct_answer": "225",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20703,
+        "question_text": "What is 8 x 8 - 4 x 4?",
+        "answer_type": "text_input",
+        "correct_answer": "48",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20704,
+        "question_text": "What is 144 ÷ 12 + 100 ÷ 10?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20705,
+        "question_text": "What is 6 x (4+3) - 2?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20706,
+        "question_text": "Calculate: 2 x (5 + (10 - 3))",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20707,
+        "question_text": "Calculate: 100 - (50 ÷ (2 + 3))",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20708,
+        "question_text": "Calculate: (6 x (8 - 3)) ÷ 2",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20709,
+        "question_text": "Insert brackets to make this true: 4 x 5 + 3 x 2 = 26",
+        "answer_type": "text_input",
+        "correct_answer": "(4 x 5) + (3 x 2)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20710,
+        "question_text": "Insert brackets to make this true: 4 x 5 + 3 x 2 = 64",
+        "answer_type": "text_input",
+        "correct_answer": "4 x (5 + 3) x 2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20711,
+        "question_text": "I buy 5 books at £8 each and 3 pens at £2 each. I pay with a £50 note. Write a single expression to find my change.",
+        "answer_type": "text_input",
+        "correct_answer": "50 - (5 x 8 + 3 x 2)",
+        "alternative_answer_1": "50 - (5*8 + 3*2)",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20712,
+        "question_text": "A student calculates 2 x [10 + (5-2)] as 26. Is this correct? Justify your answer.",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "It is correct",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20713,
+        "question_text": "Justify the steps to solve: 10 + (8 x 4) ÷ 16",
+        "answer_type": "text_input",
+        "correct_answer": "Brackets, Division, Addition",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20714,
+        "question_text": "Solve: 5 x [20 - (4 + 6)]",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20715,
+        "question_text": "Solve: (60 ÷ (10 + 5)) x 3",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20716,
+        "question_text": "Solve: (5 + 3) x (12 - 5)",
+        "answer_type": "text_input",
+        "correct_answer": "56",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20717,
+        "question_text": "Solve: 1000 ÷ (25 x 4) ÷ 10",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20718,
+        "question_text": "Calculate: 2 + (3 x 4) - (10 ÷ 5)",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20719,
+        "question_text": "Is (8+2)x(6-2) equal to 8+2x6-2?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20720,
+        "question_text": "A shopkeeper has 10 boxes of 20 apples. He sells 5 boxes, and throws away 8 rotten apples from the remaining stock. How many good apples are left?",
+        "answer_type": "text_input",
+        "correct_answer": "92",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20721,
+        "question_text": "What is the sum of 5 squared and 3 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "34",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20722,
+        "question_text": "What is 10 squared minus 5 squared?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20723,
+        "question_text": "Solve: 4 x 5 x 6 - 20",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20724,
+        "question_text": "Solve: (4 + 6) x (3 + 7)",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20725,
+        "question_text": "What is 100 - (2 x (15 + 5))?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20726,
+        "question_text": "What is 81 ÷ 9 + 5 x 8?",
+        "answer_type": "text_input",
+        "correct_answer": "49",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20727,
+        "question_text": "What is 144 ÷ (3 x 4) + 10?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20728,
+        "question_text": "What is half of (100-20)?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20729,
+        "question_text": "What is double (15+35)?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 20730,
+        "question_text": "Tom has 120 marbles. He loses half of them. He then wins 3 lots of 15 marbles. How many does he have now?",
+        "answer_type": "text_input",
+        "correct_answer": "105",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 90
+    },
+    {
+        "question_id": 26005,
+        "question_text": "What is 2 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26006,
+        "question_text": "What is 5 + 3?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26007,
+        "question_text": "Is the answer to 3 + 4 the same as 4 + 3? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26008,
+        "question_text": "What is 8 - 1?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26009,
+        "question_text": "What is 1 - 8?",
+        "answer_type": "text_input",
+        "correct_answer": "-7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26010,
+        "question_text": "Is the answer to 5 - 2 the same as 2 - 5? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26011,
+        "question_text": "Complete the statement: 6 + 1 = 1 + __.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26012,
+        "question_text": "Does 9 - 3 equal 3 - 9? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26013,
+        "question_text": "Look at the sum 4 + 2 = 6. What is the answer to 2 + 4?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26014,
+        "question_text": "Look at the calculation 7 - 5 = 2. Is 5 - 7 also 2?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26015,
+        "question_text": "If you know that 8 + 1 = 9, what other addition fact do you know?",
+        "answer_type": "text_input",
+        "correct_answer": "1 + 8 = 9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26016,
+        "question_text": "I have 3 apples and I get 5 more. My friend has 5 apples and gets 3 more. Do we have the same number of apples?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26017,
+        "question_text": "I have 10 sweets and I eat 4. My friend has 4 sweets and tries to eat 10. Is the result the same?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26018,
+        "question_text": "Complete this: If 7 + 0 = 7, then 0 + 7 = __.",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26019,
+        "question_text": "What is 8 - 0?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26020,
+        "question_text": "What is 0 - 6?",
+        "answer_type": "text_input",
+        "correct_answer": "-6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26021,
+        "question_text": "Is 2 + 8 = 8 + 2?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26022,
+        "question_text": "Is 9 - 1 = 1 - 9?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26023,
+        "question_text": "What is 4 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26024,
+        "question_text": "What is 5 + 4?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26025,
+        "question_text": "What is 10 - 2?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26026,
+        "question_text": "If I calculate 3 + 6, will I get the same answer as 6 + 3?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26027,
+        "question_text": "If I calculate 8 - 5, will I get the same answer as 5 - 8?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26028,
+        "question_text": "Fill in the blank: 5 + __ = 1 + 5.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26029,
+        "question_text": "Which operation can be done in any order: addition or subtraction?",
+        "answer_type": "text_input",
+        "correct_answer": "Addition",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26030,
+        "question_text": "What is 12 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26031,
+        "question_text": "What is 5 + 12?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26032,
+        "question_text": "True or False: 15 + 4 = 4 + 15.",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26033,
+        "question_text": "Mentally solve 20 - 5.",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26034,
+        "question_text": "Does 18 - 3 = 3 - 18? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26035,
+        "question_text": "Complete the statement to make it true: 11 + 7 = 7 + __.",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26036,
+        "question_text": "Which statement is true? A) 14 - 2 = 2 - 14 or B) 14 + 2 = 2 + 14.",
+        "answer_type": "text_input",
+        "correct_answer": "B",
+        "alternative_answer_1": "14 + 2 = 2 + 14",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26037,
+        "question_text": "I have 16 books and I sell 2. Is this the same as having 2 books and trying to sell 16?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26038,
+        "question_text": "Knowing that 13 + 6 = 19, what is 6 + 13?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26039,
+        "question_text": "Does 30 - 10 equal 10 - 30?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26040,
+        "question_text": "Fill in the blank to make the statement true: __ + 8 = 8 + 10.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26041,
+        "question_text": "I add 15 marbles to a bag of 30. My friend adds 30 marbles to a bag of 15. Who has more marbles?",
+        "answer_type": "text_input",
+        "correct_answer": "Neither",
+        "alternative_answer_1": "They have the same",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26042,
+        "question_text": "A statement says 19 - 9 = 9 - 19. Is this statement true?",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26043,
+        "question_text": "What is 11 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "Sixteen",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26044,
+        "question_text": "What is 4 + 11?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26045,
+        "question_text": "True or False: 25 - 10 = 10 - 25.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26046,
+        "question_text": "Which is easier to calculate mentally: 5 + 32 or 32 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "32 + 5",
+        "alternative_answer_1": "They are the same",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26047,
+        "question_text": "If 17 - 8 = 9, what is 8 - 17?",
+        "answer_type": "text_input",
+        "correct_answer": "-9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26048,
+        "question_text": "Complete the number sentence: 21 + 9 = 9 + __.",
+        "answer_type": "text_input",
+        "correct_answer": "21",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26049,
+        "question_text": "Tom has 40 stickers. He gives 10 away. This is the same as having 10 and giving 40 away. True or False?",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26050,
+        "question_text": "What is 13 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26051,
+        "question_text": "What is 5 + 13?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26052,
+        "question_text": "A bus has 25 people. 10 get off. Is this the same as a bus with 10 people where 25 get off?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26053,
+        "question_text": "To show that addition is commutative, you can write 16 + 3 = 3 + 16. True or False?",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26054,
+        "question_text": "I start at 50 and count back 20. Is this the same as starting at 20 and counting back 50?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26055,
+        "question_text": "Explain why you can swap the numbers in 23 + 45 but not in 45 - 23.",
+        "answer_type": "text_input",
+        "correct_answer": "Addition is commutative",
+        "alternative_answer_1": "Subtraction is not commutative",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26056,
+        "question_text": "A shopkeeper has 50 apples. He sells 15. To check his stock, could he start with 15 and subtract 50?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26057,
+        "question_text": "To calculate 18 + 75, is it easier to calculate 75 + 18? Why?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, you start with the bigger number",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26058,
+        "question_text": "A statement is written: 34 + 21 = 55, so 21 + 34 = 55. What property of numbers does this show?",
+        "answer_type": "text_input",
+        "correct_answer": "Commutative property",
+        "alternative_answer_1": "Commutativity",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26059,
+        "question_text": "A statement says 60 - 40 is not equal to 40 - 60. Is this statement correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "It is correct",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26060,
+        "question_text": "Write a number sentence with two addition sums that shows the commutative law.",
+        "answer_type": "text_input",
+        "correct_answer": "10 + 5 = 5 + 10",
+        "alternative_answer_1": "20+30=30+20",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26061,
+        "question_text": "Write a number sentence that demonstrates why subtraction is not commutative.",
+        "answer_type": "text_input",
+        "correct_answer": "8 - 3 != 3 - 8",
+        "alternative_answer_1": "10-2 is not 2-10",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26062,
+        "question_text": "The temperature is 12 degrees. It rises by 5 degrees. Is this the same final temperature as if it were 5 degrees and rose by 12 degrees?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26063,
+        "question_text": "My bank balance is £50. I withdraw £20. Is this the same as having £20 and trying to withdraw £50?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26064,
+        "question_text": "If you are checking the sum 27 + 54, is it a good idea to check it by calculating 54 + 27?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26065,
+        "question_text": "To find the difference between 15 and 45, you calculate 45 - 15. Would you get the right answer if you calculated 15 - 45?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26066,
+        "question_text": "Does the commutative property apply to addition, subtraction, or both?",
+        "answer_type": "text_input",
+        "correct_answer": "Addition",
+        "alternative_answer_1": "Just addition",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26067,
+        "question_text": "Re-ordering the numbers in 15 + 39 to 39 + 15 makes it easier to calculate mentally. True or False?",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26068,
+        "question_text": "Is it possible for a - b to equal b - a?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes, if a and b are the same",
+        "alternative_answer_1": "Yes, if a=b",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26069,
+        "question_text": "Explain in one word why 10 - 7 is not the same as 7 - 10.",
+        "answer_type": "text_input",
+        "correct_answer": "Order",
+        "alternative_answer_1": "Commutative",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26070,
+        "question_text": "Sam adds 12 and 28. Ben adds 28 and 12. Who gets the larger answer?",
+        "answer_type": "text_input",
+        "correct_answer": "Neither",
+        "alternative_answer_1": "They get the same answer",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26071,
+        "question_text": "What is 35 + 53?",
+        "answer_type": "text_input",
+        "correct_answer": "88",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26072,
+        "question_text": "What is 53 + 35?",
+        "answer_type": "text_input",
+        "correct_answer": "88",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26073,
+        "question_text": "A shop has 70 apples and sells 50. Is it correct to say this is the same problem as having 50 and selling 70?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26074,
+        "question_text": "The rule that a + b = b + a is the commutative property of which operation?",
+        "answer_type": "text_input",
+        "correct_answer": "Addition",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26075,
+        "question_text": "If I have 25 marbles and lose 15, I have 10 left. Can I use this fact to say that if I have 15 and lose 25, I will have 10 left?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26076,
+        "question_text": "To solve 9 + 65, what is a helpful first step?",
+        "answer_type": "text_input",
+        "correct_answer": "Swap the numbers",
+        "alternative_answer_1": "Do 65 + 9",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26077,
+        "question_text": "True or False: The order of numbers never matters in subtraction.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26078,
+        "question_text": "True or False: The order of numbers sometimes matters in addition.",
+        "answer_type": "text_input",
+        "correct_answer": "FALSE",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26079,
+        "question_text": "Why is 10 + 20 + 30 the same as 30 + 10 + 20?",
+        "answer_type": "text_input",
+        "correct_answer": "Addition is commutative",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26080,
+        "question_text": "Which calculation is likely easier to do mentally, and why? A) 12 + 87 or B) 87 + 12.",
+        "answer_type": "text_input",
+        "correct_answer": "B, start with the larger number",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26081,
+        "question_text": "Sam calculates 95 - 18 = 77. To check, he calculates 18 - 95. Is this a valid way to check his answer?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26082,
+        "question_text": "Use the fact that addition is commutative to solve this mentally: 15 + 58 + 85.",
+        "answer_type": "text_input",
+        "correct_answer": "158",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26083,
+        "question_text": "A temperature is 15 degrees. It drops by 20 degrees. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-5 degrees",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26084,
+        "question_text": "I have £75 and I spend £28. My friend has £28 and spends £75. Do we have the same amount of money left?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26085,
+        "question_text": "To solve 13 + 49 + 87, a student adds 13 and 87 first. Why is this a good strategy?",
+        "answer_type": "text_input",
+        "correct_answer": "It makes a round number (100)",
+        "alternative_answer_1": "Number bonds to 100",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26086,
+        "question_text": "Is it always true that a - b = -(b - a)?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26087,
+        "question_text": "How does knowing that addition is commutative help you solve 50 - 15?",
+        "answer_type": "text_input",
+        "correct_answer": "It doesn't",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26088,
+        "question_text": "Fill in the blank: 99 - 45 is not equal to 45 - __.",
+        "answer_type": "text_input",
+        "correct_answer": "99",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26089,
+        "question_text": "To mentally solve 25 + 78 + 75, which two numbers would you add first and why?",
+        "answer_type": "text_input",
+        "correct_answer": "25 and 75, they make 100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26090,
+        "question_text": "If you add a column of numbers from top to bottom and get 95, what should you get if you add them from bottom to top?",
+        "answer_type": "text_input",
+        "correct_answer": "95",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26091,
+        "question_text": "A bank balance is £80. A payment of £95 is made. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-15",
+        "alternative_answer_1": "-£15",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26092,
+        "question_text": "If 45 + 16 = 61, what is 16 + 45?",
+        "answer_type": "text_input",
+        "correct_answer": "61",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26093,
+        "question_text": "What property allows you to calculate 3 + 29 by thinking of it as 29 + 3?",
+        "answer_type": "text_input",
+        "correct_answer": "Commutative property",
+        "alternative_answer_1": "Commutativity",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26094,
+        "question_text": "Is 40 - 15 the same as 15 - 40?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26095,
+        "question_text": "You have to calculate 19 + 55 + 81. How can you re-order this to make it easier?",
+        "answer_type": "text_input",
+        "correct_answer": "19 + 81 + 55",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26096,
+        "question_text": "A lift goes up 10 floors from the ground floor, then down 12. What floor is it on?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26097,
+        "question_text": "Which is correct? A) 50 - 30 = 30 - 50 or B) 50 + 30 = 30 + 50",
+        "answer_type": "text_input",
+        "correct_answer": "B",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26098,
+        "question_text": "If you are at an altitude of 30m and you descend 45m, what is your new altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "-15m",
+        "alternative_answer_1": "-15",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26099,
+        "question_text": "Does the commutative property apply when you are adding more than two numbers, for example 5 + 10 + 15?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26100,
+        "question_text": "Explain why 91 - 19 is not the same as 19 - 91 using the results.",
+        "answer_type": "text_input",
+        "correct_answer": "91 - 19 = 72 but 19 - 91 = -72",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26101,
+        "question_text": "A bank account has £25. A deposit of £50 is made. Is the final balance the same as if the account had £50 and a deposit of £25 was made?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26102,
+        "question_text": "If I start at 100 on a number line and jump back 25, will I land on the same number as if I start at 25 and jump back 100?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26103,
+        "question_text": "I need to add 35 and 45. Does the order I add them in change the answer?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    },
+    {
+        "question_id": 26104,
+        "question_text": "Use the commutative property to find the sum of 16, 25 and 4.",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 401
+    }
+]

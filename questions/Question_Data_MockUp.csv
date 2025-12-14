@@ -1,0 +1,6 @@
+CDR,pundex,question_id,question_text,Question_image,answer_type,Answer Choice 1,Answer Choice 2,Answer Choice 3,Answer Choice 4,etc - poss need 10??,correct_answer,alternative_answer_1,alternative_answer_2,Hint,Explanation
+1N2b,1,00001,What is one more than 7?,,text_input,,,,,,8,Eight,N/A,Count up from 1,?
+3G2,1,00002,Imagine a flagpole standing straight up from the ground. Pick the correct word(s) that describe it.,flagpole.jpg,MCQ,Vertical ,Horizontal,Flat,Straight,Curved,Choice 1 + Choice 4,N/A,N/A,?,?
+3N2a,3,00003,Put these numbers in order from smallest to largest,,Drag & Drop,17,71,29,99,,C1-C3-C2-C4,N/A,N/A,Think about the tens column before the ones column,?
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,

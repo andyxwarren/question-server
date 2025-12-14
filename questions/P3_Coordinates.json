@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 2236,
+        "question_text": "On a grid, what are the coordinates for a point that is 2 units to the right and 3 units up from the origin (0,0)?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,3)",
+        "alternative_answer_1": "2,3",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2237,
+        "question_text": "Starting from the origin (0,0), if you move 4 units right and 1 unit up, what are the coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,1)",
+        "alternative_answer_1": "4,1",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2238,
+        "question_text": "What coordinates represent a point 5 units right and 5 units up from the origin (0,0)?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,5)",
+        "alternative_answer_1": "5,5",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2239,
+        "question_text": "A point is located 1 unit to the right and 4 units up from (0,0). What are its coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,4)",
+        "alternative_answer_1": "1,4",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2240,
+        "question_text": "From the origin (0,0), a point is plotted 3 units right and 0 units up. What are the coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,0)",
+        "alternative_answer_1": "3,0",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2241,
+        "question_text": "What are the coordinates for a point that is 0 units right and 2 units up from the origin (0,0)?",
+        "answer_type": "text_input",
+        "correct_answer": "(0,2)",
+        "alternative_answer_1": "0,2",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2242,
+        "question_text": "Plot a point by moving 5 units right from (0,0) and then 2 units up. What are the coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,2)",
+        "alternative_answer_1": "5,2",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2243,
+        "question_text": "If a point is at (3,3), how many units up from the origin is it?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2244,
+        "question_text": "For the point (4,5), how many units to the right of the origin is it?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2245,
+        "question_text": "What are the coordinates for a point that is 2 units to the right and 2 units up from (0,0)?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,2)",
+        "alternative_answer_1": "2,2",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2246,
+        "question_text": "A line is drawn between point (1,1) and point (1,4). Is this line horizontal or vertical?",
+        "answer_type": "text_input",
+        "correct_answer": "Vertical",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2247,
+        "question_text": "A line connects the points (2,3) and (5,3). Is the line vertical or horizontal?",
+        "answer_type": "text_input",
+        "correct_answer": "Horizontal",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2248,
+        "question_text": "If a line is drawn between (0,4) and (3,4), what is its orientation?",
+        "answer_type": "text_input",
+        "correct_answer": "Horizontal",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2249,
+        "question_text": "Is a line from (5,1) to (5,5) horizontal or vertical?",
+        "answer_type": "text_input",
+        "correct_answer": "Vertical",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2250,
+        "question_text": "Describe the line that connects point (3,0) and point (3,2).",
+        "answer_type": "text_input",
+        "correct_answer": "Vertical",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2251,
+        "question_text": "Start from (0,0) and move 1 unit right and 5 units up. State the coordinates.",
+        "answer_type": "text_input",
+        "correct_answer": "(1,5)",
+        "alternative_answer_1": "1,5",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2252,
+        "question_text": "What are the coordinates for a point 4 units up and 4 units right from the origin?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,4)",
+        "alternative_answer_1": "4,4",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2253,
+        "question_text": "A point is at (5,1). How many units up from the origin is this point?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "One",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2254,
+        "question_text": "Looking at the coordinates (2,4), how many units to the right is the point?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2255,
+        "question_text": "You draw a line from (2,2) to (4,2). Is it horizontal or vertical?",
+        "answer_type": "text_input",
+        "correct_answer": "Horizontal",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2256,
+        "question_text": "A vertical line starts at (4,1). Which of these points could it pass through: (2,1) or (4,3)?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,3)",
+        "alternative_answer_1": "4,3",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2257,
+        "question_text": "A horizontal line passes through (1,5). Which other point could be on this line: (1,2) or (3,5)?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,5)",
+        "alternative_answer_1": "3,5",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2258,
+        "question_text": "What are the coordinates of the origin on a grid?",
+        "answer_type": "text_input",
+        "correct_answer": "(0,0)",
+        "alternative_answer_1": "0,0",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2259,
+        "question_text": "A point has coordinates (3,5). How would you describe its position from the origin (0,0)?",
+        "answer_type": "text_input",
+        "correct_answer": "3 right and 5 up",
+        "alternative_answer_1": "3 units right and 5 units up",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2260,
+        "question_text": "Start at the origin, move 4 units right. What are the coordinates of this point?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,0)",
+        "alternative_answer_1": "4,0",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2261,
+        "question_text": "Three corners of a square are at (1,1), (1,5), and (5,1). What are the coordinates of the fourth corner?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,5)",
+        "alternative_answer_1": "5,5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2262,
+        "question_text": "A rectangle has vertices at (2,2), (8,2), and (8,6). What are the coordinates of the missing vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,6)",
+        "alternative_answer_1": "2,6",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2263,
+        "question_text": "The points (3,4), (3,9), and (7,9) are three corners of a rectangle. Find the coordinates of the fourth corner.",
+        "answer_type": "text_input",
+        "correct_answer": "(7,4)",
+        "alternative_answer_1": "7,4",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2264,
+        "question_text": "A square's vertices are at (0,0), (6,0), and (0,6). What are the coordinates of the last vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(6,6)",
+        "alternative_answer_1": "6,6",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2265,
+        "question_text": "You are drawing a rectangle. You have plotted (1,7), (9,7), and (1,10). What is the final point you need to plot?",
+        "answer_type": "text_input",
+        "correct_answer": "(9,10)",
+        "alternative_answer_1": "9,10",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2266,
+        "question_text": "A square has corners at (4,4), (4,8), and (8,8). What are the coordinates of the fourth corner?",
+        "answer_type": "text_input",
+        "correct_answer": "(8,4)",
+        "alternative_answer_1": "8,4",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2267,
+        "question_text": "Three vertices of a rectangle are (5,1), (10,1), and (10,5). What are the coordinates of the fourth vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,5)",
+        "alternative_answer_1": "5,5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2268,
+        "question_text": "Find the missing vertex of a square with existing vertices at (2,3), (2,8), and (7,3).",
+        "answer_type": "text_input",
+        "correct_answer": "(7,8)",
+        "alternative_answer_1": "7,8",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2269,
+        "question_text": "What are the coordinates of the fourth corner of a rectangle with corners at (0,3), (7,3), and (0,9)?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,9)",
+        "alternative_answer_1": "7,9",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2270,
+        "question_text": "A square has vertices at (5,5), (5,10), and (10,10). What are the coordinates of the missing vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(10,5)",
+        "alternative_answer_1": "10,5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2271,
+        "question_text": "A rectangle is defined by the points (1,2), (6,2), and (1,9). What is the last vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(6,9)",
+        "alternative_answer_1": "6,9",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2272,
+        "question_text": "If three corners of a square are (3,3), (3,7), and (7,7), where is the fourth corner?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,3)",
+        "alternative_answer_1": "7,3",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2273,
+        "question_text": "Plot the points (4,1), (9,1), and (4,6). To make a rectangle, what fourth point is needed?",
+        "answer_type": "text_input",
+        "correct_answer": "(9,6)",
+        "alternative_answer_1": "9,6",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2274,
+        "question_text": "A square has vertices at (1,4), (1,8), and (5,4). Find the coordinates of the fourth vertex.",
+        "answer_type": "text_input",
+        "correct_answer": "(5,8)",
+        "alternative_answer_1": "5,8",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2275,
+        "question_text": "Three corners of a rectangle are located at (6,2), (10,2), and (6,8). What is the location of the fourth corner?",
+        "answer_type": "text_input",
+        "correct_answer": "(10,8)",
+        "alternative_answer_1": "10,8",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2276,
+        "question_text": "What is the fourth vertex of a square with vertices at (0,5), (5,5), and (5,10)?",
+        "answer_type": "text_input",
+        "correct_answer": "(0,10)",
+        "alternative_answer_1": "0,10",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2277,
+        "question_text": "A rectangle has corners at (7,7), (7,1), and (2,1). What are the coordinates of the fourth corner?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,7)",
+        "alternative_answer_1": "2,7",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2278,
+        "question_text": "The points (8,3), (8,9), and (1,3) are three vertices of a rectangle. What is the fourth vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,9)",
+        "alternative_answer_1": "1,9",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2279,
+        "question_text": "Find the coordinates of the missing corner of a square if the other three are at (4,0), (4,4), and (0,4).",
+        "answer_type": "text_input",
+        "correct_answer": "(0,0)",
+        "alternative_answer_1": "0,0",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2280,
+        "question_text": "You have three points of a rectangle: (3,5), (9,5), and (3,10). What is the fourth point?",
+        "answer_type": "text_input",
+        "correct_answer": "(9,10)",
+        "alternative_answer_1": "9,10",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2281,
+        "question_text": "A square is drawn with vertices at (6,6), (2,6), and (2,2). What is the final vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(6,2)",
+        "alternative_answer_1": "6,2",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2282,
+        "question_text": "A rectangle's corners are at (1,1), (10,1), and (1,10). Find the fourth corner's coordinates.",
+        "answer_type": "text_input",
+        "correct_answer": "(10,10)",
+        "alternative_answer_1": "10,10",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2283,
+        "question_text": "If (5,2), (5,7), and (9,2) are vertices of a rectangle, what is the fourth vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(9,7)",
+        "alternative_answer_1": "9,7",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2284,
+        "question_text": "Three points of a square are (8,8), (8,1), and (1,8). What are the coordinates of the last point?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,1)",
+        "alternative_answer_1": "1,1",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2285,
+        "question_text": "A rectangle is plotted with corners at (0,1), (0,8), and (5,1). What is the fourth corner?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,8)",
+        "alternative_answer_1": "5,8",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2286,
+        "question_text": "A shape has vertices at (2,2), (8,2), (8,7), and (2,7). What is the name of this shape?",
+        "answer_type": "text_input",
+        "correct_answer": "Rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2287,
+        "question_text": "A polygon is drawn by connecting the points (5,5), (12,5), (12,12), and (5,12). What type of quadrilateral is it?",
+        "answer_type": "text_input",
+        "correct_answer": "Square",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2288,
+        "question_text": "The points (1,1), (6,1), and (1,5) are the vertices of a triangle. What type of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "Right-angled triangle",
+        "alternative_answer_1": "Right-angled",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2289,
+        "question_text": "What shape is formed by the vertices (10,1), (15,1), (18,5), and (13,5)?",
+        "answer_type": "text_input",
+        "correct_answer": "Parallelogram",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2290,
+        "question_text": "A shape is drawn with its corners at (3,3), (9,3), and (6,8). What is this polygon?",
+        "answer_type": "text_input",
+        "correct_answer": "Triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2291,
+        "question_text": "Identify the quadrilateral with vertices at (4,4), (11,4), (11,9), and (4,9).",
+        "answer_type": "text_input",
+        "correct_answer": "Rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2292,
+        "question_text": "What is the name of the shape with corners at (5,2), (15,2), (15,12), and (5,12)?",
+        "answer_type": "text_input",
+        "correct_answer": "Square",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2293,
+        "question_text": "A triangle has vertices at (2,5), (8,5), and (5,10). What type of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "Isosceles triangle",
+        "alternative_answer_1": "Isosceles",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2294,
+        "question_text": "A four-sided shape is plotted at (1,6), (6,11), (11,6), and (6,1). What is this shape?",
+        "answer_type": "text_input",
+        "correct_answer": "Rhombus",
+        "alternative_answer_1": "Diamond",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2295,
+        "question_text": "Name the polygon with vertices at (12,12), (18,12), (18,18), and (12,18).",
+        "answer_type": "text_input",
+        "correct_answer": "Square",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2296,
+        "question_text": "The points (1,1), (20,1), (20,8), and (1,8) form what kind of quadrilateral?",
+        "answer_type": "text_input",
+        "correct_answer": "Rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2297,
+        "question_text": "A triangle is drawn with points at (5,5), (15,5), and (5,12). What kind of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "Right-angled triangle",
+        "alternative_answer_1": "Right angle triangle",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2298,
+        "question_text": "What shape is formed by connecting the points (2,8), (7,13), (12,8), and (7,3) in order?",
+        "answer_type": "text_input",
+        "correct_answer": "Kite",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2299,
+        "question_text": "A quadrilateral has vertices at (1,2), (7,2), (10,6), and (4,6). Name the shape.",
+        "answer_type": "text_input",
+        "correct_answer": "Trapezium",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2300,
+        "question_text": "What type of shape is created by joining the points (3,15), (10,15), (10,1), and (3,1)?",
+        "answer_type": "text_input",
+        "correct_answer": "Rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2301,
+        "question_text": "A triangle has its corners at (4,2), (10,2), and (7,9). What kind of triangle is this?",
+        "answer_type": "text_input",
+        "correct_answer": "Isosceles triangle",
+        "alternative_answer_1": "Isosceles",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2302,
+        "question_text": "If you draw a shape with corners at (1,1), (5,1), (5,5), and (1,5), what have you drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "Square",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2303,
+        "question_text": "Name the polygon formed by the vertices (5,10), (15,10), and (10,2).",
+        "answer_type": "text_input",
+        "correct_answer": "Isosceles triangle",
+        "alternative_answer_1": "Isosceles",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2304,
+        "question_text": "The coordinates (6,2), (10,5), (6,8), and (2,5) form what shape?",
+        "answer_type": "text_input",
+        "correct_answer": "Rhombus",
+        "alternative_answer_1": "Diamond",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2305,
+        "question_text": "A shape has its corners at (1,9), (8,9), (1,2), and (8,2). What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "Rectangle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2306,
+        "question_text": "What shape has vertices at (10,13), (15,13), (12,18), and (7,18)?",
+        "answer_type": "text_input",
+        "correct_answer": "Trapezium",
+        "alternative_answer_1": "Isosceles Trapezium",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2307,
+        "question_text": "A triangle is drawn with vertices (1,1), (8,1), and (8,8). What kind of triangle is it?",
+        "answer_type": "text_input",
+        "correct_answer": "Right-angled isosceles triangle",
+        "alternative_answer_1": "Isosceles right-angled triangle",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2308,
+        "question_text": "What shape is formed by the points (11,11), (16,11), (16,16), and (11,16)?",
+        "answer_type": "text_input",
+        "correct_answer": "Square",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2309,
+        "question_text": "A quadrilateral has corners at (5,1), (6,4), (5,7), and (4,4). What is its name?",
+        "answer_type": "text_input",
+        "correct_answer": "Kite",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2310,
+        "question_text": "A shape's vertices are (2,3), (12,3), (9,7), and (5,7). What is the shape?",
+        "answer_type": "text_input",
+        "correct_answer": "Trapezium",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2311,
+        "question_text": "A rectangle has opposite corners at (2,3) and (8,7). What are the coordinates of the other two corners?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,7) and (8,3)",
+        "alternative_answer_1": "2,7 and 8,3",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2312,
+        "question_text": "A point starts at (5,5). It is translated 3 units to the left and 2 units up. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,7)",
+        "alternative_answer_1": "2,7",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2313,
+        "question_text": "The bottom-left vertex of a square is at (4,4). If the side length is 5 units, what are the coordinates of the top-right vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(9,9)",
+        "alternative_answer_1": "9,9",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2314,
+        "question_text": "A triangle has vertices at (1,1) and (7,1). If it is a right-angled isosceles triangle, what are the two possible coordinates for the third vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,7) and (7,7)",
+        "alternative_answer_1": "1,7 and 7,7",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2315,
+        "question_text": "A point at (10,8) is moved 4 units right and 5 units down. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(14,3)",
+        "alternative_answer_1": "14,3",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2316,
+        "question_text": "A regular pentagon has its centre at (10,10). One of its vertices is at (10,15). Can you describe where another vertex might be?",
+        "answer_type": "text_input",
+        "correct_answer": "(10,5)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2317,
+        "question_text": "A rectangle has a vertex at (3,2). Its width is 6 units and its height is 4 units. What are the coordinates of the other three vertices if the rectangle is drawn up and to the right?",
+        "answer_type": "text_input",
+        "correct_answer": "(9,2), (3,6), (9,6)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2318,
+        "question_text": "A point is translated from (4,9) to (7,11). Describe the translation.",
+        "answer_type": "text_input",
+        "correct_answer": "3 units right and 2 units up",
+        "alternative_answer_1": "Right 3, Up 2",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2319,
+        "question_text": "The vertices of a rectangle are (1,5), (1,9), and (10,9). What are the coordinates of the fourth vertex after the entire shape is moved 2 units down?",
+        "answer_type": "text_input",
+        "correct_answer": "(10,3)",
+        "alternative_answer_1": "10,3",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2320,
+        "question_text": "An isosceles triangle has a base with vertices at (2,2) and (10,2). The height of the triangle is 5 units. What are the coordinates of the top vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(6,7)",
+        "alternative_answer_1": "6,7",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2321,
+        "question_text": "A square has opposite vertices at (3,3) and (8,8). What are the coordinates of the other two vertices?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,8) and (8,3)",
+        "alternative_answer_1": "3,8 and 8,3",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2322,
+        "question_text": "A point at (7,7) is the center of a square with a side length of 4. What are the coordinates of the four corners?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,5), (9,5), (9,9), (5,9)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2323,
+        "question_text": "A point begins at (20,15). It is translated 8 units left and 10 units down. Where does it end up?",
+        "answer_type": "text_input",
+        "correct_answer": "(12,5)",
+        "alternative_answer_1": "12,5",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2324,
+        "question_text": "A regular hexagon is centered at (10,10). One vertex is at (15,10). What are the coordinates of the opposite vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,10)",
+        "alternative_answer_1": "5,10",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2325,
+        "question_text": "What are the coordinates of the midpoint of a line segment connecting (2,4) and (8,10)?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,7)",
+        "alternative_answer_1": "5,7",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2326,
+        "question_text": "A point was translated 5 units right and 3 units up to end at (12,12). What were the original coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,9)",
+        "alternative_answer_1": "7,9",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2327,
+        "question_text": "A parallelogram has vertices at (1,2), (5,2), and (7,6). What are the coordinates of the fourth vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,6)",
+        "alternative_answer_1": "3,6",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2328,
+        "question_text": "A rectangle has a corner at (5,5). Its height is 3 and its width is 7. If the rectangle is drawn below and to the right of this point, what are the coordinates of the corner opposite to (5,5)?",
+        "answer_type": "text_input",
+        "correct_answer": "(12,2)",
+        "alternative_answer_1": "12,2",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2329,
+        "question_text": "A point is at (6,6). A new point is plotted by halving its coordinates. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,3)",
+        "alternative_answer_1": "3,3",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2330,
+        "question_text": "Two vertices of a square are (4,3) and (9,3). The other two vertices are above this line. What are their coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,8) and (9,8)",
+        "alternative_answer_1": "4,8 and 9,8",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2331,
+        "question_text": "A point starts at (3,7). It moves 5 right, 2 down, then 1 left. What are the final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,5)",
+        "alternative_answer_1": "7,5",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2332,
+        "question_text": "A rectangle's area is 24 square units. One corner is at (1,1) and the side lengths are whole numbers. If one side length is 6, what are the coordinates of the other three vertices?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,1), (1,5), (7,5)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2333,
+        "question_text": "The point (8,8) is the top-right corner of a square with side length 8. What are the coordinates of the bottom-left corner?",
+        "answer_type": "text_input",
+        "correct_answer": "(0,0)",
+        "alternative_answer_1": "0,0",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2334,
+        "question_text": "Describe the translation that moves a shape from vertex A at (2,5) to the new vertex A at (9,4).",
+        "answer_type": "text_input",
+        "correct_answer": "7 units right and 1 unit down",
+        "alternative_answer_1": "Right 7, Down 1",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    },
+    {
+        "question_id": 2335,
+        "question_text": "A kite has vertices at (10,2), (15,7), and (10,12). The fourth vertex is to the left of the line connecting (10,2) and (10,12). What are its coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,7)",
+        "alternative_answer_1": "5,7",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 476
+    }
+]

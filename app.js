@@ -447,10 +447,11 @@ class QuestionApp {
 
     async autoLoadFromUrl() {
         const urlParams = new URLSearchParams(window.location.search);
+        const cdrCode = urlParams.get('cdr');
         const missionName = urlParams.get('mission');
         const levelParam = urlParams.get('level');
 
-        if (!missionName) {
+        if (!missionName && !cdrCode) {
             this.uploadSection.classList.remove('hidden');
             this.questionSection.classList.add('hidden');
             console.log('No mission specified in URL, showing file upload.');
@@ -463,8 +464,17 @@ class QuestionApp {
         }
 
         try {
-            // Convert mission name to filename format (replace spaces/special chars with underscores)
-            const filename = missionName.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, '_') + '.json';
+            // Build filename from CDR code if available, otherwise fall back to mission name
+            let filename;
+            if (cdrCode) {
+                // CDR-based filename: e.g., "N1_Counting.json"
+                // Remove non-alphanumeric (except spaces), collapse multiple spaces, then replace spaces with underscores
+                const missionPart = missionName ? missionName.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, ' ').trim().replace(/\s/g, '_') : '';
+                filename = `${cdrCode}_${missionPart}.json`;
+            } else {
+                // Legacy: Convert mission name to filename format
+                filename = missionName.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, ' ').trim().replace(/\s/g, '_') + '.json';
+            }
             const filePath = `Questions/${filename}`;
             
             const fileResponse = await fetch(filePath);
@@ -472,13 +482,41 @@ class QuestionApp {
                 throw new Error(`Failed to fetch question file: ${filePath}`);
             }
             const data = await fileResponse.json();
-            this.allQuestions = data.questions;
+            
+            // Handle both array format (new CDR-based files) and object format (legacy files)
+            const questions = Array.isArray(data) ? data : data.questions;
+            
+            // Map snake_case fields to camelCase for compatibility
+            // original_pundex (1-4) = pundex tier (Ignition/Charging/Ready/PowerUp)
+            // year_group (1-6) = school year
+            const pundexToLevelName = {
+                1: 'Beginning',   // Ignition
+                2: 'Developing',  // Charging
+                3: 'Meeting',     // Ready
+                4: 'Exceeding'    // Power Up
+            };
+            
+            this.allQuestions = questions.map(q => ({
+                id: q.question_id || q.id,
+                questionText: q.question_text || q.questionText,
+                correctAnswer: String(q.correct_answer || q.correctAnswer),
+                answerType: q.answer_type || q.answerType || 'text_input',
+                questionType: q.question_type || q.questionType || 'text_input',
+                alternativeAnswer1: q.alternative_answer_1 || q.alternativeAnswer1,
+                hint: q.hint,
+                yearGroup: q.yearGroup || `Year ${q.year_group || 1}`,
+                levelName: q.levelName || pundexToLevelName[q.original_pundex] || 'Beginning',
+                strand: q.strand,
+                substrand: q.substrand,
+                topicId: q.topic_id || q.topicId
+            }));
+            
             this.currentMission = missionName;
             
             // Get world/realm from first question if available
-            if (data.questions.length > 0) {
-                this.currentWorld = data.questions[0].strand;
-                this.currentRealm = data.questions[0].substrand;
+            if (this.allQuestions.length > 0) {
+                this.currentWorld = this.allQuestions[0].strand;
+                this.currentRealm = this.allQuestions[0].substrand;
             }
             
             // Load user's saved progress for this mission (overrides URL level param)
@@ -659,7 +697,18 @@ class QuestionApp {
         const fixedHeader = document.getElementById('userHeaderContainer');
         if (fixedHeader) fixedHeader.style.display = 'none';
         
-        this.currentIndex = 0;
+        // Only reset currentIndex if not already set by loadUserProgress
+        // (loadUserProgress sets it when resuming partial progress)
+        if (this.currentIndex === 0 || this.currentIndex === undefined) {
+            this.currentIndex = 0;
+        }
+        
+        // Ensure currentIndex doesn't exceed available questions
+        if (this.currentIndex >= this.questions.length) {
+            this.currentIndex = 0;
+            this.pundexAnswerHistory = [];
+        }
+        
         this.userAnswers.clear();
         // this.adventureLog = []; // No longer needed for live logging
         this.displayQuestion();
@@ -987,6 +1036,9 @@ class QuestionApp {
         this.pundexAnswerHistory.push(isCorrect);
         this.checkProgression();
 
+        // Save partial progress after each question
+        this.savePartialProgress();
+
         this.showFeedback(isCorrect, question.correctAnswer);
         this.actionBtn.textContent = this.currentIndex === this.questions.length - 1 ? 'Finish' : 'Next →';
 
@@ -1299,6 +1351,7 @@ class QuestionApp {
         const currentPundexIndex = this.pundexTiers.indexOf(this.currentPundex);
         const colors = ['red', 'amber', 'green', 'purple'];
         const shortNames = ['I', 'C', 'R', 'PU']; // Abbreviated for mobile
+        
         const powerMeterHTML = this.pundexTiers.map((tier, index) => {
             const displayName = this.pundexDisplayNames[tier] || tier;
             const shortName = shortNames[index];
@@ -1374,14 +1427,46 @@ class QuestionApp {
     }
 
     setQuestionPool() {
-        this.questions = this.allQuestions.filter(q => 
-            q.yearGroup === `Year ${this.currentSchoolLevel}` && 
-            q.levelName === this.currentPundex
+        // Filter questions by year group (school level)
+        let yearQuestions = this.allQuestions.filter(q => 
+            q.yearGroup === `Year ${this.currentSchoolLevel}`
         );
 
-        if (this.questions.length === 0) {
-            this.showNotification(`No questions found for Level ${this.currentSchoolLevel}, ${this.currentPundex} Pundex.`, 'warning');
+        // If no questions for this level, find the first available level
+        if (yearQuestions.length === 0) {
+            for (let level = 1; level <= 6; level++) {
+                const levelQuestions = this.allQuestions.filter(q => q.yearGroup === `Year ${level}`);
+                if (levelQuestions.length > 0) {
+                    this.currentSchoolLevel = level;
+                    yearQuestions = levelQuestions;
+                    console.log(`No questions for requested level, switched to Level ${level}`);
+                    break;
+                }
+            }
         }
+
+        // If questions have levelName data, filter by pundex tier
+        // Otherwise, use all questions for this year and shuffle them
+        const hasLevelData = yearQuestions.some(q => q.levelName && q.levelName !== 'Beginning');
+        
+        if (hasLevelData) {
+            this.questions = yearQuestions.filter(q => q.levelName === this.currentPundex);
+        } else {
+            // No pundex tier data - use all year questions, shuffled
+            this.questions = this.shuffleArray([...yearQuestions]);
+        }
+
+        if (this.questions.length === 0) {
+            this.showNotification(`No questions found for Level ${this.currentSchoolLevel}, ${this.pundexDisplayNames[this.currentPundex] || this.currentPundex}.`, 'warning');
+        }
+    }
+
+    shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
     }
 
     /**
@@ -1493,6 +1578,7 @@ class QuestionApp {
 
     /**
      * Save user progress for a mission/level/pundex
+     * @param {boolean} completed - Whether the pundex is fully completed (power-up achieved)
      */
     saveProgress(mission, level, pundex, completed) {
         if (!this.currentUser || typeof UserAuth === 'undefined') {
@@ -1505,15 +1591,40 @@ class QuestionApp {
             pundexCompleted: {}
         };
 
-        // Mark this pundex as completed
+        // Get existing pundex data or create new
+        const existingPundexData = existingProgress.pundexCompleted[pundex] || {};
+
+        // Calculate rolling score (last 10 answers, or all if < 10)
+        const totalAnswered = this.pundexAnswerHistory.length;
+        const last10 = this.pundexAnswerHistory.slice(-10);
+        const rollingScore = last10.filter(a => a).length;
+        
+        // Update pundex progress
         existingProgress.pundexCompleted[pundex] = {
-            completed: completed,
-            completedAt: new Date().toISOString()
+            ...existingPundexData,
+            completed: completed || existingPundexData.completed || false,
+            questionsAnswered: totalAnswered,
+            correctAnswers: this.pundexAnswerHistory.filter(a => a).length,
+            rollingScore: rollingScore,
+            lastUpdated: new Date().toISOString()
         };
+
+        // If completed, add completion timestamp
+        if (completed) {
+            existingProgress.pundexCompleted[pundex].completedAt = new Date().toISOString();
+        }
 
         // Save back to user
         UserAuth.updateProgress(mission, level, existingProgress);
-        console.log(`Progress saved: ${mission} Level ${level} - ${pundex} completed`);
+        console.log(`Progress saved: ${mission} Level ${level} - ${pundex} (${this.pundexAnswerHistory.length} questions, completed: ${completed})`);
+    }
+
+    /**
+     * Save partial progress after each question answer
+     */
+    savePartialProgress() {
+        if (!this.currentUser || !this.currentMission) return;
+        this.saveProgress(this.currentMission, this.currentSchoolLevel, this.currentPundex, false);
     }
 
     /**
@@ -1531,13 +1642,37 @@ class QuestionApp {
 
             for (let pundexIdx = 0; pundexIdx < this.pundexTiers.length; pundexIdx++) {
                 const pundex = this.pundexTiers[pundexIdx];
-                const isCompleted = levelProgress?.pundexCompleted?.[pundex]?.completed;
+                const pundexProgress = levelProgress?.pundexCompleted?.[pundex];
+                const isCompleted = pundexProgress?.completed;
 
                 if (!isCompleted) {
                     // This is where the user should start
                     this.currentSchoolLevel = level;
                     this.currentPundex = pundex;
-                    console.log(`Loaded progress: Starting at Level ${level}, ${pundex}`);
+                    
+                    // Restore partial progress within this pundex
+                    if (pundexProgress?.questionsAnswered > 0) {
+                        // Rebuild answer history based on saved progress
+                        const questionsAnswered = pundexProgress.questionsAnswered;
+                        const correctAnswers = pundexProgress.correctAnswers || 0;
+                        
+                        // Reconstruct pundexAnswerHistory (we know totals but not exact order)
+                        // Put correct answers first, then incorrect
+                        this.pundexAnswerHistory = [];
+                        for (let i = 0; i < correctAnswers; i++) {
+                            this.pundexAnswerHistory.push(true);
+                        }
+                        for (let i = 0; i < questionsAnswered - correctAnswers; i++) {
+                            this.pundexAnswerHistory.push(false);
+                        }
+                        
+                        // Set current index to resume from where they left off
+                        this.currentIndex = questionsAnswered;
+                        
+                        console.log(`Loaded progress: Level ${level}, ${pundex} - resuming at question ${questionsAnswered + 1} (${correctAnswers}/${questionsAnswered} correct)`);
+                    } else {
+                        console.log(`Loaded progress: Starting fresh at Level ${level}, ${pundex}`);
+                    }
                     return;
                 }
             }

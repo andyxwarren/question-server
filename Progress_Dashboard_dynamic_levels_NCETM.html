@@ -123,23 +123,23 @@
         }
 
         /* Row hierarchy styling */
-        .world-row {
+        .realm-row {
             background-color: #e8eaf6;
             font-weight: 600;
             font-size: 14px;
         }
 
-        .world-row td {
+        .realm-row td {
             background-color: #e8eaf6;
         }
 
-        .world-row td:first-child {
+        .realm-row td:first-child {
             text-align: left;
             padding-left: 10px;
         }
         
-        /* Sticky world indicator */
-        .sticky-world-indicator {
+        /* Sticky realm indicator */
+        .sticky-realm-indicator {
             position: fixed;
             top: 175px;
             background-color: #e8eaf6;
@@ -152,7 +152,7 @@
             text-align: left;
         }
         
-        .sticky-world-indicator.visible {
+        .sticky-realm-indicator.visible {
             display: block;
         }
         
@@ -249,52 +249,6 @@
             background-color: #8e24aa;
         }
 
-        /* Partial progress - fill from left based on correct answers (0-8 scale) */
-        .pundex.partial {
-            --fill-percent: 0%;
-            border: 1px solid currentColor;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .pundex.partial::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-            height: 100%;
-            width: var(--fill-percent);
-            opacity: 0.5;
-        }
-
-        .pundex.ignition.partial {
-            border-color: #e53935;
-        }
-        .pundex.ignition.partial::before {
-            background-color: #e53935;
-        }
-
-        .pundex.charging.partial {
-            border-color: #ffb300;
-        }
-        .pundex.charging.partial::before {
-            background-color: #ffb300;
-        }
-
-        .pundex.ready.partial {
-            border-color: #43a047;
-        }
-        .pundex.ready.partial::before {
-            background-color: #43a047;
-        }
-
-        .pundex.power-up.partial {
-            border-color: #8e24aa;
-        }
-        .pundex.power-up.partial::before {
-            background-color: #8e24aa;
-        }
-
         /* Unavailable level (no modules) */
         td:has(.pundex-cell.unavailable) {
             background-color: #f0f0f0;
@@ -316,16 +270,6 @@
             transform: translate(-50%, -50%);
             color: #bbb;
             font-size: 18px;
-        }
-
-        /* Locked mission indicator (prerequisites not met) */
-        .pundex-cell.locked::after {
-            content: "🔒";
-            font-size: 12px;
-        }
-
-        .locked-mission {
-            display: none;
         }
 
         /* Tooltip styling */
@@ -667,8 +611,8 @@
                 display: table-row-group;
             }
             
-            /* World rows on mobile - sticky below fixed header */
-            .world-row {
+            /* Realm rows on mobile - sticky below fixed header */
+            .realm-row {
                 display: table-row;
                 background-color: #e8eaf6 !important;
                 position: sticky;
@@ -676,12 +620,12 @@
                 z-index: 50;
             }
             
-            /* First world row should be at top initially */
-            .world-row:first-of-type {
+            /* First realm row should be at top initially */
+            .realm-row:first-of-type {
                 margin-top: 0;
             }
             
-            .world-row td {
+            .realm-row td {
                 display: table-cell;
                 padding: 8px 10px !important;
                 border: none !important;
@@ -689,19 +633,19 @@
                 font-weight: 600;
             }
             
-            .world-row td:first-child {
+            .realm-row td:first-child {
                 display: table-cell;
                 width: 40% !important;
             }
             
-            .world-row td:nth-child(2),
-            .world-row td:nth-child(3),
-            .world-row td:nth-child(4) {
+            .realm-row td:nth-child(2),
+            .realm-row td:nth-child(3),
+            .realm-row td:nth-child(4) {
                 display: table-cell;
                 width: 20% !important;
             }
             
-            .world-row td:nth-child(n+5) {
+            .realm-row td:nth-child(n+5) {
                 display: none !important;
                 width: 0 !important;
                 max-width: 0 !important;
@@ -710,8 +654,8 @@
                 overflow: hidden !important;
             }
             
-            /* Hide sticky world indicator on mobile - world rows visible in table */
-            .sticky-world-indicator {
+            /* Hide sticky realm indicator on mobile - realm rows visible in table */
+            .sticky-realm-indicator {
                 display: none !important;
             }
             
@@ -787,16 +731,16 @@
             
             /* Mobile column widths - 4 columns only */
             .mission-row td:first-child,
-            .world-row td:first-child {
+            .realm-row td:first-child {
                 width: 40% !important;
             }
             
             .mission-row td:nth-child(2),
             .mission-row td:nth-child(3),
             .mission-row td:nth-child(4),
-            .world-row td:nth-child(2),
-            .world-row td:nth-child(3),
-            .world-row td:nth-child(4) {
+            .realm-row td:nth-child(2),
+            .realm-row td:nth-child(3),
+            .realm-row td:nth-child(4) {
                 width: 20% !important;
             }
             
@@ -808,7 +752,7 @@
 
     <div class="sticky-header">
         <h1>📊 Progress Dashboard</h1>
-        <p class="subtitle">Track your mastery across all Worlds and Missions</p>
+        <p class="subtitle">Track your mastery across all Worlds, Realms, and Missions</p>
         <div class="legend">
             <div class="legend-item">
                 <div class="legend-color" style="background-color: #f0f0f0; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center; color: #ccc; font-size: 10px;">—</div>
@@ -836,7 +780,7 @@
             </div>
         </div>
         <div class="column-headers">
-            <div class="col-header col-mission">World / Mission</div>
+            <div class="col-header col-mission">World / Realm / Mission</div>
             <div class="col-header">Level 1</div>
             <div class="col-header">Level 2</div>
             <div class="col-header">Level 3</div>
@@ -846,8 +790,8 @@
         </div>
     </div>
 
-    <!-- Sticky world indicator -->
-    <div class="sticky-world-indicator" id="stickyWorldIndicator"></div>
+    <!-- Sticky realm indicator -->
+    <div class="sticky-realm-indicator" id="stickyRealmIndicator"></div>
 
     <!-- Mobile sticky table header -->
     <div class="mobile-table-header" id="mobileTableHeader">
@@ -870,7 +814,7 @@
             </colgroup>
             <thead class="hidden-thead">
                 <tr>
-                    <th>World / Mission</th>
+                    <th>World / Realm / Mission</th>
                     <th>Level 1</th>
                     <th>Level 2</th>
                     <th>Level 3</th>
@@ -880,11 +824,11 @@
                 </tr>
             </thead>
             <tbody>
-                <!-- World 1: Number & Place Value (6 missions) -->
-                <tr class="world-row">
-                    <td colspan="7">🔢 Number & Place Value</td>
+                <!-- Realm: Number > Place Value -->
+                <tr class="realm-row">
+                    <td colspan="7">🔢 Number > 📍 Place Value</td>
                 </tr>
-                <tr class="mission-row" data-cdr="N1">
+                <tr class="mission-row">
                     <td>Counting</td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
@@ -893,8 +837,8 @@
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="N2">
-                    <td>Read, Write, Order & Compare</td>
+                <tr class="mission-row">
+                    <td>Comparing Numbers</td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
@@ -902,8 +846,17 @@
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="N3">
-                    <td>Place Value & Roman Numerals</td>
+                <tr class="mission-row">
+                    <td>Identifying, Representing & Estimating</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Reading and Writing Numbers</td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
@@ -911,26 +864,76 @@
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="N4">
-                    <td>Identify, Represent, Estimate & Round</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="N5">
-                    <td>Negative Numbers</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                <tr class="mission-row">
+                    <td>Place Value</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="N6">
-                    <td>Number Problems</td>
+                <tr class="mission-row">
+                    <td>Rounding</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Problem Solving (PV)</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+
+                <!-- Realm: Number > Addition and Subtraction -->
+                <tr class="realm-row">
+                    <td colspan="7">🔢 Number > ➕ Addition and Subtraction</td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Number Bonds</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Mental Calculation (A&S)</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Written Methods</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Inverse Operations & Checking (A&S)</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Problem Solving (A&S)</td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
@@ -939,84 +942,66 @@
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
 
-                <!-- World 2: Calculations (9 missions) -->
-                <tr class="world-row">
-                    <td colspan="7">➕ Calculations</td>
+                <!-- Realm: Number > Multiplication and Division -->
+                <tr class="realm-row">
+                    <td colspan="7">🔢 Number > ✖️ Multiplication and Division</td>
                 </tr>
-                <tr class="mission-row" data-cdr="C1">
-                    <td>Add & Subtract Mentally</td>
+                <tr class="mission-row">
+                    <td>Multiplication & Division Facts</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="C2">
-                    <td>Add & Subtract Written</td>
+                <tr class="mission-row">
+                    <td>Mental Calculation (M&D)</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="C3">
-                    <td>Estimate & Inverse</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="C4">
-                    <td>Add & Subtract Problems</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                <tr class="mission-row">
+                    <td>Written Calculation (M&D)</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="C5">
-                    <td>Properties of Number</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="C6">
-                    <td>Mult & Div Mentally</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                <tr class="mission-row">
+                    <td>Properties of Numbers</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="C7">
-                    <td>Mult & Div Written</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="C8">
-                    <td>Solve Problems</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="C9">
+                <tr class="mission-row">
                     <td>Order of Operations</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Inverse Operations & Checking</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Problem Solving (M&D)</td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
@@ -1025,403 +1010,268 @@
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
 
-                <!-- World 3: Fractions, Decimals & % (12 missions) -->
-                <tr class="world-row">
-                    <td colspan="7">🔢 Fractions, Decimals & %</td>
+                <!-- Realm: Number > Fractions, Decimals and Percentages -->
+                <tr class="realm-row">
+                    <td colspan="7">🔢 Number > 🔢 Fractions, Decimals and Percentages</td>
                 </tr>
-                <tr class="mission-row" data-cdr="F1">
-                    <td>Recognise & Count Fractions</td>
+                <tr class="mission-row">
+                    <td>Counting in Fractional Steps</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Recognising Fractions</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Comparing Fractions</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Comparing Decimals</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Rounding Including Decimals</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Equivalence (FDP)</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="F2">
-                    <td>Equivalent Fractions</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="F3">
-                    <td>Compare & Order</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="F4">
+                <tr class="mission-row">
                     <td>Add & Subtract Fractions</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="F5">
-                    <td>Multiply & Divide</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="F6">
-                    <td>Fractions / Decimals Equiv.</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="F7">
-                    <td>Rounding Decimals</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                <tr class="mission-row">
+                    <td>Multiply & Divide Fractions</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="F8">
-                    <td>Compare Decimals</td>
+                <tr class="mission-row">
+                    <td>Multiply & Divide Decimals</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="F9">
-                    <td>Mult & Div Decimals</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="F10">
-                    <td>Fraction & Decimal Problems</td>
+                <tr class="mission-row">
+                    <td>Problem Solving (FDP)</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="F11">
-                    <td>FDP Equivalence</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="F12">
-                    <td>Percentage Problems</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
 
-                <!-- World 4: Ratio & Proportion (4 missions) -->
-                <tr class="world-row">
-                    <td colspan="7">⚖️ Ratio & Proportion</td>
-                </tr>
-                <tr class="mission-row" data-cdr="R1">
-                    <td>Relative Sizes</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="R2">
-                    <td>Percentage Comparison</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="R3">
-                    <td>Scale Factors</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="R4">
-                    <td>Unequal Sharing</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <!-- World 5: Algebra (5 missions) -->
-                <tr class="world-row">
+                <!-- Realm: Algebra (no sub-realms) -->
+                <tr class="realm-row">
                     <td colspan="7">🔤 Algebra</td>
                 </tr>
-                <tr class="mission-row" data-cdr="A1">
-                    <td>Missing Numbers</td>
+                <tr class="mission-row">
+                    <td>Equations</td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="A2">
+                <tr class="mission-row">
                     <td>Formulae</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="A3">
-                    <td>Linear Sequences</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="A4">
-                    <td>Two Unknowns</td>
+                <tr class="mission-row">
+                    <td>Sequences</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="A5">
-                    <td>Combinations of Variables</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
 
-                <!-- World 6: Measurement (9 missions) -->
-                <tr class="world-row">
+                <!-- Realm: Measurement (no sub-realms) -->
+                <tr class="realm-row">
                     <td colspan="7">📏 Measurement</td>
                 </tr>
-                <tr class="mission-row" data-cdr="M1">
-                    <td>Compare & Order</td>
+                <tr class="mission-row">
+                    <td>Comparing and Estimating</td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="M2">
-                    <td>Estimate & Measure</td>
+                <tr class="mission-row">
+                    <td>Measuring and Calculating</td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="M3">
-                    <td>Money</td>
+                <tr class="mission-row">
+                    <td>Telling the Time</td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="M4">
-                    <td>Time</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="M5">
-                    <td>Metric Conversion</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="M6">
-                    <td>Metric / Imperial</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="M7">
-                    <td>Perimeter & Area</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="M8">
-                    <td>Volume</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="M9">
-                    <td>Measurement Problems</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                <tr class="mission-row">
+                    <td>Converting</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
 
-                <!-- World 7: Shapes (5 missions) -->
-                <tr class="world-row">
-                    <td colspan="7">📐 Shapes</td>
+                <!-- Realm: Geometry > Properties of Shapes -->
+                <tr class="realm-row">
+                    <td colspan="7">📐 Geometry > 🔷 Properties of Shapes</td>
                 </tr>
-                <tr class="mission-row" data-cdr="G1">
-                    <td>2D Shapes</td>
+                <tr class="mission-row">
+                    <td>Identifying Shapes & Properties</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="G2">
-                    <td>3D Shapes</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="G3">
-                    <td>Lines & Angles</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                <tr class="mission-row">
+                    <td>Drawing and Constructing</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="G4">
-                    <td>Draw & Construct</td>
+                <tr class="mission-row">
+                    <td>Comparing and Classifying</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="G5">
-                    <td>Circles</td>
+                <tr class="mission-row">
+                    <td>Angles</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <!-- Realm: Geometry > Position and Direction -->
+                <tr class="realm-row">
+                    <td colspan="7">📐 Geometry > 🧭 Position and Direction</td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Position, Direction & Movement</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Pattern</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+
+                <!-- Realm: Ratio and Proportion (no sub-realms) -->
+                <tr class="realm-row">
+                    <td colspan="7">⚖️ Ratio and Proportion</td>
+                </tr>
+                <tr class="mission-row">
+                    <td>Ratio and Proportion</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
 
-                <!-- World 8: Position & Direction (4 missions) -->
-                <tr class="world-row">
-                    <td colspan="7">🧭 Position & Direction</td>
-                </tr>
-                <tr class="mission-row" data-cdr="P2">
-                    <td>Position & Movement</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="P3">
-                    <td>Coordinates</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="P1">
-                    <td>Pattern & Symmetry</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-
-                <!-- World 9: Statistics (3 missions) -->
-                <tr class="world-row">
+                <!-- Realm: Statistics (no sub-realms) -->
+                <tr class="realm-row">
                     <td colspan="7">📈 Statistics</td>
                 </tr>
-                <tr class="mission-row" data-cdr="S1">
-                    <td>Tables & Timetables</td>
+                <tr class="mission-row">
+                    <td>Interpreting, Constructing & Presenting Data</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                 </tr>
-                <tr class="mission-row" data-cdr="S2">
-                    <td>Charts & Graphs</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                </tr>
-                <tr class="mission-row" data-cdr="S3">
-                    <td>Mean Average</td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
-                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                <tr class="mission-row">
+                    <td>Solving Problems</td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell unavailable"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
                     <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
@@ -1522,171 +1372,6 @@
         const pundexTiers = ['Beginning', 'Developing', 'Meeting', 'Exceeding'];
         const pundexClasses = ['ignition', 'charging', 'ready', 'power-up'];
 
-        // Available levels per CDR (based on topic_rows.csv curriculum data)
-        // If a level is NOT in the array, it should be marked unavailable
-        const availableLevels = {
-            // Number & Place Value
-            'N1': [1,2,3,4,5],      // Counting - no Year 6
-            'N2': [1,2,3,4,5,6],    // Read, Write, Order & Compare - all years
-            'N3': [2,3,4,5,6],      // Place Value & Roman Numerals - no Year 1
-            'N4': [1,2,3,4,5,6],    // Identify, Represent, Estimate & Round - all years
-            'N5': [4,5,6],          // Negative Numbers - Years 4-6 only
-            'N6': [2,3,4,5,6],      // Number Problems - no Year 1
-            
-            // Calculations
-            'C1': [1,2,3,5],        // Add & Subtract Mentally - no Years 4, 6
-            'C2': [1,2,3,4,5],      // Add & Subtract Written - no Year 6
-            'C3': [2,3,4,5,6],      // Estimate & Inverse - no Year 1
-            'C4': [1,2,3,4,5,6],    // Add & Subtract Problems - all years
-            'C5': [5,6],            // Properties of Number - Years 5-6 only
-            'C6': [2,3,4,5,6],      // Mult & Div Mentally - no Year 1
-            'C7': [2,3,4,5,6],      // Mult & Div Written - no Year 1
-            'C8': [1,2,3,4,5,6],    // Solve Problems - all years
-            'C9': [2,6],            // Order of Operations - Years 2 and 6 only
-            
-            // Fractions, Decimals & Percentages
-            'F1': [1,2,3,4],        // Recognise & Count Fractions - Years 1-4
-            'F2': [2,3,4,5,6],      // Equivalent Fractions - no Year 1
-            'F3': [3,5,6],          // Compare & Order - Years 3, 5, 6
-            'F4': [3,4,5,6],        // Add & Subtract Fractions - Years 3-6
-            'F5': [5,6],            // Multiply & Divide - Years 5-6
-            'F6': [4,5,6],          // Fractions / Decimals Equiv. - Years 4-6
-            'F7': [4,5],            // Rounding Decimals - Years 4-5
-            'F8': [4,5],            // Compare Decimals - Years 4-5
-            'F9': [4,6],            // Mult & Div Decimals - Years 4 and 6
-            'F10': [3,4,5,6],       // Fraction & Decimal Problems - Years 3-6
-            'F11': [5,6],           // FDP Equivalence - Years 5-6
-            'F12': [5],             // Percentage Problems - Year 5 only
-            
-            // Ratio & Proportion
-            'R1': [6],              // Relative Sizes - Year 6 only
-            'R2': [6],              // Percentage Comparison - Year 6 only
-            'R3': [6],              // Scale Factors - Year 6 only
-            'R4': [6],              // Unequal Sharing - Year 6 only
-            
-            // Algebra
-            'A1': [6],              // Missing Numbers - Year 6 only
-            'A2': [6],              // Formulae - Year 6 only
-            'A3': [6],              // Linear Sequences - Year 6 only
-            'A4': [6],              // Two Unknowns - Year 6 only
-            'A5': [6],              // Combinations of Variables - Year 6 only
-            
-            // Measurement
-            'M1': [1,2,3,4],        // Compare & Order - Years 1-4
-            'M2': [1,2,3,4],        // Estimate & Measure - Years 1-4
-            'M3': [1,2],            // Money - Years 1-2
-            'M4': [1,2,3,4,5],      // Time - Years 1-5
-            'M5': [4,5,6],          // Metric Conversion - Years 4-6
-            'M6': [5,6],            // Metric / Imperial - Years 5-6
-            'M7': [3,4,5,6],        // Perimeter & Area - Years 3-6
-            'M8': [5,6],            // Volume - Years 5-6
-            'M9': [2,3,4,5,6],      // Measurement Problems - no Year 1
-            
-            // Geometry - Shapes
-            'G1': [1,2],            // 2D Shapes - Years 1-2
-            'G2': [2,3,4,5,6],      // 3D Shapes - no Year 1
-            'G3': [2,3,5,6],        // Lines & Angles - no Years 1, 4
-            'G4': [3,4,5,6],        // Draw & Construct - Years 3-6
-            'G5': [6],              // Circles - Year 6 only
-            
-            // Position & Direction
-            'P1': [2],              // Pattern & Symmetry - Year 2 only
-            'P2': [1,2,4,5,6],      // Position & Movement - no Year 3
-            'P3': [4,6],            // Coordinates - Years 4 and 6
-            
-            // Statistics
-            'S1': [2,3,4,5,6],      // Tables & Timetables - no Year 1
-            'S2': [2,3,4,5],        // Charts & Graphs - no Years 1, 6
-            'S3': [6]               // Mean Average - Year 6 only
-        };
-
-        // Get missions available at a specific level
-        function getMissionsAtLevel(level) {
-            return Object.keys(availableLevels).filter(cdr => availableLevels[cdr].includes(level));
-        }
-
-        // Check if all missions at a level are completed to Power Up
-        function isLevelFullyCompleted(level) {
-            const missionsAtLevel = getMissionsAtLevel(level);
-            
-            for (const cdr of missionsAtLevel) {
-                // Get mission name from the row
-                const row = document.querySelector(`.mission-row[data-cdr="${cdr}"]`);
-                if (!row) continue;
-                
-                const firstCell = row.querySelector('td:first-child');
-                const missionSpan = firstCell.querySelector('.mission-name');
-                const missionName = missionSpan ? missionSpan.textContent.trim() : firstCell.textContent.trim();
-                
-                // Check if this mission has Power Up completed at this level
-                const progress = UserAuth.getProgress(missionName, level);
-                const powerUpCompleted = progress?.pundexCompleted?.['Exceeding']?.completed;
-                
-                if (!powerUpCompleted) {
-                    return false;
-                }
-            }
-            return true;
-        }
-
-        // Get the first level a mission is available at
-        function getFirstAvailableLevel(cdr) {
-            const levels = availableLevels[cdr];
-            return levels ? Math.min(...levels) : 1;
-        }
-
-        // Mark unavailable levels on page load (curriculum + prerequisite locking)
-        function markUnavailableLevels() {
-            // First, check which levels are fully completed
-            const levelCompletion = {};
-            for (let level = 1; level <= 6; level++) {
-                levelCompletion[level] = isLevelFullyCompleted(level);
-            }
-            
-            document.querySelectorAll('.mission-row').forEach(row => {
-                const cdr = row.getAttribute('data-cdr');
-                if (!cdr || !availableLevels[cdr]) return;
-                
-                const available = availableLevels[cdr];
-                const firstLevel = getFirstAvailableLevel(cdr);
-                const cells = row.querySelectorAll('.pundex-cell');
-                
-                // Check if prerequisites are met for this mission
-                // A mission starting at level N requires all missions at level N-1 to be completed
-                let prerequisitesMet = true;
-                if (firstLevel > 1) {
-                    // Check if all levels below firstLevel are completed
-                    for (let prereqLevel = 1; prereqLevel < firstLevel; prereqLevel++) {
-                        if (!levelCompletion[prereqLevel]) {
-                            prerequisitesMet = false;
-                            break;
-                        }
-                    }
-                }
-                
-                cells.forEach((cell, index) => {
-                    const level = index + 1;
-                    
-                    // Mark as unavailable if:
-                    // 1. Not in curriculum for this mission, OR
-                    // 2. Prerequisites not met (for missions starting above level 1)
-                    if (!available.includes(level)) {
-                        cell.classList.add('unavailable');
-                    } else if (!prerequisitesMet) {
-                        cell.classList.add('unavailable', 'locked');
-                    }
-                });
-                
-                // If mission is locked, add visual indicator to the row
-                if (!prerequisitesMet) {
-                    row.classList.add('locked-mission');
-                }
-            });
-        }
-
-        // Call on page load
-        markUnavailableLevels();
-
         // Apply user progress to the dashboard
         function applyUserProgress() {
             document.querySelectorAll('.mission-row').forEach(row => {
@@ -1705,31 +1390,17 @@
                     // Get user progress for this mission/level
                     const levelProgress = UserAuth.getProgress(missionName, level);
                     
-                    // Apply completed/partial status to each pundex
+                    // Apply completed status to each pundex
                     const pundexElements = cell.querySelectorAll('.pundex');
                     pundexElements.forEach((pundexEl, pundexIdx) => {
                         const tierName = pundexTiers[pundexIdx];
-                        const pundexProgress = levelProgress?.pundexCompleted?.[tierName];
-                        const isCompleted = pundexProgress?.completed;
-                        const questionsAnswered = pundexProgress?.questionsAnswered || 0;
-                        const correctAnswers = pundexProgress?.correctAnswers || 0;
-                        const rollingScore = pundexProgress?.rollingScore ?? correctAnswers; // fallback for old data
+                        const isCompleted = levelProgress?.pundexCompleted?.[tierName]?.completed;
                         
-                        // Use overall score for first 10 questions, then rolling score
-                        const scoreToUse = questionsAnswered >= 10 ? rollingScore : correctAnswers;
-                        const hasPartialProgress = scoreToUse > 0 && !isCompleted;
-                        
-                        // Remove any existing status classes first
-                        pundexEl.classList.remove('completed', 'partial');
-                        pundexEl.style.removeProperty('--fill-percent');
+                        // Remove any existing completed class first
+                        pundexEl.classList.remove('completed');
                         
                         if (isCompleted) {
                             pundexEl.classList.add('completed');
-                        } else if (hasPartialProgress) {
-                            pundexEl.classList.add('partial');
-                            // Fill proportional to score (7 needed to complete, 0-7 scale)
-                            const fillPercent = Math.min(100, (scoreToUse / 7) * 100);
-                            pundexEl.style.setProperty('--fill-percent', `${fillPercent}%`);
                         }
                     });
                 });
@@ -2094,8 +1765,8 @@
         document.querySelectorAll('tbody tr').forEach(row => {
             const cells = row.querySelectorAll('td');
             
-            // For world rows, update colspan
-            if (row.classList.contains('world-row')) {
+            // For realm rows, update colspan
+            if (row.classList.contains('realm-row')) {
                 const td = row.querySelector('td');
                 td.setAttribute('colspan', maxDisplayLevel + 1);
                 return;
@@ -2126,12 +1797,12 @@
             }
         });
 
-        // STEP 4: Hide world rows if all their missions are hidden
-        document.querySelectorAll('.world-row').forEach(worldRow => {
-            let nextRow = worldRow.nextElementSibling;
+        // STEP 4: Hide realm rows if all their missions are hidden
+        document.querySelectorAll('.realm-row').forEach(realmRow => {
+            let nextRow = realmRow.nextElementSibling;
             let hasVisibleMission = false;
             
-            while (nextRow && !nextRow.classList.contains('world-row')) {
+            while (nextRow && !nextRow.classList.contains('realm-row')) {
                 if (nextRow.classList.contains('mission-row') && nextRow.style.display !== 'none') {
                     hasVisibleMission = true;
                     break;
@@ -2140,7 +1811,7 @@
             }
             
             if (!hasVisibleMission) {
-                worldRow.style.display = 'none';
+                realmRow.style.display = 'none';
             }
         });
 
@@ -2188,11 +1859,8 @@
                 cell.dataset.level = level;
             });
 
-            // Get CDR code from the mission row
-            const cdrCode = row.dataset.cdr || '';
-            
             // Wrap mission name in div with span and launch button
-            firstCell.innerHTML = `<div><span class="mission-name">${missionName}</span><button class="launch-btn" data-mission="${missionName}" data-cdr="${cdrCode}" data-level="${currentLevelNum || 1}">Launch</button></div>`;
+            firstCell.innerHTML = `<div><span class="mission-name">${missionName}</span><button class="launch-btn" data-mission="${missionName}" data-level="${currentLevelNum || 1}">Launch</button></div>`;
         });
 
         // Add click handler for current-level cells (desktop only)
@@ -2202,11 +1870,9 @@
         if (isDesktop) {
             document.querySelectorAll('.pundex-cell.current-level').forEach(cell => {
                 cell.addEventListener('click', () => {
-                    const missionRow = cell.closest('.mission-row');
-                    const cdr = missionRow ? missionRow.dataset.cdr : '';
                     const mission = cell.dataset.mission;
                     const level = cell.dataset.level;
-                    window.location.href = `index.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
+                    window.location.href = `index.html?mission=${encodeURIComponent(mission)}&level=${level}`;
                 });
             });
         }
@@ -2275,8 +1941,8 @@
                 }
             });
             
-            // Also update world rows
-            document.querySelectorAll('.world-row').forEach(row => {
+            // Also update realm rows
+            document.querySelectorAll('.realm-row').forEach(row => {
                 for (let level = 1; level <= 6; level++) {
                     const cell = row.querySelector(`td:nth-child(${level + 1})`);
                     if (cell) {
@@ -2297,10 +1963,9 @@
             cell.addEventListener('click', (e) => {
                 const btn = cell.querySelector('.launch-btn');
                 if (btn) {
-                    const cdr = btn.dataset.cdr;
                     const mission = btn.dataset.mission;
                     const level = btn.dataset.level;
-                    window.location.href = `index.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
+                    window.location.href = `index.html?mission=${encodeURIComponent(mission)}&level=${level}`;
                 }
             });
         });
@@ -2398,32 +2063,32 @@
             });
         }
 
-        // Sticky world indicator logic
-        const stickyIndicator = document.getElementById('stickyWorldIndicator');
+        // Sticky realm indicator logic
+        const stickyIndicator = document.getElementById('stickyRealmIndicator');
         const stickyHeader = document.querySelector('.sticky-header');
         const table = document.querySelector('table');
         
-        function updateStickyWorld() {
+        function updateStickyRealm() {
             const headerBottom = stickyHeader.getBoundingClientRect().bottom;
             const tableRect = table.getBoundingClientRect();
-            let currentWorld = null;
+            let currentRealm = null;
             
-            // Get all world rows fresh each time (they're hidden by CSS but still in DOM)
-            const worldRows = document.querySelectorAll('.world-row');
+            // Get all realm rows fresh each time (they're hidden by CSS but still in DOM)
+            const realmRows = document.querySelectorAll('.realm-row');
             
-            // Find the current world based on which mission rows are visible
-            // Look at mission rows and find which world they belong to
+            // Find the current realm based on which mission rows are visible
+            // Look at mission rows and find which realm they belong to
             const missionRows = document.querySelectorAll('.mission-row');
             
             missionRows.forEach(row => {
                 const rect = row.getBoundingClientRect();
                 // If this mission row is at or above the sticky indicator position
                 if (rect.top <= headerBottom + 60 && rect.bottom > headerBottom) {
-                    // Find the world row that precedes this mission
+                    // Find the realm row that precedes this mission
                     let prevSibling = row.previousElementSibling;
                     while (prevSibling) {
-                        if (prevSibling.classList.contains('world-row')) {
-                            currentWorld = prevSibling.querySelector('td').textContent;
+                        if (prevSibling.classList.contains('realm-row')) {
+                            currentRealm = prevSibling.querySelector('td').textContent;
                             break;
                         }
                         prevSibling = prevSibling.previousElementSibling;
@@ -2431,14 +2096,14 @@
                 }
             });
             
-            // If no current world found yet, use the first world
-            if (!currentWorld && worldRows.length > 0) {
-                currentWorld = worldRows[0].querySelector('td').textContent;
+            // If no current realm found yet, use the first realm
+            if (!currentRealm && realmRows.length > 0) {
+                currentRealm = realmRows[0].querySelector('td').textContent;
             }
             
-            // Always show the sticky indicator with current world
-            if (currentWorld) {
-                stickyIndicator.textContent = currentWorld;
+            // Always show the sticky indicator with current realm
+            if (currentRealm) {
+                stickyIndicator.textContent = currentRealm;
                 stickyIndicator.style.left = tableRect.left + 'px';
                 stickyIndicator.style.width = tableRect.width + 'px';
                 stickyIndicator.style.top = (headerBottom) + 'px';
@@ -2446,10 +2111,10 @@
             }
         }
         
-        window.addEventListener('scroll', updateStickyWorld);
-        window.addEventListener('resize', updateStickyWorld);
+        window.addEventListener('scroll', updateStickyRealm);
+        window.addEventListener('resize', updateStickyRealm);
         // Run after a short delay to ensure page is fully loaded
-        setTimeout(updateStickyWorld, 100);
+        setTimeout(updateStickyRealm, 100);
     </script>
 </body>
 </html>

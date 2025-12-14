@@ -1,0 +1,2002 @@
+[
+    {
+        "question_id": 6039,
+        "question_text": "What does the symbol % stand for?",
+        "answer_type": "text_input",
+        "correct_answer": "per cent",
+        "alternative_answer_1": "percent",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6040,
+        "question_text": "The term per cent means out of... how many?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "one hundred",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6041,
+        "question_text": "Write 50% as a fraction with a denominator of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "50/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6042,
+        "question_text": "Write 25% as a fraction with a denominator of 100.",
+        "answer_type": "text_input",
+        "correct_answer": "25/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6043,
+        "question_text": "If 10 squares are shaded on a 100-square grid, what percentage is shaded?",
+        "answer_type": "text_input",
+        "correct_answer": "10%",
+        "alternative_answer_1": "10",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6044,
+        "question_text": "If 75 squares are shaded on a 100-square grid, what percentage is shaded?",
+        "answer_type": "text_input",
+        "correct_answer": "75%",
+        "alternative_answer_1": "75",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6045,
+        "question_text": "What is 100% as a fraction with a denominator of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "100/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6046,
+        "question_text": "Write 10 per cent as a fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "10/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6047,
+        "question_text": "Write 30 per cent as a fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "30/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6048,
+        "question_text": "A score of 90 out of 100 is what percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "90%",
+        "alternative_answer_1": "90",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6049,
+        "question_text": "How would you write 40% as a fraction over 100?",
+        "answer_type": "text_input",
+        "correct_answer": "40/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6050,
+        "question_text": "What is the fraction for 1%?",
+        "answer_type": "text_input",
+        "correct_answer": "1/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6051,
+        "question_text": "What is the fraction for 20%?",
+        "answer_type": "text_input",
+        "correct_answer": "20/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6052,
+        "question_text": "If a battery is at 100% charge, what fraction of its charge does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "100/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6053,
+        "question_text": "5 out of 100 is what as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "5%",
+        "alternative_answer_1": "5",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6054,
+        "question_text": "80 out of 100 is what as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "80%",
+        "alternative_answer_1": "80",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6055,
+        "question_text": "Write sixty per cent as a fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "60/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6056,
+        "question_text": "Write five per cent as a fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "5/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6057,
+        "question_text": "What is the meaning of the % symbol?",
+        "answer_type": "text_input",
+        "correct_answer": "per cent",
+        "alternative_answer_1": "percent",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6058,
+        "question_text": "A test score is 85%. What is this as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "85/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6059,
+        "question_text": "A phone has 15% battery left. What fraction of the battery is left?",
+        "answer_type": "text_input",
+        "correct_answer": "15/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6060,
+        "question_text": "On a 100-square grid, what percentage does one square represent?",
+        "answer_type": "text_input",
+        "correct_answer": "1%",
+        "alternative_answer_1": "1",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6061,
+        "question_text": "If half of a 100-square grid is shaded, what percentage is that?",
+        "answer_type": "text_input",
+        "correct_answer": "50%",
+        "alternative_answer_1": "50",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6062,
+        "question_text": "What is 95% written as a fraction with a denominator of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "95/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6063,
+        "question_text": "What fraction represents 55%?",
+        "answer_type": "text_input",
+        "correct_answer": "55/100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6064,
+        "question_text": "Write 25% as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6065,
+        "question_text": "Write 75% as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.75",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6066,
+        "question_text": "Convert 40% to a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.4",
+        "alternative_answer_1": "0.4",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6067,
+        "question_text": "Convert 90% to a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.9",
+        "alternative_answer_1": "0.9",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6068,
+        "question_text": "How do you write the decimal 0.20 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "20%",
+        "alternative_answer_1": "20",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6069,
+        "question_text": "How do you write the decimal 0.85 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "85%",
+        "alternative_answer_1": "85",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6070,
+        "question_text": "What is 35% as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.35",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6071,
+        "question_text": "What is 65% as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "65/100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6072,
+        "question_text": "Complete the table entry: If the fraction is 45/100, what is the percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "45%",
+        "alternative_answer_1": "45",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6073,
+        "question_text": "Complete the table entry: If the percentage is 5%, what is the decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.05",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6074,
+        "question_text": "Write 10% as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.1",
+        "alternative_answer_1": "0.1",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6075,
+        "question_text": "Write 0.5 as a percentage.",
+        "answer_type": "text_input",
+        "correct_answer": "50%",
+        "alternative_answer_1": "50",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6076,
+        "question_text": "Write 0.3 as a percentage.",
+        "answer_type": "text_input",
+        "correct_answer": "30%",
+        "alternative_answer_1": "30",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6077,
+        "question_text": "Convert 95% to its decimal equivalent.",
+        "answer_type": "text_input",
+        "correct_answer": "0.95",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6078,
+        "question_text": "Convert 0.55 to a percentage.",
+        "answer_type": "text_input",
+        "correct_answer": "55%",
+        "alternative_answer_1": "55",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6079,
+        "question_text": "What is 15% as a fraction and a decimal? (e.g. 1/2, 0.5)",
+        "answer_type": "text_input",
+        "correct_answer": "15/100, 0.15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6080,
+        "question_text": "What is 80% as a fraction and a decimal? (e.g. 1/2, 0.5)",
+        "answer_type": "text_input",
+        "correct_answer": "80/100, 0.8",
+        "alternative_answer_1": "80/100, 0.80",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6081,
+        "question_text": "Fill in the blank: 0.15 = ___ %",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15%",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6082,
+        "question_text": "Fill in the blank: 70% = 0.__",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "70",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6083,
+        "question_text": "A survey showed 60% of people prefer tea. Write this as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.6",
+        "alternative_answer_1": "0.6",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6084,
+        "question_text": "The decimal for a discount is 0.25. What is this as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "25%",
+        "alternative_answer_1": "25",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6085,
+        "question_text": "Change 45% into a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.45",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6086,
+        "question_text": "Change 0.65 into a percentage.",
+        "answer_type": "text_input",
+        "correct_answer": "65%",
+        "alternative_answer_1": "65",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6087,
+        "question_text": "What is 20% as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.2",
+        "alternative_answer_1": "0.2",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6088,
+        "question_text": "What is 0.05 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "5%",
+        "alternative_answer_1": "5",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6089,
+        "question_text": "Write 17% as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.17",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6090,
+        "question_text": "Write 93% as a fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "93/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6091,
+        "question_text": "Convert 4% to a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.04",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6092,
+        "question_text": "Convert 0.08 to a percentage.",
+        "answer_type": "text_input",
+        "correct_answer": "8%",
+        "alternative_answer_1": "8",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6093,
+        "question_text": "A student wrote that 7% = 0.7. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6094,
+        "question_text": "A phone is at 9% battery. Write this as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.09",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6095,
+        "question_text": "In a class, 0.47 of the students are girls. What percentage is this?",
+        "answer_type": "text_input",
+        "correct_answer": "47%",
+        "alternative_answer_1": "47",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6096,
+        "question_text": "Write 1% as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.01",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6097,
+        "question_text": "What is 0.02 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "2%",
+        "alternative_answer_1": "2",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6098,
+        "question_text": "Correct the error: 12% = 0.1.2",
+        "answer_type": "text_input",
+        "correct_answer": "0.12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6099,
+        "question_text": "What is 99% as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.99",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6100,
+        "question_text": "What is 0.36 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "36%",
+        "alternative_answer_1": "36",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6101,
+        "question_text": "If 3% of chocolates have a soft centre, what is this as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.03",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6102,
+        "question_text": "If a map is 0.82 of its original size, what percentage is this?",
+        "answer_type": "text_input",
+        "correct_answer": "82%",
+        "alternative_answer_1": "82",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6103,
+        "question_text": "Write sixty-one per cent as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.61",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6104,
+        "question_text": "Write twenty-nine per cent as a fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "29/100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6105,
+        "question_text": "A test score is 0.88. What is this score as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "88%",
+        "alternative_answer_1": "88",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6106,
+        "question_text": "A drink is 6% sugar. Write this as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.06",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6107,
+        "question_text": "Is 0.4 equal to 4%? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6108,
+        "question_text": "What is 100% as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6109,
+        "question_text": "Convert 0.51 to a percentage.",
+        "answer_type": "text_input",
+        "correct_answer": "51%",
+        "alternative_answer_1": "51",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6110,
+        "question_text": "Convert 11% to a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.11",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6111,
+        "question_text": "What is 0.07 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "7%",
+        "alternative_answer_1": "7",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6112,
+        "question_text": "What is 44% as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.44",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6113,
+        "question_text": "A price increased by 0.01. What percentage increase is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1%",
+        "alternative_answer_1": "1",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6114,
+        "question_text": "Which is largest: 0.6, 65%, or 3/5?",
+        "answer_type": "text_input",
+        "correct_answer": "65%",
+        "alternative_answer_1": "0.65",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6115,
+        "question_text": "Which is smallest: 0.25, 28%, or 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "0.25",
+        "alternative_answer_1": "01-Apr",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6116,
+        "question_text": "A shop offers a 20% discount. What is this as a simplified fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6117,
+        "question_text": "In a class of 100 students, 45 are boys. What percentage are girls?",
+        "answer_type": "text_input",
+        "correct_answer": "55%",
+        "alternative_answer_1": "55",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6118,
+        "question_text": "Order these from smallest to largest: 7/10, 0.72, 71%.",
+        "answer_type": "text_input",
+        "correct_answer": "7/10, 71%, 0.72",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6119,
+        "question_text": "A battery is 1/2 full. What percentage is this?",
+        "answer_type": "text_input",
+        "correct_answer": "50%",
+        "alternative_answer_1": "50",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6120,
+        "question_text": "A pizza is 3/4 eaten. What percentage has been eaten?",
+        "answer_type": "text_input",
+        "correct_answer": "75%",
+        "alternative_answer_1": "75",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6121,
+        "question_text": "Which is the odd one out: 0.2, 20%, 1/4?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6122,
+        "question_text": "I have eaten 0.3 of my chocolate bar. What percentage is left?",
+        "answer_type": "text_input",
+        "correct_answer": "70%",
+        "alternative_answer_1": "70",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6123,
+        "question_text": "Which of these is not equal to the others: 4/5, 80%, 0.8, 8/100?",
+        "answer_type": "text_input",
+        "correct_answer": "8/100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6124,
+        "question_text": "A student scores 4 out of 5 on a quiz. What is this score as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "80%",
+        "alternative_answer_1": "80",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6125,
+        "question_text": "A cinema is 0.65 full. What percentage of seats are empty?",
+        "answer_type": "text_input",
+        "correct_answer": "35%",
+        "alternative_answer_1": "35",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6126,
+        "question_text": "Put in descending order: 9%, 0.1, 1/100.",
+        "answer_type": "text_input",
+        "correct_answer": "0.1, 9%, 1/100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6127,
+        "question_text": "A survey of 100 people found 12 preferred vanilla. What percentage preferred other flavours?",
+        "answer_type": "text_input",
+        "correct_answer": "88%",
+        "alternative_answer_1": "88",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6128,
+        "question_text": "Is 40% the same as 2/5? (Yes/No)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6129,
+        "question_text": "What is 7/10 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "70%",
+        "alternative_answer_1": "70",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6130,
+        "question_text": "If a test score is 4/5, what is the percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "80%",
+        "alternative_answer_1": "80",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6131,
+        "question_text": "What is 1% written as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "1/100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6132,
+        "question_text": "What is 0.07 as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "7/100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6133,
+        "question_text": "Compare 1/10 and 11%. Which is larger?",
+        "answer_type": "text_input",
+        "correct_answer": "11%",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6134,
+        "question_text": "Compare 0.75 and 76%. Which is smaller?",
+        "answer_type": "text_input",
+        "correct_answer": "0.75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6135,
+        "question_text": "If you get 3/4 of the questions right in a test, what percentage did you get wrong?",
+        "answer_type": "text_input",
+        "correct_answer": "25%",
+        "alternative_answer_1": "25",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6136,
+        "question_text": "Write 50% as a simplified fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6137,
+        "question_text": "What is 1/100 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "1%",
+        "alternative_answer_1": "1",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 6138,
+        "question_text": "Out of 100 animals, 5 are cats. What decimal represents the proportion of cats?",
+        "answer_type": "text_input",
+        "correct_answer": "0.05",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 443
+    },
+    {
+        "question_id": 16844,
+        "question_text": "What is 1/2 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "50%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16845,
+        "question_text": "What is 1/4 as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16846,
+        "question_text": "How is 50% written as a fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16847,
+        "question_text": "What is 0.5 as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16848,
+        "question_text": "What is 1/5 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "20%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16849,
+        "question_text": "How is 25% written as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16850,
+        "question_text": "What is 0.25 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "25%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16851,
+        "question_text": "Write one half as a decimal.",
+        "answer_type": "text_input",
+        "correct_answer": "0.5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16852,
+        "question_text": "How is 20% written as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16853,
+        "question_text": "What is 0.2 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "20%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16854,
+        "question_text": "What is 1/4 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "25%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16855,
+        "question_text": "How is 0.5 written as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "50%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16856,
+        "question_text": "What is 1/5 as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16857,
+        "question_text": "What is 25% as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16858,
+        "question_text": "If a shape is 1/2 shaded, what percentage is shaded?",
+        "answer_type": "text_input",
+        "correct_answer": "50%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16859,
+        "question_text": "If a battery is at 0.25 charge, what percentage is that?",
+        "answer_type": "text_input",
+        "correct_answer": "25%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16860,
+        "question_text": "A test score is 50%. What is this as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16861,
+        "question_text": "If a glass is 0.5 full, what fraction is that?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16862,
+        "question_text": "A discount is 20%. What is this as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16863,
+        "question_text": "What is the decimal equivalent of 50%?",
+        "answer_type": "text_input",
+        "correct_answer": "0.5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16864,
+        "question_text": "If you eat 1/4 of a pie, what percentage have you eaten?",
+        "answer_type": "text_input",
+        "correct_answer": "25%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16865,
+        "question_text": "How do you write 20% as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16866,
+        "question_text": "What is 0.2 as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16867,
+        "question_text": "A team wins 1/5 of their games. What percentage of games do they win?",
+        "answer_type": "text_input",
+        "correct_answer": "20%",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16868,
+        "question_text": "What is 0.25 as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16869,
+        "question_text": "What is 3/4 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "75%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16870,
+        "question_text": "What is 2/5 as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16871,
+        "question_text": "How is 75% written as a fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16872,
+        "question_text": "Write 0.4 as a simple fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "04-Oct",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16873,
+        "question_text": "What is 4/5 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "80%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16874,
+        "question_text": "How is 40% written as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16875,
+        "question_text": "What is 0.75 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "75%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16876,
+        "question_text": "What is 3/4 as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.75",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16877,
+        "question_text": "How is 80% written as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "04-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16878,
+        "question_text": "What is 0.6 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "60%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16879,
+        "question_text": "Which is larger: 1/2 or 60%?",
+        "answer_type": "text_input",
+        "correct_answer": "60%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16880,
+        "question_text": "Which is smaller: 0.25 or 1/5?",
+        "answer_type": "text_input",
+        "correct_answer": "01-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16881,
+        "question_text": "What is 2/5 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "40%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16882,
+        "question_text": "How do you write 60% as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16883,
+        "question_text": "In a class, 2/5 of the children are boys. What percentage are boys?",
+        "answer_type": "text_input",
+        "correct_answer": "40%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16884,
+        "question_text": "A battery is at 0.8 charge. What percentage is that?",
+        "answer_type": "text_input",
+        "correct_answer": "80%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16885,
+        "question_text": "A test score is 75%. What is this as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16886,
+        "question_text": "If a glass is 0.75 full, what fraction is that?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16887,
+        "question_text": "A discount is 40%. What is this as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "02-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16888,
+        "question_text": "What is the decimal equivalent of 80%?",
+        "answer_type": "text_input",
+        "correct_answer": "0.8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16889,
+        "question_text": "If you eat 3/4 of a pie, what percentage have you eaten?",
+        "answer_type": "text_input",
+        "correct_answer": "75%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16890,
+        "question_text": "Order these from smallest to largest: 1/2, 0.4, 60%.",
+        "answer_type": "text_input",
+        "correct_answer": "0.4, 1/2, 60%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16891,
+        "question_text": "What is 0.6 as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16892,
+        "question_text": "A team wins 4/5 of their games. What percentage of games do they win?",
+        "answer_type": "text_input",
+        "correct_answer": "80%",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16893,
+        "question_text": "What is 60% as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "03-May",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16894,
+        "question_text": "What is 1/20 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "5%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16895,
+        "question_text": "What is 3/25 as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16896,
+        "question_text": "A shop has a sale with 10% off. What is this discount as a fraction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16897,
+        "question_text": "Which is the largest value: 0.7, 3/4, or 72%?",
+        "answer_type": "text_input",
+        "correct_answer": "03-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16898,
+        "question_text": "What is 12% as a fraction in its simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "Mar-25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16899,
+        "question_text": "A survey shows 1/10 of people have green eyes. What is this as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "10%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16900,
+        "question_text": "What is 7/50 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "14%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16901,
+        "question_text": "Order these from smallest to largest: 3/5, 0.65, 70%.",
+        "answer_type": "text_input",
+        "correct_answer": "3/5, 0.65, 70%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16902,
+        "question_text": "Convert 15% to a decimal and a simplified fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "0.15, 3/20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16903,
+        "question_text": "In a class, 3/25 of the students are left-handed. What percentage is this?",
+        "answer_type": "text_input",
+        "correct_answer": "12%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16904,
+        "question_text": "Which is smaller: 1/4 or 28%?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16905,
+        "question_text": "What is 9/20 as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.45",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16906,
+        "question_text": "A test score is 18/20. What is this as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "90%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16907,
+        "question_text": "How do you write 5% as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.05",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16908,
+        "question_text": "What is 11/50 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "22%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16909,
+        "question_text": "Order these: 0.1, 1%, 1/20.",
+        "answer_type": "text_input",
+        "correct_answer": "1%, 1/20, 0.1",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16910,
+        "question_text": "A phone battery is at 1/10 of its charge. What percentage is this?",
+        "answer_type": "text_input",
+        "correct_answer": "10%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16911,
+        "question_text": "What is 2% as a fraction in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "Jan-50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16912,
+        "question_text": "Which is larger: 65% or 13/20?",
+        "answer_type": "text_input",
+        "correct_answer": "They are equal",
+        "alternative_answer_1": "equal",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16913,
+        "question_text": "Convert 0.35 to a percentage and a simplified fraction.",
+        "answer_type": "text_input",
+        "correct_answer": "35%, 7/20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16914,
+        "question_text": "A company sold 4/25 of its stock. What percentage was sold?",
+        "answer_type": "text_input",
+        "correct_answer": "16%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16915,
+        "question_text": "Which is smaller: 0.08 or 1/10?",
+        "answer_type": "text_input",
+        "correct_answer": "0.08",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16916,
+        "question_text": "A book is 21/25 of the way through. What percentage is this?",
+        "answer_type": "text_input",
+        "correct_answer": "84%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16917,
+        "question_text": "What is 3/10 as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "30%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16918,
+        "question_text": "Complete the trio: 1/20 = 0.05 = ?%",
+        "answer_type": "text_input",
+        "correct_answer": "5%",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16919,
+        "question_text": "In a survey of 50 people, 20 chose red. What percentage of people chose red?",
+        "answer_type": "text_input",
+        "correct_answer": "40%",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16920,
+        "question_text": "Which value is different from the others? 0.75, 75%, 3/4, 7/10",
+        "answer_type": "text_input",
+        "correct_answer": "07-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16921,
+        "question_text": "A test has 25 questions. You get 15 correct. What is your score as a percentage?",
+        "answer_type": "text_input",
+        "correct_answer": "60%",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16922,
+        "question_text": "A shop offers a 20% discount. An item costs £30. How much is the discount?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "£6",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16923,
+        "question_text": "You eat 3/8 of a pizza. What percentage of the pizza is left?",
+        "answer_type": "text_input",
+        "correct_answer": "62.50%",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16924,
+        "question_text": "Which is a better score on a test: 18 out of 20, or 22 out of 25?",
+        "answer_type": "text_input",
+        "correct_answer": "18 out of 20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16925,
+        "question_text": "An item that costs £50 is reduced by 10%. What is the new price?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "£45",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16926,
+        "question_text": "Order these from largest to smallest: 0.12, 1/8, 12.3%.",
+        "answer_type": "text_input",
+        "correct_answer": "1/8, 12.3%, 0.12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16927,
+        "question_text": "In a group of 20 students, 75% have brown hair. How many students do not have brown hair?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16928,
+        "question_text": "A phone's battery is at 45%. What is this as a fraction in simplest form?",
+        "answer_type": "text_input",
+        "correct_answer": "Sep-20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16929,
+        "question_text": "What is 1% of 300?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16930,
+        "question_text": "There are 50 cars in a car park. 40% are red. How many cars are not red?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16931,
+        "question_text": "A TV costs £400. In a sale, its price is reduced by 25%. What is the sale price?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "£300",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16932,
+        "question_text": "Complete the trio of equivalents: ? = 0.3 = 30%",
+        "answer_type": "text_input",
+        "correct_answer": "03-Oct",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16933,
+        "question_text": "A survey found 12 out of 50 people walk to work. What percentage is this?",
+        "answer_type": "text_input",
+        "correct_answer": "24%",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16934,
+        "question_text": "Which amount is the largest? 1/3 of £60, 20% of £120, or 0.25 of £90.",
+        "answer_type": "text_input",
+        "correct_answer": "20% of £120",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16935,
+        "question_text": "You have 40 sweets. You eat 10% of them. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16936,
+        "question_text": "What is 3/5 of 100?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16937,
+        "question_text": "A team won 15 out of 20 games. What percentage of games did they win?",
+        "answer_type": "text_input",
+        "correct_answer": "75%",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16938,
+        "question_text": "What is 5% of 200?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16939,
+        "question_text": "An item is priced at £80. It has a 25% discount. How much do you pay?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "£60",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16940,
+        "question_text": "What is 1/8 as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "0.125",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16941,
+        "question_text": "There are 30 children in a class. 60% are girls. How many boys are there?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16942,
+        "question_text": "Complete the trio: 4/5 = ? = 80%",
+        "answer_type": "text_input",
+        "correct_answer": "0.8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    },
+    {
+        "question_id": 16943,
+        "question_text": "A phone has 50 GB of storage. 8% is used. How much storage is used?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4 GB",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 168
+    }
+]

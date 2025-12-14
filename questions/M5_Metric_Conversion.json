@@ -1,0 +1,3002 @@
+[
+    {
+        "question_id": 12891,
+        "question_text": "A cereal box is a cuboid. You measure its height and width. What other measurement do you need for its volume?",
+        "answer_type": "text_input",
+        "correct_answer": "Depth",
+        "alternative_answer_1": "depth",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 12894,
+        "question_text": "A garden path is a long rectangle. What two measurements are needed to find its area?",
+        "answer_type": "text_input",
+        "correct_answer": "Length and width",
+        "alternative_answer_1": "Length, width",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 12897,
+        "question_text": "A box has a length of 20cm and a width of 10cm. Can you find its volume with only this information?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 14217,
+        "question_text": "You know a room is 5m long and has an area of 20 m². Can you use a formula to find its width?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 14220,
+        "question_text": "A rectangular swimming pool has a length of 25m and a width of 10m. What calculation gives its surface area?",
+        "answer_type": "text_input",
+        "correct_answer": "25 x 10",
+        "alternative_answer_1": "25*10",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 14223,
+        "question_text": "A roll of turf is a long rectangle. What two measurements must the seller provide for you to know its area?",
+        "answer_type": "text_input",
+        "correct_answer": "Length and width",
+        "alternative_answer_1": "Its length and its width",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 18549,
+        "question_text": "An analogue clock shows 3 o'clock. How would you write this on a 12-hour digital clock?",
+        "answer_type": "text_input",
+        "correct_answer": "03:00",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18550,
+        "question_text": "A digital clock shows 5:00. What time is this in words?",
+        "answer_type": "text_input",
+        "correct_answer": "5 o'clock",
+        "alternative_answer_1": "Five o'clock",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18551,
+        "question_text": "An analogue clock shows half past 7. How is this written on a 12-hour digital clock?",
+        "answer_type": "text_input",
+        "correct_answer": "07:30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18552,
+        "question_text": "A digital clock shows 9:30. What is this time in words?",
+        "answer_type": "text_input",
+        "correct_answer": "Half past 9",
+        "alternative_answer_1": "Nine thirty",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18553,
+        "question_text": "An analogue clock shows quarter past 4. How would you write this digitally?",
+        "answer_type": "text_input",
+        "correct_answer": "04:15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18554,
+        "question_text": "A digital clock reads 2:15. What is this time in words?",
+        "answer_type": "text_input",
+        "correct_answer": "Quarter past 2",
+        "alternative_answer_1": "Two fifteen",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18555,
+        "question_text": "An analogue clock shows quarter to 6. How is this written on a digital clock?",
+        "answer_type": "text_input",
+        "correct_answer": "05:45",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18556,
+        "question_text": "A digital clock reads 8:45. How would you say this time using the word to?",
+        "answer_type": "text_input",
+        "correct_answer": "Quarter to 9",
+        "alternative_answer_1": "Fifteen to nine",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18557,
+        "question_text": "The time is 10 past 2. How is this written on a digital clock?",
+        "answer_type": "text_input",
+        "correct_answer": "02:10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18558,
+        "question_text": "A digital clock says 11:10. How would you say this time?",
+        "answer_type": "text_input",
+        "correct_answer": "10 past 11",
+        "alternative_answer_1": "Ten past eleven",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18559,
+        "question_text": "The time is 20 past 1. What would a digital clock show?",
+        "answer_type": "text_input",
+        "correct_answer": "01:20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18560,
+        "question_text": "What is 6:20 in words?",
+        "answer_type": "text_input",
+        "correct_answer": "20 past 6",
+        "alternative_answer_1": "Twenty past six",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18561,
+        "question_text": "An analogue clock shows 25 to 7. What time is this digitally?",
+        "answer_type": "text_input",
+        "correct_answer": "06:35",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18562,
+        "question_text": "A digital clock says 12:50. How would you say this using the word to?",
+        "answer_type": "text_input",
+        "correct_answer": "10 to 1",
+        "alternative_answer_1": "Ten to one",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18563,
+        "question_text": "What time is 5 past midnight on a 12-hour digital clock?",
+        "answer_type": "text_input",
+        "correct_answer": "12:05 AM",
+        "alternative_answer_1": "12:05",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18564,
+        "question_text": "A digital clock shows 1:00. What is this time on an analogue clock?",
+        "answer_type": "text_input",
+        "correct_answer": "1 o'clock",
+        "alternative_answer_1": "One o'clock",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18565,
+        "question_text": "An analogue clock shows 10:30. What is this time known as?",
+        "answer_type": "text_input",
+        "correct_answer": "Half past 10",
+        "alternative_answer_1": "Ten thirty",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18566,
+        "question_text": "How is quarter past 12 written on a digital clock?",
+        "answer_type": "text_input",
+        "correct_answer": "12:15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18567,
+        "question_text": "What is another way to say 3:45?",
+        "answer_type": "text_input",
+        "correct_answer": "Quarter to 4",
+        "alternative_answer_1": "Fifteen to four",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18568,
+        "question_text": "The time is 5 to 8. How would a digital clock show this?",
+        "answer_type": "text_input",
+        "correct_answer": "07:55",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18569,
+        "question_text": "What is 4:40 in words, using to?",
+        "answer_type": "text_input",
+        "correct_answer": "20 to 5",
+        "alternative_answer_1": "Twenty to five",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18570,
+        "question_text": "An analogue clock shows 10 o'clock. Write this time digitally.",
+        "answer_type": "text_input",
+        "correct_answer": "10:00",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18571,
+        "question_text": "A digital clock shows 6:30. How do we say this time?",
+        "answer_type": "text_input",
+        "correct_answer": "Half past 6",
+        "alternative_answer_1": "Six thirty",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18572,
+        "question_text": "It is quarter to 11. What time is this on a digital clock?",
+        "answer_type": "text_input",
+        "correct_answer": "10:45",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18573,
+        "question_text": "It is 25 past 1. How is this written digitally?",
+        "answer_type": "text_input",
+        "correct_answer": "01:25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18574,
+        "question_text": "What is 3:00 pm in 24-hour clock time?",
+        "answer_type": "text_input",
+        "correct_answer": "15:00",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18575,
+        "question_text": "A digital clock shows 17:00. What is this in 12-hour am/pm time?",
+        "answer_type": "text_input",
+        "correct_answer": "5:00 PM",
+        "alternative_answer_1": "5:00 PM",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18576,
+        "question_text": "Convert 8:00 am to 24-hour time.",
+        "answer_type": "text_input",
+        "correct_answer": "08:00",
+        "alternative_answer_1": "08:00",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18577,
+        "question_text": "What is 21:00 in 12-hour clock time?",
+        "answer_type": "text_input",
+        "correct_answer": "9:00 PM",
+        "alternative_answer_1": "9:00 PM",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18578,
+        "question_text": "A train leaves at 4:30 pm. How would this be shown on a 24-hour timetable?",
+        "answer_type": "text_input",
+        "correct_answer": "16:30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18579,
+        "question_text": "A TV show starts at 19:30. What time is this in the 12-hour am/pm format?",
+        "answer_type": "text_input",
+        "correct_answer": "7:30 PM",
+        "alternative_answer_1": "7:30pm",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18580,
+        "question_text": "Write 11:00 pm in 24-hour format.",
+        "answer_type": "text_input",
+        "correct_answer": "23:00",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18581,
+        "question_text": "What is 06:00 in 12-hour am/pm time?",
+        "answer_type": "text_input",
+        "correct_answer": "6:00 AM",
+        "alternative_answer_1": "6:00 AM",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18582,
+        "question_text": "Your friend says they will meet you at 14:00. What time is this in the afternoon?",
+        "answer_type": "text_input",
+        "correct_answer": "2:00 PM",
+        "alternative_answer_1": "2:00 PM",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18583,
+        "question_text": "An analogue clock shows 7 o'clock in the evening. How would you write this in 24-hour time?",
+        "answer_type": "text_input",
+        "correct_answer": "19:00",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18584,
+        "question_text": "What is 12:00 pm (noon) in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "12:00",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18585,
+        "question_text": "What is 12:00 am (midnight) in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "00:00",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18586,
+        "question_text": "A shop closes at 18:00. What time is this in the evening?",
+        "answer_type": "text_input",
+        "correct_answer": "6:00 PM",
+        "alternative_answer_1": "6:00 PM",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18587,
+        "question_text": "Write half past eight in the morning in 24-hour format.",
+        "answer_type": "text_input",
+        "correct_answer": "08:30",
+        "alternative_answer_1": "08:30",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18588,
+        "question_text": "What is 20:00 in 12-hour am/pm time?",
+        "answer_type": "text_input",
+        "correct_answer": "8:00 PM",
+        "alternative_answer_1": "8:00 PM",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18589,
+        "question_text": "A flight departs at 1:00 pm. How is this written in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "13:00",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18590,
+        "question_text": "An analogue clock shows 10 o'clock at night. What is this in 24-hour time?",
+        "answer_type": "text_input",
+        "correct_answer": "22:00",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18591,
+        "question_text": "Convert 10:00 am to 24-hour time.",
+        "answer_type": "text_input",
+        "correct_answer": "10:00",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18592,
+        "question_text": "What is 01:00 in 12-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "1:00 AM",
+        "alternative_answer_1": "1:00 AM",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18593,
+        "question_text": "A film starts at 20:30. Is this in the morning or the evening?",
+        "answer_type": "text_input",
+        "correct_answer": "Evening",
+        "alternative_answer_1": "evening",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18594,
+        "question_text": "Write quarter past six in the evening as a 24-hour time.",
+        "answer_type": "text_input",
+        "correct_answer": "18:15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18599,
+        "question_text": "Convert 10:25 pm to 24-hour time.",
+        "answer_type": "text_input",
+        "correct_answer": "22:25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18600,
+        "question_text": "What is 18:47 in 12-hour am/pm format?",
+        "answer_type": "text_input",
+        "correct_answer": "6:47 PM",
+        "alternative_answer_1": "6:47pm",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18601,
+        "question_text": "An analogue clock shows 12 minutes past 8 in the morning. Write this in 24-hour format.",
+        "answer_type": "text_input",
+        "correct_answer": "08:12",
+        "alternative_answer_1": "08:12",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18602,
+        "question_text": "A digital clock reads 23:58. What is this in 12-hour time?",
+        "answer_type": "text_input",
+        "correct_answer": "11:58 PM",
+        "alternative_answer_1": "11:58pm",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18603,
+        "question_text": "A train arrives at 14:02. What time is this in 12-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "2:02 PM",
+        "alternative_answer_1": "2:02pm",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18604,
+        "question_text": "Write three minutes to four in the afternoon in 24-hour format.",
+        "answer_type": "text_input",
+        "correct_answer": "15:57",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18605,
+        "question_text": "An alarm goes off at 06:18. How would you write this using am/pm?",
+        "answer_type": "text_input",
+        "correct_answer": "6:18 AM",
+        "alternative_answer_1": "6:18am",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18606,
+        "question_text": "Convert 1:11 pm into 24-hour time.",
+        "answer_type": "text_input",
+        "correct_answer": "13:11",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18607,
+        "question_text": "What is 00:01 in 12-hour am/pm format?",
+        "answer_type": "text_input",
+        "correct_answer": "12:01 AM",
+        "alternative_answer_1": "12:01am",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18608,
+        "question_text": "An analogue clock shows 8 minutes to 11 at night. What time is this in the 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "22:52",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18609,
+        "question_text": "A show ends at 21:38. Write this in 12-hour time.",
+        "answer_type": "text_input",
+        "correct_answer": "9:38 PM",
+        "alternative_answer_1": "9:38pm",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18610,
+        "question_text": "What is 12:05 pm (just after noon) in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "12:05",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18611,
+        "question_text": "How would you write seven minutes past midnight in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "00:07",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18612,
+        "question_text": "Convert the time 4:56 am to 24-hour format.",
+        "answer_type": "text_input",
+        "correct_answer": "04:56",
+        "alternative_answer_1": "04:56",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18613,
+        "question_text": "What is 13:01 in 12-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "1:01 PM",
+        "alternative_answer_1": "1:01pm",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18614,
+        "question_text": "Write 9:13 pm in 24-hour time.",
+        "answer_type": "text_input",
+        "correct_answer": "21:13",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18615,
+        "question_text": "A digital clock says 16:22. Is this time in the morning or the afternoon?",
+        "answer_type": "text_input",
+        "correct_answer": "Afternoon",
+        "alternative_answer_1": "afternoon",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18616,
+        "question_text": "What is nineteen minutes past one in the morning, in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "01:19",
+        "alternative_answer_1": "01:19",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18617,
+        "question_text": "Convert 17:08 to 12-hour time.",
+        "answer_type": "text_input",
+        "correct_answer": "5:08 PM",
+        "alternative_answer_1": "5:08pm",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18618,
+        "question_text": "A message was sent at 6:45 pm. How would the timestamp appear in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "18:45",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18619,
+        "question_text": "A clock shows 00:45. What is this in 12-hour am/pm format?",
+        "answer_type": "text_input",
+        "correct_answer": "12:45 AM",
+        "alternative_answer_1": "12:45am",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18620,
+        "question_text": "Is 23:30 closer to midnight or noon?",
+        "answer_type": "text_input",
+        "correct_answer": "Midnight",
+        "alternative_answer_1": "midnight",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18621,
+        "question_text": "Write 2:22 am in 24-hour format.",
+        "answer_type": "text_input",
+        "correct_answer": "02:22",
+        "alternative_answer_1": "02:22",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18622,
+        "question_text": "An analogue clock shows 1 minute to midnight. How is this written in 24-hour time?",
+        "answer_type": "text_input",
+        "correct_answer": "23:59",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18623,
+        "question_text": "What is 12:59 pm in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "12:59",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18624,
+        "question_text": "A flight from London to New York takes 8 hours. If it departs at 10:30 (London time), and New York is 5 hours behind London, what is the arrival time in New York's local time (12-hour format)?",
+        "answer_type": "text_input",
+        "correct_answer": "1:30 PM",
+        "alternative_answer_1": "13:30",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18625,
+        "question_text": "A TV show starts at 19:45 and lasts for 90 minutes. What time does it finish in 12-hour pm format?",
+        "answer_type": "text_input",
+        "correct_answer": "9:15 PM",
+        "alternative_answer_1": "9:15pm",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18626,
+        "question_text": "You start a task at 11:20 am and work for 3 hours and 45 minutes. What time do you finish in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "15:05",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18627,
+        "question_text": "A train is scheduled to depart at 14:10. It is delayed by 85 minutes. What is the new departure time in 12-hour pm format?",
+        "answer_type": "text_input",
+        "correct_answer": "3:35 PM",
+        "alternative_answer_1": "3:35pm",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18628,
+        "question_text": "An event finished at 1:20 am. It lasted for 2 hours and 30 minutes. What was the start time in 24-hour format (from the previous day)?",
+        "answer_type": "text_input",
+        "correct_answer": "22:50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18629,
+        "question_text": "A clock is 15 minutes fast. It shows 16:05. What is the true time in 12-hour pm format?",
+        "answer_type": "text_input",
+        "correct_answer": "3:50 PM",
+        "alternative_answer_1": "3:50pm",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18630,
+        "question_text": "A clock is 25 minutes slow. It shows 8:50 am. What is the actual time in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "09:15",
+        "alternative_answer_1": "09:15",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18631,
+        "question_text": "What is the time difference between 08:30 and 15:10?",
+        "answer_type": "text_input",
+        "correct_answer": "6 hours and 40 minutes",
+        "alternative_answer_1": "400 minutes",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18632,
+        "question_text": "A flight arrives in a city 6 hours ahead of its departure city. The flight time is 9 hours. If it leaves at 22:00, what is the local arrival time?",
+        "answer_type": "text_input",
+        "correct_answer": "13:00",
+        "alternative_answer_1": "1:00 PM",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18633,
+        "question_text": "A meeting in Tokyo (9 hours ahead of London) is at 15:00 local time. What time is this in London (in 24-hour format)?",
+        "answer_type": "text_input",
+        "correct_answer": "06:00",
+        "alternative_answer_1": "06:00",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18634,
+        "question_text": "A film is 135 minutes long. If it finishes at 11:10 pm, what time did it start in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "20:55",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18635,
+        "question_text": "A timer is set for 5,000 seconds. If it starts at 10:00:00, what time will it finish in 24-hour format?",
+        "answer_type": "text_input",
+        "correct_answer": "11:23:20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18636,
+        "question_text": "A journey starts at 21:30 on Monday and ends at 04:15 on Tuesday. What is the total duration?",
+        "answer_type": "text_input",
+        "correct_answer": "6 hours and 45 minutes",
+        "alternative_answer_1": "405 minutes",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18637,
+        "question_text": "Convert 150 hours into days and hours.",
+        "answer_type": "text_input",
+        "correct_answer": "6 days and 6 hours",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18638,
+        "question_text": "What time is it in London (GMT) if it is 16:00 in Cairo (GMT+2)?",
+        "answer_type": "text_input",
+        "correct_answer": "14:00",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18639,
+        "question_text": "A satellite TV broadcast starts at 20:00 in London. What time should you watch it in New York (5 hours behind London)?",
+        "answer_type": "text_input",
+        "correct_answer": "3:00 PM",
+        "alternative_answer_1": "15:00",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18640,
+        "question_text": "An event starts at 11:30 am and ends at 3:15 pm. How long is this in hours and minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "3 hours and 45 minutes",
+        "alternative_answer_1": "225 minutes",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18641,
+        "question_text": "A watch gains 2 minutes every day. If it is set correctly at 08:00 on Monday, what time will it show at 08:00 on Wednesday?",
+        "answer_type": "text_input",
+        "correct_answer": "08:04",
+        "alternative_answer_1": "8:04 AM",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18642,
+        "question_text": "A train journey is advertised as taking 190 minutes. If you depart at 16:40, what is the scheduled arrival time in 12-hour pm format?",
+        "answer_type": "text_input",
+        "correct_answer": "7:50 PM",
+        "alternative_answer_1": "7:50pm",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18643,
+        "question_text": "A bus leaves a stop every 18 minutes. If one leaves at 13:50, what time does the next one leave?",
+        "answer_type": "text_input",
+        "correct_answer": "14:08",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18644,
+        "question_text": "It is 15:20 in Paris (1 hour ahead of London). A flight to London takes 1 hour. What time will you land in London (local time)?",
+        "answer_type": "text_input",
+        "correct_answer": "15:20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18645,
+        "question_text": "Your lunch break is 45 minutes long. You take it at 12:50. What time must you be back at work?",
+        "answer_type": "text_input",
+        "correct_answer": "13:35",
+        "alternative_answer_1": "1:35 PM",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18646,
+        "question_text": "A task finished at 01:05. It took 3 hours and 30 minutes. What was the start time in 24-hour format (from the previous day)?",
+        "answer_type": "text_input",
+        "correct_answer": "21:35",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18647,
+        "question_text": "A meeting is scheduled for 14:00 GMT. If you are in a time zone that is GMT-6, what time is the meeting for you?",
+        "answer_type": "text_input",
+        "correct_answer": "08:00",
+        "alternative_answer_1": "8:00 AM",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 18648,
+        "question_text": "What is the time difference between 22:15 on Friday and 08:45 on Sunday?",
+        "answer_type": "text_input",
+        "correct_answer": "34 hours and 30 minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 20052,
+        "question_text": "Which is a metric unit for length: an inch or a centimetre?",
+        "answer_type": "text_input",
+        "correct_answer": "centimetre",
+        "alternative_answer_1": "cm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20053,
+        "question_text": "Which is an imperial unit for weight: a kilogram or a pound?",
+        "answer_type": "text_input",
+        "correct_answer": "pound",
+        "alternative_answer_1": "lb",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20054,
+        "question_text": "Which is a metric unit for capacity: a litre or a pint?",
+        "answer_type": "text_input",
+        "correct_answer": "litre",
+        "alternative_answer_1": "l",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20055,
+        "question_text": "An inch is a unit of length. Is it a metric or an imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "imperial",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20056,
+        "question_text": "A pound (lb) is a unit of weight. Is it a metric or an imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "imperial",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20057,
+        "question_text": "A pint is a unit of capacity. Is it a metric or an imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "imperial",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20058,
+        "question_text": "Which is longer: 1 inch or 1 centimetre?",
+        "answer_type": "text_input",
+        "correct_answer": "1 inch",
+        "alternative_answer_1": "Inch",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20059,
+        "question_text": "Which is heavier: 1 kilogram or 1 pound?",
+        "answer_type": "text_input",
+        "correct_answer": "1 kilogram",
+        "alternative_answer_1": "Kilogram",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20060,
+        "question_text": "Which holds more: 1 litre or 1 pint?",
+        "answer_type": "text_input",
+        "correct_answer": "1 litre",
+        "alternative_answer_1": "Litre",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20061,
+        "question_text": "A ruler might show both centimetres and inches. Which unit has smaller markings?",
+        "answer_type": "text_input",
+        "correct_answer": "Centimetres",
+        "alternative_answer_1": "cm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20062,
+        "question_text": "When you buy milk, you can often choose between a carton measured in litres or a bottle measured in pints. Which is the metric unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Litres",
+        "alternative_answer_1": "litre",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20063,
+        "question_text": "You weigh yourself at the gym in kilograms. Is this a metric or imperial measurement?",
+        "answer_type": "text_input",
+        "correct_answer": "Metric",
+        "alternative_answer_1": "metric",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20064,
+        "question_text": "A recipe from an old cookbook asks for 2 pounds of flour. Is pounds a metric or imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "imperial",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20065,
+        "question_text": "Which is shorter: 1 metre or 1 yard? (Hint: A yard is 3 feet)",
+        "answer_type": "text_input",
+        "correct_answer": "1 yard",
+        "alternative_answer_1": "Yard",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20066,
+        "question_text": "Which holds less: a 2-litre bottle of cola or a 4-pint bottle of milk?",
+        "answer_type": "text_input",
+        "correct_answer": "A 2-litre bottle of cola",
+        "alternative_answer_1": "2 litre bottle",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20067,
+        "question_text": "Is your height more commonly measured in metres or feet in the UK?",
+        "answer_type": "text_input",
+        "correct_answer": "Feet",
+        "alternative_answer_1": "feet and inches",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20068,
+        "question_text": "The speed limit on UK roads is shown in miles per hour. Is miles a metric or imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "imperial",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20069,
+        "question_text": "Which is a metric unit: a gallon or a litre?",
+        "answer_type": "text_input",
+        "correct_answer": "A litre",
+        "alternative_answer_1": "Litre",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20070,
+        "question_text": "Which is an imperial unit: a gram or an ounce?",
+        "answer_type": "text_input",
+        "correct_answer": "An ounce",
+        "alternative_answer_1": "Ounce",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20071,
+        "question_text": "Which is a shorter distance: 1 kilometre or 1 mile?",
+        "answer_type": "text_input",
+        "correct_answer": "1 kilometre",
+        "alternative_answer_1": "Kilometre",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20072,
+        "question_text": "A TV screen size is measured in inches. Is this a metric or imperial unit?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "imperial",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20073,
+        "question_text": "A baby's weight is often given in pounds and ounces. Are these metric or imperial units?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "imperial",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20074,
+        "question_text": "A pub serves beer in pints. Is this a metric or imperial measure?",
+        "answer_type": "text_input",
+        "correct_answer": "Imperial",
+        "alternative_answer_1": "imperial",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20075,
+        "question_text": "To measure a small object, would you get a more precise reading using centimetres or inches?",
+        "answer_type": "text_input",
+        "correct_answer": "Centimetres",
+        "alternative_answer_1": "cm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20076,
+        "question_text": "Which is a greater weight: 10 kilograms or 10 pounds?",
+        "answer_type": "text_input",
+        "correct_answer": "10 kilograms",
+        "alternative_answer_1": "10kg",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20077,
+        "question_text": "An inch is approximately 2.5cm. How many centimetres are in 2 inches?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5cm",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20078,
+        "question_text": "A kilogram is about 2.2 pounds. A baby weighs 3kg. What is its approximate weight in pounds?",
+        "answer_type": "text_input",
+        "correct_answer": "6.6",
+        "alternative_answer_1": "6.6 lbs",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20079,
+        "question_text": "A litre is about 1.76 pints. You buy a 2-litre bottle of juice. Approximately how many pints is this?",
+        "answer_type": "text_input",
+        "correct_answer": "3.52",
+        "alternative_answer_1": "About 3.5 pints",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20080,
+        "question_text": "A ruler is 30cm long. Using the approximation 1 inch = 2.5cm, about how many inches long is the ruler?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12 inches",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20081,
+        "question_text": "A bag of sugar weighs 1kg. Approximately how many pounds (lbs) is this? (Use 1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "2.2",
+        "alternative_answer_1": "2.2 lbs",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20082,
+        "question_text": "A road sign says a town is 10 miles away. If 1 mile is about 1.6km, how far is the town in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "16km",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20083,
+        "question_text": "A standard UK pint of milk is 568ml. Is this more or less than half a litre?",
+        "answer_type": "text_input",
+        "correct_answer": "More",
+        "alternative_answer_1": "more",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20084,
+        "question_text": "A person is 6 feet tall. If 1 foot is about 30cm, what is their approximate height in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180cm",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20085,
+        "question_text": "A recipe requires 1 pound of butter. You only have a 500g block. Is this enough? (Use 1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "yes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20086,
+        "question_text": "A car's petrol tank holds 10 gallons. If 1 gallon is about 4.5 litres, what is the tank's capacity in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45 litres",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20087,
+        "question_text": "A door is 2 metres high. Approximately how many feet is this? (Use 1 foot ≈ 30cm)",
+        "answer_type": "text_input",
+        "correct_answer": "6.67",
+        "alternative_answer_1": "About 6 and a half feet",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20088,
+        "question_text": "Which is heavier: a 5kg weight or a 10 pound weight? (Use 1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "A 5kg weight",
+        "alternative_answer_1": "5kg",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20089,
+        "question_text": "Which is a longer distance: 3 miles or 5 kilometres? (Use 1 mile ≈ 1.6 km)",
+        "answer_type": "text_input",
+        "correct_answer": "5 kilometres",
+        "alternative_answer_1": "5km",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20090,
+        "question_text": "How many centimetres are in 4 inches? (Use 1 inch ≈ 2.5cm)",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10cm",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20091,
+        "question_text": "A baby weighs 8 pounds. What is this weight approximately in kilograms? (Use 1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "3.64",
+        "alternative_answer_1": "About 3.6kg",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20092,
+        "question_text": "A 4-pint bottle of milk is how many litres, approximately? (Use 1 litre ≈ 1.76 pints)",
+        "answer_type": "text_input",
+        "correct_answer": "2.27",
+        "alternative_answer_1": "About 2.3 litres",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20093,
+        "question_text": "A piece of wood is 50cm long. About how many inches is this? (Use 1 inch ≈ 2.5cm)",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20 inches",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20094,
+        "question_text": "A boxer weighs 150 pounds. What is his approximate weight in kilograms? (Use 1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "68.2",
+        "alternative_answer_1": "About 68kg",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20095,
+        "question_text": "A long journey is 100 miles. How far is this in kilometres? (Use 1 mile ≈ 1.6 km)",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "160km",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20096,
+        "question_text": "Which holds more: a 1-gallon container or a 4-litre container? (Use 1 gallon ≈ 4.5 litres)",
+        "answer_type": "text_input",
+        "correct_answer": "A 1-gallon container",
+        "alternative_answer_1": "1 gallon",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20097,
+        "question_text": "A person is 150cm tall. Approximately how many feet is this? (Use 1 foot ≈ 30cm)",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5 feet",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20098,
+        "question_text": "How many inches are in half a foot?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6 inches",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20102,
+        "question_text": "A car has a fuel efficiency of 40 miles per gallon. What is this in miles per litre? (Use 1 gallon ≈ 4.5 litres)",
+        "answer_type": "text_input",
+        "correct_answer": "8.89",
+        "alternative_answer_1": "About 9 miles per litre",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20103,
+        "question_text": "A room is 10 feet long. What is the length of the room in metres? (Use 1 foot ≈ 30.5cm)",
+        "answer_type": "text_input",
+        "correct_answer": "3.05",
+        "alternative_answer_1": "3.05m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20104,
+        "question_text": "A person weighs 11 stone. If 1 stone is 14 pounds, and 1kg is 2.2 pounds, what is their approximate weight in kg?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "70kg",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20105,
+        "question_text": "A price is listed as $50 per square foot. What is the approximate price per square metre? (1 metre ≈ 3.3 feet)",
+        "answer_type": "text_input",
+        "correct_answer": "544.5",
+        "alternative_answer_1": "$544.50",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20106,
+        "question_text": "Convert a speed of 60 miles per hour into kilometres per hour. (1 mile ≈ 1.6 km)",
+        "answer_type": "text_input",
+        "correct_answer": "96",
+        "alternative_answer_1": "96 km/h",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20107,
+        "question_text": "Which is a faster speed: 100 km/h or 60 mph? (1 mile ≈ 1.6 km)",
+        "answer_type": "text_input",
+        "correct_answer": "100 km/h",
+        "alternative_answer_1": "100kph",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20108,
+        "question_text": "A US recipe asks for a cup of flour (approx 120g). A UK recipe asks for 4 ounces (oz). Which recipe needs more flour? (1 oz ≈ 28g)",
+        "answer_type": "text_input",
+        "correct_answer": "The US recipe",
+        "alternative_answer_1": "US recipe",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20109,
+        "question_text": "A plank of wood is 2 metres long. Another is 6 feet 6 inches long. Which is longer? (1 foot = 12 inches, 1 inch ≈ 2.5cm)",
+        "answer_type": "text_input",
+        "correct_answer": "The 2 metre plank",
+        "alternative_answer_1": "2 metres",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20110,
+        "question_text": "A field has an area of 1 acre. Approximately how many square metres is this? (1 acre ≈ 4047 m²)",
+        "answer_type": "text_input",
+        "correct_answer": "4047",
+        "alternative_answer_1": "About 4000",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20111,
+        "question_text": "A car tank holds 12 gallons of petrol. If petrol costs £1.40 per litre, what is the cost to fill the tank? (1 gallon ≈ 4.5 litres)",
+        "answer_type": "text_input",
+        "correct_answer": "75.6",
+        "alternative_answer_1": "£75.60",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20112,
+        "question_text": "A road speed limit is 50 mph. What is this speed in metres per second (m/s), approximately? (1 mile ≈ 1600m)",
+        "answer_type": "text_input",
+        "correct_answer": "22.2",
+        "alternative_answer_1": "About 22 m/s",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20113,
+        "question_text": "You have a 2-litre bottle of water. You drink 2 pints. How much is left in litres? (1 litre ≈ 1.76 pints)",
+        "answer_type": "text_input",
+        "correct_answer": "0.86",
+        "alternative_answer_1": "About 0.9 litres",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20114,
+        "question_text": "A package weighs 4 pounds and 8 ounces. What is its weight in kilograms? (1 stone = 14 lbs, 1 kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "2.05",
+        "alternative_answer_1": "About 2kg",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20115,
+        "question_text": "Convert 1 square metre into square inches. (1 metre ≈ 39 inches)",
+        "answer_type": "text_input",
+        "correct_answer": "1521",
+        "alternative_answer_1": "1,521",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20116,
+        "question_text": "A cyclist is travelling at 20 mph. How long will it take them to travel 50km? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "1.56 hours",
+        "alternative_answer_1": "About 1.5 hours",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20117,
+        "question_text": "A box has a volume of 2 cubic feet. What is its approximate volume in litres? (1 foot ≈ 30cm)",
+        "answer_type": "text_input",
+        "correct_answer": "54",
+        "alternative_answer_1": "54 litres",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20118,
+        "question_text": "Which is a larger volume: 1 cubic metre or 35 cubic feet?",
+        "answer_type": "text_input",
+        "correct_answer": "1 cubic metre",
+        "alternative_answer_1": "1 m³",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20119,
+        "question_text": "A pressure is 15 pounds per square inch (PSI). What is this in kilograms per square centimetre? (1kg ≈ 2.2 lbs, 1 inch ≈ 2.54cm)",
+        "answer_type": "text_input",
+        "correct_answer": "1.05",
+        "alternative_answer_1": "About 1 kg/cm²",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20120,
+        "question_text": "A weight is 15 pounds. A length is 10 inches. What calculation converts this to kg/cm?",
+        "answer_type": "text_input",
+        "correct_answer": "This cannot be calculated",
+        "alternative_answer_1": "Different units",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20121,
+        "question_text": "A car travels 50km. How many miles is this? (1 mile ≈ 1.6km)",
+        "answer_type": "text_input",
+        "correct_answer": "31.25",
+        "alternative_answer_1": "About 31 miles",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20122,
+        "question_text": "Your height is 5 feet 8 inches. What is your height in metres? (1 inch ≈ 2.54cm)",
+        "answer_type": "text_input",
+        "correct_answer": "1.73",
+        "alternative_answer_1": "1.73m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20123,
+        "question_text": "Which has a greater area: a circle with a 10-inch radius or a 1-foot square?",
+        "answer_type": "text_input",
+        "correct_answer": "The circle",
+        "alternative_answer_1": "Circle",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20124,
+        "question_text": "A temperature is 20° Celsius. The formula to convert to Fahrenheit is F = (C × 9/5) + 32. What is the temperature in Fahrenheit?",
+        "answer_type": "text_input",
+        "correct_answer": "68",
+        "alternative_answer_1": "68°F",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20125,
+        "question_text": "Which contains more liquid: a US gallon (3.79 litres) or 8 pints (UK)? (1 UK pint = 568ml)",
+        "answer_type": "text_input",
+        "correct_answer": "8 pints (UK)",
+        "alternative_answer_1": "8 pints",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 20126,
+        "question_text": "A suitcase weighs 50 pounds. The airline limit is 23 kilograms. Is the suitcase over the limit? (1kg ≈ 2.2 lbs)",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 21533,
+        "question_text": "A movie is 2 hours long. How many minutes is its duration?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21534,
+        "question_text": "A song lasts 3 minutes. How many seconds is this?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21535,
+        "question_text": "Convert a 4-week school holiday into days.",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21536,
+        "question_text": "An infant is 1 year old. What is their age in months?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21537,
+        "question_text": "Convert the duration of a 10-minute TV show into seconds.",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21538,
+        "question_text": "Convert a 5-week trip duration into days.",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21539,
+        "question_text": "Convert the age of 3 years into months.",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21540,
+        "question_text": "Convert 4 hours into minutes.",
+        "answer_type": "text_input",
+        "correct_answer": "240",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21541,
+        "question_text": "Convert 5 minutes into seconds.",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21542,
+        "question_text": "Convert a 6-week project deadline into days.",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21543,
+        "question_text": "If a contract lasts 5 years, what is its duration in months?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21544,
+        "question_text": "Convert 1 hour into minutes.",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21545,
+        "question_text": "Convert 120 seconds into minutes.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21546,
+        "question_text": "Convert a 14-day holiday into weeks.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21547,
+        "question_text": "If a baby is 24 months old, how many years old is she?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21548,
+        "question_text": "Convert 180 minutes into hours.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21549,
+        "question_text": "You have been working for 60 seconds. How many minutes is that?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1 minute",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21550,
+        "question_text": "Convert a 7-day rental agreement into weeks.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21551,
+        "question_text": "Convert 12 months into years.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21552,
+        "question_text": "Convert 5 hours into minutes.",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21553,
+        "question_text": "Convert 10 minutes into seconds.",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21554,
+        "question_text": "A commitment lasts for 10 weeks. How many days does this period cover?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21555,
+        "question_text": "Convert 10 years into months.",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21556,
+        "question_text": "How many minutes are in a half-hour?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21557,
+        "question_text": "Convert a task that takes 21 days into weeks.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21558,
+        "question_text": "A film lasts 1 hour and 10 minutes. How many minutes is this?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "70 minutes",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21559,
+        "question_text": "A race took 85 seconds. How many minutes and seconds is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1 minute and 25 seconds",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21560,
+        "question_text": "A holiday lasts for 23 days. How many weeks and days is this?",
+        "answer_type": "text_input",
+        "correct_answer": "3 weeks and 2 days",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21561,
+        "question_text": "A child is 28 months old. How many years and months is this?",
+        "answer_type": "text_input",
+        "correct_answer": "2 years and 4 months",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21562,
+        "question_text": "A bus journey is 2 hours and 5 minutes long. What is its total length in minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "125 minutes",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21563,
+        "question_text": "You need to boil a potato for 4 minutes and 30 seconds. How many seconds is that?",
+        "answer_type": "text_input",
+        "correct_answer": "270",
+        "alternative_answer_1": "270 seconds",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21564,
+        "question_text": "A school term is 7 weeks and 5 days long. How many days is this in total?",
+        "answer_type": "text_input",
+        "correct_answer": "54",
+        "alternative_answer_1": "54 days",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21565,
+        "question_text": "A warranty is valid for 1.5 years. How many months is this?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "18 months",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21566,
+        "question_text": "A song lasts for 160 seconds. How many minutes and seconds is that?",
+        "answer_type": "text_input",
+        "correct_answer": "2 minutes and 40 seconds",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21567,
+        "question_text": "A journey took 60 hours. How many full days and hours is this?",
+        "answer_type": "text_input",
+        "correct_answer": "2 days and 12 hours",
+        "alternative_answer_1": "2.5 days",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21568,
+        "question_text": "Convert 1 year and 11 months into just months.",
+        "answer_type": "text_input",
+        "correct_answer": "23",
+        "alternative_answer_1": "23 months",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21569,
+        "question_text": "A meeting was 110 minutes long. Write this in hours and minutes.",
+        "answer_type": "text_input",
+        "correct_answer": "1 hour and 50 minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21570,
+        "question_text": "An event lasted for 36 hours. How many days and hours is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1 day and 12 hours",
+        "alternative_answer_1": "1.5 days",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21571,
+        "question_text": "What is 3.5 years in months?",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "42 months",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21572,
+        "question_text": "What is 4.5 minutes in seconds?",
+        "answer_type": "text_input",
+        "correct_answer": "270",
+        "alternative_answer_1": "270 seconds",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21573,
+        "question_text": "A task takes 170 minutes. How many hours and minutes is this?",
+        "answer_type": "text_input",
+        "correct_answer": "2 hours and 50 minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21574,
+        "question_text": "A holiday is 26 days long. How many full weeks is that?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 weeks",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21575,
+        "question_text": "A baby is 19 months old. How many years and months is this?",
+        "answer_type": "text_input",
+        "correct_answer": "1 year and 7 months",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21576,
+        "question_text": "A class is 1 hour and 25 minutes long. How many minutes is that?",
+        "answer_type": "text_input",
+        "correct_answer": "85",
+        "alternative_answer_1": "85 minutes",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21577,
+        "question_text": "A timer shows 100 seconds. How long is this in minutes and seconds?",
+        "answer_type": "text_input",
+        "correct_answer": "1 minute and 40 seconds",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21578,
+        "question_text": "A project lasts for 9 weeks and 1 day. How many days is this?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "64 days",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21583,
+        "question_text": "How many minutes are there in 1.75 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "105",
+        "alternative_answer_1": "105 minutes",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21584,
+        "question_text": "A long bus trip is 40 hours. How many full days is this, and how many hours are left over?",
+        "answer_type": "text_input",
+        "correct_answer": "1 day and 16 hours",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21585,
+        "question_text": "A movie is 138 minutes long. Write this duration in hours and minutes.",
+        "answer_type": "text_input",
+        "correct_answer": "2 hours and 18 minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21586,
+        "question_text": "A student spends 35 minutes on homework each day for 5 days. How many hours and minutes is this in total for the week?",
+        "answer_type": "text_input",
+        "correct_answer": "2 hours and 55 minutes",
+        "alternative_answer_1": "175 minutes",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21587,
+        "question_text": "Calculate the number of hours in one full week.",
+        "answer_type": "text_input",
+        "correct_answer": "168",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21588,
+        "question_text": "A project took 2.5 years to complete. How many months is that?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30 months",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21589,
+        "question_text": "An online course has 20 modules, each lasting 30 minutes. What is the total duration of the course in hours?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10 hours",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21590,
+        "question_text": "A factory runs for 9 hours a day. How many minutes does it run in a 5-day week?",
+        "answer_type": "text_input",
+        "correct_answer": "2700",
+        "alternative_answer_1": "2,700",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21591,
+        "question_text": "How many hours are there in the month of May?",
+        "answer_type": "text_input",
+        "correct_answer": "744",
+        "alternative_answer_1": "744 hours",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21592,
+        "question_text": "Convert 400 hours into days and hours.",
+        "answer_type": "text_input",
+        "correct_answer": "16 days and 16 hours",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21593,
+        "question_text": "A task takes 2 hours, 5 minutes and 10 seconds. How many seconds is this in total?",
+        "answer_type": "text_input",
+        "correct_answer": "7510",
+        "alternative_answer_1": "7,510",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21594,
+        "question_text": "If a month has 31 days, how many minutes does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "44640",
+        "alternative_answer_1": "44,640",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21595,
+        "question_text": "How many hours is 2.25 days?",
+        "answer_type": "text_input",
+        "correct_answer": "54",
+        "alternative_answer_1": "54 hours",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21596,
+        "question_text": "A machine can produce an item in 120 seconds. How many items can it produce in one hour?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21597,
+        "question_text": "How many hours are there in 480 minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8 hours",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21598,
+        "question_text": "Convert 4.75 hours into minutes.",
+        "answer_type": "text_input",
+        "correct_answer": "285",
+        "alternative_answer_1": "285 minutes",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21599,
+        "question_text": "A journey lasts 2 days and 10 hours. How many hours is this in total?",
+        "answer_type": "text_input",
+        "correct_answer": "58",
+        "alternative_answer_1": "58 hours",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21600,
+        "question_text": "How many weeks are there in 70 days?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10 weeks",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21601,
+        "question_text": "A runner completes a race in 190 minutes. How many hours and minutes is this?",
+        "answer_type": "text_input",
+        "correct_answer": "3 hours and 10 minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21602,
+        "question_text": "Convert 15 weeks into hours.",
+        "answer_type": "text_input",
+        "correct_answer": "2520",
+        "alternative_answer_1": "2,520",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21603,
+        "question_text": "An event lasted 800 minutes. How many hours and minutes is this?",
+        "answer_type": "text_input",
+        "correct_answer": "13 hours and 20 minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21604,
+        "question_text": "How many years and months are there in 55 months?",
+        "answer_type": "text_input",
+        "correct_answer": "4 years and 7 months",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21605,
+        "question_text": "Convert 2.5 minutes into seconds.",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150 seconds",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21606,
+        "question_text": "How many days are there in the last two months of the year?",
+        "answer_type": "text_input",
+        "correct_answer": "61",
+        "alternative_answer_1": "61 days",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21607,
+        "question_text": "What is 1 hour and 45 minutes in hours as a decimal?",
+        "answer_type": "text_input",
+        "correct_answer": "1.75",
+        "alternative_answer_1": "1.75 hours",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21608,
+        "question_text": "A clock gains 5 seconds every hour. How many minutes fast will it be after 2 full days?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4 minutes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21609,
+        "question_text": "How many minutes are there in a non-leap year?",
+        "answer_type": "text_input",
+        "correct_answer": "525600",
+        "alternative_answer_1": "525,600",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21610,
+        "question_text": "A space probe has been travelling for 200 days. How many full months is this? (Use an average of 30.4 days per month)",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6 months",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21611,
+        "question_text": "Convert 0.4 days into hours and minutes.",
+        "answer_type": "text_input",
+        "correct_answer": "9 hours and 36 minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21612,
+        "question_text": "You have been alive for 500 weeks. How many years is this, approximately?",
+        "answer_type": "text_input",
+        "correct_answer": "9.6",
+        "alternative_answer_1": "About 9.6 years",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21613,
+        "question_text": "A clock is 20 minutes slow. If the actual time is 15:10, what time does the clock show in 12-hour pm format?",
+        "answer_type": "text_input",
+        "correct_answer": "2:50 PM",
+        "alternative_answer_1": "2:50pm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21614,
+        "question_text": "What fraction of a week is 42 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "A quarter",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21615,
+        "question_text": "A flight departs at 14:00. The flight time is 5 hours 30 minutes. The destination is 2 hours ahead of the departure city. What is the local arrival time?",
+        "answer_type": "text_input",
+        "correct_answer": "21:30",
+        "alternative_answer_1": "9:30 PM",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21616,
+        "question_text": "A project takes 300 working hours. If a team of 4 people work on it, and each person works 5 hours a day, how many days will it take?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 days",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21617,
+        "question_text": "How many minutes are there in 15% of an hour?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9 minutes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21618,
+        "question_text": "A machine produces an item every 40 seconds. How many full items can it produce in one hour?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "Ninety",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21619,
+        "question_text": "A clock is 15 minutes fast. It shows 1:05 pm. What is the true time?",
+        "answer_type": "text_input",
+        "correct_answer": "12:50 PM",
+        "alternative_answer_1": "12:50",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21620,
+        "question_text": "Convert 10,000 hours into weeks, days, and hours.",
+        "answer_type": "text_input",
+        "correct_answer": "59 weeks, 3 days, 16 hours",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21621,
+        "question_text": "A satellite orbits Earth in 1 hour and 35 minutes. How many full orbits does it make in a day?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "Fifteen",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21622,
+        "question_text": "How many seconds are in 1.15 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "4140",
+        "alternative_answer_1": "4,140",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21623,
+        "question_text": "A contract is for 1000 days. How many years, months, and days is this? (Use 1 year=365 days, 1 month=30 days)",
+        "answer_type": "text_input",
+        "correct_answer": "2 years, 9 months, 0 days",
+        "alternative_answer_1": "2 years 9 months",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21624,
+        "question_text": "A task takes 1 hour and 40 minutes. What percentage of a 4-hour period is this?",
+        "answer_type": "text_input",
+        "correct_answer": "41.67%",
+        "alternative_answer_1": "About 42%",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21625,
+        "question_text": "How many hours are in 30% of a week?",
+        "answer_type": "text_input",
+        "correct_answer": "50.4",
+        "alternative_answer_1": "50.4 hours",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21626,
+        "question_text": "An event lasted for one million seconds. How many full days is this?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "11 days",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21627,
+        "question_text": "A car journey is 200 minutes. A train journey is 3.2 hours. Which is shorter and by how much?",
+        "answer_type": "text_input",
+        "correct_answer": "The train journey by 8 minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21628,
+        "question_text": "Convert 100 days into months and days (use an average of 30.4 days/month).",
+        "answer_type": "text_input",
+        "correct_answer": "3 months and 8.8 days",
+        "alternative_answer_1": "3 months",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21629,
+        "question_text": "A tap leaks 50ml per hour. How many litres does it leak in one year?",
+        "answer_type": "text_input",
+        "correct_answer": "438",
+        "alternative_answer_1": "438 litres",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21630,
+        "question_text": "What is 100,000 minutes in weeks, days, hours, and minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "9 weeks, 6 days, 10 hours, 40 minutes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21631,
+        "question_text": "A person works 7.5 hours per day, 5 days a week for 48 weeks a year. How many minutes do they work per year?",
+        "answer_type": "text_input",
+        "correct_answer": "108000",
+        "alternative_answer_1": "108,000",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 21632,
+        "question_text": "How many seconds are there in the month of May?",
+        "answer_type": "text_input",
+        "correct_answer": "2678400",
+        "alternative_answer_1": "2,678,400",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 29608,
+        "question_text": "Convert 150cm to metres.",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "1.5m",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29610,
+        "question_text": "A recipe needs 0.75kg of flour. What is this in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "750",
+        "alternative_answer_1": "750g",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29611,
+        "question_text": "A plank is 2.5m long. How long is it in millimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "2500",
+        "alternative_answer_1": "2500mm",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29612,
+        "question_text": "A bucket holds 10 litres. How many cm³ is this?",
+        "answer_type": "text_input",
+        "correct_answer": "10000",
+        "alternative_answer_1": "10000cm³",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29613,
+        "question_text": "A parcel weighs 1.25kg. If it costs £2 per kg, what is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "£2.50",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29614,
+        "question_text": "A pipe is 3.5m long. Another is 120cm long. What is their total length in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "4.7",
+        "alternative_answer_1": "4.7m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29615,
+        "question_text": "A bottle holds 2 litres of juice. You pour out 750ml. How much is left in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.25",
+        "alternative_answer_1": "1.25 litres",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29616,
+        "question_text": "A delivery driver drives 800m. This is 1/5 of his total journey. How long is his total journey in km?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4km",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29617,
+        "question_text": "A baker uses 0.5kg of flour and 200g of sugar. What is the total weight in grams?",
+        "answer_type": "text_input",
+        "correct_answer": "700",
+        "alternative_answer_1": "700g",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29618,
+        "question_text": "A piece of wood is 1.5m long. It is cut into 5 equal pieces. How long is each piece in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29619,
+        "question_text": "How many 50ml doses can be taken from a 0.25 litre bottle of medicine?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29620,
+        "question_text": "A road is 5km long. After 1200m, how much further is there to go in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "3800",
+        "alternative_answer_1": "3800m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29621,
+        "question_text": "A water filter cleans 1.2 litres per minute. How much water does it clean in 10 minutes, in ml?",
+        "answer_type": "text_input",
+        "correct_answer": "12000",
+        "alternative_answer_1": "12000ml",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29622,
+        "question_text": "A box contains 500g of biscuits. How many kilograms is this?",
+        "answer_type": "text_input",
+        "correct_answer": "0.5",
+        "alternative_answer_1": "0.5kg",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29623,
+        "question_text": "A liquid has a volume of 2.3 litres. It is then mixed with 800ml of another liquid. What is the total volume in litres?",
+        "answer_type": "text_input",
+        "correct_answer": "3.1",
+        "alternative_answer_1": "3.1 litres",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29624,
+        "question_text": "A building is 55m tall. How tall is it in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "5500",
+        "alternative_answer_1": "5500cm",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29625,
+        "question_text": "A path is 0.75km long. How many metres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "750",
+        "alternative_answer_1": "750m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29626,
+        "question_text": "A fish tank holds 25 litres of water. It is filled using a 500ml jug. How many full jugs are needed?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29627,
+        "question_text": "A plank is 4.8m long. How long is it in mm?",
+        "answer_type": "text_input",
+        "correct_answer": "4800",
+        "alternative_answer_1": "4800mm",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29628,
+        "question_text": "A recipe calls for 1.2kg of sugar. You only have 800g. How much more sugar (in grams) do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "400g",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29629,
+        "question_text": "A running track is 400m long. How many kilometres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "0.4",
+        "alternative_answer_1": "0.4km",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29630,
+        "question_text": "A box of washing powder weighs 3.5kg. How much is left after 750g is used?",
+        "answer_type": "text_input",
+        "correct_answer": "2.75",
+        "alternative_answer_1": "2.75kg",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29631,
+        "question_text": "A car journey is 200km. If you have travelled 150,000m, how much further is there to go in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "50000",
+        "alternative_answer_1": "50000m",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29632,
+        "question_text": "A plant grows 0.5cm per day. How much does it grow in 10 days in mm?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50mm",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29633,
+        "question_text": "A bottle of juice contains 0.33 litres. If I buy 5 bottles, how many ml do I have in total?",
+        "answer_type": "text_input",
+        "correct_answer": "1650",
+        "alternative_answer_1": "1650ml",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29634,
+        "question_text": "A bag of potatoes weighs 12.5kg. How much would 4 bags weigh in tonnes?",
+        "answer_type": "text_input",
+        "correct_answer": "0.05",
+        "alternative_answer_1": "0.05 tonnes",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 507
+    },
+    {
+        "question_id": 29877,
+        "question_text": "Convert 1.5kg to grams.",
+        "answer_type": "text_input",
+        "correct_answer": "1500",
+        "alternative_answer_1": "1500g",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 29878,
+        "question_text": "A bottle holds 2000ml of water. How many litres is this?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2 litres",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 504
+    },
+    {
+        "question_id": 29879,
+        "question_text": "A plane ticket costs £450. A family buys 4 tickets. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "1800",
+        "alternative_answer_1": "£1800",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    },
+    {
+        "question_id": 29880,
+        "question_text": "A company has a profit of £8000. It is shared equally between 4 partners. How much does each get?",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "£2000",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 510
+    }
+]

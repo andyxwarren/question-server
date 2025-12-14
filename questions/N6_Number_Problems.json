@@ -1,0 +1,5002 @@
+[
+    {
+        "question_id": 20431,
+        "question_text": "What number has 3 tens and 7 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "37",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20432,
+        "question_text": "I have 2 tens and 5 ones. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20433,
+        "question_text": "A number has 4 in the tens place and 1 in the ones place. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "41",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20434,
+        "question_text": "In the number 32, what is the value of the digit 3?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "3 tens",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20435,
+        "question_text": "In the number 48, what is the value of the digit 8?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8 ones",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20436,
+        "question_text": "Tom has 2 bags of 10 sweets and 3 single sweets. How many sweets does he have?",
+        "answer_type": "text_input",
+        "correct_answer": "23",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20437,
+        "question_text": "What number is made from 1 ten and 9 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20438,
+        "question_text": "How many tens are in the number 40?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20439,
+        "question_text": "How many ones are in the number 27?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20440,
+        "question_text": "I am a 2-digit number. My tens digit is 3 and my ones digit is 8. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "38",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20441,
+        "question_text": "A number is made of 20 and 6. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "26",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20442,
+        "question_text": "What is the value of the 1 in the number 14?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "1 ten",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20443,
+        "question_text": "What is the value of the 9 in the number 39?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9 ones",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20444,
+        "question_text": "Ben has 1 ten-pence coin and 2 one-pence coins. How much money does he have?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12p",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20445,
+        "question_text": "There are 10 crayons in a box. Sara has 3 full boxes and 4 extra crayons. How many crayons does she have?",
+        "answer_type": "text_input",
+        "correct_answer": "34",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20446,
+        "question_text": "What number has 0 tens and 5 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20447,
+        "question_text": "Partition the number 42 into tens and ones.",
+        "answer_type": "text_input",
+        "correct_answer": "40 and 2",
+        "alternative_answer_1": "4 tens and 2 ones",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20448,
+        "question_text": "What number is represented by 3 bundles of ten sticks and 1 single stick?",
+        "answer_type": "text_input",
+        "correct_answer": "31",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20449,
+        "question_text": "In the number 16, which digit has the greater value, the 1 or the 6?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20450,
+        "question_text": "What is 10 + 7?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20451,
+        "question_text": "What is 30 + 5?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20452,
+        "question_text": "I have 4 tens and 0 ones. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20453,
+        "question_text": "A box holds 10 eggs. How many eggs are in 2 full boxes and 8 single eggs?",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20454,
+        "question_text": "The number 49 is made of 4 tens and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20455,
+        "question_text": "The number 33 has 3 ones and how many tens?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20456,
+        "question_text": "A number has a 5 in the tens place. It is greater than 55. What could the number be?",
+        "answer_type": "text_input",
+        "correct_answer": "56",
+        "alternative_answer_1": "57",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20457,
+        "question_text": "What number is made from 3 tens and 14 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "44",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20458,
+        "question_text": "I am a 2-digit number. My ones digit is 7. I am less than 20. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "17",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20459,
+        "question_text": "Use the digits 6 and 8 to make the largest possible 2-digit number.",
+        "answer_type": "text_input",
+        "correct_answer": "86",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20460,
+        "question_text": "Use the digits 9 and 4 to make the smallest possible 2-digit number.",
+        "answer_type": "text_input",
+        "correct_answer": "49",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20461,
+        "question_text": "How many different 2-digit numbers can you make using the digits 2 and 5?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20462,
+        "question_text": "What is 10 more than 67?",
+        "answer_type": "text_input",
+        "correct_answer": "77",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20463,
+        "question_text": "What is 10 less than 81?",
+        "answer_type": "text_input",
+        "correct_answer": "71",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20464,
+        "question_text": "A number is between 70 and 80. Its ones digit is 3. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "73",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20465,
+        "question_text": "Partition 92 in a different way (not 90 + 2).",
+        "answer_type": "text_input",
+        "correct_answer": "80 + 12",
+        "alternative_answer_1": "70 + 22",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20466,
+        "question_text": "I have 5 tens and 11 ones. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "61",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20467,
+        "question_text": "Which is larger: a number with 6 tens and 5 ones, or a number with 5 tens and 6 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "6 tens and 5 ones",
+        "alternative_answer_1": "65",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20468,
+        "question_text": "Find a number with 8 in the ones place that is smaller than 50.",
+        "answer_type": "text_input",
+        "correct_answer": "48",
+        "alternative_answer_1": "38",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20469,
+        "question_text": "A number has 7 tens. The ones digit is 2 less than the tens digit. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20470,
+        "question_text": "What is the number one less than 60?",
+        "answer_type": "text_input",
+        "correct_answer": "59",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20471,
+        "question_text": "What is the number one more than 99?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20472,
+        "question_text": "I am a 2-digit number greater than 85. My ones digit is even. What could I be?",
+        "answer_type": "text_input",
+        "correct_answer": "86",
+        "alternative_answer_1": "88",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20473,
+        "question_text": "Combine 6 tens and 15 ones to make a number.",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20474,
+        "question_text": "What is the difference between 52 and 25?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20475,
+        "question_text": "What do you need to add to 45 to make 55?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20476,
+        "question_text": "A number is made of 8 tens and 18 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "98",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20477,
+        "question_text": "Find a number between 30 and 40 where the sum of the digits is 8.",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20478,
+        "question_text": "How many tens are there in 100?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20479,
+        "question_text": "I have 7 ten-pence coins and 12 one-pence coins. How much money do I have?",
+        "answer_type": "text_input",
+        "correct_answer": "82",
+        "alternative_answer_1": "82p",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20480,
+        "question_text": "Which number is closer to 50: 48 or 53?",
+        "answer_type": "text_input",
+        "correct_answer": "48",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20481,
+        "question_text": "How many different 2-digit numbers can you make using the digits 1, 2, and 3?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20482,
+        "question_text": "I am a 2-digit number. My tens digit is double my ones digit. I am less than 50. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "21",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20483,
+        "question_text": "The sum of the digits of a 2-digit number is 10. The number is between 60 and 70. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20484,
+        "question_text": "What number is 5 less than 72?",
+        "answer_type": "text_input",
+        "correct_answer": "67",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20485,
+        "question_text": "What number is 8 more than 45?",
+        "answer_type": "text_input",
+        "correct_answer": "53",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20486,
+        "question_text": "Find the largest 2-digit number where the ones digit is 3 more than the tens digit.",
+        "answer_type": "text_input",
+        "correct_answer": "69",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20487,
+        "question_text": "Find the smallest 2-digit number where the tens digit is 5 more than the ones digit.",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20488,
+        "question_text": "The difference between the two digits in a 2-digit number is 7. The number is greater than 50. What could it be?",
+        "answer_type": "text_input",
+        "correct_answer": "81",
+        "alternative_answer_1": "92",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20489,
+        "question_text": "I have 27 sweets. If I eat 9, how many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20490,
+        "question_text": "There are 35 children on a bus. 8 more get on. How many are on the bus now?",
+        "answer_type": "text_input",
+        "correct_answer": "43",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20491,
+        "question_text": "I am a number between 20 and 30. I am a multiple of 4. What number could I be?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "28",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20492,
+        "question_text": "What do you need to add to 78 to make 100?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20493,
+        "question_text": "What is 100 minus 35?",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20494,
+        "question_text": "I have 6 bags of 5 sweets. How many sweets do I have?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20495,
+        "question_text": "If you share 40 pencils between 10 people, how many does each person get?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20496,
+        "question_text": "Which is greater: 4 lots of 10, or 8 lots of 5?",
+        "answer_type": "text_input",
+        "correct_answer": "They are the same",
+        "alternative_answer_1": "Equal",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20497,
+        "question_text": "I am an even 2-digit number. The sum of my digits is 9. What could I be?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "36",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20498,
+        "question_text": "A number has 6 in the tens place. This is double the value of the ones digit. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "63",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20499,
+        "question_text": "What is the next number in this sequence? 5, 10, 20, 40, __.",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20500,
+        "question_text": "The year is 2024. What is one less than the tens digit?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20501,
+        "question_text": "I have 95p. How many 10p coins can I make from this?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20502,
+        "question_text": "A number is made of 15 ones and 7 tens. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "85",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20503,
+        "question_text": "There are 30 days in September. If today is September 23rd, how many days are left?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20504,
+        "question_text": "What is half of 84?",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20505,
+        "question_text": "A number has 4 in the ones place. The tens digit is 2 more than the ones digit. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20506,
+        "question_text": "I am a 2-digit number. My tens digit is 3 less than my ones digit. The product of my digits is 40. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "58",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20507,
+        "question_text": "I am thinking of a 2-digit number. If you reverse my digits, the new number is 27 greater than my original number. The sum of my digits is 9. What is my number?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20508,
+        "question_text": "There are 25 children in a class. 1/5 of them have brown hair. How many do not have brown hair?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20509,
+        "question_text": "The total of two numbers is 100. Their difference is 20. What are the two numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "60 and 40",
+        "alternative_answer_1": "40 and 60",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20510,
+        "question_text": "What is the sum of all the odd numbers between 10 and 20?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20511,
+        "question_text": "A number is 12 less than 100. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "88",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20512,
+        "question_text": "I have 60p in 10p and 5p coins. I have 8 coins in total. How many of each coin do I have?",
+        "answer_type": "text_input",
+        "correct_answer": "4 of each",
+        "alternative_answer_1": "4 10p and 4 5p",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20513,
+        "question_text": "Find a 2-digit number that is a multiple of 8, and the sum of its digits is 9.",
+        "answer_type": "text_input",
+        "correct_answer": "72",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20514,
+        "question_text": "A farmer has sheep and chickens. There are 20 heads and 50 legs in total. How many sheep are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20515,
+        "question_text": "The number 96 is partitioned into 80 and what number?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20516,
+        "question_text": "What is the nearest multiple of 10 to 78?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20517,
+        "question_text": "How many minutes are there from 9:45 am to 10:20 am?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20518,
+        "question_text": "I buy 3 items at 25p each. How much change do I get from £1 (100p)?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "25p",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20519,
+        "question_text": "A number has 5 in the ones place. It is a multiple of 3. It is between 40 and 50. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20520,
+        "question_text": "What is 20 more than 75?",
+        "answer_type": "text_input",
+        "correct_answer": "95",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20521,
+        "question_text": "A number is made of 12 tens and 12 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "132",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20522,
+        "question_text": "I am an odd number between 80 and 90. The sum of my digits is 15. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "87",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20523,
+        "question_text": "What is the sum of all the multiples of 5 between 1 and 21?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20524,
+        "question_text": "Which number is closer to 100: 89 or 112?",
+        "answer_type": "text_input",
+        "correct_answer": "89",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20525,
+        "question_text": "The product of two numbers is 24. Their sum is 10. What are the numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "6 and 4",
+        "alternative_answer_1": "4 and 6",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20526,
+        "question_text": "What is 3/4 of 48?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20527,
+        "question_text": "I have 12 ten-pence coins and 8 five-pence coins. How much money do I have in total?",
+        "answer_type": "text_input",
+        "correct_answer": "160p",
+        "alternative_answer_1": "£1.60",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20528,
+        "question_text": "A number is made of 1 ten and 13 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "23",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20529,
+        "question_text": "I am a 2-digit number. I am a multiple of 10. If you add my digits, the sum is 7. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 20530,
+        "question_text": "The number of days in February is 28 (in a non-leap year). How many full weeks is this, and how many days are left over?",
+        "answer_type": "text_input",
+        "correct_answer": "4 weeks and 0 days",
+        "alternative_answer_1": "4 weeks",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 395
+    },
+    {
+        "question_id": 21433,
+        "question_text": "What number has 1 hundred, 2 tens, and 5 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21434,
+        "question_text": "A box contains 100 pencils, a pack contains 10, and some are loose. How many pencils are there if you have 1 box, 3 packs, and 7 loose ones?",
+        "answer_type": "text_input",
+        "correct_answer": "137",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21435,
+        "question_text": "In the number 184, what is the value of the digit 8?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "8 tens",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21436,
+        "question_text": "Find the number that is 10 more than 150.",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21437,
+        "question_text": "Find the number that is 100 less than 199.",
+        "answer_type": "text_input",
+        "correct_answer": "99",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21438,
+        "question_text": "A school has 175 pupils. 10 new pupils join. How many pupils are there now?",
+        "answer_type": "text_input",
+        "correct_answer": "185",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21439,
+        "question_text": "I have 180 sweets and I eat 100 of them. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21440,
+        "question_text": "What number is made from 1 hundred and 9 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "109",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21441,
+        "question_text": "In the number 192, what digit is in the hundreds place?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21442,
+        "question_text": "Which is larger: 198 or 189?",
+        "answer_type": "text_input",
+        "correct_answer": "198",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21443,
+        "question_text": "Which is smaller: 121 or 112?",
+        "answer_type": "text_input",
+        "correct_answer": "112",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21444,
+        "question_text": "Find 10 less than 145.",
+        "answer_type": "text_input",
+        "correct_answer": "135",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21445,
+        "question_text": "Find 100 more than 88.",
+        "answer_type": "text_input",
+        "correct_answer": "188",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21446,
+        "question_text": "A farmer has 190 sheep. 100 are sold. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21447,
+        "question_text": "A book has 162 pages. A new chapter of 10 pages is added. How many pages are there now?",
+        "answer_type": "text_input",
+        "correct_answer": "172",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21448,
+        "question_text": "Partition 156 into hundreds, tens, and ones.",
+        "answer_type": "text_input",
+        "correct_answer": "100 + 50 + 6",
+        "alternative_answer_1": "1 hundred, 5 tens, 6 ones",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21449,
+        "question_text": "What number has 1 hundred, 0 tens, and 7 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "107",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21450,
+        "question_text": "In 199, what is the value of the first digit?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "1 hundred",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21451,
+        "question_text": "Which number comes first if you order these from smallest to largest: 187, 178, 188.",
+        "answer_type": "text_input",
+        "correct_answer": "178",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21452,
+        "question_text": "What is 10 more than 195?",
+        "answer_type": "text_input",
+        "correct_answer": "205",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21453,
+        "question_text": "What is 100 less than 200?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21454,
+        "question_text": "There are 155 cars in a car park. 10 leave. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "145",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21455,
+        "question_text": "A score is 95. A bonus of 100 points is awarded. What is the new score?",
+        "answer_type": "text_input",
+        "correct_answer": "195",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21456,
+        "question_text": "The number 143 has 1 hundred, 4 tens, and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21457,
+        "question_text": "The number 190 has 1 hundred, 9 tens, and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21458,
+        "question_text": "What number is made from 3 hundreds, 12 tens, and 5 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "425",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21459,
+        "question_text": "Use the digits 4, 1, and 5 to make the largest possible 3-digit number.",
+        "answer_type": "text_input",
+        "correct_answer": "541",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21460,
+        "question_text": "Use the digits 3, 8, and 2 to make the smallest possible 3-digit number.",
+        "answer_type": "text_input",
+        "correct_answer": "238",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21461,
+        "question_text": "A number has a 4 in the hundreds place. It is between 450 and 460. The ones digit is 7. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "457",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21462,
+        "question_text": "Find 10 less than 305.",
+        "answer_type": "text_input",
+        "correct_answer": "295",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21463,
+        "question_text": "Find 100 more than 390.",
+        "answer_type": "text_input",
+        "correct_answer": "490",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21464,
+        "question_text": "The O'Connell bridge in Dublin is 45m wide and 50m long. Which is the greater measurement, its length or its width?",
+        "answer_type": "text_input",
+        "correct_answer": "length",
+        "alternative_answer_1": "50m",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21465,
+        "question_text": "The sum of the digits in a 3-digit number is 5. The number is between 200 and 300. The ones digit is 1. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "221",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21466,
+        "question_text": "Which is smaller: 499 or 501?",
+        "answer_type": "text_input",
+        "correct_answer": "499",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21467,
+        "question_text": "What is 10 more than 495?",
+        "answer_type": "text_input",
+        "correct_answer": "505",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21468,
+        "question_text": "I have 12 tens and 15 ones. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "135",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21469,
+        "question_text": "There are 350 seats in a cinema. 100 tickets have been sold. How many seats are left?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21470,
+        "question_text": "A school trip needs 280 pupils to attend. So far, 270 have signed up. How many more are needed?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21471,
+        "question_text": "Order these numbers from largest to smallest: 451, 514, 415.",
+        "answer_type": "text_input",
+        "correct_answer": "514, 451, 415",
+        "alternative_answer_1": "514 451 415",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21472,
+        "question_text": "Which number is closer to 300: 295 or 306?",
+        "answer_type": "text_input",
+        "correct_answer": "295",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21473,
+        "question_text": "What is 100 less than 105?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21474,
+        "question_text": "A number has 2 hundreds, 15 tens, and 3 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "353",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21475,
+        "question_text": "A mountain is 480m high. A hill is 100m shorter. How high is the hill?",
+        "answer_type": "text_input",
+        "correct_answer": "380",
+        "alternative_answer_1": "380m",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21476,
+        "question_text": "A video game score is 499. What is one more than this score?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21477,
+        "question_text": "Use the digits 0, 4, and 2 to make the smallest possible 3-digit number.",
+        "answer_type": "text_input",
+        "correct_answer": "204",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21478,
+        "question_text": "The Eiffel Tower is 330m tall. The Shard is 310m tall. Which is taller and by how much?",
+        "answer_type": "text_input",
+        "correct_answer": "Eiffel Tower by 20m",
+        "alternative_answer_1": "Eiffel Tower, 20m",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21479,
+        "question_text": "What number has 18 tens and 6 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "186",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21480,
+        "question_text": "How many tens are there in the number 240?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21481,
+        "question_text": "What is 10 less than 501?",
+        "answer_type": "text_input",
+        "correct_answer": "491",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21482,
+        "question_text": "A plane is flying at 500 feet. It drops 10 feet. What is its new altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "490",
+        "alternative_answer_1": "490 feet",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21483,
+        "question_text": "I am a 3-digit number. The sum of my digits is 6. My hundreds digit is double my tens digit. What could I be?",
+        "answer_type": "text_input",
+        "correct_answer": "420",
+        "alternative_answer_1": "213",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21484,
+        "question_text": "A farmer has 385 sheep. He sells 99 of them. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "286",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21485,
+        "question_text": "What is the largest 3-digit number you can make where all the digits are odd?",
+        "answer_type": "text_input",
+        "correct_answer": "999",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21486,
+        "question_text": "I am a number between 600 and 700. I am a multiple of 50. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "650",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21487,
+        "question_text": "The year is 1995. How many years is it until the year 2025?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21488,
+        "question_text": "I have £5. I buy a book for £2.50 and a pen for £1. How much change do I get?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "£1.50",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21489,
+        "question_text": "The difference between two 3-digit numbers is 10. One number is 495. What could the other number be?",
+        "answer_type": "text_input",
+        "correct_answer": "485",
+        "alternative_answer_1": "505",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21490,
+        "question_text": "There are 120 children in Year 3. 65 of them are girls. How many are boys?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21491,
+        "question_text": "What do you need to add to 450 to make 1000?",
+        "answer_type": "text_input",
+        "correct_answer": "550",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21492,
+        "question_text": "There are 4 classes with 30 children in each. How many children are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21493,
+        "question_text": "A box contains 8 chocolates. How many chocolates are in 20 boxes?",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21494,
+        "question_text": "Find a 3-digit number where the hundreds digit is the sum of the tens and ones digits, and the number is less than 200.",
+        "answer_type": "text_input",
+        "correct_answer": "110",
+        "alternative_answer_1": "101",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21495,
+        "question_text": "What is the sum of 150 and 160?",
+        "answer_type": "text_input",
+        "correct_answer": "310",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21496,
+        "question_text": "There are 365 days in a year. If 100 days have passed, how many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "265",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21497,
+        "question_text": "I am a 3-digit number. My digits are 2, 8, and 5. I am a multiple of 5. What is the largest number I can be?",
+        "answer_type": "text_input",
+        "correct_answer": "825",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21498,
+        "question_text": "A car travels 150 miles on Monday and 250 miles on Tuesday. What is the total distance?",
+        "answer_type": "text_input",
+        "correct_answer": "400",
+        "alternative_answer_1": "400 miles",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21499,
+        "question_text": "What number is halfway between 100 and 200?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21500,
+        "question_text": "The sum of two numbers is 50. One number is 15. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21501,
+        "question_text": "A baker makes 240 loaves of bread. He sells 150. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21502,
+        "question_text": "I have 11 tens and 11 ones. What number is this?",
+        "answer_type": "text_input",
+        "correct_answer": "121",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21503,
+        "question_text": "A runner covers 5km daily. How many kilometres do they run in a month of 30 days?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21504,
+        "question_text": "What is double 125?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21505,
+        "question_text": "What is half of 500?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21506,
+        "question_text": "There are 180 seats on a plane. 120 are taken. How many are empty?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21507,
+        "question_text": "I think of a number, add 100 to it and get 325. What was my number?",
+        "answer_type": "text_input",
+        "correct_answer": "225",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21508,
+        "question_text": "I am a 3-digit number. My hundreds digit is one more than my tens digit, which is one more than my ones digit. The sum of my digits is 12. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "543",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21509,
+        "question_text": "A TV costs £499. In a sale, it is reduced by £150. What is the sale price?",
+        "answer_type": "text_input",
+        "correct_answer": "349",
+        "alternative_answer_1": "£349",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21510,
+        "question_text": "There are 3 classes in a year group with 28, 30, and 29 pupils. What is the total number of pupils?",
+        "answer_type": "text_input",
+        "correct_answer": "87",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21511,
+        "question_text": "I have a number. If I subtract 100 and then add 50, I get 200. What was my starting number?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21512,
+        "question_text": "What is the difference between 1000 and 101?",
+        "answer_type": "text_input",
+        "correct_answer": "899",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21513,
+        "question_text": "A library has 550 books. 120 are loaned out on Monday and 80 on Tuesday. How many books are left in the library?",
+        "answer_type": "text_input",
+        "correct_answer": "350",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21514,
+        "question_text": "A cyclist travels 15 miles per hour. How far will they travel in 5 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "75 miles",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21515,
+        "question_text": "What is the sum of all the numbers from 1 to 10?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21516,
+        "question_text": "I am a 3-digit number. I am a multiple of 25. The sum of my digits is 7. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21517,
+        "question_text": "A shop sells 120 newspapers a day. How many does it sell in a week (7 days)?",
+        "answer_type": "text_input",
+        "correct_answer": "840",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21518,
+        "question_text": "There are 24 hours in a day. How many hours are there in a fortnight (14 days)?",
+        "answer_type": "text_input",
+        "correct_answer": "336",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21519,
+        "question_text": "I am thinking of a number. It is 100 less than half of 800. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "300",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21520,
+        "question_text": "A family drives 250 miles. They have a break after 125 miles. Then they drive another 75 miles. How many miles are left?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50 miles",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21521,
+        "question_text": "Find the largest 3-digit number where the product of the digits is 12.",
+        "answer_type": "text_input",
+        "correct_answer": "621",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21522,
+        "question_text": "The perimeter of a square is 40cm. What is the length of one side?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10cm",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21523,
+        "question_text": "There are 150 children going on a trip. Each bus holds 50 children. How many buses are needed?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21524,
+        "question_text": "What number is halfway between 550 and 650?",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21525,
+        "question_text": "I have £10. I spend £3.50. How much do I have left?",
+        "answer_type": "text_input",
+        "correct_answer": "6.5",
+        "alternative_answer_1": "£6.50",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21526,
+        "question_text": "A film starts at 18:30 and lasts for 90 minutes. What time does it finish?",
+        "answer_type": "text_input",
+        "correct_answer": "20:00",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21527,
+        "question_text": "I am a 3-digit number. All my digits are the same. The sum of my digits is 15. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "555",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21528,
+        "question_text": "What is the sum of 100, 250 and 350?",
+        "answer_type": "text_input",
+        "correct_answer": "700",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21529,
+        "question_text": "A rectangle is 20cm long and 10cm wide. What is its area?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "200cm²",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21530,
+        "question_text": "What is 10 less than 100 more than 500?",
+        "answer_type": "text_input",
+        "correct_answer": "590",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21531,
+        "question_text": "I have 300 marbles. I give away half of them, then I give away another 50. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 21532,
+        "question_text": "The temperature is 15°C. It drops by 20°C. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "-5°C",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 396
+    },
+    {
+        "question_id": 22684,
+        "question_text": "What number has 1 thousand, 2 hundreds, 3 tens, and 4 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "1234",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22685,
+        "question_text": "In the number 1864, what is the value of the digit 8?",
+        "answer_type": "text_input",
+        "correct_answer": "800",
+        "alternative_answer_1": "8 hundreds",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22686,
+        "question_text": "A factory makes 1500 cars. 1000 more are made. How many cars are there now?",
+        "answer_type": "text_input",
+        "correct_answer": "2500",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22687,
+        "question_text": "Which number is larger: 1950 or 1590?",
+        "answer_type": "text_input",
+        "correct_answer": "1950",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22688,
+        "question_text": "Find the number that is 10 more than 1995.",
+        "answer_type": "text_input",
+        "correct_answer": "2005",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22689,
+        "question_text": "Find the number that is 100 less than 1150.",
+        "answer_type": "text_input",
+        "correct_answer": "1050",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22690,
+        "question_text": "A concert has 1800 attendees. 100 leave. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "1700",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22691,
+        "question_text": "What is 1000 more than 850?",
+        "answer_type": "text_input",
+        "correct_answer": "1850",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22692,
+        "question_text": "What number is made of 1 thousand and 5 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "1050",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22693,
+        "question_text": "Order these numbers from smallest to largest: 1200, 1020, 1002.",
+        "answer_type": "text_input",
+        "correct_answer": "1002, 1020, 1200",
+        "alternative_answer_1": "1002 1020 1200",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22694,
+        "question_text": "In the number 1984, what digit is in the thousands place?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22695,
+        "question_text": "Find 100 more than 1950.",
+        "answer_type": "text_input",
+        "correct_answer": "2050",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22696,
+        "question_text": "Which is smaller: 1099 or 1101?",
+        "answer_type": "text_input",
+        "correct_answer": "1099",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22697,
+        "question_text": "What is 10 less than 1000?",
+        "answer_type": "text_input",
+        "correct_answer": "990",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22698,
+        "question_text": "A new car costs £1999. You get a £10 discount. What is the new cost?",
+        "answer_type": "text_input",
+        "correct_answer": "1989",
+        "alternative_answer_1": "£1989",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22699,
+        "question_text": "Partition 1756 into thousands, hundreds, tens, and ones.",
+        "answer_type": "text_input",
+        "correct_answer": "1000 + 700 + 50 + 6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22700,
+        "question_text": "What number has 1 thousand, 0 hundreds, 8 tens, and 0 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "1080",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22701,
+        "question_text": "What is the value of the 9 in 1985?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "9 hundreds",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22702,
+        "question_text": "A plane flies at an altitude of 1500 metres. It climbs 100 metres. What is its new altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "1600",
+        "alternative_answer_1": "1600m",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22703,
+        "question_text": "Which number comes next in the sequence: 1980, 1990, 2000, __?",
+        "answer_type": "text_input",
+        "correct_answer": "2010",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22704,
+        "question_text": "What is 100 less than 2050?",
+        "answer_type": "text_input",
+        "correct_answer": "1950",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22705,
+        "question_text": "A score is 1990. A 100 point bonus is awarded. What is the new score?",
+        "answer_type": "text_input",
+        "correct_answer": "2090",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22706,
+        "question_text": "The number 1043 has 1 thousand, 0 hundreds, 4 tens, and how many ones?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22707,
+        "question_text": "A library has 1100 books. 10 are lost. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "1090",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22708,
+        "question_text": "Which number has the greatest value: 1500, 1050, 1005?",
+        "answer_type": "text_input",
+        "correct_answer": "1500",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22709,
+        "question_text": "What number is made from 15 hundreds, 3 tens, and 7 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "1537",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22710,
+        "question_text": "Use the digits 8, 0, 3, 1 to make the smallest possible 4-digit number.",
+        "answer_type": "text_input",
+        "correct_answer": "1038",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22711,
+        "question_text": "Round 850 to the nearest 100.",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22712,
+        "question_text": "A number is between 5000 and 6000. Its hundreds digit is 2. Its ones digit is 9. Its tens digit is 1. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "5219",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22713,
+        "question_text": "What is 1000 more than 9,500?",
+        "answer_type": "text_input",
+        "correct_answer": "10500",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22714,
+        "question_text": "Round 749 to the nearest 10.",
+        "answer_type": "text_input",
+        "correct_answer": "750",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22715,
+        "question_text": "How many different 4-digit numbers can you make using the digits 1, 1, 2, 2?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22716,
+        "question_text": "The sum of the digits of a 4-digit number is 3. The number is greater than 2000. What could the number be?",
+        "answer_type": "text_input",
+        "correct_answer": "2010",
+        "alternative_answer_1": "2001",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22717,
+        "question_text": "What number has 30 hundreds and 5 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "3005",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22718,
+        "question_text": "Which number is closer to 5000: 4990 or 5005?",
+        "answer_type": "text_input",
+        "correct_answer": "5005",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22719,
+        "question_text": "Round 985 to the nearest 100.",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22720,
+        "question_text": "A crowd of 8,800 people is expected. 1000 more people arrive than expected. How many people are there?",
+        "answer_type": "text_input",
+        "correct_answer": "9800",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22721,
+        "question_text": "Order these from largest to smallest: 8090, 8900, 8099.",
+        "answer_type": "text_input",
+        "correct_answer": "8900, 8099, 8090",
+        "alternative_answer_1": "8900 8099 8090",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22722,
+        "question_text": "A number has 5 in the thousands place. The hundreds digit is 2 less than the thousands digit. The tens and ones are zero. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "5300",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22723,
+        "question_text": "A company sold 9,995 items. They need to sell 10 more to reach their target. What is their target?",
+        "answer_type": "text_input",
+        "correct_answer": "10005",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22724,
+        "question_text": "Round the year 1999 to the nearest 10.",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22725,
+        "question_text": "What number has 15 hundreds and 15 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "1650",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22726,
+        "question_text": "Which is smaller: 100 less than 5000, or 10 more than 4800?",
+        "answer_type": "text_input",
+        "correct_answer": "10 more than 4800",
+        "alternative_answer_1": "4810",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22727,
+        "question_text": "What is 10 less than 3005?",
+        "answer_type": "text_input",
+        "correct_answer": "2995",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22728,
+        "question_text": "A mountain is 2950m high. Round this to the nearest 100m.",
+        "answer_type": "text_input",
+        "correct_answer": "3000",
+        "alternative_answer_1": "3000m",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22729,
+        "question_text": "A charity raised £8,950. Their target is £10,000. How much more do they need to raise?",
+        "answer_type": "text_input",
+        "correct_answer": "1050",
+        "alternative_answer_1": "£1050",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22730,
+        "question_text": "I am a 4-digit number. All my digits are 2. What is 1000 more than me?",
+        "answer_type": "text_input",
+        "correct_answer": "3222",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22731,
+        "question_text": "Round 990 to the nearest 100.",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22732,
+        "question_text": "Use the digits 5, 0, 9, 2 to make the largest odd number possible.",
+        "answer_type": "text_input",
+        "correct_answer": "9205",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22733,
+        "question_text": "I have 12 hundred-pound notes and 18 ten-pound notes. How much money do I have?",
+        "answer_type": "text_input",
+        "correct_answer": "1380",
+        "alternative_answer_1": "£1380",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22734,
+        "question_text": "A runner's time is 59.8 seconds. Another has a time of 59.75 seconds. Who was faster?",
+        "answer_type": "text_input",
+        "correct_answer": "59.75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22735,
+        "question_text": "What number is 100 less than 20,050?",
+        "answer_type": "text_input",
+        "correct_answer": "19950",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22736,
+        "question_text": "Round 19,950 to the nearest 1000.",
+        "answer_type": "text_input",
+        "correct_answer": "20000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22737,
+        "question_text": "A company has 10,000 employees. 125 leave and 250 are hired. What is the new total?",
+        "answer_type": "text_input",
+        "correct_answer": "10125",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22738,
+        "question_text": "Which is larger: one hundred thousand, or 10,000 more than 90,000?",
+        "answer_type": "text_input",
+        "correct_answer": "They are the same",
+        "alternative_answer_1": "Equal",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22739,
+        "question_text": "A number has 15 thousands and 15 hundreds. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "16500",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22740,
+        "question_text": "I am a 5-digit number. The sum of my digits is 4. I am greater than 30,000. What could I be?",
+        "answer_type": "text_input",
+        "correct_answer": "30001",
+        "alternative_answer_1": "30010",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22741,
+        "question_text": "What is 0.1 more than 19.9?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22742,
+        "question_text": "Round 58,499 to the nearest hundred.",
+        "answer_type": "text_input",
+        "correct_answer": "58500",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22743,
+        "question_text": "A plane travels 550 miles per hour. How far does it travel in 10 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "5500",
+        "alternative_answer_1": "5500 miles",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22744,
+        "question_text": "What is 1000 less than 200,000?",
+        "answer_type": "text_input",
+        "correct_answer": "199000",
+        "alternative_answer_1": "199,000",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22745,
+        "question_text": "A book has 500 pages. I read 25 pages a day. How many days will it take to finish?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20 days",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22746,
+        "question_text": "Round 99,990 to the nearest 100.",
+        "answer_type": "text_input",
+        "correct_answer": "100000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22747,
+        "question_text": "A car travels 40.5 miles. A second car travels 40.45 miles. Which car travelled further?",
+        "answer_type": "text_input",
+        "correct_answer": "The first car",
+        "alternative_answer_1": "40.5",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22748,
+        "question_text": "What number is halfway between 10,000 and 20,000?",
+        "answer_type": "text_input",
+        "correct_answer": "15000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22749,
+        "question_text": "I subtract 1000 from a number, then add 10, and the result is 9010. What was the starting number?",
+        "answer_type": "text_input",
+        "correct_answer": "10000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22750,
+        "question_text": "Which is smaller: 100,000 or 99,999?",
+        "answer_type": "text_input",
+        "correct_answer": "99999",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22751,
+        "question_text": "A runner's time is 25.05 seconds. A commentator rounds this to 25.1 seconds. Was the rounding correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22752,
+        "question_text": "How many hundreds are there in 50,000?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22753,
+        "question_text": "What is 0.05 less than 10.0?",
+        "answer_type": "text_input",
+        "correct_answer": "9.95",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22754,
+        "question_text": "Round 45,678 to the nearest thousand.",
+        "answer_type": "text_input",
+        "correct_answer": "46000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22755,
+        "question_text": "I am a number between 10.1 and 10.2. I have two decimal places. My hundredths digit is 5. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "10.15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22756,
+        "question_text": "A city's population is 98,500. It is expected to grow by 2000. What will the new population be?",
+        "answer_type": "text_input",
+        "correct_answer": "100500",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22757,
+        "question_text": "What is 100 less than 10,001?",
+        "answer_type": "text_input",
+        "correct_answer": "9901",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22758,
+        "question_text": "A swimmer has a personal best of 48.01 seconds. They swim a new best time that is 0.02 seconds faster. What is their new time?",
+        "answer_type": "text_input",
+        "correct_answer": "47.99",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22759,
+        "question_text": "A company has a profit of £995,500. It needs to make £1,000,000 to meet its target. How much more profit is needed?",
+        "answer_type": "text_input",
+        "correct_answer": "4500",
+        "alternative_answer_1": "£4500",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22760,
+        "question_text": "What number is 1001 less than 50,000?",
+        "answer_type": "text_input",
+        "correct_answer": "48999",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22761,
+        "question_text": "A number has 12 thousands, 12 hundreds, and 12 tens. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "13320",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22762,
+        "question_text": "The result of a calculation is 54,321. The first digit is wrong; it should be one less. The last digit is also wrong; it should be one more. What is the correct number?",
+        "answer_type": "text_input",
+        "correct_answer": "44322",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22763,
+        "question_text": "Round 99.99 to the nearest whole number.",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22764,
+        "question_text": "I am a 4-digit number. I am a palindrome (reads the same forwards and backwards). The sum of my digits is 20. My thousands digit is 8. What am I?",
+        "answer_type": "text_input",
+        "correct_answer": "8228",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22765,
+        "question_text": "A car is sold for £15,995. A second car is sold for £16,005. What is the difference in price?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "£10",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22766,
+        "question_text": "What is 0.01 less than 50?",
+        "answer_type": "text_input",
+        "correct_answer": "49.99",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22767,
+        "question_text": "A stadium holds 82,500 people. It is 90% full. How many empty seats are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8250",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22768,
+        "question_text": "What is 1000 more than 999,999?",
+        "answer_type": "text_input",
+        "correct_answer": "1000999",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22769,
+        "question_text": "A number is halfway between 15,000 and 16,000. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "15500",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22770,
+        "question_text": "I count backwards from 0 in steps of 1. My friend counts forwards from -10 in steps of 1. At what number will we meet?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22771,
+        "question_text": "What is 0.5 million?",
+        "answer_type": "text_input",
+        "correct_answer": "500000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22772,
+        "question_text": "Round 499,999 to the nearest thousand.",
+        "answer_type": "text_input",
+        "correct_answer": "500000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22773,
+        "question_text": "A number has 10 thousands and 100 tens. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "11000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22774,
+        "question_text": "A tank holds 50,000 litres. It loses 10 litres every hour. How many litres are left after 24 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "49760",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22775,
+        "question_text": "What is 1 less than 100,000?",
+        "answer_type": "text_input",
+        "correct_answer": "99999",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22776,
+        "question_text": "A race time is 45.05 seconds. The record is 44.98 seconds. By how much did the runner miss the record?",
+        "answer_type": "text_input",
+        "correct_answer": "0.07",
+        "alternative_answer_1": "0.07s",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22777,
+        "question_text": "I am thinking of a 5-digit number. If you round it to the nearest 10,000 you get 20,000. If you round it to the nearest 1000 you get 19,000. What could the number be?",
+        "answer_type": "text_input",
+        "correct_answer": "19400",
+        "alternative_answer_1": "any from 18500 to 19499",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22778,
+        "question_text": "What is 10,001 minus 100?",
+        "answer_type": "text_input",
+        "correct_answer": "9901",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22779,
+        "question_text": "Which is larger: 0.25 million or 25,000?",
+        "answer_type": "text_input",
+        "correct_answer": "0.25 million",
+        "alternative_answer_1": "250000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22780,
+        "question_text": "A company's value is £999,990. It loses £100. What is its new value?",
+        "answer_type": "text_input",
+        "correct_answer": "999890",
+        "alternative_answer_1": "£999,890",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22781,
+        "question_text": "What number has 101 thousands and 101 ones?",
+        "answer_type": "text_input",
+        "correct_answer": "101101",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22782,
+        "question_text": "The total of two numbers is 50,000. One number is 10,001. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "39999",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 22783,
+        "question_text": "The population of a city is 895,400. It is predicted to fall by 10,000 next year. What is the predicted population?",
+        "answer_type": "text_input",
+        "correct_answer": "885400",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 397
+    },
+    {
+        "question_id": 23937,
+        "question_text": "What is 100 more than 15,000?",
+        "answer_type": "text_input",
+        "correct_answer": "15100",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23938,
+        "question_text": "What is 1000 less than 28,500?",
+        "answer_type": "text_input",
+        "correct_answer": "27500",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23939,
+        "question_text": "Round 12,345 to the nearest 10.",
+        "answer_type": "text_input",
+        "correct_answer": "12350",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23940,
+        "question_text": "A city has a population of 88,000. 1000 more people move in. What is the new population?",
+        "answer_type": "text_input",
+        "correct_answer": "89000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23941,
+        "question_text": "Which number is smaller: 50,100 or 50,010?",
+        "answer_type": "text_input",
+        "correct_answer": "50010",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23942,
+        "question_text": "What is 10 less than 30,000?",
+        "answer_type": "text_input",
+        "correct_answer": "29990",
+        "alternative_answer_1": "29,990",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23943,
+        "question_text": "A car costs £18,900. Its price is reduced by £1000. What is the new price?",
+        "answer_type": "text_input",
+        "correct_answer": "17900",
+        "alternative_answer_1": "£17,900",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23944,
+        "question_text": "Round 45,678 to the nearest 100.",
+        "answer_type": "text_input",
+        "correct_answer": "45700",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23945,
+        "question_text": "A runner's time is 59.8 seconds. Round this to the nearest whole second.",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60s",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23946,
+        "question_text": "A town has 50,000 people. 10,000 more move in. What is the new population?",
+        "answer_type": "text_input",
+        "correct_answer": "60000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23947,
+        "question_text": "In the number 25,432, what is the value of the digit 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5000",
+        "alternative_answer_1": "5 thousands",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23948,
+        "question_text": "A temperature is -5°C. It rises by 10°C. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5°C",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23949,
+        "question_text": "Order these numbers from largest to smallest: 12.1, 11.2, 12.0.",
+        "answer_type": "text_input",
+        "correct_answer": "12.1, 12.0, 11.2",
+        "alternative_answer_1": "12.1 12.0 11.2",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23950,
+        "question_text": "Round 99,000 to the nearest 10,000.",
+        "answer_type": "text_input",
+        "correct_answer": "100000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23951,
+        "question_text": "A bank account has a balance of £50. You spend £60. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "-£10",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23952,
+        "question_text": "What is 100 more than 99,900?",
+        "answer_type": "text_input",
+        "correct_answer": "100000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23953,
+        "question_text": "Which is greater: 1.05 or 1.5?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23954,
+        "question_text": "A mountain is 1050m high. A second mountain is 100m taller. How high is the second mountain?",
+        "answer_type": "text_input",
+        "correct_answer": "1150",
+        "alternative_answer_1": "1150m",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23955,
+        "question_text": "Round 18.45 to one decimal place.",
+        "answer_type": "text_input",
+        "correct_answer": "18.5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23956,
+        "question_text": "A submarine is at a depth of -50 metres. It dives another 10 metres. What is its new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-60",
+        "alternative_answer_1": "-60m",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23957,
+        "question_text": "What is 10,000 less than 15,000?",
+        "answer_type": "text_input",
+        "correct_answer": "5000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23958,
+        "question_text": "A company has 48,500 employees. Round this to the nearest 1000.",
+        "answer_type": "text_input",
+        "correct_answer": "49000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23959,
+        "question_text": "In the number 123.45, what is the value of the 5?",
+        "answer_type": "text_input",
+        "correct_answer": "5 hundredths",
+        "alternative_answer_1": "0.05",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23960,
+        "question_text": "A thermometer reads -2°C. It then gets 2 degrees colder. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-4",
+        "alternative_answer_1": "-4°C",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23961,
+        "question_text": "Round 9.9 to the nearest whole number.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23962,
+        "question_text": "Use the digits 5, 0, 8, 2, 1 to make the smallest possible 5-digit number.",
+        "answer_type": "text_input",
+        "correct_answer": "10258",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23963,
+        "question_text": "Use the digits 5, 0, 8, 2, 1 to make the largest possible 5-digit number.",
+        "answer_type": "text_input",
+        "correct_answer": "85210",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23964,
+        "question_text": "A company's profit was £450,000. It then made a loss of £10,000. What is the new profit figure?",
+        "answer_type": "text_input",
+        "correct_answer": "440000",
+        "alternative_answer_1": "£440,000",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23965,
+        "question_text": "Round 499,950 to the nearest 100.",
+        "answer_type": "text_input",
+        "correct_answer": "500000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23966,
+        "question_text": "I am a 5-digit number. My ten thousands digit is 4. My thousands digit is half of that. My other digits are all 0. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "42000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23967,
+        "question_text": "What is 100 less than 100,005?",
+        "answer_type": "text_input",
+        "correct_answer": "99905",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23968,
+        "question_text": "A number rounded to the nearest 100 is 1,200. What is the largest possible whole number it could have been?",
+        "answer_type": "text_input",
+        "correct_answer": "1249",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23969,
+        "question_text": "A temperature is -8°C. It rises by 5°C. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-3",
+        "alternative_answer_1": "-3°C",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23970,
+        "question_text": "Order these from smallest to largest: 0.1, 0.015, 0.15.",
+        "answer_type": "text_input",
+        "correct_answer": "0.015, 0.1, 0.15",
+        "alternative_answer_1": "0.015 0.1 0.15",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23971,
+        "question_text": "What is 1000 more than 499,500?",
+        "answer_type": "text_input",
+        "correct_answer": "500500",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23972,
+        "question_text": "Round 12.05 to one decimal place.",
+        "answer_type": "text_input",
+        "correct_answer": "12.1",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23973,
+        "question_text": "A bank account has £200. A bill for £250 is paid. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-50",
+        "alternative_answer_1": "-£50",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23974,
+        "question_text": "A number has 15 thousands and 15 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "15015",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23975,
+        "question_text": "Round 485,321 to the nearest 10,000.",
+        "answer_type": "text_input",
+        "correct_answer": "490000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23976,
+        "question_text": "A temperature is -1°C. It drops by 10°C. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-11",
+        "alternative_answer_1": "-11°C",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23977,
+        "question_text": "Which is smaller: 100,001 or 100,010?",
+        "answer_type": "text_input",
+        "correct_answer": "100001",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23978,
+        "question_text": "What is 0.01 more than 19.99?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23979,
+        "question_text": "Round 9.99 to one decimal place.",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23980,
+        "question_text": "A company has a debt of £5000. They make a profit of £8000. What is their final financial position?",
+        "answer_type": "text_input",
+        "correct_answer": "3000",
+        "alternative_answer_1": "£3000",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23981,
+        "question_text": "What number has 10 ten thousands and 10 tens?",
+        "answer_type": "text_input",
+        "correct_answer": "100100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23982,
+        "question_text": "Round 34,567 to the nearest thousand.",
+        "answer_type": "text_input",
+        "correct_answer": "35000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23983,
+        "question_text": "A diver is at -15m. She swims up 8m. What is her new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-7",
+        "alternative_answer_1": "-7m",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23984,
+        "question_text": "Order these weights from heaviest to lightest: 1.1kg, 1.11kg, 1.01kg.",
+        "answer_type": "text_input",
+        "correct_answer": "1.11kg, 1.1kg, 1.01kg",
+        "alternative_answer_1": "1.11 1.1 1.01",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23985,
+        "question_text": "What is 1000 less than 10,001?",
+        "answer_type": "text_input",
+        "correct_answer": "9001",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23986,
+        "question_text": "A city's population is 499,850. Round this to the nearest hundred.",
+        "answer_type": "text_input",
+        "correct_answer": "499900",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23987,
+        "question_text": "A number has 12 hundreds, 12 tens, and 12 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "1332",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23988,
+        "question_text": "The temperature rose from -4°C to 5°C. What was the total change in temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9°C",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23989,
+        "question_text": "A number rounded to the nearest 1000 is 50,000. The number is as large as possible. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "50499",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23990,
+        "question_text": "I start with a number, subtract 10,000, then add 100. The result is 90,100. What was the starting number?",
+        "answer_type": "text_input",
+        "correct_answer": "100000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23991,
+        "question_text": "What is 0.001 less than 10?",
+        "answer_type": "text_input",
+        "correct_answer": "9.999",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23992,
+        "question_text": "A company's value is £895,500. It increases by £10,000. What is its new value?",
+        "answer_type": "text_input",
+        "correct_answer": "905500",
+        "alternative_answer_1": "£905,500",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23993,
+        "question_text": "Round 49.995 to two decimal places.",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23994,
+        "question_text": "A lift starts at floor 12, goes down 15 floors, then up 5 floors. What floor is it on?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23995,
+        "question_text": "What is the sum of 9,999 and 101?",
+        "answer_type": "text_input",
+        "correct_answer": "10100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23996,
+        "question_text": "Order these values from smallest to largest: 0.1 million, 10,001, 100 thousands.",
+        "answer_type": "text_input",
+        "correct_answer": "10001, 0.1 million, 100 thousands",
+        "alternative_answer_1": "10001, 100000, 100000",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23997,
+        "question_text": "A number has 10 thousands, 100 hundreds, and 100 tens. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "21000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23998,
+        "question_text": "A temperature is -12°C. It doubles. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-24",
+        "alternative_answer_1": "-24°C",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 23999,
+        "question_text": "Round 999,499 to the nearest thousand.",
+        "answer_type": "text_input",
+        "correct_answer": "999000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24000,
+        "question_text": "A runner has a time of 48.05s. They want to beat 48s. By how much do they need to improve?",
+        "answer_type": "text_input",
+        "correct_answer": "0.06",
+        "alternative_answer_1": "0.06s",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24001,
+        "question_text": "What is 100 less than 10,000?",
+        "answer_type": "text_input",
+        "correct_answer": "9900",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24002,
+        "question_text": "A submarine at -150m ascends by 75m. What is its new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-75",
+        "alternative_answer_1": "-75m",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24003,
+        "question_text": "What is 0.01 more than 99,999.99?",
+        "answer_type": "text_input",
+        "correct_answer": "100000",
+        "alternative_answer_1": "100000",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24004,
+        "question_text": "A bank balance is -£50. A deposit of £200 is made. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "£150",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24005,
+        "question_text": "Which is larger: 100,000 or 1 million?",
+        "answer_type": "text_input",
+        "correct_answer": "1 million",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24006,
+        "question_text": "Round 123,456 to the nearest 10,000.",
+        "answer_type": "text_input",
+        "correct_answer": "120000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24007,
+        "question_text": "What number is halfway between -10 and 10?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24008,
+        "question_text": "A number is made of 50 thousands and 500 ones. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "50500",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24009,
+        "question_text": "A calculation is 50,000 - 1. What is the answer?",
+        "answer_type": "text_input",
+        "correct_answer": "49999",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24010,
+        "question_text": "I am a 6-digit number. All my digits are 1 except the tens digit, which is 0. What number am I?",
+        "answer_type": "text_input",
+        "correct_answer": "111101",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24011,
+        "question_text": "What is the difference between -5 and 5?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24012,
+        "question_text": "A number rounded to the nearest thousand is 10,000. The number is odd. The sum of its digits is 25. What could the number be?",
+        "answer_type": "text_input",
+        "correct_answer": "9871",
+        "alternative_answer_1": "9691",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24013,
+        "question_text": "The total of two numbers is 500,000. Their difference is 100,000. What are the two numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "300000 and 200000",
+        "alternative_answer_1": "200000 and 300000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24014,
+        "question_text": "A company has a value of £850,000. It loses 20% of its value. What is its new value?",
+        "answer_type": "text_input",
+        "correct_answer": "680000",
+        "alternative_answer_1": "£680,000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24015,
+        "question_text": "What is the sum of all the multiples of 1000 between 1 and 10,001?",
+        "answer_type": "text_input",
+        "correct_answer": "55000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24016,
+        "question_text": "A car travels 50,500 miles. A second car travels 5000 less miles. What is the total distance travelled by both cars?",
+        "answer_type": "text_input",
+        "correct_answer": "96000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24017,
+        "question_text": "I am a 6-digit palindrome (reads the same forwards and backwards). The sum of my digits is 8. What is the largest I can be?",
+        "answer_type": "text_input",
+        "correct_answer": "400004",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24018,
+        "question_text": "What is 1000 less than half a million?",
+        "answer_type": "text_input",
+        "correct_answer": "499000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24019,
+        "question_text": "The population of a country is 987,654. It decreases by 10,000 and then increases by 100. What is the new population?",
+        "answer_type": "text_input",
+        "correct_answer": "977754",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24020,
+        "question_text": "A number has 101 thousands and 10 hundreds. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "102000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24021,
+        "question_text": "A number, when rounded to the nearest thousand and the nearest ten thousand, gives the same answer of 10,000. What is the smallest this number could be?",
+        "answer_type": "text_input",
+        "correct_answer": "9500",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24022,
+        "question_text": "What is 0.01 million?",
+        "answer_type": "text_input",
+        "correct_answer": "10000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24023,
+        "question_text": "The temperature is -15°C. It needs to be 20°C. By how many degrees must it rise?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "35°C",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24024,
+        "question_text": "What is the sum of 99,999 and 99,999?",
+        "answer_type": "text_input",
+        "correct_answer": "199998",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24025,
+        "question_text": "A number has 25 thousands, 25 hundreds, and 25 tens. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "27750",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24026,
+        "question_text": "A bank balance is -£150. A cheque for £50 is paid in, but a bill for £80 is paid out. What is the final balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-180",
+        "alternative_answer_1": "-£180",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24027,
+        "question_text": "What is 10 less than 1 million?",
+        "answer_type": "text_input",
+        "correct_answer": "999990",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24028,
+        "question_text": "A number is halfway between -20 and 30. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24029,
+        "question_text": "I am thinking of a 5-digit number. If you multiply it by 10, you get a number just over half a million. What could the number be?",
+        "answer_type": "text_input",
+        "correct_answer": "50001",
+        "alternative_answer_1": "any from 50001 to 99999",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24030,
+        "question_text": "The product of two numbers is 100,000. One number is 100. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24031,
+        "question_text": "Round 9.876 to one decimal place.",
+        "answer_type": "text_input",
+        "correct_answer": "9.9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24032,
+        "question_text": "A company has a debt of £50,000. Its value is £450,000. What is its net worth?",
+        "answer_type": "text_input",
+        "correct_answer": "400000",
+        "alternative_answer_1": "£400,000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24033,
+        "question_text": "What is 101 less than 10,000?",
+        "answer_type": "text_input",
+        "correct_answer": "9899",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24034,
+        "question_text": "A number is made of 100 thousands and 1000 ones. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "101000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24035,
+        "question_text": "Two numbers sum to 50,000. If one number is 10,001, what is the other number?",
+        "answer_type": "text_input",
+        "correct_answer": "39999",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24036,
+        "question_text": "A city's population is 895,400. It is forecast to decrease by 10,000 next year. What is the predicted population after this decrease?",
+        "answer_type": "text_input",
+        "correct_answer": "885400",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 398
+    },
+    {
+        "question_id": 24799,
+        "question_text": "A country's population is 543,210. What is the value of the digit 4 in this number?",
+        "answer_type": "text_input",
+        "correct_answer": "40000",
+        "alternative_answer_1": "40 thousand",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24800,
+        "question_text": "A prize fund is £250,000. If £10,000 is added, what is the new total?",
+        "answer_type": "text_input",
+        "correct_answer": "260000",
+        "alternative_answer_1": "£260,000",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24801,
+        "question_text": "Round 123,456 to the nearest hundred.",
+        "answer_type": "text_input",
+        "correct_answer": "123500",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24802,
+        "question_text": "A swimmer's time is 54.82 seconds. Round this to the nearest second.",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "55s",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24803,
+        "question_text": "Which number is larger: 80,080 or 80,800?",
+        "answer_type": "text_input",
+        "correct_answer": "80800",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24804,
+        "question_text": "A thermometer reads -5°C. The temperature rises by 10°C. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5°C",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24805,
+        "question_text": "What is 1000 less than 45,000?",
+        "answer_type": "text_input",
+        "correct_answer": "44000",
+        "alternative_answer_1": "44,000",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24806,
+        "question_text": "Round 45.55 to one decimal place.",
+        "answer_type": "text_input",
+        "correct_answer": "45.6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24807,
+        "question_text": "A stadium has a capacity of 78,000. 1000 seats are removed. What is the new capacity?",
+        "answer_type": "text_input",
+        "correct_answer": "77000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24808,
+        "question_text": "Which is smaller: 12.01 or 12.1?",
+        "answer_type": "text_input",
+        "correct_answer": "12.01",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24809,
+        "question_text": "What is 100 more than 99,850?",
+        "answer_type": "text_input",
+        "correct_answer": "99950",
+        "alternative_answer_1": "99,950",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24810,
+        "question_text": "A company has a debt of £10,000. They pay back £1000. What is their new debt?",
+        "answer_type": "text_input",
+        "correct_answer": "-9000",
+        "alternative_answer_1": "£9000",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24811,
+        "question_text": "Round 87,654 to the nearest 10,000.",
+        "answer_type": "text_input",
+        "correct_answer": "90000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24812,
+        "question_text": "In the number 345.67, what is the value of the 7?",
+        "answer_type": "text_input",
+        "correct_answer": "7 hundredths",
+        "alternative_answer_1": "0.07",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24813,
+        "question_text": "A diver is at -20m. She swims up 5m. What is her new depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-15",
+        "alternative_answer_1": "-15m",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24814,
+        "question_text": "Round 9.92 to one decimal place.",
+        "answer_type": "text_input",
+        "correct_answer": "9.9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24815,
+        "question_text": "What is 10,000 more than 990,000?",
+        "answer_type": "text_input",
+        "correct_answer": "1000000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24816,
+        "question_text": "Which number has the smallest value: 50.5, 5.05, 50.05?",
+        "answer_type": "text_input",
+        "correct_answer": "5.05",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24817,
+        "question_text": "A temperature is 3°C. It drops by 10°C overnight. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-7",
+        "alternative_answer_1": "-7°C",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24818,
+        "question_text": "Round 450,123 to the nearest hundred thousand.",
+        "answer_type": "text_input",
+        "correct_answer": "500000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24819,
+        "question_text": "What is 100 less than 20,050?",
+        "answer_type": "text_input",
+        "correct_answer": "19950",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24820,
+        "question_text": "A plane's altitude is 12,000 feet. It descends 1000 feet. What is its new altitude?",
+        "answer_type": "text_input",
+        "correct_answer": "11000",
+        "alternative_answer_1": "11000 feet",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24821,
+        "question_text": "Round 59.95 to one decimal place.",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24822,
+        "question_text": "Order these from smallest to largest: -10, 5, -5.",
+        "answer_type": "text_input",
+        "correct_answer": "-10, -5, 5",
+        "alternative_answer_1": "-10 -5 5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24823,
+        "question_text": "What is 10 more than 999,990?",
+        "answer_type": "text_input",
+        "correct_answer": "1000000",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24824,
+        "question_text": "Use the digits 6, 0, 1, 8, 4 to make the largest odd number.",
+        "answer_type": "text_input",
+        "correct_answer": "86401",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24825,
+        "question_text": "A company's profit was £525,000. They have to pay a tax bill of £10,000. What is the profit after tax?",
+        "answer_type": "text_input",
+        "correct_answer": "515000",
+        "alternative_answer_1": "£515,000",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24826,
+        "question_text": "A number rounded to the nearest 1000 is 25,000. What is the smallest possible whole number it could have been?",
+        "answer_type": "text_input",
+        "correct_answer": "24500",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24827,
+        "question_text": "A temperature goes from -6°C to 8°C. What is the total temperature rise?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "14°C",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24828,
+        "question_text": "What is 0.01 less than 100,000?",
+        "answer_type": "text_input",
+        "correct_answer": "99999.99",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24829,
+        "question_text": "A car was valued at £18,500. A year later, its value was £1,000 less. What was its new value?",
+        "answer_type": "text_input",
+        "correct_answer": "17500",
+        "alternative_answer_1": "£17,500",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24830,
+        "question_text": "Round 129.99 to one decimal place.",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "130",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24831,
+        "question_text": "A lift starts on floor 0, goes up 15 floors, then down 20 floors. What floor is it on?",
+        "answer_type": "text_input",
+        "correct_answer": "-5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24832,
+        "question_text": "What is the sum of 10,001 and 9,999?",
+        "answer_type": "text_input",
+        "correct_answer": "20000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24833,
+        "question_text": "What number has 25 thousands and 25 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "27500",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24834,
+        "question_text": "A mountain peak is at an altitude of 850m. A valley floor is at -50m. What is the total vertical distance between them?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "900m",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24835,
+        "question_text": "Round 49,500 to the nearest 10,000.",
+        "answer_type": "text_input",
+        "correct_answer": "50000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24836,
+        "question_text": "A swimmer's time is 28.05 seconds. The record is 27.99 seconds. How much slower than the record was the swimmer?",
+        "answer_type": "text_input",
+        "correct_answer": "0.06",
+        "alternative_answer_1": "0.06s",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24837,
+        "question_text": "What number is halfway between 100,000 and 200,000?",
+        "answer_type": "text_input",
+        "correct_answer": "150000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24838,
+        "question_text": "A company has a debt of £25,000. They make a profit of £15,000. What is their new financial position?",
+        "answer_type": "text_input",
+        "correct_answer": "-10000",
+        "alternative_answer_1": "-£10,000",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24839,
+        "question_text": "What is 1001 more than 99,999?",
+        "answer_type": "text_input",
+        "correct_answer": "101000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24840,
+        "question_text": "Round 0.995 to two decimal places.",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24841,
+        "question_text": "A freezer is at -18°C. The power goes off and the temperature rises by 22°C. What is the new temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4°C",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24842,
+        "question_text": "Use the digits 1, 2, 3, 4, 5 to make the largest number possible with two decimal places.",
+        "answer_type": "text_input",
+        "correct_answer": "543.21",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24843,
+        "question_text": "Round 500,499 to the nearest 1000.",
+        "answer_type": "text_input",
+        "correct_answer": "500000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24844,
+        "question_text": "I am a 6-digit number. My hundred thousands digit is 1. All other digits are 0. What is 1 less than me?",
+        "answer_type": "text_input",
+        "correct_answer": "99999",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24845,
+        "question_text": "What is the difference between -20 and 15?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24846,
+        "question_text": "A number has 10 thousands and 1000 ones. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "11000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24847,
+        "question_text": "A city has 450,000 residents. 10,000 move out and 5,000 move in. What is the new population?",
+        "answer_type": "text_input",
+        "correct_answer": "445000",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24848,
+        "question_text": "Round 12.345 to the nearest whole number.",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24849,
+        "question_text": "The sum of two numbers is 1 million. One number is 450,500. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "549500",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24850,
+        "question_text": "A company's value is £2,345,678. Round this to the nearest hundred thousand.",
+        "answer_type": "text_input",
+        "correct_answer": "2300000",
+        "alternative_answer_1": "£2,300,000",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24851,
+        "question_text": "A number rounded to the nearest thousand is 150,000. It is the smallest possible number with a digit sum of 20. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "149501",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24852,
+        "question_text": "I have a number. I add 10,000, subtract 1,000, add 100, and subtract 10. The result is 50,000. What was the starting number?",
+        "answer_type": "text_input",
+        "correct_answer": "40910",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24853,
+        "question_text": "Calculate 10 minus 0.001.",
+        "answer_type": "text_input",
+        "correct_answer": "9.999",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24854,
+        "question_text": "A city's population was 1,000,000. It decreased by 1%. How many people are left?",
+        "answer_type": "text_input",
+        "correct_answer": "990000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24855,
+        "question_text": "What is the difference between -50 and 150?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24856,
+        "question_text": "Round 1,234,567 to the nearest ten.",
+        "answer_type": "text_input",
+        "correct_answer": "1234570",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24857,
+        "question_text": "What number has 100 thousands and 100 hundreds?",
+        "answer_type": "text_input",
+        "correct_answer": "110000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24858,
+        "question_text": "A bank account balance is -£125. A payment of £75 is taken out. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-200",
+        "alternative_answer_1": "-£200",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24859,
+        "question_text": "What is 0.25 million?",
+        "answer_type": "text_input",
+        "correct_answer": "250000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24860,
+        "question_text": "Order these: -10, -100, 10, 0, -1.",
+        "answer_type": "text_input",
+        "correct_answer": "-100, -10, -1, 0, 10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24861,
+        "question_text": "A company's profit is £850,000. This is £100,000 more than last year. What was last year's profit?",
+        "answer_type": "text_input",
+        "correct_answer": "750000",
+        "alternative_answer_1": "£750,000",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24862,
+        "question_text": "Round 987,654 to the nearest 100,000.",
+        "answer_type": "text_input",
+        "correct_answer": "1000000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24863,
+        "question_text": "What number is halfway between -500 and 500?",
+        "answer_type": "text_input",
+        "correct_answer": "0",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24864,
+        "question_text": "The total value of two houses is £1,000,000. One house is worth £10,000 more than the other. What is the value of the cheaper house?",
+        "answer_type": "text_input",
+        "correct_answer": "495000",
+        "alternative_answer_1": "£495,000",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24865,
+        "question_text": "A number has 100 thousands, 100 tens, and 100 ones. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "101100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24866,
+        "question_text": "A share price is £10.58. It drops by £0.60. What is the new price?",
+        "answer_type": "text_input",
+        "correct_answer": "9.98",
+        "alternative_answer_1": "£9.98",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24867,
+        "question_text": "What is 1 less than 1 million?",
+        "answer_type": "text_input",
+        "correct_answer": "999999",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24868,
+        "question_text": "Round 1.295 to two decimal places.",
+        "answer_type": "text_input",
+        "correct_answer": "1.3",
+        "alternative_answer_1": "1.3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24869,
+        "question_text": "A number rounded to the nearest 10 is 500,000. What is the largest possible whole number it could be?",
+        "answer_type": "text_input",
+        "correct_answer": "500004",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24870,
+        "question_text": "A company makes 500,000 widgets. 10% are sold in the UK and 20% in the US. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "350000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24871,
+        "question_text": "What is 100 less than 1 million?",
+        "answer_type": "text_input",
+        "correct_answer": "999900",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24872,
+        "question_text": "What is the difference between 0.1 and 0.001?",
+        "answer_type": "text_input",
+        "correct_answer": "0.099",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24873,
+        "question_text": "A bank balance is -£20.50. You deposit £100. What is the new balance?",
+        "answer_type": "text_input",
+        "correct_answer": "79.5",
+        "alternative_answer_1": "£79.50",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24874,
+        "question_text": "A number rounded to the nearest thousand is 20,000. The same number rounded to the nearest hundred is 19,500. What is the smallest possible whole number it could be?",
+        "answer_type": "text_input",
+        "correct_answer": "19500",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24875,
+        "question_text": "The total of three numbers is 1,000,000. One number is 250,000. The second number is 10,000 less than the first. What is the third number?",
+        "answer_type": "text_input",
+        "correct_answer": "510000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24876,
+        "question_text": "A company's value is £2,500,000. It increases by 10% and then decreases by 10%. What is its final value?",
+        "answer_type": "text_input",
+        "correct_answer": "2475000",
+        "alternative_answer_1": "£2,475,000",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24877,
+        "question_text": "I am a 6-digit number and a multiple of 1000. The sum of my digits is 5. What is the largest number I can be?",
+        "answer_type": "text_input",
+        "correct_answer": "500000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24878,
+        "question_text": "A submarine is at -250m. It rises by 100m, then dives by 50m. What is its final depth?",
+        "answer_type": "text_input",
+        "correct_answer": "-200",
+        "alternative_answer_1": "-200m",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24879,
+        "question_text": "The product of two numbers is 1,000,000. One number is 1000. What is the other?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24880,
+        "question_text": "What is 1001 less than 10,000?",
+        "answer_type": "text_input",
+        "correct_answer": "8999",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24881,
+        "question_text": "A number is composed of 10 hundred thousands, 10 thousands, and 10 hundreds. What is this number?",
+        "answer_type": "text_input",
+        "correct_answer": "1101000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24882,
+        "question_text": "Round 999,999 to the nearest 10.",
+        "answer_type": "text_input",
+        "correct_answer": "1000000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24883,
+        "question_text": "What is halfway between -10,000 and 20,000?",
+        "answer_type": "text_input",
+        "correct_answer": "5000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24884,
+        "question_text": "A company makes 1.2 million widgets. 25% are sold in Europe. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "900000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24885,
+        "question_text": "The number is 9,999,909. What is 91 more than this number?",
+        "answer_type": "text_input",
+        "correct_answer": "10000000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24886,
+        "question_text": "What is 10,001 less than 1 million?",
+        "answer_type": "text_input",
+        "correct_answer": "989999",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24887,
+        "question_text": "What is 0.05 million?",
+        "answer_type": "text_input",
+        "correct_answer": "50000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24888,
+        "question_text": "A tank has 10,000 litres of water. 1,000 litres are used on day 1. On day 2, half of the remaining water is used. How much is left?",
+        "answer_type": "text_input",
+        "correct_answer": "4500",
+        "alternative_answer_1": "4500L",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24889,
+        "question_text": "A number rounded to the nearest 100 is 500,000. The number is the smallest possible whole number. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "499950",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24890,
+        "question_text": "A city has 200,000 houses. The average number of people per house is 2.5. What is the total population?",
+        "answer_type": "text_input",
+        "correct_answer": "500000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24891,
+        "question_text": "What is the sum of all the even numbers between 1 and 9?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24892,
+        "question_text": "The product of three different whole numbers is 24. Their sum is 9. What are the three numbers?",
+        "answer_type": "text_input",
+        "correct_answer": "2, 3, 4",
+        "alternative_answer_1": "2 3 4",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24893,
+        "question_text": "The population of the world is approx 8,000,000,000. The population of the UK is approx 68,000,000. Round both to the nearest 10 million.",
+        "answer_type": "text_input",
+        "correct_answer": "8000000000 and 70000000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24894,
+        "question_text": "A number has 100 thousands, 1000 tens, and 10000 ones. What is it?",
+        "answer_type": "text_input",
+        "correct_answer": "120000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24895,
+        "question_text": "A business starts with a debt of £10,000. In Year 1, they make a profit of £50,000. In Year 2, they make a loss of £20,000. What is their final position?",
+        "answer_type": "text_input",
+        "correct_answer": "20000",
+        "alternative_answer_1": "£20,000",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24896,
+        "question_text": "A number has 12 thousands, 12 hundreds and 12 ones. What is the number?",
+        "answer_type": "text_input",
+        "correct_answer": "13212",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24897,
+        "question_text": "What is 1000 less than 1,000,000?",
+        "answer_type": "text_input",
+        "correct_answer": "999000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    },
+    {
+        "question_id": 24898,
+        "question_text": "Round 5,892,104 to the nearest million.",
+        "answer_type": "text_input",
+        "correct_answer": "6000000",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 399
+    }
+]

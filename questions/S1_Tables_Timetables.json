@@ -1,0 +1,5002 @@
+[
+    {
+        "question_id": 5939,
+        "question_text": "A tally chart shows favourite colours. For Red, the tally is ||||. How many people chose Red?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5940,
+        "question_text": "A pictogram shows favourite pets. For 'Cat', there are 3 cat symbols (🐱). Each symbol stands for 1 pet. How many people chose Cat?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5941,
+        "question_text": "In a tally chart for favourite seasons, Summer has a tally of ||. How many votes did Summer get?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5942,
+        "question_text": "A pictogram uses a star (⭐) for each person who likes a subject. Science has ⭐⭐⭐⭐. How many people like Science?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5943,
+        "question_text": "Make a tally mark for the number 5.",
+        "answer_type": "text_input",
+        "correct_answer": "||||",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5944,
+        "question_text": "A pictogram shows cars in a car park. There are 5 car symbols (🚗). Each symbol is 1 car. How many cars are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5945,
+        "question_text": "A tally chart shows the number of sunny days. The tally is |||. How many sunny days were there?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5946,
+        "question_text": "How would you show the number 4 using tally marks?",
+        "answer_type": "text_input",
+        "correct_answer": "||||",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5947,
+        "question_text": "A pictogram of favourite drinks uses a cup symbol (🥤) for each vote. Juice has 🥤🥤. How many votes for Juice?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5948,
+        "question_text": "A tally for the number of birds seen is |||| |. How many birds were seen?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5949,
+        "question_text": "A pictogram shows favourite toys. For 'Ball', there are 6 ball symbols. Each symbol is 1 toy. How many people chose Ball?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5950,
+        "question_text": "In a survey, 7 people chose bananas. How would you write this as a tally?",
+        "answer_type": "text_input",
+        "correct_answer": "|||| ||",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5951,
+        "question_text": "A pictogram about weather has 4 sun symbols (☀️). Each symbol is 1 day. How many sunny days were there?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5952,
+        "question_text": "A tally chart for eye colour shows Brown has |||| |||. How many people have brown eyes?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5953,
+        "question_text": "How do you write the number 1 as a tally mark?",
+        "answer_type": "text_input",
+        "correct_answer": "|",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5954,
+        "question_text": "In a pictogram, each circle (⚪) means one vote. If there are 5 circles, how many votes are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5955,
+        "question_text": "A tally chart shows |||| for the number of pencils. How many pencils are there?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5956,
+        "question_text": "A pictogram shows 1 apple symbol (🍎) for the fruit 'Apple'. Each symbol is 1 fruit. How many people chose Apple?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5957,
+        "question_text": "What number does the tally mark || represent?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5958,
+        "question_text": "A pictogram shows books read. There are 7 book symbols (📚). Each symbol is 1 book. How many books were read?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5959,
+        "question_text": "How would you represent the number 9 with tally marks?",
+        "answer_type": "text_input",
+        "correct_answer": "|||| ||||",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5960,
+        "question_text": "A tally of fish in a tank is |||| ||||. How many fish are there?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5961,
+        "question_text": "A pictogram shows T-shirts. There are 8 T-shirt symbols. Each symbol is 1 T-shirt. How many T-shirts are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5962,
+        "question_text": "What is the tally for the number 3?",
+        "answer_type": "text_input",
+        "correct_answer": "|||",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5963,
+        "question_text": "In a pictogram, a smiley face (😊) equals one vote. If a category has 6 smiley faces, how many votes does it have?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5964,
+        "question_text": "A pictogram shows favourite animals. For 'Lion', there are 3 lion symbols. Each symbol stands for 2 animals. How many votes for Lion?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5965,
+        "question_text": "In a pictogram, each circle (⚪) represents 5 votes. How many votes do 4 circles represent?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5966,
+        "question_text": "A block diagram shows cubes stacked up. The 'Cars' column has 7 cubes. Each cube is 1 car. How many cars are there?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5967,
+        "question_text": "A tally chart shows votes for favourite food. Pizza has |||| |||| ||. How many people voted for Pizza?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5968,
+        "question_text": "In a pictogram, a book symbol (📚) means 5 books. How many books are represented by 3 book symbols?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5969,
+        "question_text": "A block diagram shows trees planted. The 'Oak' column is 9 blocks high. Each block is 1 tree. How many oak trees were planted?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5970,
+        "question_text": "A pictogram key says a star (⭐) = 2 points. If a team scores ⭐⭐⭐⭐, how many points do they have?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5971,
+        "question_text": "A tally chart records 16 votes. How would you write this using tally marks?",
+        "answer_type": "text_input",
+        "correct_answer": "|||| |||| |||| |",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5972,
+        "question_text": "A block diagram shows favourite colours. The blue column has 11 blocks. Each block represents 1 vote. How many votes for blue?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5973,
+        "question_text": "A pictogram shows ice creams sold. There are 5 cone symbols (🍦). The key says each symbol = 5 ice creams. How many were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5974,
+        "question_text": "A tally of 18 is shown as |||| |||| |||| |||. Is this correct?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5975,
+        "question_text": "In a pictogram, one football (⚽) represents 2 goals. How many goals do 6 footballs represent?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5976,
+        "question_text": "A block diagram of pets shows the 'Dog' column is 15 blocks tall. Each block is 1 pet. How many dogs are there?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5977,
+        "question_text": "The key for a pictogram shows that a sun symbol (☀️) = 5 sunny days. How many days do 4 sun symbols show?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5978,
+        "question_text": "A tally is written as |||| |||| ||. What number does this represent?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5979,
+        "question_text": "A pictogram about fruit has 6 apple symbols (🍎). Each symbol stands for 2 apples. How many apples are there?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5980,
+        "question_text": "A block diagram shows flowers in a garden. The 'Rose' column is 4 blocks high. Each block is 1 flower. How many roses?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5981,
+        "question_text": "In a pictogram, a bus symbol (🚌) equals 5 children. How many children do 5 bus symbols represent?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5982,
+        "question_text": "How would you show the number 14 in a tally chart?",
+        "answer_type": "text_input",
+        "correct_answer": "|||| |||| ||||",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5983,
+        "question_text": "A pictogram key is 1 smiley face (😊) = 2 votes. How many votes do 7 smiley faces represent?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5984,
+        "question_text": "In a block diagram about sports, the 'Football' column has 19 blocks. The scale is 1 block = 1 person. How many people chose football?",
+        "answer_type": "text_input",
+        "correct_answer": "19",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5985,
+        "question_text": "A pictogram uses a heart (❤️) to show 5 votes. How many votes are shown by ❤️❤️❤️?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5986,
+        "question_text": "The tally for rainy days in a month is |||| |||| |||| ||||. How many rainy days were there?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5987,
+        "question_text": "The key for a pictogram is 1 tree = 2 plants. A garden has 🌲🌲🌲🌲🌲🌲. How many plants is this?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5988,
+        "question_text": "In a simple block diagram, a column for 'Cats' reaches the number 13 on the side axis. How many cats were counted?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5989,
+        "question_text": "A table shows favourite subjects: Maths has 25 votes, Science has 15. How many more people chose Maths than Science?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5990,
+        "question_text": "A pictogram shows cars sold. A car symbol (🚗) stands for 10 cars. If a dealer sold 40 cars, how many symbols should be on the chart?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5991,
+        "question_text": "A tally chart shows 35 votes for 'Dogs' and 20 votes for 'Cats'. How many fewer votes did Cats get than Dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5992,
+        "question_text": "A block diagram shows pages read. Tom read 40 pages and Jane read 50. How many blocks high would Jane's column be if 1 block = 1 page?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5993,
+        "question_text": "A table shows pocket money: Sam gets £5, Ali gets £3. How much more does Sam get than Ali?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "£2",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5994,
+        "question_text": "In a pictogram, a juice box symbol means 10 drinks. How many drinks are shown by 5 symbols?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5995,
+        "question_text": "A tally chart has a total of 42 votes. How would you write this using tally marks?",
+        "answer_type": "text_input",
+        "correct_answer": "|||| |||| |||| |||| |||| |||| |||| |||| ||",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5996,
+        "question_text": "A table shows points scored in a game. Team A: 30 points. Team B: 45 points. How many more points did Team B score?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5997,
+        "question_text": "A pictogram shows apples eaten. A symbol of an apple (🍎) is worth 10 apples. If 30 apples were eaten, how many symbols should be drawn?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5998,
+        "question_text": "A block diagram shows goals scored. The 'Lions' team column is 8 blocks high. The scale is 1 block = 1 goal. How many goals did they score?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 5999,
+        "question_text": "A table lists the number of pupils in two classes: Class 1 has 28 pupils, Class 2 has 31. Which class has fewer pupils?",
+        "answer_type": "text_input",
+        "correct_answer": "Class 1",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6000,
+        "question_text": "A pictogram shows cookies baked. Each cookie symbol is 10 cookies. How many cookies are represented by 2 symbols?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6001,
+        "question_text": "A block diagram shows heights of plants. Plant A is 12 blocks high, Plant B is 7 blocks high. How many blocks taller is Plant A?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6002,
+        "question_text": "A tally for 50 should have how many gates (groups of 5)?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6003,
+        "question_text": "A table shows the number of cars passing a school. Morning: 45 cars. Afternoon: 35 cars. How many fewer cars passed in the afternoon?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6004,
+        "question_text": "In a pictogram, a book symbol (📚) represents 10 books. How many symbols are needed to show 50 books?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6005,
+        "question_text": "A table shows the temperature on two days. Monday: 18°C, Tuesday: 22°C. How much warmer was it on Tuesday?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4°C",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6006,
+        "question_text": "A block diagram shows trees in a park. There are 15 Oak trees and 25 Pine trees. How many more Pine trees are there?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6007,
+        "question_text": "A pictogram key is 1 circle = 10 votes. How many votes do 3 circles represent?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6008,
+        "question_text": "A simple table shows two bus journey times. Bus A: 20 mins, Bus B: 35 mins. How much longer is Bus B's journey?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 mins",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6009,
+        "question_text": "A tally chart records 25 for 'Yes' and 15 for 'No'. How many more 'Yes' votes were there?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6010,
+        "question_text": "A pictogram's key is 1 square = 10 houses. To show 40 houses, how many squares do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6011,
+        "question_text": "A table shows how many children like apples (32) and bananas (22). How many fewer children like bananas?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6012,
+        "question_text": "A vertical block diagram for favourite pets has the 'Fish' column at a height of 6 blocks. Each block is 1 pet. How many people chose fish?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6013,
+        "question_text": "A table shows goals scored: Team X has 12, Team Y has 19. How many more goals did Team Y score?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6014,
+        "question_text": "A pictogram shows ice cream sales. Vanilla has 3 cones, Chocolate has 5 cones. The key is 1 cone = 4 sales. How many sales in total for both?",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6015,
+        "question_text": "A table shows pets: 15 Dogs, 12 Cats, 8 Fish. How many pets are there altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6016,
+        "question_text": "In a pictogram, a book symbol represents 6 books. A half book symbol is also used. What does a half book symbol represent?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 books",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6017,
+        "question_text": "A block diagram shows points scored: Red Team 20, Blue Team 25, Green Team 10. What is the difference between the highest and lowest score?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6018,
+        "question_text": "A pictogram shows website visits. Monday has 4 computer symbols, Tuesday has 2. A half symbol is shown for Wednesday. If a full symbol is 10 visits, how many visits on Wednesday?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6019,
+        "question_text": "A tally chart shows votes for school trips: Zoo |||| |||| ||, Museum |||| ||||, Park ||||. What is the total number of votes?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6020,
+        "question_text": "A table shows the number of pupils in three clubs: Art 18, Sport 22, Music 15. How many more pupils are in Sport than Music?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6021,
+        "question_text": "A pictogram uses a car symbol for 8 cars. A chart for 'Red cars' has 3 and a half car symbols. How many red cars are there?",
+        "answer_type": "text_input",
+        "correct_answer": "28",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6022,
+        "question_text": "A block diagram was made incorrectly. It shows 5 blocks for 10 votes. What should the scale say?",
+        "answer_type": "text_input",
+        "correct_answer": "1 block = 2 votes",
+        "alternative_answer_1": "Each block is 2",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6023,
+        "question_text": "A simple table shows the cost of fruit. Apples 20p, Bananas 25p, Oranges 30p. What is the total cost of one of each?",
+        "answer_type": "text_input",
+        "correct_answer": "75p",
+        "alternative_answer_1": "0.75",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6024,
+        "question_text": "A pictogram shows trees planted. The key says 1 tree symbol = 20 trees. A half tree symbol is shown. How many trees does it represent?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6025,
+        "question_text": "A table shows scores in three rounds of a game: Round 1: 50, Round 2: 35, Round 3: 40. What is the sum of the scores?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6026,
+        "question_text": "A tally chart shows 15 votes for Monday and 25 votes for Friday. Someone says the total is 30. Correct their mistake.",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "The total is 40",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6027,
+        "question_text": "A pictogram shows drinks sold. A cup symbol = 4 drinks. There are 2 and a half cup symbols for 'Lemonade'. How many were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6028,
+        "question_text": "A block diagram shows money saved. Ali saved 15 blocks and Ben saved 9 blocks. Each block is £1. What is the difference in their savings?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "£6",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6029,
+        "question_text": "A table shows items sold: 25 hats, 30 scarves, 15 gloves. What is the total number of items sold?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6030,
+        "question_text": "A pictogram key is 1 circle = 12 votes. What does half a circle represent?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6 votes",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6031,
+        "question_text": "A table shows points for three teams: Eagles 42, Hawks 38, Robins 20. How many more points do the Eagles have than the Robins?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6032,
+        "question_text": "A tally chart shows 11 votes for vanilla and 19 votes for chocolate. What is the total number of votes cast?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6033,
+        "question_text": "A pictogram shows pizzas eaten. A pizza symbol (🍕) is worth 8 slices. A category has one and a half pizza symbols. How many slices is that?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6034,
+        "question_text": "A table has two columns: 'Name' and 'Age'. If Sara is 9 and Tom is 12, what is the difference in their ages?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 years",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6035,
+        "question_text": "A block diagram shows children in clubs. Chess has 14, Drama has 18. What is the total number of children in these two clubs?",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6036,
+        "question_text": "A pictogram uses a star for 10 points. If a player has 2 and a half stars, how many points do they have?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6037,
+        "question_text": "A table shows the number of sunny days in 3 months: June 21, July 25, August 24. What is the total number of sunny days?",
+        "answer_type": "text_input",
+        "correct_answer": "70",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 6038,
+        "question_text": "A pictogram key shows one apple represents 4 votes. A chart shows 3 and a half apples for the 'Granny Smith' category. How many votes did it get?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 332
+    },
+    {
+        "question_id": 7147,
+        "question_text": "A bar chart shows favourite fruits. The bar for 'Apple' goes up to the number 5 on the axis. How many people chose Apple?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7148,
+        "question_text": "A pictogram shows pets. The key says 1 paw symbol (🐾) = 2 pets. For 'Dogs', there are 3 paw symbols. How many dogs are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7149,
+        "question_text": "A simple table lists colours and votes. The row for 'Blue' has the number 4 next to it. How many votes did Blue get?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7150,
+        "question_text": "A bar chart about favourite drinks has a bar for 'Water' that reaches the line marked 3. How many people chose water?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7151,
+        "question_text": "In a pictogram, a circle (⚪) represents 10 votes. How many votes do 4 circles represent?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7152,
+        "question_text": "A table shows the number of children in different clubs. The 'Chess' club row shows the number 5. How many children are in the Chess club?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7153,
+        "question_text": "A pictogram key says a star (⭐) = 5 points. If a team has ⭐⭐, how many points do they have?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7154,
+        "question_text": "A bar chart with a scale of 1 shows the number of books read. The bar for 'Sam' is 2 blocks high. How many books did Sam read?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7155,
+        "question_text": "A simple table lists days of the week and rainfall in mm. For 'Monday', the value is 5. How much did it rain on Monday?",
+        "answer_type": "text_input",
+        "correct_answer": "5mm",
+        "alternative_answer_1": "5",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7156,
+        "question_text": "A pictogram of flowers uses a flower symbol (🌸) for every 2 flowers. If there are 3 symbols, how many flowers are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7157,
+        "question_text": "A bar chart shows favourite seasons. The bar for 'Winter' reaches the number 4. How many votes did Winter get?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7158,
+        "question_text": "The key for a pictogram is 1 smiley face (😊) = 10 people. How many people do 3 smiley faces represent?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7159,
+        "question_text": "A table shows how many T-shirts of each colour were sold. For 'Red', the number is 5. How many red T-shirts were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7160,
+        "question_text": "A bar chart shows cars counted. The 'Red Cars' bar goes up to the number 1 on the axis. How many red cars were counted?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7161,
+        "question_text": "A pictogram uses one triangle (▲) to show 5 trees. How many trees do 2 triangles show?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7162,
+        "question_text": "A table lists the number of pages in 3 books. Book A has 5 pages. How many pages does Book A have?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7163,
+        "question_text": "A bar chart shows favourite sports. The 'Tennis' bar is 3 units high, and the scale is 1 unit per vote. How many votes for Tennis?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7164,
+        "question_text": "A pictogram's key is 1 square = 2 houses. How many houses do 4 squares represent?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7165,
+        "question_text": "A simple table shows the number of goals scored by 3 players. Ben scored 2 goals. How many goals did Ben score?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7166,
+        "question_text": "A pictogram shows coins saved. A coin symbol (💰) is worth £10. How much money do 5 symbols represent?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "£50",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7167,
+        "question_text": "A bar chart is being drawn with a scale of 2 votes per block. To show 4 votes, how many blocks high should the bar be?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7168,
+        "question_text": "A simple table shows the number of pets owned. The 'Fish' category has the number 4. How many fish are owned?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7169,
+        "question_text": "A pictogram key states: 1 heart = 5 votes. If you see 3 hearts (❤️❤️❤️), how many votes does this represent?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7170,
+        "question_text": "A bar chart is being made with a scale of 1 vote per block. To show 5 votes, how many blocks high does the bar need to be?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7171,
+        "question_text": "The key for a pictogram is 1 tree = 2 plants. A garden has 🌲🌲🌲🌲. How many plants is this?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7172,
+        "question_text": "A bar chart shows that 15 people like apples and 10 people like bananas. How many more people like apples?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7173,
+        "question_text": "A pictogram shows ice cream sales. A cone symbol (🍦) stands for 5 sales. Vanilla has 4 cones, Chocolate has 3. How many fewer chocolate ice creams were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7174,
+        "question_text": "A table shows points scored: Team A has 20, Team B has 30. How many more points did Team B score?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7175,
+        "question_text": "A bar chart has a scale where each line represents 2 votes. A bar for 'Cats' reaches the line marked 8. How many votes did Cats get?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7176,
+        "question_text": "A pictogram uses a book symbol (📚) for 10 books. English has 3 symbols, and Maths has 5. How many more Maths books are there?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7177,
+        "question_text": "A table shows how many children play instruments. Piano: 12, Guitar: 18. How many fewer children play piano?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7178,
+        "question_text": "A bar chart shows that Class 1 read 25 books and Class 2 read 15. How many books did they read altogether?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7179,
+        "question_text": "A pictogram key shows a half circle represents 5 votes. What does a full circle represent?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7180,
+        "question_text": "A bar chart shows votes for seasons. Summer has 15 votes, Winter has 5. How many more votes did Summer get?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7181,
+        "question_text": "A pictogram shows fruit sold. One apple symbol (🍎) equals 10 apples. A half apple symbol is used for pears. How many pears were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7182,
+        "question_text": "A table lists the number of sunny days. May had 14, June had 21. How many more sunny days were in June?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7183,
+        "question_text": "A bar chart scale is in 5s (5, 10, 15...). The bar for 'Red' goes up to the line for 20. How many votes for Red?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7184,
+        "question_text": "A pictogram shows cars. A car symbol = 2 cars. There are 4 symbols for Ford and 7 for Fiat. How many more Fiats are there?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7185,
+        "question_text": "A simple table shows the number of boys and girls in a class. Boys: 14, Girls: 16. What is the total number of children?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7186,
+        "question_text": "A pictogram shows flowers. 1 flower symbol = 5 flowers. There is half a symbol shown. How many flowers does it represent?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "two and a half",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7187,
+        "question_text": "A bar chart shows pets owned. The 'Dog' bar is 12 units high, the 'Cat' bar is 9 units high. How many fewer cats are there?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7188,
+        "question_text": "A table shows how many pupils walk to school (15) and cycle (8). How many more pupils walk than cycle?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7189,
+        "question_text": "A pictogram has a key where one star equals 10 votes. How many votes does a half star represent?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7190,
+        "question_text": "A bar chart shows favourite colours. Green got 18 votes and Yellow got 9. How many more votes did Green get?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7191,
+        "question_text": "A table shows visitors to a museum. Saturday: 30, Sunday: 50. What was the total for the weekend?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7192,
+        "question_text": "A pictogram uses a football (⚽) to represent 4 goals. A team's row shows 3 and a half footballs. How many goals did they score?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7193,
+        "question_text": "A bar chart shows money saved. The scale is in steps of £10. The bar for 'January' goes up to the £40 line. How much was saved?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "£40",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7194,
+        "question_text": "A table shows TV watching time. Monday: 25 minutes, Tuesday: 40 minutes. How much less time was watched on Monday?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 minutes",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7195,
+        "question_text": "A pictogram's key is 1 circle = 20 votes. A half circle is shown. How many votes does it represent?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7196,
+        "question_text": "A bar chart shows favourite hobbies. Reading got 22 votes and Gaming got 32. How many more people chose Gaming?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7197,
+        "question_text": "A two-way table shows children's favourite sports. 10 boys chose Football and 8 girls chose Football. What is the total number of children who chose Football?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7198,
+        "question_text": "A bar chart has a scale in 10s (10, 20, 30). The bar for 'Apples' stops exactly halfway between 20 and 30. How many apples were there?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7199,
+        "question_text": "A pictogram shows points scored. A star is 8 points. One row has 4 and a half stars. How many points is that?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7200,
+        "question_text": "A table shows visitors on three days: Mon 25, Tue 30, Wed 20. What is the total number of visitors?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7201,
+        "question_text": "A bar chart shows rainfall. The scale is in steps of 4mm. A bar reaches 3 lines high. How much rainfall was there?",
+        "answer_type": "text_input",
+        "correct_answer": "12mm",
+        "alternative_answer_1": "12",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7202,
+        "question_text": "A two-way table shows if children have a pet dog or cat. 12 children have a dog, and 5 of those also have a cat. How many children have a dog but not a cat?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7203,
+        "question_text": "A pictogram shows money saved. A coin symbol is £4. A row has 5 and a half symbols. How much money is that?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "£22",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7204,
+        "question_text": "A table has columns for Year 3 and Year 4 votes. Year 3 voted 15 for 'Red'. Year 4 voted 20 for 'Red'. How many 'Red' votes in total?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7205,
+        "question_text": "A bar chart's scale goes up in 20s (0, 20, 40...). A bar stops halfway between 40 and 60. What is its value?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7206,
+        "question_text": "A pictogram shows pupils walking to school. One symbol of a person is 4 pupils. A class has 22 pupils. How many symbols are needed?",
+        "answer_type": "text_input",
+        "correct_answer": "5 and a half",
+        "alternative_answer_1": "5.5",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7207,
+        "question_text": "A two-way table shows favourite drinks. 15 people chose 'Tea'. Of those, 10 were adults. How many children chose Tea?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7208,
+        "question_text": "A bar chart shows journey times. The scale is in minutes. The 'Car' bar reaches 45 and the 'Bus' bar reaches 60. What is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 minutes",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7209,
+        "question_text": "A table shows data for a charity walk: 12 adults and 20 children took part. How many more children than adults were there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7210,
+        "question_text": "A pictogram's key is 1 circle = 6 votes. How many symbols would you draw for 21 votes?",
+        "answer_type": "text_input",
+        "correct_answer": "3 and a half",
+        "alternative_answer_1": "3.5",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7211,
+        "question_text": "A bar chart's scale is in 2s (0, 2, 4...). A bar stops halfway between 6 and 8. What is its value?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7212,
+        "question_text": "A two-way table shows 25 pupils in total. 10 pupils play football. How many pupils do not play football?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7213,
+        "question_text": "A table has data for Red, Blue and Green. Red=15, Blue=12, Green=18. What is the total of all votes?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7214,
+        "question_text": "A bar chart shows scores. The scale is in 5s. Amy's bar reaches the line for 25. Ben's bar is halfway between 10 and 15. How many more points did Amy score than Ben?",
+        "answer_type": "text_input",
+        "correct_answer": "12.5",
+        "alternative_answer_1": "12 and a half",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7215,
+        "question_text": "A pictogram needs to show 25 items. The key is 1 symbol = 10 items. How many symbols do you draw?",
+        "answer_type": "text_input",
+        "correct_answer": "2 and a half",
+        "alternative_answer_1": "2.5",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7216,
+        "question_text": "A two-way table shows lunch choices. 14 chose sandwiches. 8 of those were boys. How many girls chose sandwiches?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7217,
+        "question_text": "Which is the most suitable chart to show the exact number of votes for 5 different ice cream flavours: a bar chart or a two-way table?",
+        "answer_type": "text_input",
+        "correct_answer": "Bar chart",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7218,
+        "question_text": "A table shows scores for two teams over two halves. Team A scored 10 then 15. Team B scored 12 then 12. Which team had the higher total score?",
+        "answer_type": "text_input",
+        "correct_answer": "Team A",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7219,
+        "question_text": "A bar chart has a scale of 10 units per line. A bar reaches one-quarter of the way between the 0 and 10 lines. What is its value?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "two and a half",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7220,
+        "question_text": "A pictogram key is 1 star = 12 points. How many points are 3 and a half stars?",
+        "answer_type": "text_input",
+        "correct_answer": "42",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7221,
+        "question_text": "A table shows the number of red and blue cars seen. Red: 17. Blue: 24. What is the sum of these two colours?",
+        "answer_type": "text_input",
+        "correct_answer": "41",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7222,
+        "question_text": "A bar chart shows visitors to a museum: Mon=20, Tue=30, Wed=25. What is the total number of visitors on these three days?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7223,
+        "question_text": "A pictogram shows house points. Griffin has 4 stars, Slyther has 6 stars. The key is 1 star = 5 points. How many more points does Slyther have?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7224,
+        "question_text": "A two-way table shows 50 children were asked about pets. 20 have dogs, 15 have cats, and 5 have both. How many children have neither a dog nor a cat?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7225,
+        "question_text": "A table shows the temperature at noon for a week. The highest was 25°C and the lowest was 18°C. What is the difference between the highest and lowest temperatures?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "7°C",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7226,
+        "question_text": "A bar chart shows the number of pupils in 4 classes: 28, 30, 29, 31. What is the total number of pupils?",
+        "answer_type": "text_input",
+        "correct_answer": "118",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7227,
+        "question_text": "A pictogram shows money saved. The key is 1 coin = £8. A half coin is also used. To show £36, how many full and half coins do you need?",
+        "answer_type": "text_input",
+        "correct_answer": "4 and a half",
+        "alternative_answer_1": "4.5",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7228,
+        "question_text": "A table has data for three categories: A=45, B=25, C=15. How many more is A than B and C combined?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7229,
+        "question_text": "A bar chart shows website views. The scale is in 100s. The bar for Monday reaches 350. The bar for Tuesday reaches 500. What is the sum of views for both days?",
+        "answer_type": "text_input",
+        "correct_answer": "850",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7230,
+        "question_text": "Data is collected on 40 people. A table shows 15 chose Tea, 12 chose Coffee. The rest chose Juice. How many chose Juice?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7231,
+        "question_text": "A bar chart was drawn with a scale of 1 block = 5 votes. The bar for 'Yes' was 7 blocks high. The bar for 'No' was 4 blocks high. How many more votes did 'Yes' get?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7232,
+        "question_text": "A pictogram shows bikes sold. A bike symbol is 10 bikes. In January, 3 symbols are shown. In February, 4 and a half symbols are shown. What was the total number of bikes sold?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7233,
+        "question_text": "A table shows the number of pages read by three friends: Ali (120), Ben (95), Chloe (105). What is the difference between the most pages read and the least?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7234,
+        "question_text": "I have data on 50 votes. I want to make a pictogram where 1 symbol = 4 votes. How many symbols will I need for a category with 18 votes?",
+        "answer_type": "text_input",
+        "correct_answer": "4 and a half",
+        "alternative_answer_1": "4.5",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7235,
+        "question_text": "A two-way table shows 30 students. 18 are boys. 10 students like swimming, and 6 of these are girls. How many boys do not like swimming?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7236,
+        "question_text": "A bar chart shows the number of hours spent on homework. The scale is in 30-minute blocks. The bar for Maths is 3 blocks high. How many hours were spent on Maths?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "1 and a half hours",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7237,
+        "question_text": "A table of fruit sales shows 40 apples and 35 oranges. A mistake was found and 5 apple sales were actually oranges. What is the new difference between orange and apple sales?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7238,
+        "question_text": "A pictogram shows birds seen. A bird symbol is 8 birds. There are 2 and a half symbols for Robin and 4 symbols for Sparrow. What is the total number of birds seen?",
+        "answer_type": "text_input",
+        "correct_answer": "52",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7239,
+        "question_text": "A table shows that a shop sold 150 papers on Monday and 125 on Tuesday. If their goal was to sell 300 papers in total, how many were they short?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7240,
+        "question_text": "A bar chart shows points in a game. The scale is in 25s. The red bar is halfway between 50 and 75. What is the value for red?",
+        "answer_type": "text_input",
+        "correct_answer": "62.5",
+        "alternative_answer_1": "62 and a half",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7241,
+        "question_text": "You have data on favourite colours: Red (12), Blue (18), Green (6). Which chart would be best to quickly compare these numbers: a pictogram or a bar chart?",
+        "answer_type": "text_input",
+        "correct_answer": "Bar chart",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7242,
+        "question_text": "A pictogram key is 1 face = 6 votes. The chart shows 2 faces for 'Yes' and 3 and a half faces for 'No'. How many people voted in total?",
+        "answer_type": "text_input",
+        "correct_answer": "33",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7243,
+        "question_text": "A two-way table shows 20 people went to the cinema. 15 were adults. 10 people watched the action film, and 8 of these were adults. How many children did NOT watch the action film?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7244,
+        "question_text": "A bar chart shows the weight of different animals in kg. The scale is in 50s. The Lion bar reaches 200. The Tiger bar is halfway between 150 and 200. How much heavier is the Lion?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "25kg",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7245,
+        "question_text": "A table shows website clicks: Page A (55), Page B (40), Page C (65). How many clicks are needed for the total to reach 200?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7246,
+        "question_text": "A pictogram shows T-shirts sold. A symbol is 12 T-shirts. Red has 2.5 symbols, Blue has 3 symbols. What is the total number of T-shirts sold?",
+        "answer_type": "text_input",
+        "correct_answer": "66",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 3,
+        "topic_id": 333
+    },
+    {
+        "question_id": 7650,
+        "question_text": "A bar chart shows favourite colours. The scale is 1 vote per line. The bar for 'Blue' reaches the line marked 8. How many votes did Blue get?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7651,
+        "question_text": "A time graph shows the temperature each hour. At 10 am, the point on the graph is level with 5°C. What was the temperature at 10 am?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5°C",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7652,
+        "question_text": "A bar chart shows pets owned. The scale is in 2s (0, 2, 4...). The bar for 'Dogs' reaches the line marked 6. How many dogs were owned?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7653,
+        "question_text": "A line graph shows a plant's height. On Day 3, the point on the line is at a height of 4 cm. How tall was the plant on Day 3?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4 cm",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7654,
+        "question_text": "A bar chart shows points scored in a game. The bar for 'Team A' reaches the number 10. How many points did Team A score?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7655,
+        "question_text": "A time graph shows the number of people in a shop. At 1 pm, the point is on the line for 8 people. How many people were in the shop at 1 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7656,
+        "question_text": "A bar chart scale is in 5s (0, 5, 10...). The bar for 'Oranges' goes up to the line marked 10. How many oranges were counted?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7657,
+        "question_text": "A time graph shows the depth of a river in metres. At 9 am, the dot on the graph is level with 2. How deep was the river?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2 metres",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7658,
+        "question_text": "A bar chart shows how many children are in each class. Class 1 has a bar that reaches 20. How many children are in Class 1?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7659,
+        "question_text": "A time graph tracks the distance of a runner. After 1 minute, the point is at 100 metres. How far had the runner gone after 1 minute?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100 metres",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7660,
+        "question_text": "A bar chart shows favourite subjects. The bar for 'Art' reaches 7 on a scale of 1. How many votes did Art get?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7661,
+        "question_text": "A time graph shows the level of water in a bath. At 6 pm, the point on the graph is at 10 cm. How high was the water at 6 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10 cm",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7662,
+        "question_text": "A bar chart scale goes up in 10s. The bar for 'January' reaches the line marked 30. What is the value for January?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7663,
+        "question_text": "A time graph shows the temperature. At midday, the point is on the line for 12°C. What was the temperature at midday?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12°C",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7664,
+        "question_text": "A bar chart shows favourite sports. The 'Swimming' bar reaches the number 9. How many people chose Swimming?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7665,
+        "question_text": "A time graph shows the growth of a sunflower. In Week 2, the point on the graph is at a height of 8cm. How tall was the sunflower in Week 2?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8cm",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7666,
+        "question_text": "On a bar chart, the bar for 'Pears' goes up to 4. How many pears were counted?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7667,
+        "question_text": "A time graph shows a car's speed. At 3 seconds, the speed is 10 mph. What was the speed at 3 seconds?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10 mph",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7668,
+        "question_text": "A bar chart shows books in a library. The 'Fiction' bar reaches 50. How many fiction books are there?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7669,
+        "question_text": "A time graph shows the number of cars in a car park. At 2 pm the value is 20. How many cars were there at 2 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7670,
+        "question_text": "A bar chart scale is in 2s. The bar for 'Green' goes up to the line for 10. How many votes for Green?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7671,
+        "question_text": "A time graph shows a child's height. At age 5, the point on the graph is at 100 cm. What was the child's height at age 5?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100 cm",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7672,
+        "question_text": "A bar chart shows how many children have birthdays in each month. The bar for 'May' reaches the number 6. How many have a birthday in May?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7673,
+        "question_text": "A time graph shows the amount of water in a tank. At 4 pm, the point is on the line for 30 litres. How much water was in the tank at 4 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30 litres",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7674,
+        "question_text": "A bar chart shows the number of sunny days. The bar for 'July' reaches the number 15. How many sunny days were in July?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7675,
+        "question_text": "A bar chart shows that 'Cats' got 12 votes and 'Dogs' got 18 votes. How many more votes did Dogs get?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7676,
+        "question_text": "A time graph shows the temperature was 10°C at 9 am and 14°C at 10 am. By how many degrees did the temperature rise?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4°C",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7677,
+        "question_text": "A bar chart has a scale in 2s. The bar for 'Vanilla' is halfway between the lines for 8 and 10. How many votes did Vanilla get?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7678,
+        "question_text": "You have data on how children travel to school: 15 walk, 10 cycle. Would a bar chart or a time graph be better to show this?",
+        "answer_type": "text_input",
+        "correct_answer": "Bar chart",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7679,
+        "question_text": "A time graph shows a plant's height. On Monday it was 5 cm. On Friday it was 8 cm. How much did it grow?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3 cm",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7680,
+        "question_text": "A bar chart shows juice sales. Apple juice sold 20 cartons, and orange juice sold 30. How many fewer cartons of apple juice were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7681,
+        "question_text": "A bar chart has a scale of 10. The bar for Team A is halfway between 20 and 30. What was Team A's score?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7682,
+        "question_text": "A time graph shows the number of people on a bus. At one stop, the number went from 12 to 15. How many people got on?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7683,
+        "question_text": "You want to show how the temperature changes every hour during a day. Should you use a bar chart or a time graph?",
+        "answer_type": "text_input",
+        "correct_answer": "Time graph",
+        "alternative_answer_1": "Line graph",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7684,
+        "question_text": "A bar chart shows points scored. The Red team scored 50 and the Blue team scored 40. What is the difference in their scores?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7685,
+        "question_text": "A time graph shows a car's journey. At 1 hour, the distance was 30 miles. At 2 hours, it was 50 miles. How far did the car travel in the second hour?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20 miles",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7686,
+        "question_text": "A bar chart scale is in 5s. A bar for 'Pencils' is halfway between 15 and 20. How many pencils are there?",
+        "answer_type": "text_input",
+        "correct_answer": "17.5",
+        "alternative_answer_1": "17 and a half",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7687,
+        "question_text": "You are drawing a time graph of your height on your birthday for the last 5 years. Is this discrete or continuous data?",
+        "answer_type": "text_input",
+        "correct_answer": "Continuous",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7688,
+        "question_text": "A bar chart shows that 22 people chose running and 15 chose swimming. How many more people chose running?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7689,
+        "question_text": "A time graph shows water filling a bucket. After 1 minute, the water is 4 cm deep. After 2 minutes, it is 8 cm deep. How much did the water level rise in that minute?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4 cm",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7690,
+        "question_text": "A bar chart shows the number of children owning a pet. The bar for 'Fish' is 16 units high. The bar for 'Hamster' is 9 units high. What is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7691,
+        "question_text": "A time graph of a journey shows that at 3 pm the car had travelled 100km, and at 4 pm it had travelled 140km. How far did it go between 3 pm and 4 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40km",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7692,
+        "question_text": "Which type of graph would be better to compare the number of students in Year 3, Year 4, and Year 5?",
+        "answer_type": "text_input",
+        "correct_answer": "Bar chart",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7693,
+        "question_text": "A bar chart shows that 45 people voted 'Yes' and 25 people voted 'No'. How many more 'Yes' votes were there?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7694,
+        "question_text": "A time graph shows a puppy's weight. At 1 month it was 2kg. At 2 months it was 4kg. How much weight did it gain?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2kg",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7695,
+        "question_text": "A bar chart for favourite fruits shows the bar for 'Banana' is halfway between the 10 and 12 lines on a scale of 2. What is the value?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7696,
+        "question_text": "You are showing the number of goals scored by 4 different teams in a season. Would a bar chart or time graph be more appropriate?",
+        "answer_type": "text_input",
+        "correct_answer": "Bar chart",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7697,
+        "question_text": "From a bar chart, you read that 35 people like tea and 20 like coffee. What is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7698,
+        "question_text": "A time graph shows the amount of money saved each month. In Jan, £10 was saved. In Feb, £15 was saved. How much more was saved in Feb?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "£5",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7699,
+        "question_text": "A bar chart shows the number of hats sold. The bar for 'Blue hats' reaches 17. The bar for 'Red hats' reaches 24. How many more red hats were sold?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7700,
+        "question_text": "A time graph shows the temperature on a cold day. At 9 am it was -2°C. By 11 am it had risen to 3°C. What was the total temperature rise?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5°C",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7701,
+        "question_text": "A bar chart shows website views: Mon=150, Tue=200, Wed=100. What is the sum of the views for these three days?",
+        "answer_type": "text_input",
+        "correct_answer": "450",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7702,
+        "question_text": "A line graph shows the value of a stock. The scale is in 10s. The line passes through a point halfway between the 70 and 80 mark. What is the value at that point?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7703,
+        "question_text": "A time graph shows a car's journey. The line goes up and then becomes flat. What is happening when the line is flat?",
+        "answer_type": "text_input",
+        "correct_answer": "The car has stopped",
+        "alternative_answer_1": "It is stationary",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7704,
+        "question_text": "A bar chart shows the number of visitors to a park: Sat=300, Sun=450. What was the total number of visitors over the weekend?",
+        "answer_type": "text_input",
+        "correct_answer": "750",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7705,
+        "question_text": "A line graph shows the depth of water in a harbour. The scale is in metres. At low tide the point is on -1m. At high tide it is on 4m. What is the total difference in depth?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5m",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7706,
+        "question_text": "A bar chart shows rainfall in three cities: A=40mm, B=60mm, C=30mm. What is the total rainfall for all three cities?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "130mm",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7707,
+        "question_text": "A time graph shows the population of a village from 1980 to 2020. The line generally goes upwards from left to right. What trend does this show?",
+        "answer_type": "text_input",
+        "correct_answer": "The population is increasing",
+        "alternative_answer_1": "It is growing",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7708,
+        "question_text": "A bar chart shows the number of goals scored by three players: Mo=22, Sam=15, Alex=18. What is the sum of their goals?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7709,
+        "question_text": "A time graph shows a bank account balance. It starts at £50. After a purchase, the point drops to £20. It then goes up to £40 after a deposit. What was the total change in balance?",
+        "answer_type": "text_input",
+        "correct_answer": "-10",
+        "alternative_answer_1": "It went down by 10",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7710,
+        "question_text": "A bar chart shows the number of cars sold per month. The scale is in 20s. A bar is three-quarters of the way between 60 and 80. What is its value?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7711,
+        "question_text": "A time graph shows a child's temperature. It rises from 37°C to 39°C, then falls to 38°C. What was the overall increase from the start?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1°C",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7712,
+        "question_text": "A bar chart shows votes for four options: A=15, B=25, C=10, D=30. What is the sum of all votes?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7713,
+        "question_text": "A time graph shows the temperature in a freezer. The temperature is shown as -18°C. Is this a sensible value for a freezer?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7714,
+        "question_text": "A bar chart shows the number of different types of trees in a park. Oak=50, Pine=75, Birch=40. How many trees were counted in total?",
+        "answer_type": "text_input",
+        "correct_answer": "165",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7715,
+        "question_text": "A line graph shows a yoyo's height. It starts at 1m, drops to 0m, and comes back up to 0.5m. What is the trend at the very end of the graph?",
+        "answer_type": "text_input",
+        "correct_answer": "Increasing",
+        "alternative_answer_1": "Going up",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7716,
+        "question_text": "From a bar chart, you see that 80 people chose summer and 45 people chose winter. What is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7717,
+        "question_text": "A time graph shows a person's heart rate. It goes from 60 bpm up to 120 bpm during exercise. What was the total increase?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60 bpm",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7718,
+        "question_text": "A bar chart shows the number of houses built in a town: 2010=100, 2011=120, 2012=150. What is the total for these three years?",
+        "answer_type": "text_input",
+        "correct_answer": "370",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7719,
+        "question_text": "A time graph shows the value of an investment. It starts at £1000 and ends at £900. What is the trend?",
+        "answer_type": "text_input",
+        "correct_answer": "Decreasing",
+        "alternative_answer_1": "It went down",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7720,
+        "question_text": "A bar chart shows the number of red, blue and green marbles. Red=32, Blue=28, Green=19. What is the sum of all the marbles?",
+        "answer_type": "text_input",
+        "correct_answer": "79",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7721,
+        "question_text": "A line graph shows the level of a river. The scale is in metres. The line passes through a point one-fifth of the way between 2m and 3m. What is the river level?",
+        "answer_type": "text_input",
+        "correct_answer": "2.2",
+        "alternative_answer_1": "2.2m",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7722,
+        "question_text": "A bar chart shows test scores for three students: 70, 85, and 90. What is the sum of their scores?",
+        "answer_type": "text_input",
+        "correct_answer": "245",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7723,
+        "question_text": "A time graph shows the amount of petrol in a car tank. The line starts high and goes down over time. What does this represent?",
+        "answer_type": "text_input",
+        "correct_answer": "The car is using petrol",
+        "alternative_answer_1": "The petrol is running out",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7724,
+        "question_text": "A bar chart shows the number of visitors on different days: Monday=120, Tuesday=150. What is the total for the two days?",
+        "answer_type": "text_input",
+        "correct_answer": "270",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7725,
+        "question_text": "A bar chart shows sales for 2021 were 400 and for 2022 were 500. A time graph shows sales for Jan were 50 and for Feb were 60. What is the total of all the data shown?",
+        "answer_type": "text_input",
+        "correct_answer": "1010",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7726,
+        "question_text": "A time graph shows a company's profit. In 2020 it was £2000. The trend shows it is increasing by about £500 per year. What is a reasonable prediction for the profit in 2022?",
+        "answer_type": "text_input",
+        "correct_answer": "3000",
+        "alternative_answer_1": "£3000",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7727,
+        "question_text": "A bar chart shows that Class A has 30 pupils and Class B has 25. A time graph shows that 10 pupils were absent on Monday. How many pupils were present in total?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7728,
+        "question_text": "A bar chart of favourite fruits is drawn, but the bar for 'Banana' (15 votes) is taller than the bar for 'Apple' (20 votes). What is wrong with the chart?",
+        "answer_type": "text_input",
+        "correct_answer": "The bars are the wrong height",
+        "alternative_answer_1": "The apple bar should be taller",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7729,
+        "question_text": "A time graph shows a temperature of 10°C at noon. It drops by 2°C every hour. What will the temperature be at 3 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4°C",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7730,
+        "question_text": "A bar chart shows 50 red cars and 30 blue cars. A time graph shows that 10 red cars are sold each day. After 2 days, how many red cars are left?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7731,
+        "question_text": "A line graph shows that a plant grows 2 cm each week. If it is 10 cm tall in Week 1, what is a sensible prediction for its height in Week 4?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "16 cm",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7732,
+        "question_text": "A bar chart for favourite colours has a mistake. The scale is in 5s, but the bar for 'Green' (12 votes) is drawn up to the 15 line. What should the correct height be?",
+        "answer_type": "text_input",
+        "correct_answer": "Slightly above the 10 line",
+        "alternative_answer_1": "Between 10 and 15",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7733,
+        "question_text": "A time graph shows that a snail moves 5 cm every minute. How long will it take to travel 30 cm?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6 minutes",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7734,
+        "question_text": "I need to display the exact number of students who chose one of four different lunch options. Should I present the data in a bar chart or a time graph?",
+        "answer_type": "text_input",
+        "correct_answer": "Bar chart",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7735,
+        "question_text": "A bar chart shows 100 people were surveyed. 40 chose A, 30 chose B. A line graph shows this data, but the line goes from 40 down to 30. Why is this a bad way to show the data?",
+        "answer_type": "text_input",
+        "correct_answer": "The data is not continuous",
+        "alternative_answer_1": "It implies a change over time",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7736,
+        "question_text": "A time graph shows a car's speed is 30 mph at 1:00 pm. It increases steadily, reaching 50 mph at 2:00 pm. What would you predict its speed was at 1:30 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40 mph",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7737,
+        "question_text": "A bar chart shows that 25 boys and 30 girls like swimming. A time graph shows the pool temperature is 22°C. How many children like swimming in total?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7738,
+        "question_text": "A line graph of rainfall has an error. The y-axis (rainfall) is labelled in cm, but the title says Rainfall in mm. If a point is at 5, what is the correct value in mm?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50mm",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7739,
+        "question_text": "A bar chart shows 20 people have cats. A second bar chart shows 15 people have dogs. What is the total number of people with cats or dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7740,
+        "question_text": "A time graph shows that a company made a profit of £10k in Jan, £15k in Feb, and £20k in Mar. What is a reasonable prediction for April's profit?",
+        "answer_type": "text_input",
+        "correct_answer": "25000",
+        "alternative_answer_1": "£25k",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7741,
+        "question_text": "A bar chart shows a total of 50 votes. The bar for 'Yes' is at 30. The bar for 'No' is at 15. What is wrong with this data?",
+        "answer_type": "text_input",
+        "correct_answer": "The total is wrong",
+        "alternative_answer_1": "The votes only add up to 45",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7742,
+        "question_text": "A bar chart shows 60 apples were picked. A time graph shows that 5 apples are eaten each day. After how many days will there be no apples left?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12 days",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7743,
+        "question_text": "A time graph of a savings account starts at £50. The trend shows it increases by £10 each month. How much will be in the account after 5 months?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "£100",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7744,
+        "question_text": "A bar chart shows 30 red books and 40 blue books. A second bar chart shows 20 green books. How many books are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7745,
+        "question_text": "A time graph shows the number of visitors to a website. The trend is that the number doubles each day. If Monday has 10 visitors, what is a good prediction for Wednesday?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7746,
+        "question_text": "A bar chart shows 25 votes for option A. A time graph shows this value plotted at Monday. The time graph then shows the value dropping to 20 on Tuesday. What does this suggest?",
+        "answer_type": "text_input",
+        "correct_answer": "The number of votes changed over time",
+        "alternative_answer_1": "Fewer people voted for it on Tuesday",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7747,
+        "question_text": "A time graph shows a car travelling at a constant speed of 50 km/h. How far will it have travelled after 3 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150km",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7748,
+        "question_text": "A bar chart of votes has an error. The total votes are 100. Category A has 40, B has 30, and C has 20. Which category is missing from the total?",
+        "answer_type": "text_input",
+        "correct_answer": "Category D",
+        "alternative_answer_1": "The numbers don't add up",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 7749,
+        "question_text": "A time graph shows that every 10 minutes, the number of bacteria in a sample increases by 50. If there are 100 bacteria at the start, how many will there be after 30 minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "250",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 334
+    },
+    {
+        "question_id": 8350,
+        "question_text": "A table shows train departure times. The train to York leaves at 09:00. At what time does the York train leave?",
+        "answer_type": "text_input",
+        "correct_answer": "09:00",
+        "alternative_answer_1": "9:00 AM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8351,
+        "question_text": "A table lists students and their scores. The row for 'Ben' has the score '15'. What was Ben's score?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8352,
+        "question_text": "A timetable for buses shows a bus arriving at the 'Museum' at 10:30. What time does the bus get to the Museum?",
+        "answer_type": "text_input",
+        "correct_answer": "10:30",
+        "alternative_answer_1": "10:30 AM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8353,
+        "question_text": "A table has two columns: 'Fruit' and 'Quantity'. The row for 'Apples' has the quantity '8'. How many apples are there?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8354,
+        "question_text": "A simple TV guide shows that 'News' starts at 18:00. What time does the News start?",
+        "answer_type": "text_input",
+        "correct_answer": "18:00",
+        "alternative_answer_1": "6:00 PM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8355,
+        "question_text": "A table is being completed. It shows 'Colour' and 'Votes'. If 5 people voted for 'Red', what number goes in the votes column for the Red row?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8356,
+        "question_text": "A train timetable shows the train from London departs at 14:15. At what time does the London train depart?",
+        "answer_type": "text_input",
+        "correct_answer": "14:15",
+        "alternative_answer_1": "2:15 PM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8357,
+        "question_text": "A table lists the number of pages in different books. 'Book A' has 50 pages. How many pages are in Book A?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8358,
+        "question_text": "A simple flight timetable shows a flight to Paris arrives at 11:00. What is the arrival time for the Paris flight?",
+        "answer_type": "text_input",
+        "correct_answer": "11:00",
+        "alternative_answer_1": "11:00 AM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8359,
+        "question_text": "A table shows the number of pets owned by children. The row for 'Cats' is missing its number. If 7 children own cats, what number should be written in the table?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8360,
+        "question_text": "A bus timetable shows a bus leaves the 'Station' at 08:30. What is the departure time from the Station?",
+        "answer_type": "text_input",
+        "correct_answer": "08:30",
+        "alternative_answer_1": "8:30 AM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8361,
+        "question_text": "A table shows sports and the number of players. 'Football' has 11 players. How many players does football have?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8362,
+        "question_text": "A library opening times table shows it opens at 09:30 on Monday. What time does the library open on Monday?",
+        "answer_type": "text_input",
+        "correct_answer": "09:30",
+        "alternative_answer_1": "9:30 AM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8363,
+        "question_text": "A table shows favourite seasons. The row for 'Summer' shows 10 votes. How many votes did Summer receive?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8364,
+        "question_text": "A train timetable shows a train arrives at Leeds at 16:45. What is the arrival time in Leeds?",
+        "answer_type": "text_input",
+        "correct_answer": "16:45",
+        "alternative_answer_1": "4:45 PM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8365,
+        "question_text": "A table of data is being made. If there are 12 blue cars, what number should be entered in the 'Blue' row under the 'Number' column?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8366,
+        "question_text": "A TV guide shows a cartoon starts at 07:15. What is the start time of the cartoon?",
+        "answer_type": "text_input",
+        "correct_answer": "07:15",
+        "alternative_answer_1": "7:15 AM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8367,
+        "question_text": "A table lists the height of children. Anna's height is 130cm. What is Anna's height?",
+        "answer_type": "text_input",
+        "correct_answer": "130",
+        "alternative_answer_1": "130cm",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8368,
+        "question_text": "A bus timetable shows a bus arrives at the 'Park' at 13:00. What time does it arrive at the Park?",
+        "answer_type": "text_input",
+        "correct_answer": "13:00",
+        "alternative_answer_1": "1:00 PM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8369,
+        "question_text": "A table needs a total column. If there are 8 apples and 6 oranges, what number should go in the 'Total' cell for these two fruits?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8370,
+        "question_text": "A swimming pool timetable shows 'Adult Swim' starts at 20:00. When does Adult Swim start?",
+        "answer_type": "text_input",
+        "correct_answer": "20:00",
+        "alternative_answer_1": "8:00 PM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8371,
+        "question_text": "A table shows favourite subjects. 'Maths' has a score of 20. What was the score for Maths?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8372,
+        "question_text": "A train timetable shows a service from Bristol to London. The departure time is 10:05. What time does the train leave Bristol?",
+        "answer_type": "text_input",
+        "correct_answer": "10:05",
+        "alternative_answer_1": "10:05 AM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8373,
+        "question_text": "A table shows the number of goals scored. The column for 'Week 1' is empty. If 3 goals were scored, what number do you write in?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8374,
+        "question_text": "A cinema timetable shows that 'Space Adventure' begins at 15:30. What is the film's start time?",
+        "answer_type": "text_input",
+        "correct_answer": "15:30",
+        "alternative_answer_1": "3:30 PM",
+        "original_pundex": 1,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8375,
+        "question_text": "A train timetable shows a departure from London at 14:10 and arrival in Paris at 16:30. How long is the journey?",
+        "answer_type": "text_input",
+        "correct_answer": "2 hours 20 minutes",
+        "alternative_answer_1": "140 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8376,
+        "question_text": "A table shows points scored: Round 1 = 25, Round 2 = 30. A 'Total' column is empty. What number should go in the total column?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8377,
+        "question_text": "A bus timetable shows a bus leaves the Station at 09:20 and arrives at the School at 09:45. How long does this journey take?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "25 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8378,
+        "question_text": "A table shows the number of red cars (15) and blue cars (12). How many more red cars than blue cars were there?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8379,
+        "question_text": "A flight is scheduled to depart at 11:50. It arrives at 13:00. What is the flight duration?",
+        "answer_type": "text_input",
+        "correct_answer": "1 hour 10 minutes",
+        "alternative_answer_1": "70 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8380,
+        "question_text": "A table shows the number of boys (14) and girls (16) in a class. The 'Total' cell is empty. What is the total number of children?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8381,
+        "question_text": "A timetable shows a lesson starts at 10:15 and ends at 11:00. How long is the lesson?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8382,
+        "question_text": "A table shows the temperature in two cities. London: 18°C, Paris: 22°C. How much warmer is Paris?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4°C",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8383,
+        "question_text": "A train leaves Manchester at 18:40 and arrives in Liverpool at 19:20. How long is the journey?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8384,
+        "question_text": "A table lists items and their costs: Apple 30p, Banana 40p. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "70p",
+        "alternative_answer_1": "0.7",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8385,
+        "question_text": "A TV guide shows a film starts at 20:30 and ends at 22:00. What is the film's running time?",
+        "answer_type": "text_input",
+        "correct_answer": "1 hour 30 minutes",
+        "alternative_answer_1": "90 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8386,
+        "question_text": "A table shows the number of votes for two options. Yes: 50. Total: 80. The 'No' vote is missing. How many people voted No?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8387,
+        "question_text": "A bus is due at the stop at 15:05. It arrives at 15:12. How many minutes late is it?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "7 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8388,
+        "question_text": "A table has columns for 'Team', 'Won', 'Lost'. Team A won 8 games and lost 4. What is the total number of games played?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8389,
+        "question_text": "A timetable shows a ferry leaving at 10:55 and arriving at 11:35. How long is the ferry ride?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8390,
+        "question_text": "A table shows the number of pages read. Monday: 15 pages. Tuesday: 20 pages. How many pages were read in total?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8391,
+        "question_text": "A train is scheduled to arrive at 17:30. It gets in 10 minutes early. What time does it arrive?",
+        "answer_type": "text_input",
+        "correct_answer": "17:20",
+        "alternative_answer_1": "5:20 PM",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8392,
+        "question_text": "A table shows a school's student numbers. Year 3: 28. Year 4: 32. Which year has more students?",
+        "answer_type": "text_input",
+        "correct_answer": "Year 4",
+        "alternative_answer_1": "4",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8393,
+        "question_text": "A meeting is planned to last 45 minutes. It starts at 11:10. What time should it end?",
+        "answer_type": "text_input",
+        "correct_answer": "11:55",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8394,
+        "question_text": "A table has a row for 'Sunny Days' with a value of 18, and a row for 'Rainy Days' with a value of 7. How many more sunny days were there?",
+        "answer_type": "text_input",
+        "correct_answer": "11",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8395,
+        "question_text": "A train departs at 06:50 and arrives at 07:10. How many minutes does the journey take?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8396,
+        "question_text": "A table shows the number of red marbles is 25. The total number of marbles is 60. The number of blue marbles is missing. How many blue marbles are there?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8397,
+        "question_text": "A bus leaves at quarter to three and arrives at five past three. How long is the journey?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8398,
+        "question_text": "A table shows the cost of two items. A pen costs 50p and a ruler costs 35p. How much more does the pen cost?",
+        "answer_type": "text_input",
+        "correct_answer": "15p",
+        "alternative_answer_1": "15",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8399,
+        "question_text": "A concert starts at 19:00 and finishes at 21:30. What is the duration of the concert?",
+        "answer_type": "text_input",
+        "correct_answer": "2 hours 30 minutes",
+        "alternative_answer_1": "150 minutes",
+        "original_pundex": 2,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8400,
+        "question_text": "A train timetable shows services from Ely to Cambridge. Train A leaves at 08:55 and arrives at 09:12. Train B leaves at 09:05 and arrives at 09:25. Which train is faster?",
+        "answer_type": "text_input",
+        "correct_answer": "Train A",
+        "alternative_answer_1": "A",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8401,
+        "question_text": "A two-way table shows 30 students. 15 like Art. 20 like PE. 10 like both. How many students like Art but not PE?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8402,
+        "question_text": "A timetable shows Bus 1 leaves Town A at 10:10 and arrives at Town B at 10:55. Bus 2 leaves Town A at 10:20. When must Bus 2 arrive to be 5 minutes faster than Bus 1?",
+        "answer_type": "text_input",
+        "correct_answer": "11:00",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8403,
+        "question_text": "A table shows flight details. Flight BA249 leaves London at 09:30 and arrives in Paris at 10:40 (local time). Paris is 1 hour ahead of London. What is the actual flight time?",
+        "answer_type": "text_input",
+        "correct_answer": "10 minutes",
+        "alternative_answer_1": "10",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8404,
+        "question_text": "A table shows the ingredients for a recipe: Flour (200g), Sugar (150g), Butter (100g). The 'Total' cell is empty. What is the total weight of the ingredients?",
+        "answer_type": "text_input",
+        "correct_answer": "450g",
+        "alternative_answer_1": "450",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8405,
+        "question_text": "A train leaves Station A at 14:25. It stops at Station B for 5 minutes, then takes another 20 minutes to reach Station C, arriving at 15:05. How long was the journey from A to B?",
+        "answer_type": "text_input",
+        "correct_answer": "15 minutes",
+        "alternative_answer_1": "15",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8406,
+        "question_text": "A two-way table shows 25 children went on a trip. 15 went to the zoo and 15 went to the museum. 10 children went to both. How many went to neither?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8407,
+        "question_text": "A bus timetable shows departures every 20 minutes starting from 08:10. What is the departure time of the third bus?",
+        "answer_type": "text_input",
+        "correct_answer": "08:50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8408,
+        "question_text": "A table shows a project plan. Task 1: 45 minutes. Task 2: 30 minutes. Coffee Break: 15 minutes. If you start at 09:00, at what time will you finish Task 2?",
+        "answer_type": "text_input",
+        "correct_answer": "10:30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8409,
+        "question_text": "A flight timetable shows a plane arriving at 17:10. It was delayed by 25 minutes. What was the original arrival time?",
+        "answer_type": "text_input",
+        "correct_answer": "16:45",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8410,
+        "question_text": "A table shows a shop's sales. Monday: £150. Tuesday: £120. Wednesday: £180. The 'Total' for the three days is missing. What should it be?",
+        "answer_type": "text_input",
+        "correct_answer": "450",
+        "alternative_answer_1": "£450",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8411,
+        "question_text": "A train is scheduled to leave at 10:40 and arrive at 11:55. Due to a delay, it leaves at 10:50. If it travels at the same speed, what is the new arrival time?",
+        "answer_type": "text_input",
+        "correct_answer": "12:05",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8412,
+        "question_text": "A two-way table shows 24 students. 12 have brown hair. 10 have blue eyes. 4 students have both brown hair and blue eyes. How many have neither?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8413,
+        "question_text": "A ferry timetable shows departures at 09:15, 10:00, and 10:45. What is the interval between ferries?",
+        "answer_type": "text_input",
+        "correct_answer": "45 minutes",
+        "alternative_answer_1": "45",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8414,
+        "question_text": "A table needs the 'average' score. The scores are 10, 15, and 20. What is the average?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8415,
+        "question_text": "A bus journey from A to C takes 50 minutes. It stops at B on the way. The journey from B to C takes 20 minutes. How long does it take to get from A to B?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30 minutes",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8416,
+        "question_text": "A table shows TV programmes. Cartoon: 08:30-08:55. News: 09:00-09:30. How long is the break between them?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5 minutes",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8417,
+        "question_text": "A timetable shows a workshop from 13:30 to 15:00. How long is the workshop?",
+        "answer_type": "text_input",
+        "correct_answer": "1 hour 30 minutes",
+        "alternative_answer_1": "90 minutes",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8418,
+        "question_text": "A two-way table shows 18 boys and 12 girls. 10 boys like football. 8 girls like football. How many children do NOT like football?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8419,
+        "question_text": "A train leaves at 19:40. The journey is 1 hour 30 minutes. What is the arrival time?",
+        "answer_type": "text_input",
+        "correct_answer": "21:10",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8420,
+        "question_text": "A table shows monthly rainfall. Jan: 50mm. Feb: 40mm. March: 60mm. What was the total rainfall for the first quarter?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "150mm",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8421,
+        "question_text": "A timetable shows a tour starting at 10:00 am and finishing at 2:15 pm. How long is the tour?",
+        "answer_type": "text_input",
+        "correct_answer": "4 hours 15 minutes",
+        "alternative_answer_1": "255 minutes",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8422,
+        "question_text": "A table is missing the 'Difference' column. If Group A has 125 members and Group B has 90, what is the difference?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8423,
+        "question_text": "A bus leaves the depot every 15 minutes from 07:00. A passenger arrives at 07:40. How long do they have to wait for the next bus?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5 minutes",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8424,
+        "question_text": "A recipe requires 35 minutes of prep time and 45 minutes of cooking time. What is the total time required in hours and minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "1 hour 20 minutes",
+        "alternative_answer_1": "80 minutes",
+        "original_pundex": 3,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8425,
+        "question_text": "A train timetable shows a journey from A to B takes 35 mins, and B to C takes 45 mins. There is a 10-minute stop at B. If a train leaves A at 11:30, what time does it arrive at C?",
+        "answer_type": "text_input",
+        "correct_answer": "13:00",
+        "alternative_answer_1": "1:00 PM",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8426,
+        "question_text": "A table shows the population of three towns: A=2500, B=3200, C=1800. What is the total population and how many more people live in B than C?",
+        "answer_type": "text_input",
+        "correct_answer": "7500 and 1400",
+        "alternative_answer_1": "Total 7500, Difference 1400",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8427,
+        "question_text": "A flight from London to New York leaves at 10:00 GMT and arrives at 13:00 EST. New York (EST) is 5 hours behind London (GMT). What was the actual flight duration?",
+        "answer_type": "text_input",
+        "correct_answer": "8 hours",
+        "alternative_answer_1": "8",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8428,
+        "question_text": "A table tracks a company's profit. Q1: £5000, Q2: £7000, Q3: £4000. The total profit for the year was £20000. What was the profit in Q4?",
+        "answer_type": "text_input",
+        "correct_answer": "4000",
+        "alternative_answer_1": "£4000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8429,
+        "question_text": "A bus is scheduled to take 1 hour 10 minutes for a journey. It leaves at 14:50 but arrives at 16:15. By how many minutes was it delayed?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 minutes",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8430,
+        "question_text": "In a survey of 100 people, a two-way table shows 60 were adults. 40 people liked the film, of which 25 were adults. How many children did NOT like the film?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8431,
+        "question_text": "A timetable shows trains leave at 08:05, 08:20, and 08:35. If this pattern continues, what time is the sixth train?",
+        "answer_type": "text_input",
+        "correct_answer": "09:20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8432,
+        "question_text": "A complex table requires you to calculate a 'Profit' column. 'Revenue' is £500 and 'Costs' are £350. What is the Profit?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "£150",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8433,
+        "question_text": "A train journey from City A to City B takes 2 hours 40 minutes. If I need to be in City B by 15:30, what is the latest time I can leave City A?",
+        "answer_type": "text_input",
+        "correct_answer": "12:50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8434,
+        "question_text": "A table shows TV adverts. Each ad is 30 seconds long. A break starts at 19:58 and ends at 20:02. How many adverts can be shown in the break?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8435,
+        "question_text": "A timetable shows two connecting flights. Flight 1 arrives at 14:40. Flight 2 departs at 16:10. How long is the layover?",
+        "answer_type": "text_input",
+        "correct_answer": "1 hour 30 minutes",
+        "alternative_answer_1": "90 minutes",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8436,
+        "question_text": "A table has columns for Length (50m) and Width (20m). An 'Area' column needs to be completed. What is the area?",
+        "answer_type": "text_input",
+        "correct_answer": "1000",
+        "alternative_answer_1": "1000m²",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8437,
+        "question_text": "A bus leaves every 12 minutes. If a bus leaves at 10:52, when did the previous bus leave?",
+        "answer_type": "text_input",
+        "correct_answer": "10:40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8438,
+        "question_text": "A table shows the number of men, women, and children at an event. Men=150, Women=200, Children=100. If tickets cost £10 for adults and £5 for children, what was the total ticket income?",
+        "answer_type": "text_input",
+        "correct_answer": "4000",
+        "alternative_answer_1": "£4000",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8439,
+        "question_text": "A timetable for a 3-hour exam shows a start time of 09:15. There is a mandatory 15-minute break in the middle. What time does the exam finish?",
+        "answer_type": "text_input",
+        "correct_answer": "12:30",
+        "alternative_answer_1": "12:30 PM",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8440,
+        "question_text": "A two-way table shows 100 people surveyed about juice preference. 50 liked Apple, 60 liked Orange, 20 liked both. How many people liked neither?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8441,
+        "question_text": "A train travels 120 miles. The journey starts at 13:00 and ends at 15:00. A table asks for the average speed in mph. What is the answer?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60 mph",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8442,
+        "question_text": "A recipe requires 10 minutes of prep and 25 minutes of baking. You want to eat at 18:30. What is the latest you should start preparing?",
+        "answer_type": "text_input",
+        "correct_answer": "17:55",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8443,
+        "question_text": "A table shows car park charges: £2 for the first hour, then £1 for every extra hour. If someone parks from 09:00 to 13:00, what is the charge?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "£5",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8444,
+        "question_text": "A timetable shows that a journey takes 55 minutes. If you have to make this journey three times, how long will it take in total?",
+        "answer_type": "text_input",
+        "correct_answer": "2 hours 45 minutes",
+        "alternative_answer_1": "165 minutes",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8445,
+        "question_text": "A table has an empty column for 'Percentage of Boys'. If there are 15 boys and 10 girls, what percentage should be entered?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60%",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8446,
+        "question_text": "A bus leaves Station A at 08:00 and arrives at Station D at 09:30. It passes through B and C. The journey A-B takes 25 mins, and C-D takes 30 mins. How long was the stop at station B and C combined?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "35 minutes",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8447,
+        "question_text": "A table shows a currency conversion rate of £1 = $1.20. An empty column asks for the cost of a £50 item in dollars. What is the value?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "$60",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8448,
+        "question_text": "A train leaves at 16:50. The journey takes 2 hours and 15 minutes. What time does it arrive?",
+        "answer_type": "text_input",
+        "correct_answer": "19:05",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8449,
+        "question_text": "A factory production table shows 200 items made per hour. The factory runs from 06:00 to 14:00. How many items are made in a day?",
+        "answer_type": "text_input",
+        "correct_answer": "1600",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 5,
+        "topic_id": 335
+    },
+    {
+        "question_id": 8951,
+        "question_text": "A line graph shows the temperature on Monday. At 10 am, the point on the line is level with 12°C. What was the temperature at 10 am?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12°C",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8952,
+        "question_text": "A pie chart shows favourite colours. The sector for 'Blue' is exactly half of the circle. What percentage of people chose Blue?",
+        "answer_type": "text_input",
+        "correct_answer": "50%",
+        "alternative_answer_1": "50",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8953,
+        "question_text": "A line graph tracks a car's journey. After 2 hours, the point on the graph is at a distance of 80 km. How far had the car travelled after 2 hours?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "80 km",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8954,
+        "question_text": "A pie chart about favourite pets is divided into four equal quarters. One quarter is labelled 'Dogs'. What percentage of people chose Dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "25%",
+        "alternative_answer_1": "25",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8955,
+        "question_text": "A line graph shows a plant's growth. In Week 3, the point is level with 15 cm on the height axis. How tall was the plant in Week 3?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8956,
+        "question_text": "A pie chart shows how 100 people travel to work. A sector labelled 'Walk' takes up one-tenth of the chart. How many people walk to work?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8957,
+        "question_text": "A time graph shows the number of visitors to a website. At 1 pm, the line is at the level of 50 visitors. How many visitors were there at 1 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8958,
+        "question_text": "A pie chart is labelled with percentages. The section for 'Apples' is labelled 50%. What fraction of the chart is this?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Feb",
+        "alternative_answer_1": "a half",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8959,
+        "question_text": "A line graph shows the level of water in a tank. At the start (0 minutes), the point is at 20 litres. How much water was in the tank at the start?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20 litres",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8960,
+        "question_text": "A pie chart shows 20 pupils' favourite subjects. The sector for 'Maths' is exactly half the circle. How many pupils chose Maths?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8961,
+        "question_text": "A line graph plots the number of goals scored per month. In March, the point is at a value of 8. How many goals were scored in March?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8962,
+        "question_text": "A pie chart has a section for 'Yes' votes labelled as 25%. What fraction of the votes were 'Yes'?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Apr",
+        "alternative_answer_1": "a quarter",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8963,
+        "question_text": "A line graph shows the temperature on a winter day. The scale includes negative numbers. At 8 pm, the point is on the line for -2°C. What was the temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "-2",
+        "alternative_answer_1": "-2°C",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8964,
+        "question_text": "A pie chart shows 40 votes. The 'Red' sector is a quarter of the circle. How many votes did Red get?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8965,
+        "question_text": "A line graph shows money in a savings account. In June, the value was £200. What was the balance in June?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "£200",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8966,
+        "question_text": "A pie chart shows 30 children's favourite drinks. The sector for 'Milk' is labelled 10%. How many children chose Milk?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8967,
+        "question_text": "A line graph shows the speed of a cyclist. At 5 minutes, the point on the line is at 15 km/h. What was the cyclist's speed?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15 km/h",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8968,
+        "question_text": "A pie chart is split into two sections: 'Boys' and 'Girls'. The 'Girls' section is exactly half. If there are 24 children in total, how many are girls?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8969,
+        "question_text": "From a line graph, you can see the value at 3 pm is 18. What was the value at 3 pm?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8970,
+        "question_text": "A pie chart shows 10 pupils' favourite colours. A quarter of the chart is 'Green'. How many pupils chose Green?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "two and a half",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8971,
+        "question_text": "A line graph shows the number of cars passing a point. At 11 am, the number is 40. How many cars passed at 11 am?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8972,
+        "question_text": "A pie chart for 60 votes shows that the 'Vanilla' sector is 50%. How many votes did Vanilla get?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8973,
+        "question_text": "A line graph shows a company's profit. In 2021, the point on the graph is at £5000. What was the profit in 2021?",
+        "answer_type": "text_input",
+        "correct_answer": "5000",
+        "alternative_answer_1": "£5000",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8974,
+        "question_text": "A pie chart representing 200 people shows that 25% chose 'Comedy'. How many people is this?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8975,
+        "question_text": "A line graph shows the height of a tide. At midnight, the height is 1 metre. What was the tide height at midnight?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1 metre",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8976,
+        "question_text": "A line graph shows the temperature was 8°C at 2 pm and 12°C at 4 pm. What was the increase in temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4°C",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8977,
+        "question_text": "A pie chart shows 60 people were surveyed. 20% chose Option A, 30% chose Option B. How many people chose Option A?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8978,
+        "question_text": "A line graph of a journey shows the distance travelled. At 1 hour, the distance is 50 km. At 3 hours, the distance is 150 km. How far was travelled between hour 1 and hour 3?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "100 km",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8979,
+        "question_text": "A pie chart shows 40 children's favourite fruits. The sector for 'Banana' is 25%. How many children chose Banana?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8980,
+        "question_text": "A line graph shows a car's speed. It starts at 0 km/h and increases to 60 km/h in 10 seconds. What is the difference between the start and end speed?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60 km/h",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8981,
+        "question_text": "A pie chart is based on a survey of 200 people. The sector for 'Yes' is 75%. How many people voted 'Yes'?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8982,
+        "question_text": "A line graph shows a company's profit over a year. It was £10,000 in January and £8,000 in February. What was the difference in profit?",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "£2000",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8983,
+        "question_text": "A pie chart shows the results of a vote for 80 people. 10% voted 'Maybe'. How many people voted 'Maybe'?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8984,
+        "question_text": "A time graph shows the number of people in a park. At 12 pm there were 100 people. At 2 pm there were 70. How many people left?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8985,
+        "question_text": "A pie chart of 50 pupils shows that 20% walk to school. How many pupils is this?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8986,
+        "question_text": "A line graph shows rainfall. The highest point is 15mm and the lowest is 5mm. What is the difference between the highest and lowest rainfall?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10mm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8987,
+        "question_text": "A pie chart for a survey of 300 people shows that 20% prefer dogs. How many people prefer dogs?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8988,
+        "question_text": "A line graph shows the temperature on a cold day. It starts at -1°C and drops to -5°C. What was the difference in temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4°C",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8989,
+        "question_text": "A pie chart shows 120 votes. 'Option C' has a sector of 25%. How many votes did Option C get?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8990,
+        "question_text": "From a line graph, the value in 2010 was 250 and in 2015 it was 300. What was the increase?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8991,
+        "question_text": "A pie chart shows how 150 children travel to school. 10% travel by car. How many children is this?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8992,
+        "question_text": "A line graph tracks the number of tickets sold for a concert. On Monday 50 were sold. On Tuesday 75 were sold. How many more were sold on Tuesday?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8993,
+        "question_text": "A pie chart represents 1000 people. A sector for 'Under 18' is 20%. How many people are under 18?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8994,
+        "question_text": "A line graph shows the value of a car. It was £10,000 when new and £8,000 after one year. How much value did it lose?",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "£2000",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8995,
+        "question_text": "A pie chart shows the favourite colours of 20 people. Blue takes up 50% and Green takes up 25%. How many people chose Blue?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8996,
+        "question_text": "A line graph shows a savings account balance. It went from £120 to £160 in one month. What was the increase?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "£40",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8997,
+        "question_text": "In a survey of 40 students, a pie chart shows 75% preferred pop music. How many students is this?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8998,
+        "question_text": "A line graph shows a patient's temperature rising from 37°C to 39°C. What was the rise in temperature?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2°C",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 8999,
+        "question_text": "A pie chart shows how 500 people voted. 20% voted 'No'. How many people voted 'No'?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9000,
+        "question_text": "A line graph shows a plane's altitude. It climbed from 1000m to 3000m. How far did it climb?",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "2000m",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9001,
+        "question_text": "A line graph shows a journey. The line goes up steadily, then becomes flat, then goes up again. What does the flat part of the line represent?",
+        "answer_type": "text_input",
+        "correct_answer": "Stopping",
+        "alternative_answer_1": "A rest",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9002,
+        "question_text": "A pie chart shows 120 pupils' favourite sports. Football got 50%, Rugby got 25%. How many pupils chose either Football or Rugby?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9003,
+        "question_text": "A line graph's vertical axis scale is in 10s. A point is plotted three-quarters of the way between 20 and 30. What is the value of this point?",
+        "answer_type": "text_input",
+        "correct_answer": "27.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9004,
+        "question_text": "A pie chart shows 360 votes. One sector has an angle of 90 degrees. How many votes does this sector represent?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9005,
+        "question_text": "A line graph shows a company's quarterly profits. Q1: £40k, Q2: £60k, Q3: £50k, Q4: £70k. What is the sum of the profits for the year?",
+        "answer_type": "text_input",
+        "correct_answer": "220000",
+        "alternative_answer_1": "£220k",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9006,
+        "question_text": "In a survey of 80 people, a pie chart shows 40 chose Red, 20 chose Blue, and 20 chose Green. What percentage chose Red?",
+        "answer_type": "text_input",
+        "correct_answer": "50%",
+        "alternative_answer_1": "50",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9007,
+        "question_text": "A time graph shows a car journey. The line gets steeper. What does this mean about the car's speed?",
+        "answer_type": "text_input",
+        "correct_answer": "It is speeding up",
+        "alternative_answer_1": "It is accelerating",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9008,
+        "question_text": "A pie chart shows 50 students' lunch choices. 40% chose Pizza, 30% chose Pasta, and the rest chose Sandwiches. How many students chose Sandwiches?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9009,
+        "question_text": "A line graph shows the number of website visitors each day for a week. The total for the week was 700. What was the average number of visitors per day?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9010,
+        "question_text": "A pie chart shows 240 people's favourite movies. Action gets 120 votes. What angle would the 'Action' sector have on the pie chart?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9011,
+        "question_text": "A line graph shows the value of a car over 5 years. It starts at £20,000 and ends at £10,000. What was the total decrease in value?",
+        "answer_type": "text_input",
+        "correct_answer": "10000",
+        "alternative_answer_1": "£10,000",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9012,
+        "question_text": "A pie chart shows 90 votes. Option A has 30 votes, Option B has 45 votes. What percentage of votes did Option A get?",
+        "answer_type": "text_input",
+        "correct_answer": "33.30%",
+        "alternative_answer_1": "a third",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9013,
+        "question_text": "A line graph shows the population of a town. In 2000 it was 5000. In 2020 it was 7000. What was the total increase?",
+        "answer_type": "text_input",
+        "correct_answer": "2000",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9014,
+        "question_text": "To construct a pie chart for 10 people, where 5 chose Red, how many degrees would the Red sector be?",
+        "answer_type": "text_input",
+        "correct_answer": "180",
+        "alternative_answer_1": "180°",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9015,
+        "question_text": "A line graph tracks a running race. The scale on the y-axis is distance in km. What does a downward sloping line mean?",
+        "answer_type": "text_input",
+        "correct_answer": "Running back to the start",
+        "alternative_answer_1": "Going backwards",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9016,
+        "question_text": "A pie chart for 300 people shows 150 like Dogs, 100 like Cats, and 50 like Fish. What percentage like Cats?",
+        "answer_type": "text_input",
+        "correct_answer": "33.30%",
+        "alternative_answer_1": "a third",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9017,
+        "question_text": "A line graph shows that a company had 200 sales in January and 250 in February. What was the percentage increase?",
+        "answer_type": "text_input",
+        "correct_answer": "25%",
+        "alternative_answer_1": "25",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9018,
+        "question_text": "A pie chart shows the favourite subjects of 180 students. The angle for the Maths sector is 60 degrees. How many students chose Maths?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9019,
+        "question_text": "A line graph shows the value of shares. The scale is in pounds. A point is plotted at 4.5. What does this represent?",
+        "answer_type": "text_input",
+        "correct_answer": "£4.50",
+        "alternative_answer_1": "4.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9020,
+        "question_text": "A pie chart shows a budget of £200. The 'Food' sector is 25% and the 'Bills' sector is 50%. What is the total cost of food and bills?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "£150",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9021,
+        "question_text": "A line graph compares the heights of two plants, A and B, over time. The line for Plant A is always above the line for Plant B. What does this tell you?",
+        "answer_type": "text_input",
+        "correct_answer": "Plant A is always taller",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9022,
+        "question_text": "In a survey of 60 people, 15 chose Green. To create a pie chart, what angle would the Green sector need?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90°",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9023,
+        "question_text": "A line graph shows a patient's temperature over 3 days. It starts at 38°C, goes up to 40°C on day 2, and down to 37°C on day 3. What was the overall change?",
+        "answer_type": "text_input",
+        "correct_answer": "-1",
+        "alternative_answer_1": "It went down by 1 degree",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9024,
+        "question_text": "A pie chart of 400 votes shows 100 for A, 200 for B, and 100 for C. What percentage voted for B?",
+        "answer_type": "text_input",
+        "correct_answer": "50%",
+        "alternative_answer_1": "50",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9025,
+        "question_text": "A line graph shows money in an account. The line is flat for 3 months. What does this mean?",
+        "answer_type": "text_input",
+        "correct_answer": "No money was added or taken out",
+        "alternative_answer_1": "The balance did not change",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9026,
+        "question_text": "A line graph shows a town's population was 10,000 in 2010 and grew by 10% by 2020. A pie chart for 2020 shows 25% are children. How many children were there in 2020?",
+        "answer_type": "text_input",
+        "correct_answer": "2750",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9027,
+        "question_text": "A pie chart shows that in a survey of 180 people, the angle for 'Yes' was 120 degrees. A line graph shows that this survey was repeated every month, with the number of 'Yes' votes decreasing by 10 each month. How many 'Yes' votes would you predict for the third month?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9028,
+        "question_text": "You need to construct a pie chart for 90 votes. 30 people voted for A. What angle do you need for sector A?",
+        "answer_type": "text_input",
+        "correct_answer": "120",
+        "alternative_answer_1": "120°",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9029,
+        "question_text": "A line graph shows a car travelling 120 km in 2 hours. A pie chart of the journey shows 50% was on the motorway. How many kilometres were on the motorway?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60 km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9030,
+        "question_text": "A pie chart shows 60 students' favourite subjects. English has a 90-degree sector. French has a 60-degree sector. How many more students chose English than French?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9031,
+        "question_text": "A line graph shows that a website had 500 visitors in January. The number of visitors increased by 20% in February. How many visitors were there in February?",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9032,
+        "question_text": "A pie chart shows a £400 budget. A line graph shows this budget is for a 5-day trip. What is the average budget per day?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "£80",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9033,
+        "question_text": "A company has 200 employees. A pie chart shows 40% are in Sales. A line graph shows Sales are predicted to increase by 10% next year. How many Sales employees will there be next year?",
+        "answer_type": "text_input",
+        "correct_answer": "88",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9034,
+        "question_text": "To construct a pie chart for 45 people, how many degrees would represent one person?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8°",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9035,
+        "question_text": "A line graph tracks two runners. Runner A's line is steeper than Runner B's. What does this tell you about their speeds?",
+        "answer_type": "text_input",
+        "correct_answer": "Runner A is faster",
+        "alternative_answer_1": "A is faster",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9036,
+        "question_text": "A line graph shows that a factory produces 1000 widgets per day. A pie chart shows that 5% of widgets are faulty. How many non-faulty widgets are produced each day?",
+        "answer_type": "text_input",
+        "correct_answer": "950",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9037,
+        "question_text": "A pie chart shows how a student spends their time. The 'Sleep' sector has an angle of 120 degrees. How many hours a day does the student sleep?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8 hours",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9038,
+        "question_text": "A line graph shows the value of an investment grew from £500 to £550 in one year. What was the percentage increase?",
+        "answer_type": "text_input",
+        "correct_answer": "10%",
+        "alternative_answer_1": "10",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9039,
+        "question_text": "A pie chart shows 72 votes. One sector has an angle of 40 degrees. How many votes does this represent?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9040,
+        "question_text": "A line graph has two lines showing the sales of two different products, A and B. The lines cross over. What does the crossover point signify?",
+        "answer_type": "text_input",
+        "correct_answer": "Their sales were equal",
+        "alternative_answer_1": "They sold the same amount",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9041,
+        "question_text": "A library has 1,200 books. A pie chart shows 30% are non-fiction. A line graph shows that 10% of the non-fiction books are about history. How many history books are there?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9042,
+        "question_text": "A pie chart shows a survey of 50 people. The 'Yes' sector has an angle of 144 degrees. How many people said 'Yes'?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9043,
+        "question_text": "A line graph shows that in a video game, a player's score increases by 200 points every minute. If the game starts at 0 points, what would be the score after 4.5 minutes?",
+        "answer_type": "text_input",
+        "correct_answer": "900",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9044,
+        "question_text": "A school has 300 students. A pie chart shows that the angle for students who walk is 180 degrees. The rest take the bus. How many take the bus?",
+        "answer_type": "text_input",
+        "correct_answer": "150",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9045,
+        "question_text": "A line graph shows the number of tickets sold for an event. The y-axis is labelled in thousands. A point is plotted at 3.5. How many tickets does this represent?",
+        "answer_type": "text_input",
+        "correct_answer": "3500",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9046,
+        "question_text": "A pie chart is made for 36 people. How many degrees on the chart represents one person?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10°",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9047,
+        "question_text": "A line graph shows the number of cars on a road was 250 at 8 am. This number decreased by 20% by 10 am. How many cars were on the road at 10 am?",
+        "answer_type": "text_input",
+        "correct_answer": "200",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9048,
+        "question_text": "A pie chart shows a budget. 'Rent' takes up a 90-degree sector. 'Food' takes up a 120-degree sector. What fraction of the budget is left for everything else?",
+        "answer_type": "text_input",
+        "correct_answer": "05-Dec",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9049,
+        "question_text": "A line graph shows the volume of water in a tank is 500 litres. The volume decreases by 10 litres every minute. After how many minutes will the tank be empty?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50 minutes",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    },
+    {
+        "question_id": 9050,
+        "question_text": "A pie chart for 150 people shows 40% chose A, 30% chose B, and the rest chose C. How many people chose C?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 336
+    }
+]

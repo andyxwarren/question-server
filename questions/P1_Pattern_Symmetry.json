@@ -1,0 +1,2002 @@
+[
+    {
+        "question_id": 4636,
+        "question_text": "What comes next in this pattern: square, circle, square, circle, __?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4637,
+        "question_text": "Look at the pattern: red, blue, green, red, blue, green, __. What is the next colour?",
+        "answer_type": "text_input",
+        "correct_answer": "red",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4638,
+        "question_text": "What is the next number in this sequence: 1, 2, 3, 1, 2, 3, __?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4639,
+        "question_text": "A pattern is made of a triangle and a square: triangle, square, triangle, square, __. What shape is next?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4640,
+        "question_text": "Find the next number in the pattern: 5, 6, 5, 6, 5, 6, __?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4641,
+        "question_text": "The pattern is: A, B, C, A, B, C, __. What is the next letter?",
+        "answer_type": "text_input",
+        "correct_answer": "A",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4642,
+        "question_text": "Look at this shape pattern: circle, circle, square, circle, circle, square, __. What is the next shape?",
+        "answer_type": "text_input",
+        "correct_answer": "circle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4643,
+        "question_text": "What is the next colour: yellow, red, yellow, red, __?",
+        "answer_type": "text_input",
+        "correct_answer": "yellow",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4644,
+        "question_text": "Continue the number pattern: 8, 9, 10, 8, 9, 10, __?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4645,
+        "question_text": "A pattern uses two shapes: star, heart, star, heart, __. What is the next shape?",
+        "answer_type": "text_input",
+        "correct_answer": "star",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4646,
+        "question_text": "What comes next in the sequence: up, down, up, down, __?",
+        "answer_type": "text_input",
+        "correct_answer": "up",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4647,
+        "question_text": "Find the next number in the pattern: 2, 4, 6, 2, 4, 6, __?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4648,
+        "question_text": "The pattern is: A, A, B, A, A, B, __. What is the next letter?",
+        "answer_type": "text_input",
+        "correct_answer": "A",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4649,
+        "question_text": "Look at the pattern: green, green, blue, green, green, blue, __. What colour is next?",
+        "answer_type": "text_input",
+        "correct_answer": "green",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4650,
+        "question_text": "What is the next shape in this pattern: triangle, triangle, circle, triangle, triangle, circle, __?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4651,
+        "question_text": "Continue this pattern: 7, 7, 8, 7, 7, 8, __?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4652,
+        "question_text": "A pattern is made of colours: purple, orange, purple, orange, __. What comes next?",
+        "answer_type": "text_input",
+        "correct_answer": "purple",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4653,
+        "question_text": "Find the next shape: square, triangle, circle, square, triangle, circle, __?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4654,
+        "question_text": "What is the next number in this repeating sequence: 10, 9, 8, 10, 9, 8, __?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4655,
+        "question_text": "The pattern is: big, small, big, small, __. What size comes next?",
+        "answer_type": "text_input",
+        "correct_answer": "big",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4656,
+        "question_text": "What is the next letter in the pattern: X, Y, X, Y, X, Y, __?",
+        "answer_type": "text_input",
+        "correct_answer": "X",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4657,
+        "question_text": "Look at the sequence: 3, 5, 7, 3, 5, 7, __. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4658,
+        "question_text": "A pattern is: dog, cat, fish, dog, cat, fish, __. What is the next animal?",
+        "answer_type": "text_input",
+        "correct_answer": "dog",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4659,
+        "question_text": "Find the next colour: blue, red, red, blue, red, red, __?",
+        "answer_type": "text_input",
+        "correct_answer": "blue",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4660,
+        "question_text": "What is the next number in this pattern: 1, 1, 2, 1, 1, 2, __?",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4661,
+        "question_text": "What is the repeating part of this pattern: 10, 20, 15, 10, 20, 15, ...?",
+        "answer_type": "text_input",
+        "correct_answer": "10, 20, 15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4662,
+        "question_text": "Look at the pattern: A, B, C, D, A, B, C, D... What are the next two letters?",
+        "answer_type": "text_input",
+        "correct_answer": "A, B",
+        "alternative_answer_1": "A,B",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4663,
+        "question_text": "Find the next three numbers in the sequence: 18, 16, 14, 12, 18, 16, 14, 12, __, __, __?",
+        "answer_type": "text_input",
+        "correct_answer": "18, 16, 14",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4664,
+        "question_text": "A pattern is: square, triangle, square, circle, square, triangle, square, circle... What is the core repeating unit?",
+        "answer_type": "text_input",
+        "correct_answer": "square, triangle, square, circle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4665,
+        "question_text": "What are the next two shapes in this pattern: star, star, moon, sun, star, star, moon, sun, __, __?",
+        "answer_type": "text_input",
+        "correct_answer": "star, star",
+        "alternative_answer_1": "star,star",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4666,
+        "question_text": "The sequence is: 5, 10, 15, 20, 5, 10, 15, 20... What is the repeating part?",
+        "answer_type": "text_input",
+        "correct_answer": "5, 10, 15, 20",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4667,
+        "question_text": "Create a pattern with the repeating rule A, B, B. What are the first six letters of this pattern?",
+        "answer_type": "text_input",
+        "correct_answer": "A, B, B, A, B, B",
+        "alternative_answer_1": "ABBABB",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4668,
+        "question_text": "A pattern rule is red, blue, yellow. What are the next three colours in the pattern red, blue, yellow, __, __, __?",
+        "answer_type": "text_input",
+        "correct_answer": "red, blue, yellow",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4669,
+        "question_text": "What is the core repeating unit in this sequence: 19, 17, 19, 17, 19, 17...?",
+        "answer_type": "text_input",
+        "correct_answer": "19, 17",
+        "alternative_answer_1": "19,17",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4670,
+        "question_text": "Predict the next two numbers in the pattern: 1, 3, 5, 7, 1, 3, 5, 7, __, __?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 3",
+        "alternative_answer_1": "1,3",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4671,
+        "question_text": "A pattern is made with the rule turn left, turn right, go straight. What are the first 4 movements?",
+        "answer_type": "text_input",
+        "correct_answer": "turn left, turn right, go straight, turn left",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4672,
+        "question_text": "What is the repeating unit in this pattern: clap, stomp, clap, stomp, clap, stomp...?",
+        "answer_type": "text_input",
+        "correct_answer": "clap, stomp",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4673,
+        "question_text": "Continue the sequence for two more terms: 20, 15, 10, 20, 15, 10, __, __?",
+        "answer_type": "text_input",
+        "correct_answer": "20, 15",
+        "alternative_answer_1": "20,15",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4674,
+        "question_text": "The rule for a pattern is X, Y, Y, Z. What are the first five letters?",
+        "answer_type": "text_input",
+        "correct_answer": "X, Y, Y, Z, X",
+        "alternative_answer_1": "XYYZX",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4675,
+        "question_text": "Identify the repeating part of this pattern: blue, green, green, blue, green, green...?",
+        "answer_type": "text_input",
+        "correct_answer": "blue, green, green",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4676,
+        "question_text": "If a pattern repeats the sequence 11, 13, 15, what are the next three numbers after 11, 13, 15, ...?",
+        "answer_type": "text_input",
+        "correct_answer": "11, 13, 15",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4677,
+        "question_text": "What are the next two terms in the pattern: A, B, C, A, B, C, __, __?",
+        "answer_type": "text_input",
+        "correct_answer": "A, B",
+        "alternative_answer_1": "A,B",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4678,
+        "question_text": "A pattern is built using the rule circle, square. What do the first five shapes look like?",
+        "answer_type": "text_input",
+        "correct_answer": "circle, square, circle, square, circle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4679,
+        "question_text": "What is the core unit of this pattern: 12, 14, 16, 12, 14, 16, ...?",
+        "answer_type": "text_input",
+        "correct_answer": "12, 14, 16",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4680,
+        "question_text": "Predict the next three shapes: triangle, circle, triangle, circle, __, __, __?",
+        "answer_type": "text_input",
+        "correct_answer": "triangle, circle, triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4681,
+        "question_text": "Given the repeating pattern up, up, down, what are the next two movements after up, up, down, up, ...?",
+        "answer_type": "text_input",
+        "correct_answer": "up, down",
+        "alternative_answer_1": "up,down",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4682,
+        "question_text": "What are the next two numbers in this pattern: 17, 18, 17, 18, __, __?",
+        "answer_type": "text_input",
+        "correct_answer": "17, 18",
+        "alternative_answer_1": "17,18",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4683,
+        "question_text": "The repeating part of a pattern is sun, cloud, rain. What are the first five items in the pattern?",
+        "answer_type": "text_input",
+        "correct_answer": "sun, cloud, rain, sun, cloud",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4684,
+        "question_text": "Identify the core repeating unit in the sequence: X, Y, Z, Z, X, Y, Z, Z...?",
+        "answer_type": "text_input",
+        "correct_answer": "X, Y, Z, Z",
+        "alternative_answer_1": "XYZZ",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4685,
+        "question_text": "What are the next three numbers in the pattern: 1, 5, 9, 1, 5, 9, __, __, __?",
+        "answer_type": "text_input",
+        "correct_answer": "1, 5, 9",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4686,
+        "question_text": "What is the rule for this pattern: 10, 20, 30, 40, 50?",
+        "answer_type": "text_input",
+        "correct_answer": "Add 10",
+        "alternative_answer_1": "10",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4687,
+        "question_text": "The sequence is: 55, 50, 45, 40... What is the rule?",
+        "answer_type": "text_input",
+        "correct_answer": "Subtract 5",
+        "alternative_answer_1": "-5",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4688,
+        "question_text": "Find the next number in the sequence: 12, 14, 16, 18, __?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4689,
+        "question_text": "What number is missing from this pattern: 25, 30, __, 40, 45?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4690,
+        "question_text": "A pattern is A, A, B, B, C, C... What would the 7th letter be?",
+        "answer_type": "text_input",
+        "correct_answer": "D",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4691,
+        "question_text": "What is the rule for the sequence: 90, 80, 70, 60?",
+        "answer_type": "text_input",
+        "correct_answer": "Subtract 10",
+        "alternative_answer_1": "-10",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4692,
+        "question_text": "Continue the pattern: 4, 5, 7, 8, 10, 11, __. The rule is add 1, then add 2.",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4693,
+        "question_text": "In the pattern 5, 10, 15, 20..., what will the 7th number be?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4694,
+        "question_text": "The rule for a pattern is add 1. If the first number is 33, what is the fourth number?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4695,
+        "question_text": "What is the rule for the pattern: 78, 77, 76, 75?",
+        "answer_type": "text_input",
+        "correct_answer": "Subtract 1",
+        "alternative_answer_1": "-1",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4696,
+        "question_text": "A pattern is: Red, Blue, Blue, Red, Blue, Blue... What is the repeating part of this pattern?",
+        "answer_type": "text_input",
+        "correct_answer": "Red, Blue, Blue",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4697,
+        "question_text": "Find the missing number: 60, 50, __, 30, 20.",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4698,
+        "question_text": "A pattern is A, B, C, A, B, C... What is the 9th letter in this pattern?",
+        "answer_type": "text_input",
+        "correct_answer": "C",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4699,
+        "question_text": "What is the rule for this sequence: 15, 20, 25, 30?",
+        "answer_type": "text_input",
+        "correct_answer": "Add 5",
+        "alternative_answer_1": "5",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4700,
+        "question_text": "In the pattern 80, 70, 60, 50..., what will the 6th number be?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4701,
+        "question_text": "A pattern is square, circle, triangle, circle, square, circle, triangle, circle... What is the repeating unit?",
+        "answer_type": "text_input",
+        "correct_answer": "square, circle, triangle, circle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4702,
+        "question_text": "What is the rule for the pattern: 22, 24, 26, 28?",
+        "answer_type": "text_input",
+        "correct_answer": "Add 2",
+        "alternative_answer_1": "2",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4703,
+        "question_text": "Find the next number in the sequence: 95, 90, 85, 80, __.",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4704,
+        "question_text": "If a pattern follows the rule subtract 10 and starts at 100, what is the fifth number?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4705,
+        "question_text": "A pattern is: circle, circle, square, square, circle, circle, square, square... What are the next two shapes?",
+        "answer_type": "text_input",
+        "correct_answer": "circle, circle",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4706,
+        "question_text": "What number is missing from the pattern: 44, 46, __, 50?",
+        "answer_type": "text_input",
+        "correct_answer": "48",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4707,
+        "question_text": "The rule is add 5. If the sequence is 50, 55, 60, what is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "65",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4708,
+        "question_text": "A pattern is X, Y, Z, Y, X, Y, Z, Y... What is the core repeating part?",
+        "answer_type": "text_input",
+        "correct_answer": "X, Y, Z, Y",
+        "alternative_answer_1": "XYZY",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4709,
+        "question_text": "What is the rule for this pattern: 41, 42, 43, 44?",
+        "answer_type": "text_input",
+        "correct_answer": "Add 1",
+        "alternative_answer_1": "1",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4710,
+        "question_text": "Find the next term in the sequence: 1, 11, 21, 31, __.",
+        "answer_type": "text_input",
+        "correct_answer": "41",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4711,
+        "question_text": "Find the mistake in this pattern: 5, 10, 15, 21, 25, 30.",
+        "answer_type": "text_input",
+        "correct_answer": "21",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4712,
+        "question_text": "A pattern goes: 2, 4, 6, 8, ... What will the 10th number in this pattern be?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4713,
+        "question_text": "In the repeating pattern A, B, C, D, A, B, C, D, ... what letter will be in the 12th position?",
+        "answer_type": "text_input",
+        "correct_answer": "D",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4714,
+        "question_text": "Correct the error in this sequence: 100, 90, 80, 75, 60.",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4715,
+        "question_text": "A pattern is made by adding 5. If the third number is 15, what was the first number?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4716,
+        "question_text": "A pattern repeats the word MATHS. What is the 16th letter in the sequence?",
+        "answer_type": "text_input",
+        "correct_answer": "M",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4717,
+        "question_text": "What is the rule for this pattern: 2, 4, 8, 16, 32?",
+        "answer_type": "text_input",
+        "correct_answer": "Double the number",
+        "alternative_answer_1": "Multiply by 2",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4718,
+        "question_text": "There is a mistake in this pattern: 50, 45, 40, 36, 30. Which number is wrong?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4719,
+        "question_text": "The first floor of a building has 10 windows. The second has 20, the third has 30. How many windows will the 8th floor have?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4720,
+        "question_text": "In a repeating pattern of shapes (circle, square, triangle), what will the 20th shape be?",
+        "answer_type": "text_input",
+        "correct_answer": "square",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4721,
+        "question_text": "A sequence starts at 90 and the rule is subtract 10. Is the number 45 in this sequence?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4722,
+        "question_text": "Fix the error in this counting pattern: 2, 4, 6, 9, 10, 12.",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4723,
+        "question_text": "A pattern is made by repeating red, red, blue. What colour is the 10th block?",
+        "answer_type": "text_input",
+        "correct_answer": "red",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4724,
+        "question_text": "The rule is add 2. The pattern is 3, 5, 7, 9... Will the number 20 be in this pattern?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4725,
+        "question_text": "A pattern of beads is green, yellow, yellow, green, yellow, yellow... How many yellow beads will there be in the first 12 beads?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4726,
+        "question_text": "Which number doesn't belong in this sequence: 10, 20, 30, 35, 40?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4727,
+        "question_text": "A bus arrives at 10:00, 10:10, 10:20... If the pattern continues, what time will the 6th bus arrive?",
+        "answer_type": "text_input",
+        "correct_answer": "10:50",
+        "alternative_answer_1": "10:50am",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4728,
+        "question_text": "A pattern adds 10 each time. If the 5th number is 52, what was the 1st number?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4729,
+        "question_text": "Identify the incorrect number in this sequence of multiples of 5: 5, 10, 15, 20, 24, 30.",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4730,
+        "question_text": "A pattern repeats the colours blue, green, yellow, orange. What will the 21st colour be?",
+        "answer_type": "text_input",
+        "correct_answer": "blue",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4731,
+        "question_text": "A pattern subtracts 5. The sequence is 75, 70, 65, 55, 50. Which number is wrong?",
+        "answer_type": "text_input",
+        "correct_answer": "55",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4732,
+        "question_text": "A frog jumps 5cm every time. It starts at 0. Will it land on 35cm?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4733,
+        "question_text": "The rule for a pattern is double the number. If it starts with 2, what is the 5th number?",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4734,
+        "question_text": "In the pattern 10, 20, 30, ... which term will be 100?",
+        "answer_type": "text_input",
+        "correct_answer": "10th",
+        "alternative_answer_1": "The 10th",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 4735,
+        "question_text": "A pattern starts with 100, and 10 is subtracted each time. Another pattern starts at 0 and adds 10 each time. At what number will they meet?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 478
+    },
+    {
+        "question_id": 12906,
+        "question_text": "You want to fill a rectangular sandpit with sand. To find out how much sand you need, should you calculate the area or the volume of the sandpit?",
+        "answer_type": "text_input",
+        "correct_answer": "Volume",
+        "alternative_answer_1": "volume",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 14232,
+        "question_text": "Why is it not possible to use the formula A = s² (side squared) to find the area of a general rectangle?",
+        "answer_type": "text_input",
+        "correct_answer": "The sides may be different lengths",
+        "alternative_answer_1": "It is not a square",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24723,
+        "question_text": "What is the missing number: 5 + 3 = __?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24724,
+        "question_text": "A farmer has 10 sheep and sells 4. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24725,
+        "question_text": "There are 3 nests, and each nest has 4 eggs. How many eggs are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "Twelve",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24726,
+        "question_text": "15 sweets are shared equally between 3 friends. How many sweets does each friend get?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24727,
+        "question_text": "The equals sign (=) means is the same as. Is the statement 4 + 1 = 5 true or false?",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "TRUE",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24728,
+        "question_text": "What is 13 - 5?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24729,
+        "question_text": "A box contains 5 pairs of socks. How many socks are there in total?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24730,
+        "question_text": "You have 20p and want to buy sweets that cost 10p each. How many can you buy?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "Two",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24731,
+        "question_text": "Is the number sentence 10 - 2 = 7 correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24732,
+        "question_text": "Add 8 and 6 mentally.",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24733,
+        "question_text": "There are 6 pencils in a pack. You buy 3 packs. How many pencils do you have?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "Eighteen",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24734,
+        "question_text": "18 cupcakes are arranged into 3 equal rows. How many are in each row?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24735,
+        "question_text": "What does the equals sign (=) in the sentence 3 + 4 = 7 mean?",
+        "answer_type": "text_input",
+        "correct_answer": "Is the same as",
+        "alternative_answer_1": "Equals",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24736,
+        "question_text": "A bus has 15 people. 8 get off. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24737,
+        "question_text": "Solve the multiplication: 5 times 5.",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24738,
+        "question_text": "A 24cm ribbon is cut into 4 equal pieces. How long is each piece?",
+        "answer_type": "text_input",
+        "correct_answer": "6cm",
+        "alternative_answer_1": "6",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24739,
+        "question_text": "Is the statement 3 x 5 = 15 true or false?",
+        "answer_type": "text_input",
+        "correct_answer": "TRUE",
+        "alternative_answer_1": "TRUE",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24740,
+        "question_text": "You have 9 sweets and your friend gives you 5 more. How many do you have now?",
+        "answer_type": "text_input",
+        "correct_answer": "14",
+        "alternative_answer_1": "Fourteen",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24741,
+        "question_text": "A book costs £7. How many can you buy with £21?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "Three",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24742,
+        "question_text": "There are 4 seasons in a year. How many seasons are in 5 years?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24743,
+        "question_text": "Is the number sentence 16 ÷ 2 = 9 correct?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "no",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24744,
+        "question_text": "A cat has 4 legs. How many legs do 6 cats have?",
+        "answer_type": "text_input",
+        "correct_answer": "24",
+        "alternative_answer_1": "Twenty-four",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24745,
+        "question_text": "From a class of 30, 12 are absent. How many are present?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "Eighteen",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24746,
+        "question_text": "What is 50 + 25?",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "Seventy-five",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24747,
+        "question_text": "28 children are in 4 teams. How many children per team?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 1,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24748,
+        "question_text": "You buy 3 apples at 20p each and a banana for 15p. What is the total cost?",
+        "answer_type": "text_input",
+        "correct_answer": "75p",
+        "alternative_answer_1": "75",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24749,
+        "question_text": "A baker makes 50 cakes. He sells 35 and then bakes 10 more. How many cakes does he have now?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24750,
+        "question_text": "A prize of £100 is shared equally between 5 people. One winner then gives £5 away. How much do they have left?",
+        "answer_type": "text_input",
+        "correct_answer": "£15",
+        "alternative_answer_1": "15",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24751,
+        "question_text": "What is the missing number: 5 x 6 = __ + 10?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24752,
+        "question_text": "There are 4 bags with 8 sweets in each. If 10 sweets are eaten, how many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "Twenty-two",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24753,
+        "question_text": "A classroom has 5 tables with 6 children at each. If 3 children leave, how many are left in the class?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "Twenty-seven",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24754,
+        "question_text": "What is the missing number: 8 + 7 = 20 - __?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24755,
+        "question_text": "You have £20. You buy 3 books that cost £4 each. How much money do you have left?",
+        "answer_type": "text_input",
+        "correct_answer": "£8",
+        "alternative_answer_1": "8",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24756,
+        "question_text": "A farmer has 3 fields with 10 sheep in each. He then sells 5 sheep. How many does he have left?",
+        "answer_type": "text_input",
+        "correct_answer": "25",
+        "alternative_answer_1": "Twenty-five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24757,
+        "question_text": "What is (5 + 3) x 4?",
+        "answer_type": "text_input",
+        "correct_answer": "32",
+        "alternative_answer_1": "Thirty-two",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24758,
+        "question_text": "A box contains 50 pens. 18 are given out. The rest are bundled into packs of 8. How many packs can be made?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24759,
+        "question_text": "What number makes this sentence true: 12 + 12 = 3 x __?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "Eight",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24760,
+        "question_text": "You score 15 points, then 25 points. Your friend scores 50 points. What is the difference between your total and your friend's?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24761,
+        "question_text": "What is 100 - (10 x 6)?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "Forty",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24762,
+        "question_text": "A pizza is cut into 12 slices. You eat 2 slices and your friend eats 3. How many slices are left?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24763,
+        "question_text": "Fill in the blank: 40 ÷ 5 = 2 + __.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "Six",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24764,
+        "question_text": "A baker makes 6 batches of 12 cookies. She then sells 50 cookies. How many are left?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "Twenty-two",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24765,
+        "question_text": "You have 30 marbles. You lose half of them, then find 5. How many do you have now?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "Twenty",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24766,
+        "question_text": "What is 50 - (4 x 8)?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "Eighteen",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24767,
+        "question_text": "Apples cost 30p. Pears cost 40p. What is the cost of 2 apples and 1 pear?",
+        "answer_type": "text_input",
+        "correct_answer": "100p",
+        "alternative_answer_1": "£1",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24768,
+        "question_text": "What is the value of (20 - 5) ÷ 3?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "Five",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24773,
+        "question_text": "A shop sells books for £7 each, or 3 for £18. How much do you save by buying 3 together instead of separately?",
+        "answer_type": "text_input",
+        "correct_answer": "£3",
+        "alternative_answer_1": "3",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24774,
+        "question_text": "A farmer has 150 sheep. He sells half of them. He then buys 25 more. How many sheep does he have?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "One hundred",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24775,
+        "question_text": "What is the missing number that makes this statement true: (6 x 8) + 12 = __ x 6?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24776,
+        "question_text": "A cinema has 25 rows of 30 seats. On Tuesday, 150 seats were empty. How many people were in the cinema?",
+        "answer_type": "text_input",
+        "correct_answer": "600",
+        "alternative_answer_1": "Six hundred",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24777,
+        "question_text": "You have a £50 gift card. You buy a game for £28 and a controller for £15.50. How much is left on the card?",
+        "answer_type": "text_input",
+        "correct_answer": "£6.50",
+        "alternative_answer_1": "6.5",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24778,
+        "question_text": "A car travels at 50 mph for 2 hours and then at 40 mph for 1 hour. What is the total distance travelled?",
+        "answer_type": "text_input",
+        "correct_answer": "140 miles",
+        "alternative_answer_1": "140",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24779,
+        "question_text": "What is 5² + 10 ÷ 2?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "Thirty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24780,
+        "question_text": "A factory produces 1200 cars. 1/4 are red and 1/3 are blue. The rest are silver. How many are silver?",
+        "answer_type": "text_input",
+        "correct_answer": "500",
+        "alternative_answer_1": "Five hundred",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24781,
+        "question_text": "Find the value of x if 100 / x = 5 x 5.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "Four",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24782,
+        "question_text": "A recipe for 10 cakes needs 250g flour. You have 1kg of flour. How many cakes can you make?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "Forty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24783,
+        "question_text": "What is (12 + 8) x (10 - 5)?",
+        "answer_type": "text_input",
+        "correct_answer": "100",
+        "alternative_answer_1": "One hundred",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24784,
+        "question_text": "A pool is 10m long, 5m wide, and 2m deep. It is half full. How many cubic metres of water are in it?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50 m³",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24785,
+        "question_text": "What is 10 x (15 - 8) - 20?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24786,
+        "question_text": "A library has 500 books. 150 are loaned out. The remaining books are put onto shelves that hold 35 books each. How many shelves are filled?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "Ten",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24787,
+        "question_text": "Solve for y: 4y + 12 = 40.",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "Seven",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24788,
+        "question_text": "A concert sells 200 tickets at £15 and 300 tickets at £12. What is the total income?",
+        "answer_type": "text_input",
+        "correct_answer": "£6600",
+        "alternative_answer_1": "6600",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24789,
+        "question_text": "What is 60 ÷ 10 + 4 x 5?",
+        "answer_type": "text_input",
+        "correct_answer": "26",
+        "alternative_answer_1": "Twenty-six",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24790,
+        "question_text": "A tank contains 500 litres of water. 1/5 leaks out. Then 50 litres are added. How much water is in the tank?",
+        "answer_type": "text_input",
+        "correct_answer": "450",
+        "alternative_answer_1": "450 litres",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24791,
+        "question_text": "Make this sentence true: 8 x 8 = 100 - __.",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "Thirty-six",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24792,
+        "question_text": "A company makes 500 toys. It costs £3 to make each toy and they sell for £8. If they sell 400 toys, what is the profit?",
+        "answer_type": "text_input",
+        "correct_answer": "£500",
+        "alternative_answer_1": "500",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24793,
+        "question_text": "A company makes a toy for £3 and sells it for £8. If they sell 400 toys, what is their total profit?",
+        "answer_type": "text_input",
+        "correct_answer": "£2000",
+        "alternative_answer_1": "2000",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24794,
+        "question_text": "What is (72 ÷ 9) + (6 x 7)?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "Fifty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24795,
+        "question_text": "A bus has 52 seats. It is half full. At the next stop, 10 people get on. How many people are on the bus?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "Thirty-six",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24796,
+        "question_text": "Solve the equation: 50 = (x / 4) + 10.",
+        "answer_type": "text_input",
+        "correct_answer": "160",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 24797,
+        "question_text": "A baker makes 10 large cakes and 20 small cakes. Large cakes use 4 eggs each, small cakes use 2 eggs. How many eggs are used in total?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "Eighty",
+        "original_pundex": 3,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29580,
+        "question_text": "Arrange these objects in a repeating pattern: circle, square, triangle, circle, __, __.",
+        "answer_type": "text_input",
+        "correct_answer": "square, triangle",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29581,
+        "question_text": "Predict the next number in this pattern: 10, 15, 20, 25, __.",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29582,
+        "question_text": "What is the rule for this sequence: 3, 6, 12, 24, 48?",
+        "answer_type": "text_input",
+        "correct_answer": "Multiply by 2",
+        "alternative_answer_1": "Double the number",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29583,
+        "question_text": "What is the rule for this sequence: 81, 27, 9, 3, 1?",
+        "answer_type": "text_input",
+        "correct_answer": "Divide by 3",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29584,
+        "question_text": "A pattern uses the rule multiply by 3 and add 1. If the first number is 2, what is the third number?",
+        "answer_type": "text_input",
+        "correct_answer": "22",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29585,
+        "question_text": "Correct the error in this sequence: 5, 10, 15, 21, 25.",
+        "answer_type": "text_input",
+        "correct_answer": "21",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29586,
+        "question_text": "Create a number pattern that increases by 20 each time, starting from 15.",
+        "answer_type": "text_input",
+        "correct_answer": "15, 35, 55, 75...",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29587,
+        "question_text": "Look at the pattern: 1, 4, 9, 16, 25. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29588,
+        "question_text": "Look at the pattern: 1, 8, 27, 64. What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "125",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29589,
+        "question_text": "The rule for a sequence is subtract 8. If the 4th term is 20, what was the 1st term?",
+        "answer_type": "text_input",
+        "correct_answer": "44",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29590,
+        "question_text": "Identify the rule for this complex pattern: 2, 4, 3, 6, 5, 10...",
+        "answer_type": "text_input",
+        "correct_answer": "Multiply by 2, then subtract 1",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29591,
+        "question_text": "A repeating pattern is Red, Blue, Blue, Green. What colour is the 10th shape?",
+        "answer_type": "text_input",
+        "correct_answer": "Blue",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29592,
+        "question_text": "Find the 10th number in the sequence that starts at 100 and halves each time.",
+        "answer_type": "text_input",
+        "correct_answer": "0.1953125",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29593,
+        "question_text": "A sequence is formed by adding the previous two numbers: 1, 1, 2, 3, 5, 8... What is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "13",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29594,
+        "question_text": "Create a pattern of shapes based on the number sequence 1, 3, 5, 7...",
+        "answer_type": "text_input",
+        "correct_answer": "1 triangle, 3 triangles, 5 triangles",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29595,
+        "question_text": "The rule for a pattern is double and subtract 1. If you start with 3, what is the next number?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29596,
+        "question_text": "What is the missing number? 1, 2, 4, 8, __, 32.",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29597,
+        "question_text": "What is the missing number? 90, 85, 80, __, 70.",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29598,
+        "question_text": "A pattern of beads is Black, White, White, Black, White, White... What is the rule?",
+        "answer_type": "text_input",
+        "correct_answer": "One black, two white",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29599,
+        "question_text": "Correct the error: 100, 90, 80, 75, 60.",
+        "answer_type": "text_input",
+        "correct_answer": "75",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29600,
+        "question_text": "If a pattern increases by 11 each time, and starts at 7, what is the third number?",
+        "answer_type": "text_input",
+        "correct_answer": "29",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29601,
+        "question_text": "A geometric pattern starts with a square, then adds another square to make a rectangle, then adds another square. How many squares in the 5th shape?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29602,
+        "question_text": "The number of seats in a theatre follows a pattern. Row 1 has 10, Row 2 has 12, Row 3 has 14. How many seats in Row 6?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29603,
+        "question_text": "A repeating sequence is A,B,C,D. What is the 15th letter?",
+        "answer_type": "text_input",
+        "correct_answer": "C",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29604,
+        "question_text": "A sequence is 2, 5, 11, 23... What is the rule?",
+        "answer_type": "text_input",
+        "correct_answer": "Double and add 1",
+        "alternative_answer_1": "x2 + 1",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29605,
+        "question_text": "What is the rule for this sequence: 100, 50, 25, 12.5...?",
+        "answer_type": "text_input",
+        "correct_answer": "Halve the number",
+        "alternative_answer_1": "Divide by 2",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    },
+    {
+        "question_id": 29606,
+        "question_text": "A sequence starts at 1 and the rule is multiply by 3. What is the 4th number?",
+        "answer_type": "text_input",
+        "correct_answer": "27",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 2,
+        "topic_id": 519
+    }
+]

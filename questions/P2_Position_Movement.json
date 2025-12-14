@@ -1,0 +1,2002 @@
+[
+    {
+        "question_id": 3536,
+        "question_text": "A point is at (3,4). If you translate it 2 units to the right, what are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,4)",
+        "alternative_answer_1": "5,4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3537,
+        "question_text": "A point at (5,5) is moved 3 units down. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,2)",
+        "alternative_answer_1": "5,2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3538,
+        "question_text": "What are the new coordinates of the point (1,2) after it is translated 4 units up?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,6)",
+        "alternative_answer_1": "1,6",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3539,
+        "question_text": "The point (4,3) is translated 4 units to the left. What are the resulting coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(0,3)",
+        "alternative_answer_1": "0,3",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3540,
+        "question_text": "A square has a vertex at (2,2). If the square is moved 5 units to the right, what are the new coordinates of that vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,2)",
+        "alternative_answer_1": "7,2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3541,
+        "question_text": "A triangle has a corner at (5,1). If it is translated 3 units up, what are the new coordinates of that corner?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,4)",
+        "alternative_answer_1": "5,4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3542,
+        "question_text": "A point is at (3,5). Translate it 1 unit left. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,5)",
+        "alternative_answer_1": "2,5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3543,
+        "question_text": "A point starts at (4,4). It is translated 2 units down. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,2)",
+        "alternative_answer_1": "4,2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3544,
+        "question_text": "What is the result of translating the point (0,1) 5 units to the right?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,1)",
+        "alternative_answer_1": "5,1",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3545,
+        "question_text": "A shape's corner is at (5,4). After a translation 3 units down, where is that corner?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,1)",
+        "alternative_answer_1": "5,1",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3546,
+        "question_text": "What are the coordinates of the point (3,2) when it is reflected in the x-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,-2)",
+        "alternative_answer_1": "3,-2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3547,
+        "question_text": "Reflect the point (4,5) in the x-axis. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,-5)",
+        "alternative_answer_1": "4,-5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3548,
+        "question_text": "A triangle has a vertex at (1,3). What are the coordinates of this vertex after a reflection in the x-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,-3)",
+        "alternative_answer_1": "1,-3",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3549,
+        "question_text": "Find the coordinates of the point (5,1) after it is reflected in the x-axis.",
+        "answer_type": "text_input",
+        "correct_answer": "(5,-1)",
+        "alternative_answer_1": "5,-1",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3550,
+        "question_text": "A point is located at (2,4). What is its position after being reflected in the x-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,-4)",
+        "alternative_answer_1": "2,-4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3551,
+        "question_text": "The point (3,3) is reflected in the x-axis. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,-3)",
+        "alternative_answer_1": "3,-3",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3552,
+        "question_text": "A square has a corner at (4,1). Find the coordinates of this corner after a reflection in the x-axis.",
+        "answer_type": "text_input",
+        "correct_answer": "(4,-1)",
+        "alternative_answer_1": "4,-1",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3553,
+        "question_text": "If you reflect the point (5,5) in the x-axis, where does it land?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,-5)",
+        "alternative_answer_1": "5,-5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3554,
+        "question_text": "What are the coordinates of (1,5) after a reflection in the x-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,-5)",
+        "alternative_answer_1": "1,-5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3555,
+        "question_text": "A rectangle has a vertex at (0,2). What are the coordinates of this vertex after reflecting the shape in the x-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(0,-2)",
+        "alternative_answer_1": "0,-2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3556,
+        "question_text": "A point starts at (3,1). It is translated 2 units right and 4 units up. What are the final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,5)",
+        "alternative_answer_1": "5,5",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3557,
+        "question_text": "A point starts at (5,3). It is moved 4 units left and 1 unit down. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,2)",
+        "alternative_answer_1": "1,2",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3558,
+        "question_text": "Translate the point (1,4) 3 units left. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-2,4)",
+        "alternative_answer_1": "-2,4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3559,
+        "question_text": "A square has vertices at (1,1), (3,1), (3,3), and (1,3). What are the coordinates of the vertex (1,1) after the square is translated 2 units right?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,1)",
+        "alternative_answer_1": "3,1",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3560,
+        "question_text": "A triangle has vertices at (2,1), (5,1), and (3,4). Reflect the vertex (3,4) in the x-axis. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,-4)",
+        "alternative_answer_1": "3,-4",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3561,
+        "question_text": "A point is at (-3,5). If it is translated 6 units to the right, what are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,5)",
+        "alternative_answer_1": "3,5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3562,
+        "question_text": "What are the coordinates of the point (4,-2) after it is translated 5 units up?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,3)",
+        "alternative_answer_1": "4,3",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3563,
+        "question_text": "The point (-1,-4) is translated 3 units right and 7 units up. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,3)",
+        "alternative_answer_1": "2,3",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3564,
+        "question_text": "A square has a vertex at (-2,3). If the square is translated 4 units down, what are the new coordinates of that vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(-2,-1)",
+        "alternative_answer_1": "-2,-1",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3565,
+        "question_text": "Reflect the point (-4,6) in the y-axis. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,6)",
+        "alternative_answer_1": "4,6",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3566,
+        "question_text": "What are the coordinates of the point (5,-3) when it is reflected in the y-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(-5,-3)",
+        "alternative_answer_1": "-5,-3",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3567,
+        "question_text": "A rectangle has a vertex at (-2,-5). What are the coordinates of this vertex after a reflection in the x-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(-2,5)",
+        "alternative_answer_1": "-2,5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3568,
+        "question_text": "Reflect the point (-7,-1) in the y-axis. What are the resulting coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,-1)",
+        "alternative_answer_1": "7,-1",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3569,
+        "question_text": "A square has vertices at (1,1), (-1,1), (-1,-1), and (1,-1). What are the coordinates of the vertex (-1,1) after the square is reflected in the x-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(-1,-1)",
+        "alternative_answer_1": "-1,-1",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3570,
+        "question_text": "A triangle has a vertex at (4,-6). What are the new coordinates of this vertex after the triangle is translated 10 units to the left?",
+        "answer_type": "text_input",
+        "correct_answer": "(-6,-6)",
+        "alternative_answer_1": "-6,-6",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3571,
+        "question_text": "A point is at (8,2). It is reflected in the y-axis. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-8,2)",
+        "alternative_answer_1": "-8,2",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3572,
+        "question_text": "A point at (-5,0) is translated 5 units right. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(0,0)",
+        "alternative_answer_1": "0,0",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3573,
+        "question_text": "Reflect the point (-3,8) in the x-axis. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-3,-8)",
+        "alternative_answer_1": "-3,-8",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3574,
+        "question_text": "A point at (10,-10) is translated 12 units up. What are the resulting coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(10,2)",
+        "alternative_answer_1": "10,2",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3575,
+        "question_text": "What are the coordinates of (0, -7) after it is reflected in the y-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(0,-7)",
+        "alternative_answer_1": "0,-7",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3576,
+        "question_text": "A triangle has vertices at (1,2), (3,5), and (4,2). What are the coordinates of the vertex (3,5) after the triangle is translated 4 units left?",
+        "answer_type": "text_input",
+        "correct_answer": "(-1,5)",
+        "alternative_answer_1": "-1,5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3577,
+        "question_text": "A rectangle has vertices at (2,1), (6,1), (6,4), and (2,4). What are the coordinates of the vertex (6,4) after a reflection in the y-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(-6,4)",
+        "alternative_answer_1": "-6,4",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3578,
+        "question_text": "A point is located at (-5,-5). It is translated 3 units right and 8 units up. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-2,3)",
+        "alternative_answer_1": "-2,3",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3579,
+        "question_text": "What are the coordinates of the point (-9,4) after a reflection in the x-axis?",
+        "answer_type": "text_input",
+        "correct_answer": "(-9,-4)",
+        "alternative_answer_1": "-9,-4",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3580,
+        "question_text": "A point at (7,-3) is translated 10 units left. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-3,-3)",
+        "alternative_answer_1": "-3,-3",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3581,
+        "question_text": "Reflect the point (-6, -10) in the y-axis. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(6,-10)",
+        "alternative_answer_1": "6,-10",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3582,
+        "question_text": "A shape is translated from a vertex at (12, 5) to (-2, 5). Describe the translation.",
+        "answer_type": "text_input",
+        "correct_answer": "14 units left",
+        "alternative_answer_1": "Left 14",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3583,
+        "question_text": "A point at (-4, 8) is reflected in the x-axis. What are its coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-4, -8)",
+        "alternative_answer_1": "-4, -8",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3584,
+        "question_text": "A point (5, 9) is translated 9 units left and 9 units down. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-4, 0)",
+        "alternative_answer_1": "-4, 0",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3585,
+        "question_text": "Reflect the point (11, -2) in the y-axis. What are the resulting coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-11, -2)",
+        "alternative_answer_1": "-11, -2",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3586,
+        "question_text": "A point at (4,5) is translated 3 units left, then reflected in the x-axis. What are the final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,-5)",
+        "alternative_answer_1": "1,-5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3587,
+        "question_text": "A point at (-2,3) is reflected in the y-axis, then translated 4 units down. What are the final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,-1)",
+        "alternative_answer_1": "2,-1",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3588,
+        "question_text": "A point starts at (6,-1). It is reflected in the x-axis, then translated 5 units right. What is its final position?",
+        "answer_type": "text_input",
+        "correct_answer": "(11,1)",
+        "alternative_answer_1": "11,1",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3589,
+        "question_text": "The point (5,2) is moved to (-5,2). Describe the transformation.",
+        "answer_type": "text_input",
+        "correct_answer": "Reflection in the y-axis",
+        "alternative_answer_1": "Reflection",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3590,
+        "question_text": "The point (4,-7) is moved to (4,7). Describe the transformation.",
+        "answer_type": "text_input",
+        "correct_answer": "Reflection in the x-axis",
+        "alternative_answer_1": "Reflection",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3591,
+        "question_text": "A triangle's vertex is at (-3,-5). It is translated 8 units up, then reflected in the y-axis. What are the new coordinates of the vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,3)",
+        "alternative_answer_1": "3,3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3592,
+        "question_text": "A point was translated 4 units left to become (-1,5). What were the original coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(3,5)",
+        "alternative_answer_1": "3,5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3593,
+        "question_text": "A point was reflected in the x-axis to become (7,-2). What were the original coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,2)",
+        "alternative_answer_1": "7,2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3594,
+        "question_text": "A point was reflected in the y-axis to become (-5,-9). What were its original coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,-9)",
+        "alternative_answer_1": "5,-9",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3595,
+        "question_text": "A square has a vertex at (2,2). It is reflected in the y-axis, then translated 3 units left. What are the new coordinates of that vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(-5,2)",
+        "alternative_answer_1": "-5,2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3596,
+        "question_text": "Describe the transformation that moves the point (-8,1) to (-8,-1).",
+        "answer_type": "text_input",
+        "correct_answer": "Reflection in the x-axis",
+        "alternative_answer_1": "Reflection",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3597,
+        "question_text": "A point was translated 6 units down to finish at (4,-4). What were the starting coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,2)",
+        "alternative_answer_1": "4,2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3598,
+        "question_text": "A point starts at (-1,6). It is reflected in the x-axis, then reflected in the y-axis. What are the final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,-6)",
+        "alternative_answer_1": "1,-6",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3599,
+        "question_text": "A point is at (10,10). It is translated 5 units down, then reflected in the y-axis. What are its final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-10,5)",
+        "alternative_answer_1": "-10,5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3600,
+        "question_text": "A point ends at (3,8) after being translated 2 units right and 3 units up. What were the original coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(1,5)",
+        "alternative_answer_1": "1,5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3601,
+        "question_text": "A point at (-4,2) is reflected in the x-axis, then translated 6 units right. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,-2)",
+        "alternative_answer_1": "2,-2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3602,
+        "question_text": "A shape's vertex was at (5, -7) before it was reflected in the y-axis. What are the coordinates of the new vertex after the reflection?",
+        "answer_type": "text_input",
+        "correct_answer": "(-5, -7)",
+        "alternative_answer_1": "-5, -7",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3603,
+        "question_text": "The point (2,9) is moved to (-2,-9). Describe the two transformations that could have occurred in sequence.",
+        "answer_type": "text_input",
+        "correct_answer": "Reflection in x-axis and reflection in y-axis",
+        "alternative_answer_1": "Reflected in y-axis then x-axis",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3604,
+        "question_text": "A point is reflected in the y-axis to become (8, -3). What was its original location?",
+        "answer_type": "text_input",
+        "correct_answer": "(-8, -3)",
+        "alternative_answer_1": "-8, -3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3605,
+        "question_text": "A point starts at (1,1). It is translated 5 right, then reflected in the x-axis. Where does it end up?",
+        "answer_type": "text_input",
+        "correct_answer": "(6,-1)",
+        "alternative_answer_1": "6,-1",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3606,
+        "question_text": "A point is translated 3 units up to become (-2, 2). What was its original position?",
+        "answer_type": "text_input",
+        "correct_answer": "(-2, -1)",
+        "alternative_answer_1": "-2,-1",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3607,
+        "question_text": "What transformation moves point P(6,3) to point P'(-6,3)?",
+        "answer_type": "text_input",
+        "correct_answer": "Reflection in the y-axis",
+        "alternative_answer_1": "Reflection",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3608,
+        "question_text": "A point is at (-5, -8). It is reflected in the x-axis. It is then translated 5 units right. What are its final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(0, 8)",
+        "alternative_answer_1": "0, 8",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3609,
+        "question_text": "A point at (7, 4) is moved 10 units left and then reflected in the y-axis. What are the final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(3, 4)",
+        "alternative_answer_1": "3, 4",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3610,
+        "question_text": "A point is reflected in the y-axis and then translated 2 units down to land on (-5, -5). What were the original coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5, -3)",
+        "alternative_answer_1": "5, -3",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3611,
+        "question_text": "A point (3,7) is reflected in the line y=x. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,3)",
+        "alternative_answer_1": "7,3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3612,
+        "question_text": "A point (-2,5) is reflected in the line y=x. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,-2)",
+        "alternative_answer_1": "5,-2",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3613,
+        "question_text": "What are the coordinates of the point (6,-4) after it is reflected in the line y=-x?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,-6)",
+        "alternative_answer_1": "4,-6",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3614,
+        "question_text": "Reflect the point (-1,-8) in the line y=-x. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(8,1)",
+        "alternative_answer_1": "8,1",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3615,
+        "question_text": "A point (2,5) is reflected in the vertical line x=4. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(6,5)",
+        "alternative_answer_1": "6,5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3616,
+        "question_text": "A point (7,3) is reflected in the horizontal line y=5. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(7,7)",
+        "alternative_answer_1": "7,7",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3617,
+        "question_text": "A square with vertices at (1,1), (3,1), (3,3), (1,3) is reflected in the line y=x. What is the area of the new square?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "4 square units",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3618,
+        "question_text": "A point was reflected in the line y=x to become (9,2). What were the original coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,9)",
+        "alternative_answer_1": "2,9",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3619,
+        "question_text": "A point starts at (1,6). It is reflected in the line x=3, then reflected in the line y=4. What are its final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,2)",
+        "alternative_answer_1": "5,2",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3620,
+        "question_text": "A point at (-3,4) is reflected in the line y=-x. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-4,3)",
+        "alternative_answer_1": "-4,3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3621,
+        "question_text": "A point at (8,1) is reflected in the vertical line x=5. What are its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,1)",
+        "alternative_answer_1": "2,1",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3622,
+        "question_text": "A shape's vertex is at (2, -3). It is reflected in the line y=1. What are the new coordinates of the vertex?",
+        "answer_type": "text_input",
+        "correct_answer": "(2, 5)",
+        "alternative_answer_1": "2, 5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3623,
+        "question_text": "A point starts at (4,4). It is reflected in the y-axis, then reflected in the line y=x. What are the final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(4,-4)",
+        "alternative_answer_1": "4,-4",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3624,
+        "question_text": "Reflect the point (10,0) in the line y=5. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(10,10)",
+        "alternative_answer_1": "10,10",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3625,
+        "question_text": "A point was reflected in the line y=-x to become (5,-2). What were the original coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,-5)",
+        "alternative_answer_1": "2,-5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3626,
+        "question_text": "Reflect the point (-3, -3) in the line x=-1. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(1, -3)",
+        "alternative_answer_1": "1,-3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3627,
+        "question_text": "A triangle has vertices at (1,2), (1,6), (4,2). It is reflected in the line y=x. What are the coordinates of the new vertices?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,1), (6,1), (2,4)",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3628,
+        "question_text": "What are the coordinates of the point (0,5) after reflection in the line y=-x?",
+        "answer_type": "text_input",
+        "correct_answer": "(-5,0)",
+        "alternative_answer_1": "-5,0",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3629,
+        "question_text": "A point (a,b) is reflected in the line y=x to become (5,10). What is the value of a?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3630,
+        "question_text": "A point was translated 3 units right, then reflected in the x-axis to become (8,-4). What were the original coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,4)",
+        "alternative_answer_1": "5,4",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3631,
+        "question_text": "Reflect the point (6,2) in the line y=x. Then translate the result 3 units down. What are the final coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(2,3)",
+        "alternative_answer_1": "2,3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3632,
+        "question_text": "The point (5,8) is reflected in the line x=5. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(5,8)",
+        "alternative_answer_1": "5,8",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3633,
+        "question_text": "A shape is reflected in the line y=x. One of its vertices was at (2,7) and is now at (7,2). Another vertex is at (4,10). What will be its new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(10,4)",
+        "alternative_answer_1": "10,4",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3634,
+        "question_text": "A point was reflected in the x-axis, then reflected in the line y=x to end up at (5,-3). What was the original point?",
+        "answer_type": "text_input",
+        "correct_answer": "(-3,-5)",
+        "alternative_answer_1": "-3,-5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 3635,
+        "question_text": "Reflect the point (3, 3) in the line y=-x. What are the new coordinates?",
+        "answer_type": "text_input",
+        "correct_answer": "(-3, -3)",
+        "alternative_answer_1": "-3, -3",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 477
+    },
+    {
+        "question_id": 25400,
+        "question_text": "A counter is moved 2 squares to the right. How would you describe this movement?",
+        "answer_type": "text_input",
+        "correct_answer": "2 squares right",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25401,
+        "question_text": "A robot is moved 3 squares up. How would you describe this movement?",
+        "answer_type": "text_input",
+        "correct_answer": "3 squares up",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25402,
+        "question_text": "A character on a screen is moved 1 square to the left. How would you describe this movement?",
+        "answer_type": "text_input",
+        "correct_answer": "1 square left",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25403,
+        "question_text": "A toy car is moved 2 squares down. How would you describe this movement?",
+        "answer_type": "text_input",
+        "correct_answer": "2 squares down",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25404,
+        "question_text": "Follow this instruction: Go 3 units to the left. How would you write this instruction?",
+        "answer_type": "text_input",
+        "correct_answer": "3 units left",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25405,
+        "question_text": "Follow this instruction: Go 1 unit up. How would you write this instruction?",
+        "answer_type": "text_input",
+        "correct_answer": "1 unit up",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25406,
+        "question_text": "An object is translated 2 units down. How would you describe this translation?",
+        "answer_type": "text_input",
+        "correct_answer": "2 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25407,
+        "question_text": "An object is translated 1 unit right. How would you describe this translation?",
+        "answer_type": "text_input",
+        "correct_answer": "1 unit right",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25408,
+        "question_text": "A frog jumps 3 lily pads upwards on a grid. Describe the jump.",
+        "answer_type": "text_input",
+        "correct_answer": "3 pads up",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25409,
+        "question_text": "A rabbit hops 2 burrows to the left on a grid. Describe the hop.",
+        "answer_type": "text_input",
+        "correct_answer": "2 burrows left",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25410,
+        "question_text": "If something moves from a starting point 3 squares north, how would you describe that movement?",
+        "answer_type": "text_input",
+        "correct_answer": "3 squares north",
+        "alternative_answer_1": "3 squares up",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25411,
+        "question_text": "If something moves from a starting point 1 square east, how would you describe that movement?",
+        "answer_type": "text_input",
+        "correct_answer": "1 square east",
+        "alternative_answer_1": "1 square right",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25412,
+        "question_text": "A pirate moves 2 paces south on his map. Describe his movement.",
+        "answer_type": "text_input",
+        "correct_answer": "2 paces south",
+        "alternative_answer_1": "2 paces down",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25413,
+        "question_text": "A ship sails 3 units west on a grid. Describe its movement.",
+        "answer_type": "text_input",
+        "correct_answer": "3 units west",
+        "alternative_answer_1": "3 units left",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25414,
+        "question_text": "What instruction describes a movement of 2 squares downwards?",
+        "answer_type": "text_input",
+        "correct_answer": "2 squares down",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25415,
+        "question_text": "What instruction describes a movement of 3 squares to the right?",
+        "answer_type": "text_input",
+        "correct_answer": "3 squares right",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25416,
+        "question_text": "What instruction describes a movement of 1 square upwards?",
+        "answer_type": "text_input",
+        "correct_answer": "1 square up",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25417,
+        "question_text": "What instruction describes a movement of 2 squares to the left?",
+        "answer_type": "text_input",
+        "correct_answer": "2 squares left",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25418,
+        "question_text": "How do you describe a translation of three units up?",
+        "answer_type": "text_input",
+        "correct_answer": "3 units up",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25419,
+        "question_text": "How do you describe a translation of one unit down?",
+        "answer_type": "text_input",
+        "correct_answer": "1 unit down",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25420,
+        "question_text": "A piece in a board game moves 3 spaces forward. If forward is up, how do you describe this?",
+        "answer_type": "text_input",
+        "correct_answer": "3 spaces up",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25421,
+        "question_text": "A piece in a board game moves 1 space back. If back is down, how do you describe this?",
+        "answer_type": "text_input",
+        "correct_answer": "1 space down",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25422,
+        "question_text": "Describe a move of 2 units to the right.",
+        "answer_type": "text_input",
+        "correct_answer": "2 units right",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25423,
+        "question_text": "Describe a move of 3 units upwards.",
+        "answer_type": "text_input",
+        "correct_answer": "3 units up",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25424,
+        "question_text": "Describe a move of 1 unit to the left.",
+        "answer_type": "text_input",
+        "correct_answer": "1 unit left",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25425,
+        "question_text": "A counter moves 2 squares right, then 3 squares up. Describe the full journey.",
+        "answer_type": "text_input",
+        "correct_answer": "2 squares right, then 3 squares up",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25426,
+        "question_text": "A robot moves 4 squares left, then 1 square down. Describe the full journey.",
+        "answer_type": "text_input",
+        "correct_answer": "4 squares left, then 1 square down",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25427,
+        "question_text": "A car moves 5 units up, then 2 units left. Describe its path.",
+        "answer_type": "text_input",
+        "correct_answer": "5 units up, then 2 units left",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25428,
+        "question_text": "A bee flies 3 flowers down, then 4 flowers right. Describe its path.",
+        "answer_type": "text_input",
+        "correct_answer": "3 flowers down, then 4 flowers right",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25429,
+        "question_text": "Follow these instructions: Go 1 unit left, then 5 units up. How would you write these instructions?",
+        "answer_type": "text_input",
+        "correct_answer": "1 unit left, then 5 units up",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25430,
+        "question_text": "Follow these instructions: Go 4 units right, then 4 units down. How would you write these instructions?",
+        "answer_type": "text_input",
+        "correct_answer": "4 units right, then 4 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25431,
+        "question_text": "An object is translated 3 units up, then 2 units right. Describe the translation.",
+        "answer_type": "text_input",
+        "correct_answer": "3 units up, then 2 units right",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25432,
+        "question_text": "An object is translated 1 unit down, then 5 units left. Describe the translation.",
+        "answer_type": "text_input",
+        "correct_answer": "1 unit down, then 5 units left",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25433,
+        "question_text": "A frog jumps 2 pads right, followed by 4 pads up. Describe the sequence of jumps.",
+        "answer_type": "text_input",
+        "correct_answer": "2 pads right, then 4 pads up",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25434,
+        "question_text": "A rabbit hops 5 burrows left, followed by 3 burrows down. Describe the sequence of hops.",
+        "answer_type": "text_input",
+        "correct_answer": "5 burrows left, then 3 burrows down",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25435,
+        "question_text": "A pirate moves 4 paces east, then 2 paces north. Describe his path.",
+        "answer_type": "text_input",
+        "correct_answer": "4 paces east, then 2 paces north",
+        "alternative_answer_1": "4 right, 2 up",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25436,
+        "question_text": "A ship sails 3 units south, then 5 units west. Describe its journey.",
+        "answer_type": "text_input",
+        "correct_answer": "3 units south, then 5 units west",
+        "alternative_answer_1": "3 down, 5 left",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25437,
+        "question_text": "What are the instructions to move 2 squares up and then 2 squares left?",
+        "answer_type": "text_input",
+        "correct_answer": "2 squares up, then 2 squares left",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25438,
+        "question_text": "What are the instructions to move 5 squares down and then 1 square right?",
+        "answer_type": "text_input",
+        "correct_answer": "5 squares down, then 1 square right",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25439,
+        "question_text": "Describe a translation of 4 units left and then 3 units up.",
+        "answer_type": "text_input",
+        "correct_answer": "4 units left, then 3 units up",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25440,
+        "question_text": "Describe a translation of 2 units right and then 5 units down.",
+        "answer_type": "text_input",
+        "correct_answer": "2 units right, then 5 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25441,
+        "question_text": "First, a counter moves 3 squares up. Then, it moves 4 squares right. Describe the total movement.",
+        "answer_type": "text_input",
+        "correct_answer": "3 squares up, then 4 squares right",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25442,
+        "question_text": "First, a robot moves 5 squares left. Then, it moves 2 squares down. Describe the total movement.",
+        "answer_type": "text_input",
+        "correct_answer": "5 squares left, then 2 squares down",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25443,
+        "question_text": "Describe the path: 3 units north, then 3 units east.",
+        "answer_type": "text_input",
+        "correct_answer": "3 units north, then 3 units east",
+        "alternative_answer_1": "3 up, 3 right",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25444,
+        "question_text": "Describe the path: 4 units west, then 1 unit south.",
+        "answer_type": "text_input",
+        "correct_answer": "4 units west, then 1 unit south",
+        "alternative_answer_1": "4 left, 1 down",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25445,
+        "question_text": "A piece on a game board moves 5 spaces up, then 5 spaces right. How would you write this down?",
+        "answer_type": "text_input",
+        "correct_answer": "5 spaces up, then 5 spaces right",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25446,
+        "question_text": "Combine these two moves into one description: Move 1 unit left. Move 4 units down.",
+        "answer_type": "text_input",
+        "correct_answer": "1 unit left, then 4 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25447,
+        "question_text": "Combine these two moves into one description: Move 3 units right. Move 3 units up.",
+        "answer_type": "text_input",
+        "correct_answer": "3 units right, then 3 units up",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25448,
+        "question_text": "A character moves from the start 2 squares down, then 5 squares right to reach the treasure. Describe the path to the treasure.",
+        "answer_type": "text_input",
+        "correct_answer": "2 squares down, then 5 squares right",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25449,
+        "question_text": "To get from the castle to the forest, you go 4 units up and then 3 units left. Describe the journey.",
+        "answer_type": "text_input",
+        "correct_answer": "4 units up, then 3 units left",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25450,
+        "question_text": "A robot moves 2 squares up, then 3 squares right, then 2 squares down. Where is it now compared to its starting point?",
+        "answer_type": "text_input",
+        "correct_answer": "3 squares right",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25451,
+        "question_text": "A submarine moves 5 units down, then 4 units left, then 2 units up. What is its final position relative to the start?",
+        "answer_type": "text_input",
+        "correct_answer": "4 units left, 3 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25452,
+        "question_text": "A pirate follows a map: 4 paces north, then 5 paces east, then 3 paces south. Where is he now relative to his start?",
+        "answer_type": "text_input",
+        "correct_answer": "5 paces east, 1 pace north",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25453,
+        "question_text": "Predict the final position after these moves from the start: 3 left, 2 up, 3 right.",
+        "answer_type": "text_input",
+        "correct_answer": "2 up",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25454,
+        "question_text": "Predict the final position after these moves from the start: 5 down, 4 right, 5 up.",
+        "answer_type": "text_input",
+        "correct_answer": "4 right",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25455,
+        "question_text": "To get from a start point to an end point, you must move 3 squares right and 4 squares up. Describe the path.",
+        "answer_type": "text_input",
+        "correct_answer": "3 squares right, 4 squares up",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25456,
+        "question_text": "To get from the cave to the treasure, you must go 2 units west and 5 units north. Describe the required translation.",
+        "answer_type": "text_input",
+        "correct_answer": "2 units west, 5 units north",
+        "alternative_answer_1": "2 left, 5 up",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25457,
+        "question_text": "The instructions on a map say Go 4 north, then 2 east. The pirate actually went 4 north, then 2 west. What was his error?",
+        "answer_type": "text_input",
+        "correct_answer": "He went west instead of east",
+        "alternative_answer_1": "He went the wrong way",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25458,
+        "question_text": "The instructions on a robot are 3 down, 5 right. The robot moved 3 up, 5 right. What was the error?",
+        "answer_type": "text_input",
+        "correct_answer": "It moved up instead of down",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25459,
+        "question_text": "A counter moves 3 right, 2 up, 1 left. Where is the counter now relative to its starting position?",
+        "answer_type": "text_input",
+        "correct_answer": "2 right, 2 up",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25460,
+        "question_text": "Describe the path from a starting point to a final point that is 5 units left and 2 units down.",
+        "answer_type": "text_input",
+        "correct_answer": "5 units left, 2 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25461,
+        "question_text": "A drone flies 5 units north, 3 units east, and 5 units south. Describe its final position from the start.",
+        "answer_type": "text_input",
+        "correct_answer": "3 units east",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25462,
+        "question_text": "A delivery driver goes 4 blocks east, 5 blocks north, then 3 blocks west. Where is he in relation to his start point?",
+        "answer_type": "text_input",
+        "correct_answer": "1 block east, 5 blocks north",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25463,
+        "question_text": "The instructions for a game are: right 3, up 4, left 1. What is the overall move from start to finish?",
+        "answer_type": "text_input",
+        "correct_answer": "Right 2, up 4",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25464,
+        "question_text": "A path is described as: Down 5, Left 2, Up 3. What is the final position from the start?",
+        "answer_type": "text_input",
+        "correct_answer": "Left 2, Down 2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25465,
+        "question_text": "A character on a screen needs to end up 4 squares right of the start. The first move is 6 squares right. What must the second move be?",
+        "answer_type": "text_input",
+        "correct_answer": "2 squares left",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25466,
+        "question_text": "A robot needs to be 3 units up from its start. Its first move is 5 units up. What must its second move be?",
+        "answer_type": "text_input",
+        "correct_answer": "2 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25467,
+        "question_text": "The instruction was Up 2, Left 4. The counter ended up 2 down and 4 left. What was the error?",
+        "answer_type": "text_input",
+        "correct_answer": "It went down instead of up",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25468,
+        "question_text": "To get from point A to point B, you move 4 right and 2 up. To get from B to C, you move 1 left and 1 up. What is the move from A to C?",
+        "answer_type": "text_input",
+        "correct_answer": "3 right, 3 up",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25469,
+        "question_text": "A boat sails 5 km east, 3 km south, then 5 km west. Where is it now compared to where it started?",
+        "answer_type": "text_input",
+        "correct_answer": "3 km south",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25470,
+        "question_text": "Describe the translation that moves an object from a start point to an end point 4 units above and 1 unit to the left.",
+        "answer_type": "text_input",
+        "correct_answer": "Up 4, Left 1",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25471,
+        "question_text": "What is the final position from start after moving: North 2, East 4, South 3, West 2?",
+        "answer_type": "text_input",
+        "correct_answer": "East 2, South 1",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25472,
+        "question_text": "A series of moves is: right 5, down 2, left 5. What is the final position from start?",
+        "answer_type": "text_input",
+        "correct_answer": "Down 2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25473,
+        "question_text": "A ship sails 10km North then 4km East. A storm pushes it 2km South. Where is it now, relative to its start?",
+        "answer_type": "text_input",
+        "correct_answer": "8km North, 4km East",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25474,
+        "question_text": "The instructions are: Up 5, Right 3, Down 2. What is the single translation from start to finish?",
+        "answer_type": "text_input",
+        "correct_answer": "Right 3, Up 3",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25475,
+        "question_text": "A drone starts at a base. It flies 5km North, then 6km East, then 8km South. Where is it now relative to the base?",
+        "answer_type": "text_input",
+        "correct_answer": "6km East, 3km South",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25476,
+        "question_text": "A submarine is at a certain position. After moving 5km East and 2km North, it is now 8km East and 1km North of its starting point. What was its position before this move?",
+        "answer_type": "text_input",
+        "correct_answer": "3km East, 1km South of the start",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25477,
+        "question_text": "A robot ends up 2 units right and 3 units up from its start. Its journey had three steps. The first two were: 4 right, 1 up. What was the third step?",
+        "answer_type": "text_input",
+        "correct_answer": "2 left, 2 up",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25478,
+        "question_text": "A square on a grid has its bottom-left corner at a certain point. The entire square is translated 4 units right and 2 units down. How does the position of the top-right corner change?",
+        "answer_type": "text_input",
+        "correct_answer": "It also moves 4 units right and 2 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25479,
+        "question_text": "A shape is moved from the start by the translation: 5 left, 3 down. To get it back to the start, what translation is needed?",
+        "answer_type": "text_input",
+        "correct_answer": "5 right, 3 up",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25480,
+        "question_text": "A journey is made of three parts: (1) 4 East, 2 North. (2) 3 West, 1 South. (3) 2 East, 1 North. What is the single translation from start to finish?",
+        "answer_type": "text_input",
+        "correct_answer": "3 East, 2 North",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25481,
+        "question_text": "A shape's corner moves from a start point to an end point. The movement was 6 units left and 4 units down. Describe the translation.",
+        "answer_type": "text_input",
+        "correct_answer": "6 units left, 4 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25482,
+        "question_text": "A counter ends up 5 units south of where it started. It made two jumps. The first jump was 2 units north. What was the second jump?",
+        "answer_type": "text_input",
+        "correct_answer": "7 units south",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25483,
+        "question_text": "A robot moved 4 up, 3 right, 5 down, 4 left. Where is it now, relative to its starting position?",
+        "answer_type": "text_input",
+        "correct_answer": "1 left, 1 down",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25484,
+        "question_text": "A circle is drawn on a grid. Its center is translated 5 units down. What happens to the circle?",
+        "answer_type": "text_input",
+        "correct_answer": "The whole circle moves 5 units down",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25485,
+        "question_text": "After a translation of (3 right, 2 up), a point ends up at a final position. What translation is needed to move it from the final position back to the start?",
+        "answer_type": "text_input",
+        "correct_answer": "3 left, 2 down",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25486,
+        "question_text": "A shape is translated. One of its vertices moves 8 squares left and 3 squares up. What happened to the whole shape?",
+        "answer_type": "text_input",
+        "correct_answer": "It was translated 8 left and 3 up",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25487,
+        "question_text": "A hiker walks 10km North, then 5km East, then 12km South. Describe his final position relative to his starting camp.",
+        "answer_type": "text_input",
+        "correct_answer": "5km East, 2km South",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25488,
+        "question_text": "A point is translated by (4 left, 2 up) and then by (3 right, 3 up). What is the single overall translation?",
+        "answer_type": "text_input",
+        "correct_answer": "1 left, 5 up",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25489,
+        "question_text": "To get from my house to school requires a translation of (6 blocks East, 2 blocks North). Today I went 4 blocks East and 3 blocks North. Am I at school?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25490,
+        "question_text": "A triangle on a grid is moved 5 squares right and 3 squares up. Do the lengths of its sides change?",
+        "answer_type": "text_input",
+        "correct_answer": "No",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25491,
+        "question_text": "A counter moves 5 squares left and 2 up. It then moves again, and its final position is 3 left and 4 up from the start. What was the second move?",
+        "answer_type": "text_input",
+        "correct_answer": "2 right, 2 up",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25492,
+        "question_text": "A point starts at a location. It moves 100 units up, then 50 units right, then 101 units down. Where is it now relative to the start?",
+        "answer_type": "text_input",
+        "correct_answer": "50 units right, 1 unit down",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25493,
+        "question_text": "A shape is translated so that one of its points moves 7 squares right and 2 squares up. If another point on the shape started 3 squares to the left of the first point, where is it now?",
+        "answer_type": "text_input",
+        "correct_answer": "4 squares right and 2 squares up of the original start",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25494,
+        "question_text": "My final position is 6 East and 3 North of my start. I got here by three equal translation steps. What was each step?",
+        "answer_type": "text_input",
+        "correct_answer": "2 East, 1 North",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25495,
+        "question_text": "A triangle is translated 10 units left. Is the new triangle congruent to the original?",
+        "answer_type": "text_input",
+        "correct_answer": "Yes",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25496,
+        "question_text": "A car travels 20 miles north, then 15 miles east, then 25 miles south. How would you describe its final location from its start?",
+        "answer_type": "text_input",
+        "correct_answer": "15 miles east, 5 miles south",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25497,
+        "question_text": "A point is moved by (Up 5, Right 2). It then needs to get to a final position of (Up 3, Right 3) from the original start. What translation is needed now?",
+        "answer_type": "text_input",
+        "correct_answer": "Down 2, Right 1",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25498,
+        "question_text": "A boat is 10km West of a port. It sails 15km East. Where is it now in relation to the port?",
+        "answer_type": "text_input",
+        "correct_answer": "5km East",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    },
+    {
+        "question_id": 25499,
+        "question_text": "Describe the single translation that is the same as: Right 2, Up 3, Right 2, Down 1.",
+        "answer_type": "text_input",
+        "correct_answer": "Right 4, Up 2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 4,
+        "topic_id": 475
+    }
+]

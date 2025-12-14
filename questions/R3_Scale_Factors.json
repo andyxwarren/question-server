@@ -1,0 +1,2002 @@
+[
+    {
+        "question_id": 18749,
+        "question_text": "Rectangle A has a side of 2cm. Similar Rectangle B has a corresponding side of 4cm. What is the scale factor from A to B?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18750,
+        "question_text": "A photo is 5cm wide. It is enlarged by a scale factor of 2. What is the new width?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18751,
+        "question_text": "A square with a side of 3cm is enlarged to a square with a side of 9cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18752,
+        "question_text": "A triangle has a base of 4cm. It is enlarged by a scale factor of 3. What is the length of the new base?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18753,
+        "question_text": "A small rectangle has a length of 5cm. A larger similar rectangle has a corresponding length of 25cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18754,
+        "question_text": "A line is 10cm long. It is enlarged by a scale factor of 4. How long is the new line?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18755,
+        "question_text": "The height of a shape is 6 units. The height of a similar shape is 12 units. What is the scale factor of enlargement?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18756,
+        "question_text": "A drawing is 8cm tall. It is enlarged by a scale factor of 5. What is the new height?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "40cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18757,
+        "question_text": "A side of a polygon is 7cm. The corresponding side on a similar polygon is 21cm. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18758,
+        "question_text": "A small square has a side of 2cm. It is enlarged by a scale factor of 4. What is the side length of the new square?",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "8cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18759,
+        "question_text": "A shape has a width of 10 units. A similar shape has a width of 30 units. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18760,
+        "question_text": "A circle has a radius of 3cm. It is enlarged by a scale factor of 2. What is the new radius?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18761,
+        "question_text": "A side of a triangle is 4cm. The corresponding side of a similar triangle is 16cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18762,
+        "question_text": "A map is enlarged by a scale factor of 3. A road on the original map was 5cm long. How long is it on the new map?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18763,
+        "question_text": "A small circle has a diameter of 5cm. A larger similar circle has a diameter of 10cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18764,
+        "question_text": "A building plan has a wall of length 6cm. The plan is enlarged by a scale factor of 5. What is the new length?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18765,
+        "question_text": "A shape's base is 8 units. A similar shape has a base of 24 units. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18766,
+        "question_text": "A square has sides of 1cm. It is enlarged by a scale factor of 5. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "5cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18767,
+        "question_text": "A rectangle has a width of 9cm. A similar rectangle has a width of 18cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18768,
+        "question_text": "A model is 10cm tall. It is scaled up by a factor of 3 to make a larger version. How tall is the larger version?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18769,
+        "question_text": "A side of a shape is 3 units. A similar shape has a corresponding side of 15 units. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18770,
+        "question_text": "A design is 4cm wide. It is enlarged with a scale factor of 4. What is its new width?",
+        "answer_type": "text_input",
+        "correct_answer": "16",
+        "alternative_answer_1": "16cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18771,
+        "question_text": "A small logo is 2cm high. The company wants a large version that is 20cm high. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18772,
+        "question_text": "A circle's diameter is enlarged from 6cm to 18cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18773,
+        "question_text": "A toy car is 5cm long. It is a model of a real car, enlarged by a scale factor of 3. How long is the enlargement?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15cm",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18774,
+        "question_text": "A rectangle has sides 3cm and 4cm. It is enlarged by a scale factor of 2. What are the new side lengths?",
+        "answer_type": "text_input",
+        "correct_answer": "6cm and 8cm",
+        "alternative_answer_1": "6, 8",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18775,
+        "question_text": "A photograph is 10cm wide and 15cm high. It is enlarged by a scale factor of 3. What is the new height?",
+        "answer_type": "text_input",
+        "correct_answer": "45",
+        "alternative_answer_1": "45cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18776,
+        "question_text": "The side of a square is 5cm. A larger square has a side of 20cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18777,
+        "question_text": "A triangle has a base of 6cm and a height of 8cm. It is enlarged by a scale factor of 5. What is the new base?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18778,
+        "question_text": "A large rectangle has a side of 18cm. It is an enlargement of a smaller rectangle with a corresponding side of 6cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18779,
+        "question_text": "A model boat is 20cm long. The real boat is 10 times longer. How long is the real boat in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2m",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18780,
+        "question_text": "A map has a scale where 1cm represents 10m. A park is 5cm long on the map. How long is the real park?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "50m",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18781,
+        "question_text": "A rectangle with sides 2cm and 5cm is enlarged. The new shorter side is 6cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18782,
+        "question_text": "A triangle has sides of 3cm, 4cm and 5cm. It is enlarged by a scale factor of 4. What are the new side lengths?",
+        "answer_type": "text_input",
+        "correct_answer": "12cm, 16cm, 20cm",
+        "alternative_answer_1": "12, 16, 20",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18783,
+        "question_text": "A large square has a side of 24cm. It is an enlargement of a smaller square with a side of 8cm. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18784,
+        "question_text": "A photo is enlarged by a scale factor of 6. The original was 5cm wide. What is the new width?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18785,
+        "question_text": "The height of a building on a plan is 10cm. The scale factor to the real building is 100. How tall is the real building in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10m",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18786,
+        "question_text": "A small logo is 4cm wide. A large version is 16cm wide. Find the scale factor of enlargement.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18787,
+        "question_text": "A triangle has a height of 7cm. After enlargement, the new height is 21cm. What was the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18788,
+        "question_text": "A rectangle is 6cm by 8cm. It is enlarged by a scale factor of 10. What is the new length of the longer side?",
+        "answer_type": "text_input",
+        "correct_answer": "80",
+        "alternative_answer_1": "80cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18789,
+        "question_text": "A side on a shape is 9cm. On an enlarged version, the corresponding side is 27cm. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18790,
+        "question_text": "A plan is drawn with a scale of 1:5. A room on the plan is 6cm long. How long is the real room?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18791,
+        "question_text": "A circle has a radius of 4cm. It is enlarged by a scale factor of 8. What is the new diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "64",
+        "alternative_answer_1": "64cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18792,
+        "question_text": "A shape is enlarged by a scale factor of 7. An original side was 5cm. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "35",
+        "alternative_answer_1": "35cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18793,
+        "question_text": "A large rectangle has a width of 30cm. It is a 5 times enlargement of a smaller rectangle. What was the original width?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6cm",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18794,
+        "question_text": "A triangle's base is enlarged from 5cm to 40cm. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "8",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18795,
+        "question_text": "A model car is 10cm long. The real car is 4 metres long (400cm). What is the scale factor from the model to the car?",
+        "answer_type": "text_input",
+        "correct_answer": "40",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18796,
+        "question_text": "A square with side 6cm is enlarged. The new side is 18cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18797,
+        "question_text": "A logo is 3cm wide and 5cm high. It is enlarged by a scale factor of 9. What are its new dimensions?",
+        "answer_type": "text_input",
+        "correct_answer": "27cm and 45cm",
+        "alternative_answer_1": "27, 45",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18798,
+        "question_text": "A rectangle is enlarged by a scale factor of 4. The new sides are 12cm and 20cm. What were the original side lengths?",
+        "answer_type": "text_input",
+        "correct_answer": "3cm and 5cm",
+        "alternative_answer_1": "3, 5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18799,
+        "question_text": "A triangle has sides 5cm, 6cm, and 7cm. It is enlarged by a scale factor of 1/2. What are the new side lengths?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5cm, 3cm, 3.5cm",
+        "alternative_answer_1": "2.5, 3, 3.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18800,
+        "question_text": "A photograph is 20cm by 30cm. It is reduced by a scale factor of 1/4. What are the new dimensions?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm and 7.5cm",
+        "alternative_answer_1": "5, 7.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18801,
+        "question_text": "A large rectangle with a side of 15cm is a scaled version of a small rectangle with a corresponding side of 10cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "1 1/2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18802,
+        "question_text": "A map has a scale of 1:200. A path is 5cm on the map. How long is the real path in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18803,
+        "question_text": "A rectangle has a length of 12cm and a width of 8cm. It is enlarged. The new width is 12cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "1 1/2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18804,
+        "question_text": "A rectangle has a length of 12cm and a width of 8cm. It is enlarged, and the new width is 12cm. What is the new length?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "18cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18805,
+        "question_text": "A shape is reduced by a scale factor of 1/3. The original side length was 18cm. What is the new length?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18806,
+        "question_text": "A model of a plane is 30cm long. The scale factor is 1:100. How long is the real plane in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30m",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18807,
+        "question_text": "A square is enlarged from a side length of 4cm to 10cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "2 1/2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18808,
+        "question_text": "A photo is 12cm wide. It is enlarged by a scale factor of 2.5. What is the new width?",
+        "answer_type": "text_input",
+        "correct_answer": "30",
+        "alternative_answer_1": "30cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18809,
+        "question_text": "A shape is enlarged, and its side goes from 6cm to 9cm. If another side on the original shape was 8cm, what is its new length?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18810,
+        "question_text": "A circle's radius is reduced from 20cm to 15cm. What is the scale factor of reduction?",
+        "answer_type": "text_input",
+        "correct_answer": "0.75",
+        "alternative_answer_1": "03-Apr",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18811,
+        "question_text": "The perimeter of a square is 12cm. It is enlarged by a scale factor of 3. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18812,
+        "question_text": "A real car is 4 metres long. A model is made with a scale factor of 1/20. How long is the model in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18813,
+        "question_text": "A triangle has a side of 10cm. After enlargement, the corresponding side is 12cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "1.2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18814,
+        "question_text": "A logo is 8cm high. It is resized with a scale factor of 1/4. What is the new height?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "2cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18815,
+        "question_text": "A rectangle is 5cm by 10cm. It is enlarged. The new shorter side is 6cm. What is the new longer side?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18816,
+        "question_text": "A shape is enlarged by a scale factor of 2.5. The new side length is 25cm. What was the original length?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18817,
+        "question_text": "A tall building is 120m high. A model is made with a scale of 1:200. How high is the model in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "60",
+        "alternative_answer_1": "60cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18818,
+        "question_text": "A circle is enlarged by a scale factor of 1.5. Its original diameter was 10cm. What is the new radius?",
+        "answer_type": "text_input",
+        "correct_answer": "7.5",
+        "alternative_answer_1": "7.5cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18819,
+        "question_text": "A side of a shape is 15cm. It is reduced by a scale factor of 1/5. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18820,
+        "question_text": "A square has an area of 9 sq cm. It is enlarged by a scale factor of 2. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "6cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18821,
+        "question_text": "A side of a pentagon is 12cm. A similar pentagon has a corresponding side of 18cm. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "1 1/2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18822,
+        "question_text": "A drawing is 10cm wide. It is enlarged by a scale factor of 1.2. What is its new width?",
+        "answer_type": "text_input",
+        "correct_answer": "12",
+        "alternative_answer_1": "12cm",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18823,
+        "question_text": "A map has a scale of 1cm to 5km. A road on the map is 4cm long. How long is the real road?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20km",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18824,
+        "question_text": "A rectangle has a perimeter of 30cm and a length of 10cm. It is enlarged by a scale factor of 2.5. What is the new width?",
+        "answer_type": "text_input",
+        "correct_answer": "12.5",
+        "alternative_answer_1": "12.5cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18825,
+        "question_text": "A photo is 10cm by 15cm. It is enlarged so that its shorter side is now 12cm. What is the new length of the longer side?",
+        "answer_type": "text_input",
+        "correct_answer": "18",
+        "alternative_answer_1": "18cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18826,
+        "question_text": "A model of a car is 10cm long. The real car is 4.5m long. What is the scale factor of the model?",
+        "answer_type": "text_input",
+        "correct_answer": "01:45",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18827,
+        "question_text": "Two similar triangles are shown. Triangle A has sides 6, 8, 10. Triangle B has a longest side of 15. What are the other sides of B?",
+        "answer_type": "text_input",
+        "correct_answer": "9 and 12",
+        "alternative_answer_1": "9, 12",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18828,
+        "question_text": "A map has a scale of 1:50,000. The distance between two points is 3.5cm on the map. What is the real distance in km?",
+        "answer_type": "text_input",
+        "correct_answer": "1.75",
+        "alternative_answer_1": "1.75km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18829,
+        "question_text": "A square is enlarged by a scale factor of 3. The area of the new square is 81 sq cm. What was the original side length?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "3cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18830,
+        "question_text": "A real building is 50m tall. A model is made that is 25cm tall. What is the scale of the model?",
+        "answer_type": "text_input",
+        "correct_answer": "0.180555556",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18831,
+        "question_text": "A rectangle's sides are in the ratio 3:4. The shorter side is 9cm. If the shape is enlarged by a scale factor of 1.5, what is the new perimeter?",
+        "answer_type": "text_input",
+        "correct_answer": "63",
+        "alternative_answer_1": "63cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18832,
+        "question_text": "The perimeter of a regular pentagon is 20cm. It is enlarged by a scale factor of 2.5. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "10",
+        "alternative_answer_1": "10cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18833,
+        "question_text": "A photo is enlarged from 4cm by 6cm to 10cm by 15cm. Justify that these shapes are similar by finding the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18834,
+        "question_text": "A swimming pool is 25m long. On a scale drawing, it is 10cm long. What is the scale of the drawing?",
+        "answer_type": "text_input",
+        "correct_answer": "0.215277778",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18835,
+        "question_text": "A circle is enlarged by a scale factor of 2. The new circumference is 12.56cm. What was the original radius? (Assume Pi=3.14)",
+        "answer_type": "text_input",
+        "correct_answer": "1",
+        "alternative_answer_1": "1cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18836,
+        "question_text": "A triangle with a base of 8cm and height of 6cm is enlarged. The new base is 10cm. What is the new height?",
+        "answer_type": "text_input",
+        "correct_answer": "7.5",
+        "alternative_answer_1": "7.5cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18837,
+        "question_text": "A real plane is 60m long. A model is 40cm long. What is the scale of the model?",
+        "answer_type": "text_input",
+        "correct_answer": "0.145833333",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18838,
+        "question_text": "A photo measuring 12cm by 16cm is reduced. The new longer side is 12cm. What is the new shorter side?",
+        "answer_type": "text_input",
+        "correct_answer": "9",
+        "alternative_answer_1": "9cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18839,
+        "question_text": "Two similar rectangles are shown. The first is 5cm by 10cm. The second has a perimeter of 60cm. What is its length?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18840,
+        "question_text": "A map scale is 1cm to 2km. The area of a park on the map is a square with side 3cm. What is the real area of the park in square km?",
+        "answer_type": "text_input",
+        "correct_answer": "36",
+        "alternative_answer_1": "36 sq km",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18841,
+        "question_text": "The perimeter of a small shape is 15cm. The perimeter of a similar larger shape is 20cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "04-Mar",
+        "alternative_answer_1": "1.33",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18842,
+        "question_text": "A real building has a window 2m wide. A model has a scale of 1:80. How wide is the model window in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "2.5cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18843,
+        "question_text": "A triangle's angles are 30, 60, 90 degrees. It is enlarged by a scale factor of 3. What are the new angles?",
+        "answer_type": "text_input",
+        "correct_answer": "30, 60, 90",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18844,
+        "question_text": "A rectangle has a length of 20cm and a width of 15cm. It is reduced so its new perimeter is 35cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "0.5",
+        "alternative_answer_1": "01-Feb",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18845,
+        "question_text": "A logo is 4cm wide and 6cm high. It needs to be resized to fit a space 10cm wide. To keep it in proportion, what will be the new height?",
+        "answer_type": "text_input",
+        "correct_answer": "15",
+        "alternative_answer_1": "15cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18846,
+        "question_text": "The diagonal of a small square is 5cm. The diagonal of a similar larger square is 7.5cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "03-Feb",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18847,
+        "question_text": "A map scale is 1:25,000. A road is 5km long. How long would it be on the map in cm?",
+        "answer_type": "text_input",
+        "correct_answer": "20",
+        "alternative_answer_1": "20cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 18848,
+        "question_text": "Two similar shapes have a scale factor of 3. The area of the smaller shape is 10 sq cm. The area scales by the square of the length scale factor. What is the area of the larger shape?",
+        "answer_type": "text_input",
+        "correct_answer": "90",
+        "alternative_answer_1": "90 sq cm",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 201
+    },
+    {
+        "question_id": 27661,
+        "question_text": "A photo is 4cm wide. It is enlarged by a scale factor of 2. What is the new width?",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "8",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27662,
+        "question_text": "A square with a side of 5cm is enlarged to a square with a side of 10cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27663,
+        "question_text": "A triangle's base is 3cm. It is enlarged by a scale factor of 5. What is the new base length?",
+        "answer_type": "text_input",
+        "correct_answer": "15cm",
+        "alternative_answer_1": "15",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27664,
+        "question_text": "A small rectangle has a side of 6cm. A similar large rectangle has a corresponding side of 18cm. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27665,
+        "question_text": "A line is 10cm long. It is enlarged by a scale factor of 3. What is the new length?",
+        "answer_type": "text_input",
+        "correct_answer": "30cm",
+        "alternative_answer_1": "30",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27666,
+        "question_text": "A shape's height is 8 units. A similar shape has a height of 16 units. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27667,
+        "question_text": "A drawing is 7cm tall. It is enlarged by a scale factor of 10. What is the new height?",
+        "answer_type": "text_input",
+        "correct_answer": "70cm",
+        "alternative_answer_1": "70",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27668,
+        "question_text": "The side of a polygon is 4cm. The corresponding side on a similar polygon is 20cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27669,
+        "question_text": "A small circle has a radius of 2cm. It is enlarged by a scale factor of 4. What is the new radius?",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "8",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27670,
+        "question_text": "A logo is 9cm wide. A similar, larger logo is 27cm wide. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27671,
+        "question_text": "A map is enlarged by a scale factor of 5. A road on the original map was 3cm long. How long is it on the new map?",
+        "answer_type": "text_input",
+        "correct_answer": "15cm",
+        "alternative_answer_1": "15",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27672,
+        "question_text": "A circle's diameter is enlarged from 4cm to 16cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27673,
+        "question_text": "A side of a shape is 11 units. A similar shape has a corresponding side of 22 units. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27674,
+        "question_text": "A square has sides of 1cm. It is enlarged by a scale factor of 10. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27675,
+        "question_text": "The height of a drawing is 8cm. It is scaled up by a factor of 2. What is the new height?",
+        "answer_type": "text_input",
+        "correct_answer": "16cm",
+        "alternative_answer_1": "16",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27676,
+        "question_text": "A side of a triangle is 5cm. The corresponding side of a similar triangle is 30cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27677,
+        "question_text": "A photo is 6cm wide. It is enlarged by a scale factor of 4. What is the new width?",
+        "answer_type": "text_input",
+        "correct_answer": "24cm",
+        "alternative_answer_1": "24",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27678,
+        "question_text": "A shape has a base of 2m. A similar shape has a base of 12m. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "6",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27679,
+        "question_text": "A design is 3cm wide. It is enlarged by a scale factor of 7. What is its new width?",
+        "answer_type": "text_input",
+        "correct_answer": "21cm",
+        "alternative_answer_1": "21",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27680,
+        "question_text": "A small logo is 2cm high. A larger version is 14cm high. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "7",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27681,
+        "question_text": "A square with a side of 3m is enlarged to a square with a side of 12m. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27682,
+        "question_text": "A circle's radius is enlarged from 5cm to 25cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27683,
+        "question_text": "A side of a shape is 7 units. A similar shape has a corresponding side of 28 units. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "4",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27684,
+        "question_text": "A photo is 8cm wide. It is enlarged by a scale factor of 3. What is the new width?",
+        "answer_type": "text_input",
+        "correct_answer": "24cm",
+        "alternative_answer_1": "24",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27685,
+        "question_text": "A shape's height is 9cm. The height of a similar shape is 18cm. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 1,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27686,
+        "question_text": "A 4cm by 6cm rectangle is enlarged with a scale factor of 3. What are its new length and width?",
+        "answer_type": "text_input",
+        "correct_answer": "12cm and 18cm",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27687,
+        "question_text": "A photo is 8cm wide and 12cm high. After enlargement, its width is 16cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27688,
+        "question_text": "A photo is 8cm wide and 12cm high. It is enlarged by a scale factor of 2. What is its new height?",
+        "answer_type": "text_input",
+        "correct_answer": "24cm",
+        "alternative_answer_1": "24",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27689,
+        "question_text": "A model boat is 30cm long. The real boat is 10 times longer. How long is the real boat in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "3m",
+        "alternative_answer_1": "3",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27690,
+        "question_text": "A map has a scale where 1cm represents 5m. A rectangular park is 4cm by 6cm on the map. What are the real dimensions of the park?",
+        "answer_type": "text_input",
+        "correct_answer": "20m by 30m",
+        "alternative_answer_1": "20, 30",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27691,
+        "question_text": "A rectangle with sides 3cm and 5cm is enlarged. The new shorter side is 9cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "3",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27692,
+        "question_text": "A triangle has sides of 2cm, 3cm and 4cm. It is enlarged by a scale factor of 10. What is the new side length of the longest side?",
+        "answer_type": "text_input",
+        "correct_answer": "40cm",
+        "alternative_answer_1": "40",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27693,
+        "question_text": "A large square has a side of 30cm. It is an enlargement of a smaller square with a side of 6cm. Find the scale factor.",
+        "answer_type": "text_input",
+        "correct_answer": "5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27694,
+        "question_text": "The height of a building on a plan is 20cm. The scale factor to the real building is 100. How tall is the real building in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "20m",
+        "alternative_answer_1": "20",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27695,
+        "question_text": "A circle has a radius of 5cm. It is enlarged by a scale factor of 4. What is the new diameter?",
+        "answer_type": "text_input",
+        "correct_answer": "40cm",
+        "alternative_answer_1": "40",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27696,
+        "question_text": "A rectangle is enlarged by a scale factor of 6. The new side lengths are 12cm and 24cm. What were the original dimensions?",
+        "answer_type": "text_input",
+        "correct_answer": "2cm and 4cm",
+        "alternative_answer_1": "2, 4",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27697,
+        "question_text": "A plan is drawn with a scale of 1:10. A room on the plan is 5cm long. How long is the real room?",
+        "answer_type": "text_input",
+        "correct_answer": "50cm",
+        "alternative_answer_1": "50",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27698,
+        "question_text": "A photo is 10cm wide. It is enlarged and the new width is 25cm. What was the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27699,
+        "question_text": "A model of a bus is 20cm long. The real bus is 10m long (1000cm). What is the scale factor from the model to the bus?",
+        "answer_type": "text_input",
+        "correct_answer": "50",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27700,
+        "question_text": "A square of side 8cm is enlarged. The new side is 12cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27701,
+        "question_text": "A logo is 4cm wide and 6cm high. It is enlarged by a scale factor of 5. What is the new height?",
+        "answer_type": "text_input",
+        "correct_answer": "30cm",
+        "alternative_answer_1": "30",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27702,
+        "question_text": "A rectangle has a width of 5cm and a length of 7cm. It is enlarged by a scale factor of 2. What is the new perimeter?",
+        "answer_type": "text_input",
+        "correct_answer": "48cm",
+        "alternative_answer_1": "48",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27703,
+        "question_text": "A shape is reduced in size by a scale factor of 0.5. If an original side was 10cm, what is the new length?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm",
+        "alternative_answer_1": "5",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27704,
+        "question_text": "A drawing is 15cm wide. It is shrunk to a new width of 5cm. What was the scale factor of reduction?",
+        "answer_type": "text_input",
+        "correct_answer": "01-Mar",
+        "alternative_answer_1": "",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27705,
+        "question_text": "A square has a side of 10cm. A smaller, similar square has a side of 4cm. What is the scale factor from the large square to the small one?",
+        "answer_type": "text_input",
+        "correct_answer": "0.4",
+        "alternative_answer_1": "02-May",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27706,
+        "question_text": "A map has a scale of 1cm to 2km. A road on the map is 3cm long. How long is the real road?",
+        "answer_type": "text_input",
+        "correct_answer": "6km",
+        "alternative_answer_1": "6",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27707,
+        "question_text": "A rectangle is 5m by 3m. It is enlarged by a scale factor of 4. What is the new area?",
+        "answer_type": "text_input",
+        "correct_answer": "240 sq m",
+        "alternative_answer_1": "240",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27708,
+        "question_text": "The perimeter of a square is 16cm. It is enlarged by a scale factor of 3. What is the new perimeter?",
+        "answer_type": "text_input",
+        "correct_answer": "48cm",
+        "alternative_answer_1": "48",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27709,
+        "question_text": "A side of a shape is 12cm. A similar shape has a corresponding side of 9cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "0.75",
+        "alternative_answer_1": "03-Apr",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27710,
+        "question_text": "A photo 6cm by 9cm is enlarged. The new shorter side is 8cm. What is the new longer side?",
+        "answer_type": "text_input",
+        "correct_answer": "12cm",
+        "alternative_answer_1": "12",
+        "original_pundex": 2,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27711,
+        "question_text": "Two similar rectangles are shown. The first has a width of 6cm and a length of 8cm. The second has a width of 9cm. What is the length of the second rectangle?",
+        "answer_type": "text_input",
+        "correct_answer": "12cm",
+        "alternative_answer_1": "12",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27712,
+        "question_text": "A real aeroplane is 70m long. A model is made to a scale of 1:200. How long is the model in centimetres?",
+        "answer_type": "text_input",
+        "correct_answer": "35cm",
+        "alternative_answer_1": "35",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27713,
+        "question_text": "A photograph measuring 10cm by 15cm is enlarged. The new width is 12cm. What is the new height?",
+        "answer_type": "text_input",
+        "correct_answer": "18cm",
+        "alternative_answer_1": "18",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27714,
+        "question_text": "A map has a scale of 1:50,000. The distance between two towns on the map is 4cm. What is the actual distance in kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "2km",
+        "alternative_answer_1": "2",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27715,
+        "question_text": "A square has an area of 25 sq cm. It is enlarged by a scale factor of 2. What is the area of the new square?",
+        "answer_type": "text_input",
+        "correct_answer": "100 sq cm",
+        "alternative_answer_1": "100",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27716,
+        "question_text": "A regular pentagon has a perimeter of 30cm. A similar pentagon has a perimeter of 45cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "1.5",
+        "alternative_answer_1": "03-Feb",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27717,
+        "question_text": "The perimeter of a small rectangle is 18cm. It is enlarged by a scale factor of 3. The new width is 12cm. What was the original length?",
+        "answer_type": "text_input",
+        "correct_answer": "5cm",
+        "alternative_answer_1": "5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27718,
+        "question_text": "A shape is reduced by a scale factor of 0.25. The new side length is 4cm. What was the original length?",
+        "answer_type": "text_input",
+        "correct_answer": "16cm",
+        "alternative_answer_1": "16",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27719,
+        "question_text": "A triangle has sides 5, 12, 13. A similar triangle has a shortest side of 7.5. What is its longest side?",
+        "answer_type": "text_input",
+        "correct_answer": "19.5",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27720,
+        "question_text": "Two similar jugs have heights of 10cm and 15cm. If the smaller jug holds 400ml, how much does the larger jug hold?",
+        "answer_type": "text_input",
+        "correct_answer": "This requires volume scaling, which is too complex.",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27721,
+        "question_text": "Two similar jugs have heights of 10cm and 20cm. What is the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27722,
+        "question_text": "A floor plan has a scale of 1:50. A room measures 8cm by 10cm on the plan. What is the real area of the room in square metres?",
+        "answer_type": "text_input",
+        "correct_answer": "20 sq m",
+        "alternative_answer_1": "20",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27723,
+        "question_text": "A shape is enlarged by a scale factor of 1.2. The original side was 10cm. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "12cm",
+        "alternative_answer_1": "12",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27724,
+        "question_text": "A real car is 4.2m long. A model is 21cm long. What is the scale of the model?",
+        "answer_type": "text_input",
+        "correct_answer": "01:20",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27725,
+        "question_text": "The side of a shape is 15cm. It is reduced to 12cm. What was the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "0.8",
+        "alternative_answer_1": "04-May",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27726,
+        "question_text": "A square has a perimeter of 32cm. It is reduced by a scale factor of 3/4. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "6cm",
+        "alternative_answer_1": "6",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27727,
+        "question_text": "A map's scale is 1cm to 2.5km. The distance on the map is 6cm. What is the real distance?",
+        "answer_type": "text_input",
+        "correct_answer": "15km",
+        "alternative_answer_1": "15",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27728,
+        "question_text": "A triangle has an area of 18 sq cm. It is enlarged by a scale factor of 3. What is the new area?",
+        "answer_type": "text_input",
+        "correct_answer": "162 sq cm",
+        "alternative_answer_1": "162",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27729,
+        "question_text": "The perimeter of a shape is 25cm. After reduction, the perimeter is 20cm. What was the scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "0.8",
+        "alternative_answer_1": "04-May",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27730,
+        "question_text": "A rectangle is 20cm by 30cm. A similar rectangle has a shorter side of 15cm. What is its longer side?",
+        "answer_type": "text_input",
+        "correct_answer": "22.5cm",
+        "alternative_answer_1": "22.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27731,
+        "question_text": "A real building is 30m tall. An architect's model is 60cm tall. What is the scale of the model?",
+        "answer_type": "text_input",
+        "correct_answer": "01:50",
+        "alternative_answer_1": "",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27732,
+        "question_text": "A circle's diameter is 12cm. It is enlarged by a scale factor of 1.25. What is the new radius?",
+        "answer_type": "text_input",
+        "correct_answer": "7.5cm",
+        "alternative_answer_1": "7.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27733,
+        "question_text": "A shape is enlarged by a scale factor of 5/4. An original side was 12cm. What is the new side length?",
+        "answer_type": "text_input",
+        "correct_answer": "15cm",
+        "alternative_answer_1": "15",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27734,
+        "question_text": "A shape with area 10 sq cm is enlarged by a scale factor of 1.5. What is the new area?",
+        "answer_type": "text_input",
+        "correct_answer": "22.5 sq cm",
+        "alternative_answer_1": "22.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27735,
+        "question_text": "A plan has a scale of 1:30. A wall on the plan is 15cm. How long is the real wall in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "4.5m",
+        "alternative_answer_1": "4.5",
+        "original_pundex": 3,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27736,
+        "question_text": "Two similar cylinders have heights of 10cm and 15cm. If the volume of the smaller cylinder is 200 cm³, what is the volume of the larger one?",
+        "answer_type": "text_input",
+        "correct_answer": "675 cm³",
+        "alternative_answer_1": "675",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27737,
+        "question_text": "A map has a scale of 1:25,000. A park on the map has an area of 4 sq cm. What is the real area of the park in square kilometres?",
+        "answer_type": "text_input",
+        "correct_answer": "0.25 sq km",
+        "alternative_answer_1": "0.25",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27738,
+        "question_text": "A rectangle is 12cm by 16cm. It is enlarged, and its new area is 4 times the original area. What was the length scale factor?",
+        "answer_type": "text_input",
+        "correct_answer": "2",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27739,
+        "question_text": "The perimeters of two similar shapes are 20cm and 30cm. The area of the smaller shape is 24 sq cm. What is the area of the larger shape?",
+        "answer_type": "text_input",
+        "correct_answer": "54 sq cm",
+        "alternative_answer_1": "54",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27740,
+        "question_text": "A model is made to a scale of 1:50. The model has a volume of 10 cm³. What is the volume of the real object in cubic metres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.25 cubic metres",
+        "alternative_answer_1": "1.25",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27741,
+        "question_text": "Two similar triangles have areas of 18 sq cm and 32 sq cm. The base of the smaller triangle is 6cm. Find the base of the larger triangle.",
+        "answer_type": "text_input",
+        "correct_answer": "8cm",
+        "alternative_answer_1": "8",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27742,
+        "question_text": "The ratio of the perimeters of two similar shapes is 2:3. What is the ratio of their areas?",
+        "answer_type": "text_input",
+        "correct_answer": "04:09",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27743,
+        "question_text": "A photo is 10cm by 15cm. It is enlarged so that its area is doubled. What is the new width, to one decimal place?",
+        "answer_type": "text_input",
+        "correct_answer": "14.1cm",
+        "alternative_answer_1": "14.1",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27744,
+        "question_text": "A statue is 3m tall and has a volume of 0.5 m³. A smaller, similar souvenir is 15cm tall. What is the souvenir's volume in cm³?",
+        "answer_type": "text_input",
+        "correct_answer": "500 cm³",
+        "alternative_answer_1": "500",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27745,
+        "question_text": "A statue is 3m tall and has a volume of 0.4 m³. A smaller, similar souvenir is 15cm tall. What is the souvenir's volume in cm³?",
+        "answer_type": "text_input",
+        "correct_answer": "500 cm³",
+        "alternative_answer_1": "500",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27746,
+        "question_text": "A map has a scale of 1:20,000. A rectangular field measures 2cm by 3cm on the map. Find the real area in hectares (1 hectare = 10,000 m²).",
+        "answer_type": "text_input",
+        "correct_answer": "6 hectares",
+        "alternative_answer_1": "6",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27747,
+        "question_text": "A map has a scale of 1:10,000. A rectangular field measures 2cm by 3cm on the map. Find the real area in hectares (1 hectare = 10,000 m²).",
+        "answer_type": "text_input",
+        "correct_answer": "6 hectares",
+        "alternative_answer_1": "6",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27748,
+        "question_text": "The areas of two similar shapes are 25 sq cm and 49 sq cm. What is the ratio of their perimeters?",
+        "answer_type": "text_input",
+        "correct_answer": "05:07",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27749,
+        "question_text": "An architect builds a model with a scale of 1:100. The volume of the model is 0.2 cubic metres. What is the volume of the real building?",
+        "answer_type": "text_input",
+        "correct_answer": "200,000 cubic metres",
+        "alternative_answer_1": "200000",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27750,
+        "question_text": "Two similar solids have surface areas of 50 sq cm and 200 sq cm. What is the ratio of their volumes?",
+        "answer_type": "text_input",
+        "correct_answer": "01:08",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27751,
+        "question_text": "A swimming pool is 25m long. On a photo, it is 5cm long. A person in the photo is 0.3cm tall. How tall is the real person?",
+        "answer_type": "text_input",
+        "correct_answer": "This requires multiple steps and is ambiguous. Rephrase.",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27752,
+        "question_text": "A swimming pool is 25m long. On a photo, it is 10cm long. A person standing by the pool is 0.7cm tall in the photo. How tall is the real person in metres?",
+        "answer_type": "text_input",
+        "correct_answer": "1.75m",
+        "alternative_answer_1": "1.75",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27753,
+        "question_text": "The ratio of the volumes of two similar spheres is 8:27. What is the ratio of their surface areas?",
+        "answer_type": "text_input",
+        "correct_answer": "04:09",
+        "alternative_answer_1": "",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27754,
+        "question_text": "A shape with perimeter 10cm is enlarged. The new perimeter is 15cm. The original area was 6 sq cm. What is the new area?",
+        "answer_type": "text_input",
+        "correct_answer": "13.5 sq cm",
+        "alternative_answer_1": "13.5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27755,
+        "question_text": "A map scale is 1cm to 0.5km. The area of a lake on the map is 10 sq cm. What is the real area in sq km?",
+        "answer_type": "text_input",
+        "correct_answer": "2.5 sq km",
+        "alternative_answer_1": "2.5",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27756,
+        "question_text": "A rectangular garden needs an area of 48 sq m. What are the dimensions (to one decimal place) that would require the least fencing?",
+        "answer_type": "text_input",
+        "correct_answer": "6.9m by 6.9m",
+        "alternative_answer_1": "approx 6.9m square",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27757,
+        "question_text": "Two similar solids have volumes of 100 cm³ and 156.25 cm³. The smaller has a height of 8cm. Find the height of the larger one.",
+        "answer_type": "text_input",
+        "correct_answer": "10cm",
+        "alternative_answer_1": "10",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27758,
+        "question_text": "A standard A4 page is approx 21cm by 30cm. An A5 page is a similar rectangle, with half the area. What are the dimensions of A5?",
+        "answer_type": "text_input",
+        "correct_answer": "15cm by 21cm",
+        "alternative_answer_1": "approx 14.8 by 21",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27759,
+        "question_text": "The ratio of corresponding sides of two similar triangles is 3:5. The area of the smaller triangle is 18 sq cm. Find the area of the larger one.",
+        "answer_type": "text_input",
+        "correct_answer": "50 sq cm",
+        "alternative_answer_1": "50",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    },
+    {
+        "question_id": 27760,
+        "question_text": "Two similar cones have radii of 4cm and 6cm. The volume of the smaller cone is 80 cm³. What is the volume of the larger cone?",
+        "answer_type": "text_input",
+        "correct_answer": "270 cm³",
+        "alternative_answer_1": "270",
+        "original_pundex": 4,
+        "year_group": 6,
+        "topic_id": 433
+    }
+]
