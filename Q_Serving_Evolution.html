@@ -555,7 +555,28 @@
 
     <div id="session-12" class="session">
         <h2>Session Twelve: December 14, 2025</h2>
-        <p>Progress Dashboard hierarchical unlocking, Mission Reference Document creation, and Pathway Selector CDR framework alignment.</p>
+        <p>Question JSON regeneration, progress saving fixes, Progress Dashboard hierarchical unlocking, Mission Reference Document creation, and Pathway Selector CDR framework alignment.</p>
+
+        <h3>Question JSON Regeneration</h3>
+        <ul>
+            <li><strong>Correct Field Mapping</strong>: Regenerated all question JSON files to include correct <code>original_pundex</code> (1-4) and <code>year_group</code> (1-6) fields from the source CSV.</li>
+            <li><strong>Previous Issue</strong>: JSON files were incorrectly using <code>topicInfo.level</code> for <code>original_pundex</code> instead of <code>q.original_pundex</code> from the questions CSV.</li>
+            <li><strong>app.js Mapping Update</strong>: Updated <code>autoLoadFromUrl()</code> to correctly map <code>yearGroup</code> from <code>q.year_group</code> field for proper pundex tier filtering.</li>
+        </ul>
+
+        <h3>Progress Saving Improvements</h3>
+        <ul>
+            <li><strong>Save After Each Question</strong>: Modified <code>submitAnswer()</code> to call <code>saveProgress()</code> after every question, not just on Power Up completion.</li>
+            <li><strong>Progress Restoration</strong>: Fixed <code>loadUserProgress()</code> and <code>startQuestions()</code> to properly restore <code>currentIndex</code> when returning to a mission.</li>
+            <li><strong>Rolling Score</strong>: Added <code>rollingScore</code> field to track score based on last 10 answers for partial progress display.</li>
+            <li><strong>Partial Progress Display</strong>: Updated Progress Dashboard to show partial progress at 50% opacity with 0-7 scale fill based on rolling score.</li>
+        </ul>
+
+        <h3>Mission Loading Fixes</h3>
+        <ul>
+            <li><strong>Auto-Switch to Available Level</strong>: Fixed "Place Value & Roman Numerals" not loading by implementing auto-switch to first available level when requested level has no questions.</li>
+            <li><strong>Filename Generation</strong>: Fixed double underscore issue in filename generation when mission names contain "&" characters.</li>
+        </ul>
 
         <h3>Pathway Selector - CDR Framework Rebuild</h3>
         <ul>
@@ -591,7 +612,10 @@
 
         <h3>Files Modified</h3>
         <ul>
-            <li><code>Progress_Dashboard_dynamic_levels.html</code> - Hierarchical unlocking logic, curriculum-based availability, locked mission styling</li>
+            <li><code>app.js</code> - Progress saving after each question, rolling score calculation, auto-switch to available level, yearGroup mapping fix</li>
+            <li><code>convert-questions.js</code> / <code>regenerate-json.js</code> - Fixed to use correct <code>original_pundex</code> and <code>year_group</code> from source CSV</li>
+            <li><code>Questions/*.json</code> - All question JSON files regenerated with correct field mappings</li>
+            <li><code>Progress_Dashboard_dynamic_levels.html</code> - Hierarchical unlocking logic, curriculum-based availability, locked mission styling, partial progress display</li>
             <li><code>Progress_Dashboard_all_levels.html</code> - New reference document with all missions/levels visible, no login, tooltips only</li>
             <li><code>Pathway_Selector.html</code> - Rebuilt with Google AI Studio for CDR framework consistency</li>
         </ul>
