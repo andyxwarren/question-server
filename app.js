@@ -533,13 +533,13 @@ class QuestionApp {
     }
 
     /**
-     * Automatically load questions from questions/questions.json
+     * Automatically load questions from Questions/questions.json
      */
     async autoLoadQuestions(isMissionMode = false) {
         try {
             this.showLoading(true);
 
-            const response = await fetch('questions/questions.json');
+            const response = await fetch('Questions/questions.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
