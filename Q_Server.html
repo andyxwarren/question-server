@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Practice App</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
+</head>
+<body>
+    <!-- User Header -->
+    <div id="userHeaderContainer" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+    
+    <!-- Notification Component -->
+    <div id="notification" class="notification hidden">
+        <div class="notification-content">
+            <span id="notification-icon" class="notification-icon"></span>
+            <span id="notification-message" class="notification-message"></span>
+            <button id="notification-close" class="notification-close">&times;</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Upload Section -->
+        <section id="upload-section" class="section">
+            <h1>Question Practice App</h1>
+            <div class="upload-area">
+                <label for="json-file-input" class="upload-label">
+                    <span>📁 Upload Question JSON File</span>
+                    <input type="file" id="json-file-input" accept=".json" hidden>
+                </label>
+            </div>
+            <div id="metadata-display" class="metadata hidden"></div>
+            <button id="select-topics-btn" class="btn btn-secondary hidden">Select Topics</button>
+            <button id="start-btn" class="btn btn-primary hidden">Start Questions</button>
+            <button id="enable-logging-btn" class="btn btn-secondary">Enable Live Logging</button>
+        </section>
+
+        <!-- Question Section -->
+        <section id="question-section" class="section hidden">
+            <div class="question-header">
+                <div id="progress-indicator" class="progress"></div>
+                <div id="question-metadata" class="metadata-tags"></div>
+                <div id="level-indicator" class="level-indicator"></div>
+                <div id="session-controls"></div>
+                <div id="header-user-menu"></div>
+                <button id="keyboard-toggle-btn" class="keyboard-toggle-btn" title="Toggle on-screen keyboard">⌨️</button>
+                <div id="hint-container"></div>
+                <div class="header-center-group">
+                    <div id="power-meter" class="power-meter"></div>
+                    <div id="progression-status"></div>
+                </div>
+            </div>
+
+            <!-- Main content area (for tablet side-by-side layout) -->
+            <div class="question-content-wrapper">
+                <div class="question-card">
+                    <div id="question-display" class="question-text"></div>
+
+                    <div id="answer-area" class="answer-section">
+                        <!-- This area will be dynamically populated by app.js -->
+                    </div>
+
+                    <div id="feedback-area" class="feedback hidden"></div>
+                </div>
+
+                <!-- On-Screen Keyboard -->
+                <div id="on-screen-keyboard" class="keyboard hidden">
+                    <div class="keyboard-display">
+                        <div id="keyboard-display-value" class="keyboard-display-value">0</div>
+                    </div>
+                    <div class="keyboard-buttons">
+                        <button class="keyboard-btn" data-action="clear">C</button>
+                        <button class="keyboard-btn" data-action="backspace">⌫</button>
+                        <button class="keyboard-btn" data-action="negative">+/-</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value="7">7</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value="8">8</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value="9">9</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value="4">4</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value="5">5</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value="6">6</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value="1">1</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value="2">2</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value="3">3</button>
+                        <button class="keyboard-btn keyboard-btn-number keyboard-btn-zero" data-value="0">0</button>
+                        <button class="keyboard-btn keyboard-btn-number" data-value=".">.</button>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- Results Section -->
+        <section id="results-section" class="section hidden">
+            <h1>Quiz Results</h1>
+            <div id="results-display" class="results-card"></div>
+            <button id="restart-btn" class="btn btn-secondary">Restart</button>
+        </section>
+    </div>
+
+    <!-- Topic Selector Modal -->
+    <div id="topic-modal" class="modal hidden">
+        <div class="modal-content">
+            <span id="close-modal-btn" class="close-btn">&times;</span>
+            <h2>Select Topics</h2>
+            <div id="topic-list-container"></div>
+            <button id="confirm-topics-btn" class="btn btn-primary">Confirm Selection</button>
+        </div>
+    </div>
+
+    <script src="validator.js"></script>
+    <script src="user-auth.js"></script>
+    <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Check if user is logged in (but don't force redirect for now)
+            const user = UserAuth.getCurrentUser();
+            if (user) {
+                // Add user header to fixed container (for non-question views)
+                const headerContainer = document.getElementById('userHeaderContainer');
+                const userHeader = UserAuth.createUserHeader();
+                if (userHeader) {
+                    headerContainer.appendChild(userHeader);
+                }
+                
+                // Also add to inline header (for question view)
+                const inlineHeaderContainer = document.getElementById('header-user-menu');
+                const inlineUserHeader = UserAuth.createUserHeader();
+                if (inlineUserHeader && inlineHeaderContainer) {
+                    inlineHeaderContainer.appendChild(inlineUserHeader);
+                }
+                
+                console.log('Logged in as:', UserAuth.getFullName(user), '- Year', user.yearGroup);
+            } else {
+                console.log('No user logged in');
+            }
+        });
+    </script>
+</body>
+</html>

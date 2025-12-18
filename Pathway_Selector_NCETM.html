@@ -414,7 +414,7 @@
                 <div class="arcade-button-container mission-page active" style="grid-template-columns: repeat(3, 1fr);">
     <button id="btnCounting" class="arcade-button"><span>COUNTING</span></button>
     <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #1e88e5;"><span>COMPARING NUMBERS</span></button>
-    <button class="arcade-button" style="--arcade-btn-color: #43a047; opacity: 1; cursor: pointer;" onclick="window.location.href='index.html?mission=' + encodeURIComponent('Identifying, Representing and Estimating Numbers')"><span style="font-size:0.65em;">IDENTIFYING,<br>REPRESENTING<br>& ESTIMATING</span></button>
+    <button class="arcade-button" style="--arcade-btn-color: #43a047; opacity: 1; cursor: pointer;" onclick="window.location.href='Q_Server.html?mission=' + encodeURIComponent('Identifying, Representing and Estimating Numbers')"><span style="font-size:0.65em;">IDENTIFYING,<br>REPRESENTING<br>& ESTIMATING</span></button>
     <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #ffd600;"><span>READING AND WRITING NUMBERS</span></button>
     <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #ec407a;"><span>PLACE VALUE</span></button>
     <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #fafafa;"><span>ROUNDING</span></button>
@@ -541,7 +541,7 @@
             <h1 class="title">ALGEBRA</h1>
             <h2 class="subtitle">SELECT MISSION</h2>
             <div class="arcade-button-container">
-                <button class="arcade-button" style="--arcade-btn-color: #e53935; opacity: 1; cursor: pointer;" onclick="window.location.href='index.html?mission=' + encodeURIComponent('Equations')"><span>EQUATIONS</span></button>
+                <button class="arcade-button" style="--arcade-btn-color: #e53935; opacity: 1; cursor: pointer;" onclick="window.location.href='Q_Server.html?mission=' + encodeURIComponent('Equations')"><span>EQUATIONS</span></button>
                 <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #1e88e5;"><span>FORMULAE</span></button>
                 <button class="arcade-button disabled" title="Mission Coming Soon" style="--arcade-btn-color: #43a047;"><span>SEQUENCES</span></button>
                 <button class="arcade-button disabled" tabindex="-1" aria-hidden="true"></button>
@@ -698,7 +698,7 @@
                         const newButton = button.cloneNode(true);
                         button.parentNode.replaceChild(newButton, button);
                         newButton.addEventListener('click', () => {
-                            window.location.href = `index.html?mission=${encodeURIComponent(matchingMission.original)}`;
+                            window.location.href = `Q_Server.html?mission=${encodeURIComponent(matchingMission.original)}`;
                         });
                     } else {
                         button.classList.add('disabled');

@@ -3,138 +3,551 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Question Practice App</title>
-    <link rel="stylesheet" href="styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
+    <title>Login - Question Practice App</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+        }
+
+        .login-container {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            width: 100%;
+            max-width: 380px;
+            max-height: calc(100vh - 20px);
+            overflow-y: auto;
+        }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .logo h1 {
+            font-size: 22px;
+            color: #333;
+            margin-bottom: 2px;
+        }
+
+        .logo p {
+            color: #666;
+            font-size: 12px;
+        }
+
+        .form-group {
+            margin-bottom: 10px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 3px;
+            font-weight: 600;
+            color: #333;
+            font-size: 12px;
+        }
+
+        input[type="text"],
+        input[type="password"],
+        select {
+            width: 100%;
+            padding: 8px 10px;
+            border: 2px solid #e0e0e0;
+            border-radius: 6px;
+            font-size: 14px;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        input[type="text"]:focus,
+        input[type="password"]:focus,
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.2);
+        }
+
+        .btn {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 8px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.1s, box-shadow 0.2s;
+        }
+
+        .btn:active {
+            transform: scale(0.98);
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            margin-bottom: 8px;
+        }
+
+        .btn-primary:hover {
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-secondary {
+            background: #f5f5f5;
+            color: #333;
+        }
+
+        .btn-secondary:hover {
+            background: #e8e8e8;
+        }
+
+        .divider {
+            text-align: center;
+            margin: 20px 0;
+            position: relative;
+        }
+
+        .divider::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: #e0e0e0;
+        }
+
+        .divider span {
+            background: white;
+            padding: 0 15px;
+            color: #999;
+            font-size: 14px;
+            position: relative;
+        }
+
+        .user-list {
+            margin-top: 20px;
+        }
+
+        .user-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 16px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .user-item:hover {
+            border-color: #667eea;
+            background: #f8f9ff;
+        }
+
+        .user-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 600;
+            font-size: 16px;
+            margin-right: 12px;
+        }
+
+        .user-info {
+            flex: 1;
+        }
+
+        .user-name {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .user-role {
+            font-size: 12px;
+            color: #666;
+        }
+
+        .error-message {
+            background: #fee;
+            border: 1px solid #fcc;
+            color: #c00;
+            padding: 12px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            display: none;
+        }
+
+        .tabs {
+            display: flex;
+            margin-bottom: 12px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .tab {
+            flex: 1;
+            padding: 6px;
+            text-align: center;
+            cursor: pointer;
+            font-weight: 600;
+            color: #666;
+            border-bottom: 2px solid transparent;
+            margin-bottom: -2px;
+            transition: all 0.2s;
+        }
+
+        .tab:hover {
+            color: #667eea;
+        }
+
+        .tab.active {
+            color: #667eea;
+            border-bottom-color: #667eea;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .quick-login-hint {
+            text-align: center;
+            color: #999;
+            font-size: 13px;
+            margin-top: 15px;
+        }
+
+        .hand-selector {
+            display: flex;
+            gap: 8px;
+        }
+
+        .hand-option {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            padding: 8px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .hand-option:hover {
+            border-color: #667eea;
+            background: #f8f9ff;
+        }
+
+        .hand-option input[type="radio"] {
+            display: none;
+        }
+
+        .hand-option:has(input:checked) {
+            border-color: #667eea;
+            background: #f0f3ff;
+            box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+        }
+
+        .hand-icon {
+            font-size: 22px;
+        }
+
+        .hand-label {
+            font-weight: 600;
+            font-size: 13px;
+            color: #333;
+        }
+    </style>
 </head>
 <body>
-    <!-- User Header -->
-    <div id="userHeaderContainer" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
-    
-    <!-- Notification Component -->
-    <div id="notification" class="notification hidden">
-        <div class="notification-content">
-            <span id="notification-icon" class="notification-icon"></span>
-            <span id="notification-message" class="notification-message"></span>
-            <button id="notification-close" class="notification-close">&times;</button>
+    <div class="login-container">
+        <div class="logo">
+            <h1>📚 Question Practice</h1>
+            <p>Master maths through practice</p>
+        </div>
+
+        <div class="error-message" id="errorMessage"></div>
+
+        <div class="tabs">
+            <div class="tab active" data-tab="quick">Quick Login</div>
+            <div class="tab" data-tab="new">New User</div>
+        </div>
+
+        <!-- Quick Login Tab -->
+        <div class="tab-content active" id="tab-quick">
+            <div class="user-list" id="userList">
+                <!-- Users will be populated here -->
+            </div>
+            <p class="quick-login-hint" id="noUsersHint">No saved users. Create a new account to get started!</p>
+        </div>
+
+        <!-- New User Tab -->
+        <div class="tab-content" id="tab-new">
+            <form id="newUserForm" autocomplete="off">
+                <div class="form-group">
+                    <label for="firstName">First Name</label>
+                    <input type="text" id="firstName" placeholder="Enter your first name" autocomplete="off" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="lastName">Last Name</label>
+                    <input type="text" id="lastName" placeholder="Enter your last name" autocomplete="off" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="yearGroup">Year Group</label>
+                    <select id="yearGroup" required>
+                        <option value="">Select your year group</option>
+                        <option value="1">Year 1</option>
+                        <option value="2">Year 2</option>
+                        <option value="3">Year 3</option>
+                        <option value="4">Year 4</option>
+                        <option value="5">Year 5</option>
+                        <option value="6">Year 6</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="pin">PIN (4 digits)</label>
+                    <input type="password" id="pin" placeholder="Create a 4-digit PIN" maxlength="4" pattern="[0-9]{4}" autocomplete="new-password" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Which hand do you write with?</label>
+                    <div class="hand-selector">
+                        <label class="hand-option">
+                            <input type="radio" name="handedness" value="left">
+                            <span class="hand-icon">✋</span>
+                            <span class="hand-label">Left</span>
+                        </label>
+                        <label class="hand-option">
+                            <input type="radio" name="handedness" value="right" checked>
+                            <span class="hand-icon" style="transform: scaleX(-1);">✋</span>
+                            <span class="hand-label">Right</span>
+                        </label>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Create Account & Login</button>
+            </form>
         </div>
     </div>
 
-    <div class="container">
-        <!-- Upload Section -->
-        <section id="upload-section" class="section">
-            <h1>Question Practice App</h1>
-            <div class="upload-area">
-                <label for="json-file-input" class="upload-label">
-                    <span>📁 Upload Question JSON File</span>
-                    <input type="file" id="json-file-input" accept=".json" hidden>
-                </label>
-            </div>
-            <div id="metadata-display" class="metadata hidden"></div>
-            <button id="select-topics-btn" class="btn btn-secondary hidden">Select Topics</button>
-            <button id="start-btn" class="btn btn-primary hidden">Start Questions</button>
-            <button id="enable-logging-btn" class="btn btn-secondary">Enable Live Logging</button>
-        </section>
-
-        <!-- Question Section -->
-        <section id="question-section" class="section hidden">
-            <div class="question-header">
-                <div id="progress-indicator" class="progress"></div>
-                <div id="question-metadata" class="metadata-tags"></div>
-                <div id="level-indicator" class="level-indicator"></div>
-                <div id="session-controls"></div>
-                <div id="header-user-menu"></div>
-                <button id="keyboard-toggle-btn" class="keyboard-toggle-btn" title="Toggle on-screen keyboard">⌨️</button>
-                <div id="hint-container"></div>
-                <div class="header-center-group">
-                    <div id="power-meter" class="power-meter"></div>
-                    <div id="progression-status"></div>
-                </div>
-            </div>
-
-            <!-- Main content area (for tablet side-by-side layout) -->
-            <div class="question-content-wrapper">
-                <div class="question-card">
-                    <div id="question-display" class="question-text"></div>
-
-                    <div id="answer-area" class="answer-section">
-                        <!-- This area will be dynamically populated by app.js -->
-                    </div>
-
-                    <div id="feedback-area" class="feedback hidden"></div>
-                </div>
-
-                <!-- On-Screen Keyboard -->
-                <div id="on-screen-keyboard" class="keyboard hidden">
-                    <div class="keyboard-display">
-                        <div id="keyboard-display-value" class="keyboard-display-value">0</div>
-                    </div>
-                    <div class="keyboard-buttons">
-                        <button class="keyboard-btn" data-action="clear">C</button>
-                        <button class="keyboard-btn" data-action="backspace">⌫</button>
-                        <button class="keyboard-btn" data-action="negative">+/-</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value="7">7</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value="8">8</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value="9">9</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value="4">4</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value="5">5</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value="6">6</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value="1">1</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value="2">2</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value="3">3</button>
-                        <button class="keyboard-btn keyboard-btn-number keyboard-btn-zero" data-value="0">0</button>
-                        <button class="keyboard-btn keyboard-btn-number" data-value=".">.</button>
-                    </div>
-                </div>
-            </div>
-
-        </section>
-
-        <!-- Results Section -->
-        <section id="results-section" class="section hidden">
-            <h1>Quiz Results</h1>
-            <div id="results-display" class="results-card"></div>
-            <button id="restart-btn" class="btn btn-secondary">Restart</button>
-        </section>
-    </div>
-
-    <!-- Topic Selector Modal -->
-    <div id="topic-modal" class="modal hidden">
-        <div class="modal-content">
-            <span id="close-modal-btn" class="close-btn">&times;</span>
-            <h2>Select Topics</h2>
-            <div id="topic-list-container"></div>
-            <button id="confirm-topics-btn" class="btn btn-primary">Confirm Selection</button>
-        </div>
-    </div>
-
-    <script src="validator.js"></script>
-    <script src="user-auth.js"></script>
-    <script src="app.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            // Check if user is logged in (but don't force redirect for now)
-            const user = UserAuth.getCurrentUser();
-            if (user) {
-                // Add user header to fixed container (for non-question views)
-                const headerContainer = document.getElementById('userHeaderContainer');
-                const userHeader = UserAuth.createUserHeader();
-                if (userHeader) {
-                    headerContainer.appendChild(userHeader);
-                }
-                
-                // Also add to inline header (for question view)
-                const inlineHeaderContainer = document.getElementById('header-user-menu');
-                const inlineUserHeader = UserAuth.createUserHeader();
-                if (inlineUserHeader && inlineHeaderContainer) {
-                    inlineHeaderContainer.appendChild(inlineUserHeader);
-                }
-                
-                console.log('Logged in as:', UserAuth.getFullName(user), '- Year', user.yearGroup);
-            } else {
-                console.log('No user logged in');
+        // Local user storage
+        const USERS_KEY = 'questionApp_users';
+        const CURRENT_USER_KEY = 'questionApp_currentUser';
+
+        // Get stored users
+        function getUsers() {
+            const users = localStorage.getItem(USERS_KEY);
+            return users ? JSON.parse(users) : [];
+        }
+
+        // Save users
+        function saveUsers(users) {
+            localStorage.setItem(USERS_KEY, JSON.stringify(users));
+        }
+
+        // Set current user
+        function setCurrentUser(user) {
+            localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(user));
+        }
+
+        // Get current user
+        function getCurrentUser() {
+            const user = localStorage.getItem(CURRENT_USER_KEY);
+            return user ? JSON.parse(user) : null;
+        }
+
+        // Generate initials
+        function getInitials(firstName, lastName) {
+            return (firstName.charAt(0) + lastName.charAt(0)).toUpperCase();
+        }
+
+        // Render user list
+        function renderUserList() {
+            const users = getUsers();
+            const userList = document.getElementById('userList');
+            const noUsersHint = document.getElementById('noUsersHint');
+
+            if (users.length === 0) {
+                userList.innerHTML = '';
+                noUsersHint.style.display = 'block';
+                return;
             }
+
+            noUsersHint.style.display = 'none';
+            userList.innerHTML = users.map((user, index) => `
+                <div class="user-item" data-index="${index}">
+                    <div class="user-avatar">${getInitials(user.firstName, user.lastName)}</div>
+                    <div class="user-info">
+                        <div class="user-name">${user.firstName} ${user.lastName}</div>
+                        <div class="user-role">Year ${user.yearGroup}</div>
+                    </div>
+                </div>
+            `).join('');
+
+            // Add click handlers
+            document.querySelectorAll('.user-item').forEach(item => {
+                item.addEventListener('click', () => {
+                    const index = parseInt(item.dataset.index);
+                    promptForPin(users[index]);
+                });
+            });
+        }
+
+        // Prompt for PIN
+        function promptForPin(user) {
+            const pin = prompt(`Enter PIN for ${user.firstName}:`);
+            if (pin === null) return; // Cancelled
+
+            if (pin === user.pin) {
+                loginUser(user);
+            } else {
+                showError('Incorrect PIN. Please try again.');
+            }
+        }
+
+        // Login user
+        function loginUser(user) {
+            // Update last login
+            user.lastLogin = new Date().toISOString();
+            
+            // Save current user
+            setCurrentUser(user);
+
+            // Update user in list
+            const users = getUsers();
+            const index = users.findIndex(u => u.id === user.id);
+            if (index !== -1) {
+                users[index] = user;
+                saveUsers(users);
+            }
+
+            // Redirect to main app or dashboard
+            window.location.href = 'Pathway_Selector.html';
+        }
+
+        // Show error
+        function showError(message) {
+            const errorEl = document.getElementById('errorMessage');
+            errorEl.textContent = message;
+            errorEl.style.display = 'block';
+            setTimeout(() => {
+                errorEl.style.display = 'none';
+            }, 3000);
+        }
+
+        // Tab switching
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                // Update tab styles
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+
+                // Update content
+                document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+                document.getElementById(`tab-${tab.dataset.tab}`).classList.add('active');
+            });
         });
+
+        // New user form
+        document.getElementById('newUserForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+
+            const firstName = document.getElementById('firstName').value.trim();
+            const lastName = document.getElementById('lastName').value.trim();
+            const yearGroup = document.getElementById('yearGroup').value;
+            const pin = document.getElementById('pin').value;
+            const handedness = document.querySelector('input[name="handedness"]:checked').value;
+
+            // Validate PIN
+            if (!/^\d{4}$/.test(pin)) {
+                showError('PIN must be exactly 4 digits.');
+                return;
+            }
+
+            // Create user
+            const user = {
+                id: Date.now().toString(),
+                firstName,
+                lastName,
+                yearGroup: parseInt(yearGroup),
+                pin,
+                handedness, // 'left' or 'right'
+                createdAt: new Date().toISOString(),
+                lastLogin: new Date().toISOString(),
+                progress: {} // Will store mission/level progress
+            };
+
+            // Save user
+            const users = getUsers();
+            users.push(user);
+            saveUsers(users);
+
+            // Login
+            loginUser(user);
+        });
+
+        // Check if already logged in
+        const currentUser = getCurrentUser();
+        if (currentUser) {
+            // Optional: Auto-redirect if already logged in
+            // window.location.href = 'Pathway_Selector.html';
+        }
+
+        // One-time migration: Set handedness for existing users
+        (function migrateHandedness() {
+            const users = getUsers();
+            let updated = false;
+            users.forEach(user => {
+                if (user.firstName === 'Adam' && user.lastName === 'Conduct') {
+                    user.handedness = 'right';
+                    updated = true;
+                }
+                if (user.firstName === 'Tester' && user.lastName === 'Face') {
+                    user.handedness = 'left';
+                    updated = true;
+                }
+                // Set default for any user without handedness
+                if (!user.handedness) {
+                    user.handedness = 'right';
+                    updated = true;
+                }
+            });
+            if (updated) {
+                saveUsers(users);
+            }
+        })();
+
+        // Initial render
+        renderUserList();
     </script>
 </body>
 </html>

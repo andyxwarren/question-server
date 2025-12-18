@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Git & GitHub Command Reference</title>
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    background: #f9f9f9;
+    color: #333;
+  }
+
+  h1, h2 {
+    color: #222;
+  }
+
+  section {
+    margin-bottom: 2rem;
+  }
+
+  pre {
+    background: #eee;
+    padding: 12px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    overflow-x: auto;
+  }
+
+  code {
+    white-space: pre;
+    font-family: Consolas, monospace;
+    font-size: 0.95rem;
+  }
+
+  .copy-btn {
+    padding: 4px 10px;
+    font-size: 0.85rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+
+  .copy-btn:hover {
+    background-color: #43a047;
+  }
+
+  ul {
+    margin-top: 0.5rem;
+  }
+</style>
+</head>
+
+<body>
+
+<h1>Git & GitHub Command Reference</h1>
+<p>A simple, practical reference for everyday Git usage.</p>
+
+<section>
+<h2>1. Check Status</h2>
+<pre>
+  <code>git status</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+<p>Tells you:</p>
+<ul>
+  <li>Which branch you’re on</li>
+  <li>If everything is committed</li>
+</ul>
+</section>
+
+<section>
+<h2>2. Stage Changes</h2>
+<pre>
+  <code>git add .</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+
+<pre>
+  <code>git add file1.py</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+</section>
+
+<section>
+<h2>3. Commit Changes</h2>
+<pre>
+  <code>git commit -m "Describe what you changed"</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+
+<pre>
+  <code>git commit -m "Fix topic selection bug"</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+</section>
+
+<section>
+<h2>4. Switch Branch</h2>
+<pre>
+  <code>git checkout main</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+
+<pre>
+  <code>git switch main</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+</section>
+
+<section>
+<h2>5. Create a Branch</h2>
+<pre>
+  <code>git checkout -b my-branch</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+</section>
+
+<section>
+<h2>6. Merge a Branch into Main</h2>
+<pre>
+  <code>git checkout main
+git merge my-branch</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+
+<pre>
+  <code>git push</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+</section>
+
+<section>
+<h2>7. Replace Main with Your Branch</h2>
+<pre>
+  <code>git branch -f main my-branch
+git checkout main
+git push origin main --force</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+
+<p><strong>⚠ Warning:</strong> This overwrites the old main branch.</p>
+</section>
+
+<section>
+<h2>8. Delete a Branch</h2>
+<pre>
+  <code>git branch -d my-branch
+git push origin --delete my-branch</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+</section>
+
+<section>
+<h2>9. View Commit History</h2>
+<pre>
+  <code>git log --oneline -5</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+</section>
+
+<section>
+<h2>Key Rules</h2>
+<ul>
+  <li><strong>Working tree clean</strong> = everything is committed</li>
+  <li>Commit early, commit often</li>
+  <li>Branches are safe playgrounds</li>
+  <li>Main should always work</li>
+</ul>
+</section>
+
+<script>
+function copyCode(button) {
+  const code = button.parentElement.querySelector('code').innerText;
+
+  const textarea = document.createElement('textarea');
+  textarea.value = code;
+  document.body.appendChild(textarea);
+
+  textarea.select();
+  textarea.setSelectionRange(0, 99999);
+
+  try {
+    document.execCommand('copy');
+    button.textContent = 'Copied!';
+    setTimeout(() => button.textContent = 'Copy', 1200);
+  } catch (err) {
+    button.textContent = 'Failed';
+  }
+
+  document.body.removeChild(textarea);
+}
+</script>
+
+</body>
+</html>

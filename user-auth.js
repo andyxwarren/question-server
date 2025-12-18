@@ -66,8 +66,8 @@ const UserAuth = {
         const user = this.getCurrentUser();
         if (!user) {
             const loginUrl = redirectUrl 
-                ? `login.html?redirect=${encodeURIComponent(redirectUrl)}`
-                : 'login.html';
+                ? `index.html?redirect=${encodeURIComponent(redirectUrl)}`
+                : 'index.html';
             window.location.href = loginUrl;
             return null;
         }
@@ -286,7 +286,7 @@ const UserAuth = {
                 <button class="user-header-dropdown-btn" onclick="window.location.href='Pathway_Selector.html';">
                     🎯 Change Mission
                 </button>
-                <button class="user-header-dropdown-btn" onclick="UserAuth.logout(); window.location.href='login.html';">
+                <button class="user-header-dropdown-btn" onclick="UserAuth.logout(); window.location.href='index.html';">
                     🚪 Logout
                 </button>
             </div>
