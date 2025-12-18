@@ -18,6 +18,7 @@ class QuestionApp {
         this.adventureLog = []; // Log for CSV export
         this.currentUser = typeof UserAuth !== 'undefined' ? UserAuth.getCurrentUser() : null; // Get logged in user
         this.userId = this.currentUser ? this.currentUser.id : this.generateUUID(); // Use user ID if logged in
+        console.log('QuestionApp initialized - currentUser:', this.currentUser);
         this.batchId = this.generateUUID(); // Generate a consistent batch ID for the session
         this.logFileHandle = null; // For the File System Access API
         this.logQueue = []; // A queue for log entries to be written
@@ -1582,6 +1583,7 @@ class QuestionApp {
      * @param {boolean} completed - Whether the pundex is fully completed (power-up achieved)
      */
     saveProgress(mission, level, pundex, completed) {
+        console.log('saveProgress called:', { mission, level, pundex, completed, currentUser: this.currentUser, UserAuthDefined: typeof UserAuth !== 'undefined' });
         if (!this.currentUser || typeof UserAuth === 'undefined') {
             console.log('No user logged in, progress not saved');
             return;
