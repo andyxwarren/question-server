@@ -3,15 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Git & GitHub Command Reference</title>
+<title>Uploading Changes from Windsurf to GitHub</title>
 
 <style>
   body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
     max-width: 900px;
     margin: 2rem auto;
     padding: 0 1rem;
+    line-height: 1.6;
     background: #f9f9f9;
     color: #333;
   }
@@ -21,7 +21,7 @@
   }
 
   section {
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
   }
 
   pre {
@@ -29,15 +29,15 @@
     padding: 12px;
     border-radius: 6px;
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
     gap: 12px;
     overflow-x: auto;
   }
 
   code {
-    white-space: pre;
     font-family: Consolas, monospace;
+    white-space: pre;
     font-size: 0.95rem;
   }
 
@@ -46,139 +46,142 @@
     font-size: 0.85rem;
     border: none;
     border-radius: 4px;
-    background-color: #4CAF50;
+    background: #4CAF50;
     color: white;
     cursor: pointer;
     flex-shrink: 0;
   }
 
   .copy-btn:hover {
-    background-color: #43a047;
+    background: #43a047;
   }
 
   ul {
     margin-top: 0.5rem;
+  }
+
+  .note {
+    background: #fff3cd;
+    border-left: 5px solid #ffecb5;
+    padding: 10px;
+    margin-top: 1rem;
   }
 </style>
 </head>
 
 <body>
 
-<h1>Git & GitHub Command Reference</h1>
-<p>A simple, practical reference for everyday Git usage.</p>
+<h1>How to Upload Your Changes from Windsurf to GitHub</h1>
+<p>This page shows the <strong>exact commands</strong> you need, in the correct order.  
+You will use these over and over again.</p>
+
+<hr>
 
 <section>
-<h2>1. Check Status</h2>
+<h2>Step 1 — Check what you’ve changed</h2>
+<p>Always start here.</p>
+
 <pre>
   <code>git status</code>
   <button class="copy-btn" onclick="copyCode(this)">Copy</button>
 </pre>
-<p>Tells you:</p>
+
+<p>You are looking for:</p>
 <ul>
-  <li>Which branch you’re on</li>
-  <li>If everything is committed</li>
+  <li><strong>modified:</strong> files → files you edited</li>
+  <li><strong>untracked files:</strong> → new files you created</li>
+  <li><strong>working tree clean</strong> → nothing to upload</li>
 </ul>
 </section>
 
 <section>
-<h2>2. Stage Changes</h2>
+<h2>Step 2 — Stage your changes</h2>
+<p>This tells Git what you want to include in the upload.</p>
+
 <pre>
   <code>git add .</code>
   <button class="copy-btn" onclick="copyCode(this)">Copy</button>
 </pre>
 
+<p><strong>Think:</strong> “Put everything I’ve changed into the basket.”</p>
+</section>
+
+<section>
+<h2>Step 3 — Commit (save a snapshot)</h2>
+<p>This saves your changes locally.  
+<strong>This does NOT upload yet.</strong></p>
+
 <pre>
-  <code>git add file1.py</code>
+  <code>git commit -m "Describe what I changed"</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+
+<p>Example:</p>
+
+<pre>
+  <code>git commit -m "Update Git reference page"</code>
   <button class="copy-btn" onclick="copyCode(this)">Copy</button>
 </pre>
 </section>
 
 <section>
-<h2>3. Commit Changes</h2>
-<pre>
-  <code>git commit -m "Describe what you changed"</code>
-  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
-</pre>
-
-<pre>
-  <code>git commit -m "Fix topic selection bug"</code>
-  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
-</pre>
-</section>
-
-<section>
-<h2>4. Switch Branch</h2>
-<pre>
-  <code>git checkout main</code>
-  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
-</pre>
-
-<pre>
-  <code>git switch main</code>
-  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
-</pre>
-</section>
-
-<section>
-<h2>5. Create a Branch</h2>
-<pre>
-  <code>git checkout -b my-branch</code>
-  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
-</pre>
-</section>
-
-<section>
-<h2>6. Merge a Branch into Main</h2>
-<pre>
-  <code>git checkout main
-git merge my-branch</code>
-  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
-</pre>
+<h2>Step 4 — Push to GitHub (upload)</h2>
+<p>This is the step people forget.</p>
 
 <pre>
   <code>git push</code>
   <button class="copy-btn" onclick="copyCode(this)">Copy</button>
 </pre>
+
+<p>This sends your commits to GitHub and updates GitHub Pages.</p>
 </section>
 
+<hr>
+
 <section>
-<h2>7. Replace Main with Your Branch</h2>
+<h2>The Full Windsurf Workflow (memorise this)</h2>
+
 <pre>
-  <code>git branch -f main my-branch
-git checkout main
-git push origin main --force</code>
+  <code>git status
+git add .
+git commit -m "update"
+git push</code>
   <button class="copy-btn" onclick="copyCode(this)">Copy</button>
 </pre>
 
-<p><strong>⚠ Warning:</strong> This overwrites the old main branch.</p>
+<p>You will do this sequence every time you change files.</p>
 </section>
 
 <section>
-<h2>8. Delete a Branch</h2>
-<pre>
-  <code>git branch -d my-branch
-git push origin --delete my-branch</code>
-  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
-</pre>
-</section>
+<h2>Quick Checks if Things Don’t Update</h2>
 
-<section>
-<h2>9. View Commit History</h2>
-<pre>
-  <code>git log --oneline -5</code>
-  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
-</pre>
-</section>
-
-<section>
-<h2>Key Rules</h2>
 <ul>
-  <li><strong>Working tree clean</strong> = everything is committed</li>
-  <li>Commit early, commit often</li>
-  <li>Branches are safe playgrounds</li>
-  <li>Main should always work</li>
+  <li>Did you run <code>git commit</code>?</li>
+  <li>Did you run <code>git push</code>?</li>
+  <li>Does <code>git status</code> say <strong>working tree clean</strong>?</li>
+  <li>Are you on <code>main</code>?</li>
 </ul>
+
+<pre>
+  <code>git branch</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
 </section>
+
+<section>
+<h2>Emergency One-Line Upload</h2>
+<p>Fine for solo projects when you don’t care about messages.</p>
+
+<pre>
+  <code>git add . && git commit -m "update" && git push</code>
+  <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+</pre>
+</section>
+
+<div class="note">
+<strong>Rule of thumb:</strong><br>
+If GitHub hasn’t changed, you probably forgot <code>git push</code>.
+</div>
 
 <script>
 function copyCode(button) {
@@ -191,13 +194,10 @@ function copyCode(button) {
   textarea.select();
   textarea.setSelectionRange(0, 99999);
 
-  try {
-    document.execCommand('copy');
-    button.textContent = 'Copied!';
-    setTimeout(() => button.textContent = 'Copy', 1200);
-  } catch (err) {
-    button.textContent = 'Failed';
-  }
+  document.execCommand('copy');
+
+  button.textContent = 'Copied!';
+  setTimeout(() => button.textContent = 'Copy', 1200);
 
   document.body.removeChild(textarea);
 }
