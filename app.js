@@ -475,7 +475,8 @@ class QuestionApp {
                 // Legacy: Convert mission name to filename format
                 filename = missionName.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, ' ').trim().replace(/\s/g, '_') + '.json';
             }
-            const filePath = `Questions/${filename}`;
+            const filePath = `questions/${filename}`;
+            console.log('Attempting to fetch:', filePath);
             
             const fileResponse = await fetch(filePath);
             if (!fileResponse.ok) {
@@ -539,7 +540,7 @@ class QuestionApp {
         try {
             this.showLoading(true);
 
-            const response = await fetch('Questions/questions.json');
+            const response = await fetch('questions/questions.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
