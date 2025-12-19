@@ -239,6 +239,125 @@
             .welcome-message { font-size: 1.2em; }
             .arcade-button-container { gap: 10px; }
         }
+        
+        /* Mobile view adjustments */
+        @media (max-width: 480px) {
+            body {
+                overflow: hidden; /* No body scroll - container handles it */
+                height: 100vh;
+            }
+            
+            /* Container is FIXED with green border - doesn't scroll */
+            body .container {
+                position: fixed;
+                top: 5px;
+                left: 50%;
+                transform: translateX(-50%);
+                width: min(calc(100vw - 20px), 420px); /* perfect centering within viewport */
+                bottom: 5px;
+                height: auto;
+                overflow: hidden;
+                padding: 10px;
+                padding-top: 10px;
+                z-index: 10;
+                box-sizing: border-box;
+            }
+            
+            /* Breadcrumb container - holds title, uses flexbox for perfect centering */
+            .breadcrumb-container {
+                display: flex !important;
+                align-items: center; /* Vertical centering */
+                justify-content: center; /* Horizontal centering */
+                height: 45px; /* Fixed height */
+                margin: -5px 5px 0 5px; /* Negative top margin to compensate for container padding */
+                padding: 0;
+                border-bottom: 3px solid #0f0;
+                box-shadow: 0 0 8px #0f0;
+            }
+            
+            /* PowerUp Academy title - same style as Choose World with glow */
+            .welcome-message {
+                font-size: 0.9em;
+                line-height: 1;
+                margin: 0;
+                padding: 0;
+                text-align: center;
+                color: #ff00ff;
+                text-shadow: 0 0 5px #ff00ff; /* Same glow as .title */
+                background: transparent;
+                font-weight: bold !important;
+            }
+            
+            /* Hamburger menu - inside green border, doesn't extend beyond green line */
+            #userHeaderContainer {
+                position: fixed !important;
+                top: 15px !important;
+                right: 30px !important;
+                z-index: 1000 !important;
+            }
+            
+            /* Title area below the green line - bigger gap above Choose World */
+            .title-area {
+                margin-bottom: 0;
+                margin-top: 15px; /* Bigger gap above Choose World */
+                padding-bottom: 5px;
+            }
+            
+            .title {
+                font-size: 0.85em;
+                margin: 0;
+            }
+            
+            .subtitle {
+                font-size: 0.55em;
+                margin: 3px 0;
+            }
+            
+            .breadcrumb-button {
+                font-size: 0.5em;
+                padding: 6px 10px;
+            }
+            
+            /* 2 buttons per row on mobile - BIGGER buttons with BIGGER text */
+            .arcade-button-container {
+                display: flex !important;
+                flex-wrap: wrap !important;
+                justify-content: center !important;
+                align-items: center !important;
+                gap: 20px;
+                padding: 10px;
+                padding-top: 110px; /* Final space for sticky header so buttons don't disappear */
+                padding-bottom: 20px;
+                width: 100%;
+                overflow-y: auto; /* Buttons scroll inside container */
+                overflow-x: hidden;
+                max-height: calc(100% - 130px); /* Adjusted for title area */
+            }
+            
+            .arcade-button {
+                flex: 0 0 auto !important; /* Allow natural width */
+                width: 130px;
+                height: 130px;
+                font-size: 0.65em; /* Increased from 0.5em for larger text */
+                margin: 0;
+            }
+            
+            .arcade-button span {
+                font-size: 1em; /* Ensure text inside button is readable */
+                line-height: 1.2;
+            }
+            
+            .page {
+                overflow: hidden;
+                height: 100%;
+                flex-direction: column;
+                /* display is controlled by .active class - don't override here */
+            }
+            
+            .page.active {
+                display: flex;
+            }
+        }
     </style>
 </head>
 <body>
@@ -521,9 +640,9 @@
             const container = pageElement.querySelector('.breadcrumb-container');
             if (!container) return;
 
-            // Inject Large Welcome Message on Main Page
+            // Inject Title on Main Page (PowerUp / Academy - centred)
             if (pageId === 'worldsPage') {
-                container.innerHTML = '<div class="welcome-message">Welcome to PowerUp Academy</div>';
+                container.innerHTML = '<div class="welcome-message">PowerUp<br>Academy</div>';
                 container.style.justifyContent = 'center';
                 return;
             }

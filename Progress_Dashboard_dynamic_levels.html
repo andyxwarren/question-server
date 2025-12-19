@@ -60,6 +60,7 @@
             border: none;
             height: 0;
             line-height: 0;
+            box-sizing: border-box;
         }
 
         h1 {
@@ -478,47 +479,6 @@
                 position: relative;
             }
             
-            /* Mobile sticky table header */
-            .mobile-table-header {
-                display: flex !important;
-                position: fixed;
-                top: 80px;
-                left: 10px;
-                right: 10px;
-                z-index: 150;
-                background-color: #667eea;
-                border-radius: 4px 4px 0 0;
-                height: 26px;
-                line-height: 26px;
-            }
-            
-            .mobile-header-cell {
-                flex: 1;
-                display: flex !important;
-                align-items: center;
-                justify-content: center;
-                padding: 0 4px;
-                color: white;
-                font-weight: 600;
-                font-size: 11px;
-                border-right: 1px solid #5a6fd6;
-                height: 26px;
-            }
-            
-            .mobile-header-cell:last-child {
-                border-right: none;
-            }
-            
-            .mobile-header-cell.mission-col {
-                flex: 2.5;
-                justify-content: flex-start;
-                padding-left: 10px;
-            }
-            
-            .mobile-header-cell.level-header {
-                flex: 1;
-            }
-            
             /* Hide the table's thead on mobile - use fixed header instead */
             .hidden-thead {
                 display: none !important;
@@ -548,53 +508,51 @@
                 display: none !important;
             }
             
-            /* Show the separate mobile header */
+            /* Hide the separate mobile header - use actual thead instead */
             .mobile-table-header {
-                display: flex !important;
-                position: fixed;
-                top: 80px;
-                left: 10px;
-                right: 10px;
-                z-index: 500;
-                background-color: #667eea;
-                border-radius: 4px 4px 0 0;
-                height: 30px;
+                display: none !important;
             }
             
-            .mobile-header-cell {
-                display: flex !important;
-                align-items: center;
-                justify-content: center;
-                color: white;
-                font-weight: 600;
-                font-size: 12px;
-                border-right: 1px solid #5a6fd6;
-            }
-            
-            .mobile-header-cell:last-child {
-                border-right: none;
-            }
-            
-            .mobile-header-cell.mission-col {
-                width: 40%;
-                flex: none;
-                justify-content: flex-start;
-                padding-left: 10px;
-            }
-            
-            .mobile-header-cell.level-header {
-                width: 20%;
-                flex: none;
-            }
-            
-            /* Mobile: Card-based layout */
+            /* Hide column-headers div on mobile */
             .column-headers {
                 display: none !important;
             }
             
+            /* Show actual thead on mobile - guaranteed column alignment */
+            .hidden-thead {
+                visibility: visible !important;
+                display: table-header-group !important;
+            }
+            
+            .hidden-thead tr {
+                position: sticky;
+                top: 80px;
+                z-index: 100;
+            }
+            
+            .hidden-thead th {
+                background-color: #667eea !important;
+                color: white !important;
+                font-weight: 600 !important;
+                font-size: 14px !important;
+                padding: 10px 8px !important;
+                border: 1px solid #667eea !important;
+                background-clip: padding-box;
+                text-align: center !important;
+                height: auto !important;
+                line-height: normal !important;
+                opacity: 1 !important;
+                visibility: visible !important;
+            }
+            
+            .hidden-thead th:first-child {
+                text-align: left !important;
+                padding-left: 10px !important;
+            }
+            
             .dashboard-container {
                 padding: 0 10px 40px;
-                padding-top: 30px;
+                padding-top: 80px; /* Space for sticky header only */
                 margin-top: 0;
                 position: relative;
                 z-index: 1;
@@ -603,6 +561,8 @@
             table {
                 display: table;
                 width: 100%;
+                table-layout: fixed !important;
+                border-collapse: collapse;
             }
             
             .sticky-header {
@@ -667,13 +627,14 @@
                 display: table-row-group;
             }
             
-            /* World rows on mobile - sticky below fixed header */
+            /* World rows on mobile - sticky below thead (no gap) */
             .world-row {
                 display: table-row;
                 background-color: #e8eaf6 !important;
                 position: sticky;
-                top: 110px;
+                top: 117px;
                 z-index: 50;
+                outline: 1px solid #e8eaf6;
             }
             
             /* First world row should be at top initially */
@@ -723,7 +684,8 @@
             
             .mission-row td {
                 display: table-cell;
-                border: 1px solid #e0e0e0 !important;
+                background-color: #ffffff !important;
+                border: 1px solid #dddddd !important;
                 padding: 6px 4px !important;
                 vertical-align: middle;
             }
@@ -762,15 +724,9 @@
                 border-radius: 2px;
             }
             
-            /* Mobile: Hide colgroup columns 5, 6, 7 (Level 4, 5, 6) */
-            colgroup col:nth-child(5),
-            colgroup col:nth-child(6),
-            colgroup col:nth-child(7) {
-                width: 0 !important;
-            }
-            
-            /* Mobile: Hide Level 4, 5, 6 columns (nth-child 5, 6, 7) */
-            .mission-row td:nth-child(n+5) {
+            /* Mobile: Dynamic level column visibility - controlled by JavaScript */
+            .mission-row td.mobile-hide-level,
+            .world-row td.mobile-hide-level {
                 display: none !important;
                 width: 0 !important;
                 max-width: 0 !important;
@@ -779,25 +735,31 @@
                 overflow: hidden !important;
             }
             
-            /* Mobile table layout */
+            .mission-row td.mobile-show-level,
+            .world-row td.mobile-show-level {
+                display: table-cell !important;
+                /* Width is set dynamically by JavaScript based on levelsToShow */
+            }
+            
+            /* Mobile table layout - match header width exactly */
             table {
                 table-layout: fixed !important;
-                width: calc(100% - 20px) !important;
+                width: 100% !important;
+                margin: 0 !important;
+                box-sizing: border-box !important;
             }
             
-            /* Mobile column widths - 4 columns only */
-            .mission-row td:first-child,
-            .world-row td:first-child {
-                width: 40% !important;
+            /* Mobile column widths are set dynamically by JavaScript based on levelsToShow */
+            /* Fixed ratios: 1 level = 50:50, 2 levels = 40:30:30, 3 levels = 40:20:20:20 */
+            
+            /* Add visible borders to table cells to match header */
+            .mission-row td {
+                border-right: 1px solid #e0e0e0 !important;
             }
             
-            .mission-row td:nth-child(2),
-            .mission-row td:nth-child(3),
-            .mission-row td:nth-child(4),
-            .world-row td:nth-child(2),
-            .world-row td:nth-child(3),
-            .world-row td:nth-child(4) {
-                width: 20% !important;
+            .mission-row td:last-child,
+            .mission-row td.mobile-hide-level + td.mobile-show-level:last-of-type {
+                border-right: none !important;
             }
             
         }
@@ -1689,6 +1651,10 @@
 
         // Apply user progress to the dashboard
         function applyUserProgress() {
+            const currentUser = UserAuth.getCurrentUser();
+            console.log('applyUserProgress - currentUser:', currentUser);
+            console.log('applyUserProgress - user progress:', currentUser?.progress);
+            
             document.querySelectorAll('.mission-row').forEach(row => {
                 const firstCell = row.querySelector('td:first-child');
                 // Get mission name - handle both plain text and wrapped in span
@@ -1704,6 +1670,9 @@
 
                     // Get user progress for this mission/level
                     const levelProgress = UserAuth.getProgress(missionName, level);
+                    if (levelProgress) {
+                        console.log(`Progress found for ${missionName} Level ${level}:`, levelProgress);
+                    }
                     
                     // Apply completed/partial status to each pundex
                     const pundexElements = cell.querySelectorAll('.pundex');
@@ -2211,62 +2180,69 @@
             });
         }
         
-        // Mobile: Update thead labels to shorter versions and determine which 3 levels to show
+        // Mobile: Update thead labels and show only levels up to maxDisplayLevel (same as desktop/tablet)
         if (isMobile) {
-            // Update thead labels to shorter versions
-            const thead = document.querySelector('.hidden-thead');
-            if (thead) {
-                const ths = thead.querySelectorAll('th');
-                if (ths[0]) ths[0].textContent = 'Mission';
-                if (ths[1]) ths[1].textContent = 'L1';
-                if (ths[2]) ths[2].textContent = 'L2';
-                if (ths[3]) ths[3].textContent = 'L3';
-            }
-            
-            // Find the lowest level where user hasn't completed all missions
-            let startLevel = 1;
             const allMissionRows = document.querySelectorAll('.mission-row');
             
-            // Check each level (1-6) to find the first incomplete one
-            for (let level = 1; level <= 6; level++) {
-                let allCompleteAtLevel = true;
-                allMissionRows.forEach(row => {
-                    const levelCell = row.querySelector(`td:nth-child(${level + 1}) .pundex-cell`);
-                    if (levelCell && !levelCell.classList.contains('unavailable')) {
-                        const completedCount = levelCell.querySelectorAll('.pundex.completed').length;
-                        const totalPundex = levelCell.querySelectorAll('.pundex').length;
-                        if (completedCount < totalPundex) {
-                            allCompleteAtLevel = false;
-                        }
-                    }
-                });
-                
-                if (!allCompleteAtLevel) {
-                    startLevel = level;
-                    break;
-                }
-            }
+            // Use the same maxDisplayLevel that was calculated for desktop/tablet
+            // Mobile shows up to 3 levels, starting from level 1 up to maxDisplayLevel
+            const levelsToShow = Math.min(maxDisplayLevel, 3); // Show at most 3 levels on mobile
             
-            // Ensure we show levels startLevel to startLevel+2, max level 6
-            if (startLevel > 4) startLevel = 4; // Max start is 4 to show 4,5,6
+            console.log('Mobile view: maxDisplayLevel =', maxDisplayLevel, ', levelsToShow =', levelsToShow);
             
-            // Update mobile header labels
+            // Update mobile header labels to show only the levels we're displaying
             const mobileHeader = document.getElementById('mobileTableHeader');
             const levelHeaders = mobileHeader.querySelectorAll('.level-header');
+            
+            // Fixed column width ratios for mobile:
+            // 1 level: 50:50 (mission:level)
+            // 2 levels: 40:30:30
+            // 3 levels: 40:20:20:20
+            let missionColWidth, levelColWidth;
+            if (levelsToShow === 1) {
+                missionColWidth = 50;
+                levelColWidth = 50;
+            } else if (levelsToShow === 2) {
+                missionColWidth = 40;
+                levelColWidth = 30;
+            } else {
+                missionColWidth = 40;
+                levelColWidth = 20;
+            }
+            
+            // Update mobile header widths
+            const missionHeader = mobileHeader.querySelector('.mission-col');
+            if (missionHeader) {
+                missionHeader.style.width = `${missionColWidth}%`;
+            }
+            
             levelHeaders.forEach((header, index) => {
-                const levelNum = startLevel + index;
-                header.textContent = `L${levelNum}`;
-                header.dataset.level = levelNum;
+                const levelNum = index + 1;
+                if (levelNum <= levelsToShow) {
+                    header.textContent = `L${levelNum}`;
+                    header.dataset.level = levelNum;
+                    header.style.display = 'table-cell';
+                    header.style.width = `${levelColWidth}%`;
+                } else {
+                    header.style.display = 'none';
+                }
             });
             
-            // Show/hide appropriate level columns in table
+            // Show/hide appropriate level columns in table and set widths
             allMissionRows.forEach(row => {
+                // Set mission column width
+                const missionCell = row.querySelector('td:first-child');
+                if (missionCell) {
+                    missionCell.style.width = `${missionColWidth}%`;
+                }
+                
                 for (let level = 1; level <= 6; level++) {
                     const cell = row.querySelector(`td:nth-child(${level + 1})`);
                     if (cell) {
-                        if (level >= startLevel && level < startLevel + 3) {
+                        if (level <= levelsToShow) {
                             cell.classList.add('mobile-show-level');
                             cell.classList.remove('mobile-hide-level');
+                            cell.style.width = `${levelColWidth}%`;
                         } else {
                             cell.classList.add('mobile-hide-level');
                             cell.classList.remove('mobile-show-level');
@@ -2277,12 +2253,19 @@
             
             // Also update world rows
             document.querySelectorAll('.world-row').forEach(row => {
+                // Set mission column width
+                const missionCell = row.querySelector('td:first-child');
+                if (missionCell) {
+                    missionCell.style.width = `${missionColWidth}%`;
+                }
+                
                 for (let level = 1; level <= 6; level++) {
                     const cell = row.querySelector(`td:nth-child(${level + 1})`);
                     if (cell) {
-                        if (level >= startLevel && level < startLevel + 3) {
+                        if (level <= levelsToShow) {
                             cell.classList.add('mobile-show-level');
                             cell.classList.remove('mobile-hide-level');
+                            cell.style.width = `${levelColWidth}%`;
                         } else {
                             cell.classList.add('mobile-hide-level');
                             cell.classList.remove('mobile-show-level');
@@ -2450,6 +2433,15 @@
         window.addEventListener('resize', updateStickyWorld);
         // Run after a short delay to ensure page is fully loaded
         setTimeout(updateStickyWorld, 100);
+        
+        // Auto-reload when crossing mobile/desktop breakpoint (for DevTools testing)
+        let lastWasMobile = window.innerWidth < 768;
+        window.addEventListener('resize', () => {
+            const nowMobile = window.innerWidth < 768;
+            if (nowMobile !== lastWasMobile) {
+                location.reload();
+            }
+        });
     </script>
 </body>
 </html>
