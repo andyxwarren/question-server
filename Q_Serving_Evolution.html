@@ -113,6 +113,7 @@
             <a href="#session-12" class="nav-btn">S12</a>
             <a href="#session-13" class="nav-btn">S13</a>
             <a href="#session-14" class="nav-btn">S14</a>
+            <a href="#session-15" class="nav-btn">S15</a>
         </div>
     </header>
 
@@ -745,6 +746,46 @@
             <li><code>index.html</code> - Complete rewrite of user management system, Supabase integration, UI refinements for date picker and PIN input</li>
             <li><code>user-auth.js</code> - Retained for utility functions (generateUUID, getYearGroup), but removed from user storage logic</li>
             <li><code>Q_Serving_Evolution.html</code> - Added Session 14 documentation</li>
+        </ul>
+    </div>
+
+    <div id="session-15" class="session">
+        <h2>Session Fifteen: December 24, 2025</h2>
+        <p>Focused on polishing the Supabase-powered login experience: stabilizing Manage Users layout, restoring Quick Login scrolling, and overhauling the Date of Birth inputs.</p>
+
+        <h3>Manage Users Layout & Controls</h3>
+        <ul>
+            <li><strong>Sticky Action Bar</strong>: Split the tab into a sticky control header (Select All, Delete Selected, accent line) and an independently scrolling user list so actions are always visible.</li>
+            <li><strong>Consistent Spacing</strong>: Enforced 10px gaps above/below the control bar, between users, and at the bottom of the scroll area so the last card never clips.</li>
+            <li><strong>User Card Refresh</strong>: Harmonized fonts, colors, and button styles with the other tabs, added dedicated PIN buttons, and resized the delete icon to a compact bin-only button.</li>
+            <li><strong>JS Rendering Cleanup</strong>: `loadManageUsers()` now renders controls into `#manageControlsRow` and user cards into `#manageUsers`, ensuring DOM elements exist before state updates.</li>
+        </ul>
+
+        <h3>Quick Login Improvements</h3>
+        <ul>
+            <li><strong>Reliable Scrolling</strong>: Restored classic `overflow: auto` behavior with a `max-height` tied to the viewport so long user lists remain usable.</li>
+            <li><strong>No Stray Controls</strong>: Ensured Manage Users controls never bleed into Quick Login by only applying the flex layout when the Manage tab is active.</li>
+        </ul>
+
+        <h3>Date of Birth Input Experience</h3>
+        <ul>
+            <li><strong>Unified Styling</strong>: Day, Month, and Year selectors now share identical geometry, placeholder colors, focus glows, and black option text.</li>
+            <li><strong>Day Selector Width</strong>: Adjusted sizes so placeholder text (“Day”) is never clipped while keeping the row compact.</li>
+            <li><strong>Year Typing Buffer</strong>: Rebuilt the year dropdown to capture 4-digit keyboard input via a buffer, preventing premature confirmation popups.</li>
+            <li><strong>Datalist Support</strong>: Reintroduced dropdown suggestions for Year while still allowing typed entry with delayed confirmation.</li>
+        </ul>
+
+        <h3>Validation & Modal Workflow</h3>
+        <ul>
+            <li><strong>Impossible Date Guard</strong>: Day options dynamically enable/disable based on the selected month and year (e.g., February 31st is no longer selectable).</li>
+            <li><strong>“No” Button Behavior</strong>: Rejecting the year confirmation now clears whichever DOB field was changed last, guiding users to re-enter accurate data.</li>
+            <li><strong>Debounced Confirmation</strong>: Year confirmation modal only appears after a full 4-digit year is entered (or after the typing buffer delay), eliminating unwanted popups after the first digit.</li>
+        </ul>
+
+        <h3>Files Updated</h3>
+        <ul>
+            <li><code>index.html</code> – Manage Users layout restructure, Quick Login scroll fixes, comprehensive DOB selector styling, validation, and modal logic improvements.</li>
+            <li><code>Q_Serving_Evolution.html</code> – Recorded Session 15 updates.</li>
         </ul>
     </div>
 
