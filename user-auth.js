@@ -95,6 +95,51 @@ const UserAuth = {
     },
 
     /**
+     * Generate a UUID (uses crypto if available, otherwise fallback)
+     * @returns {string}
+     */
+    generateUUID() {
+        if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+            return crypto.randomUUID();
+        }
+
+        // Fallback UUID generator
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
+            const r = Math.random() * 16 | 0;
+            const v = c === 'x' ? r : (r & 0x3 | 0x8);
+            return v.toString(16);
+        });
+    },
+
+    /**
+     * Get year group for a user (calculated from DOB or existing value)
+     * @param {Object} user - User object
+     * @returns {number} Year group (0 for Reception, 1+ for Year)
+     */
+    getYearGroup(user) {
+        if (user.dateOfBirth) {
+            const birthDate = new Date(user.dateOfBirth);
+            const today = new Date();
+            let schoolStartYear = today.getFullYear();
+            if (today.getMonth() < 8) { // Before September
+                schoolStartYear--;
+            }
+            const schoolStart = new Date(schoolStartYear, 8, 1); // September 1
+            let age = schoolStart.getFullYear() - birthDate.getFullYear();
+            if (schoolStart.getMonth() < birthDate.getMonth() || (schoolStart.getMonth() === birthDate.getMonth() && schoolStart.getDate() < birthDate.getDate())) {
+                age--;
+            }
+            if (age >= 5) {
+                return age - 4; // Year 1 at 5, etc.
+            } else {
+                return 0; // Reception
+            }
+        } else {
+            return user.yearGroup || 1;
+        }
+    },
+
+    /**
      * Update user progress for a mission/level
      * @param {string} mission - Mission name
      * @param {number} level - Level number
@@ -269,7 +314,7 @@ const UserAuth = {
             <div class="user-header-dropdown" id="userMenuDropdown">
                 <div class="user-header-dropdown-header">
                     <div class="user-header-dropdown-name">${user.firstName} ${user.lastName}</div>
-                    <div class="user-header-dropdown-year">Year ${user.yearGroup}</div>
+                    <div class="user-header-dropdown-year">${this.getYearGroup(user) === 0 ? 'Reception' : 'Year ' + this.getYearGroup(user)}</div>
                     <div class="user-header-dropdown-progress" id="menuQuestionProgress" style="display:none;">
                         📝 <span id="menuQuestionCount">Q 1 of 25</span>
                     </div>

@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Math Content Foundry - Viewer</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --primary: #2563eb;
+      --success: #22c55e;
+      --warning: #f59e0b;
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --border: #e2e8f0;
+      --text: #1e293b;
+      --muted: #64748b;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      padding: 1.5rem;
+    }
+    header {
+      background: var(--primary);
+      color: white;
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+    }
+    header h1 { font-size: 1.4rem; }
+    header p { opacity: 0.9; font-size: 0.9rem; }
+
+    .controls {
+      background: var(--card);
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+    }
+    .controls label { font-weight: 500; margin-right: 0.5rem; }
+    .controls input[type="file"] { flex: 1; min-width: 200px; }
+    .controls select { padding: 0.4rem 0.6rem; border: 1px solid var(--border); border-radius: 6px; font-size: 0.85rem; }
+    .btn {
+      padding: 0.5rem 1rem;
+      border: none;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      background: var(--primary);
+      color: white;
+    }
+    .btn:hover { opacity: 0.9; }
+    .btn.secondary { background: var(--border); color: var(--text); }
+    .checkbox-label {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+
+    .batch-info {
+      background: var(--card);
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      display: none;
+    }
+    .batch-info.visible { display: block; }
+    .batch-info h2 { font-size: 1rem; margin-bottom: 0.5rem; }
+    .batch-meta { display: flex; gap: 1.5rem; flex-wrap: wrap; font-size: 0.9rem; color: var(--muted); }
+    .batch-meta span { display: flex; gap: 0.3rem; }
+    .batch-meta strong { color: var(--text); }
+
+    .questions { display: flex; flex-direction: column; gap: 1rem; }
+    .empty-state {
+      text-align: center;
+      padding: 3rem;
+      color: var(--muted);
+      background: var(--card);
+      border-radius: 8px;
+    }
+
+    .question-card {
+      background: var(--card);
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      overflow: hidden;
+    }
+    .question-header {
+      background: var(--bg);
+      padding: 0.6rem 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.85rem;
+    }
+    .question-type { font-weight: 600; color: var(--primary); text-transform: uppercase; letter-spacing: 0.03em; }
+    .tags { display: flex; gap: 0.4rem; }
+    .tag {
+      font-size: 0.7rem;
+      padding: 0.15rem 0.5rem;
+      border-radius: 99px;
+      background: var(--border);
+      color: var(--muted);
+    }
+    .tag.difficulty-Beginning { background: #dcfce7; color: #166534; }
+    .tag.difficulty-Developing { background: #fef9c3; color: #854d0e; }
+    .tag.difficulty-Meeting { background: #dbeafe; color: #1e40af; }
+    .tag.difficulty-Exceeding { background: #f3e8ff; color: #6b21a8; }
+
+    .question-body { padding: 1rem; }
+    .question-text { font-size: 1.1rem; font-weight: 500; margin-bottom: 0.75rem; white-space: pre-wrap; }
+    .question-hint {
+      font-size: 0.9rem;
+      color: var(--muted);
+      font-style: italic;
+      padding-left: 0.75rem;
+      border-left: 3px solid var(--border);
+      margin-bottom: 0.75rem;
+    }
+    .answer-section { display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem; flex-wrap: wrap; }
+    .answer-input { padding: 0.4rem 0.6rem; border: 2px solid var(--border); border-radius: 6px; font-size: 1rem; width: 150px; }
+    .answer-input.correct { border-color: var(--success); background: #dcfce7; }
+    .answer-input.incorrect { border-color: #ef4444; background: #fee2e2; }
+    .answer-reveal { font-size: 0.85rem; color: var(--primary); cursor: pointer; text-decoration: underline; }
+    .answer-result { font-weight: 600; padding: 0.3rem 0.6rem; border-radius: 4px; font-size: 0.85rem; }
+    .answer-result.correct { background: var(--success); color: white; }
+    .answer-result.incorrect { background: #ef4444; color: white; }
+    .explanation { font-size: 0.9rem; color: var(--muted); margin-top: 0.5rem; }
+
+    .variables {
+      margin-top: 1rem;
+      padding-top: 0.75rem;
+      border-top: 1px dashed var(--border);
+    }
+    .variables h4 { font-size: 0.75rem; text-transform: uppercase; color: var(--muted); margin-bottom: 0.5rem; }
+    .var-grid { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .var-item {
+      background: var(--bg);
+      padding: 0.3rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.8rem;
+    }
+    .var-item .key { color: var(--muted); }
+    .var-item .val { font-weight: 600; color: var(--primary); }
+
+    .visual {
+      margin-top: 1rem;
+      padding: 1rem;
+      background: var(--bg);
+      border-radius: 6px;
+      border: 1px dashed var(--border);
+    }
+    .visual h4 { font-size: 0.75rem; text-transform: uppercase; color: var(--muted); margin-bottom: 0.75rem; }
+
+    /* Number Line */
+    .number-line { position: relative; height: 50px; margin: 0.5rem 0; }
+    .nl-track { position: absolute; top: 18px; left: 0; right: 0; height: 3px; background: var(--border); border-radius: 2px; }
+    .nl-marker {
+      position: absolute;
+      top: 6px;
+      width: 24px; height: 24px;
+      background: var(--primary);
+      border-radius: 50%;
+      color: white;
+      font-size: 0.65rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transform: translateX(-50%);
+    }
+    .nl-marker.alt { background: var(--warning); }
+    .nl-labels { position: absolute; top: 32px; left: 0; right: 0; display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--muted); }
+
+    /* Sequence */
+    .sequence { display: flex; gap: 0.4rem; align-items: center; flex-wrap: wrap; }
+    .seq-item {
+      width: 44px; height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 2px solid var(--border);
+      border-radius: 6px;
+      font-weight: 600;
+    }
+    .seq-item.blank { background: var(--warning); border-color: var(--warning); color: white; }
+    .seq-arrow { color: var(--muted); }
+
+    /* Number Cards */
+    .num-cards { display: flex; gap: 0.6rem; flex-wrap: wrap; }
+    .num-card {
+      width: 50px; height: 65px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: white;
+      border: 2px solid var(--primary);
+      border-radius: 6px;
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--primary);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Math Content Foundry</h1>
+    <p>Question Preview Viewer</p>
+  </header>
+
+  <div class="controls">
+    <label for="fileInput">Load JSON:</label>
+    <input type="file" id="fileInput" accept=".json">
+    <button class="btn secondary" id="clearBtn">Clear</button>
+    <select id="filterModule"><option value="">All Modules</option></select>
+    <select id="filterType"><option value="">All Types</option></select>
+    <select id="filterDiff">
+      <option value="">All Levels</option>
+      <option value="Beginning">Beginning</option>
+      <option value="Developing">Developing</option>
+      <option value="Meeting">Meeting</option>
+      <option value="Exceeding">Exceeding</option>
+    </select>
+    <label class="checkbox-label"><input type="checkbox" id="showVars" checked> Variables</label>
+    <label class="checkbox-label"><input type="checkbox" id="showVis" checked> Visuals</label>
+  </div>
+
+  <div class="batch-info" id="batchInfo">
+    <h2>Batch Info</h2>
+    <div class="batch-meta">
+      <span>ID: <strong id="batchId"></strong></span>
+      <span>Module: <strong id="batchModule"></strong></span>
+      <span>Difficulty: <strong id="batchDiff"></strong></span>
+      <span>Count: <strong id="batchCount"></strong></span>
+      <span>Generated: <strong id="batchDate"></strong></span>
+    </div>
+  </div>
+
+  <div class="questions" id="questions">
+    <div class="empty-state">
+      <p>No questions loaded.</p>
+      <p>Select a JSON batch file to preview questions.</p>
+    </div>
+  </div>
+
+  <script>
+    const $ = id => document.getElementById(id);
+    let questions = [];
+    let opts = { vars: true, vis: true };
+    let filters = { module: '', type: '', diff: '' };
+
+    function populateFilters() {
+      const modules = [...new Set(questions.map(q => q.module).filter(Boolean))];
+      const types = [...new Set(questions.map(q => q.variables?.type).filter(Boolean))];
+
+      $('filterModule').innerHTML = '<option value="">All Modules</option>' +
+        modules.map(m => `<option value="${m}">${m}</option>`).join('');
+      $('filterType').innerHTML = '<option value="">All Types</option>' +
+        types.map(t => `<option value="${t}">${t.split('-').map(w => w[0].toUpperCase() + w.slice(1)).join(' ')}</option>`).join('');
+    }
+
+    function getFilteredQuestions() {
+      return questions.filter(q => {
+        if (filters.module && q.module !== filters.module) return false;
+        if (filters.type && q.variables?.type !== filters.type) return false;
+        if (filters.diff && q.difficulty !== filters.diff) return false;
+        return true;
+      });
+    }
+
+    function checkAnswer(btn) {
+      const section = btn.closest('.answer-section');
+      const input = section.querySelector('.answer-input');
+      const correctAnswer = input.dataset.answer;
+      const userAnswer = input.value.trim();
+
+      // Remove previous result
+      const oldResult = section.querySelector('.answer-result');
+      if (oldResult) oldResult.remove();
+
+      // Normalize comparison
+      const normalize = s => String(s).toLowerCase().replace(/\s+/g, ' ').trim();
+
+      // Check if answer is correct - handle multiple valid answers (comma-separated)
+      const validAnswers = correctAnswer.split(',').map(a => normalize(a));
+      const isCorrect = validAnswers.includes(normalize(userAnswer));
+
+      input.className = 'answer-input ' + (isCorrect ? 'correct' : 'incorrect');
+      const result = document.createElement('span');
+      result.className = 'answer-result ' + (isCorrect ? 'correct' : 'incorrect');
+      result.textContent = isCorrect ? 'Correct!' : 'Try again';
+      section.appendChild(result);
+    }
+
+    function showAnswer(link) {
+      const section = link.closest('.answer-section');
+      const input = section.querySelector('.answer-input');
+      input.value = input.dataset.answer;
+      input.className = 'answer-input';
+      const oldResult = section.querySelector('.answer-result');
+      if (oldResult) oldResult.remove();
+    }
+
+    // Render visual components
+    const visuals = {
+      NumberLine({ min, max, start, end, highlightedNumbers = [], highlightedNumber, markers = [] }) {
+        // Support both naming conventions (min/max and start/end)
+        const rangeMin = min !== undefined ? min : start;
+        const rangeMax = max !== undefined ? max : end;
+        const range = rangeMax - rangeMin;
+
+        // Combine highlighted values from both prop formats
+        const highlighted = new Set(highlightedNumbers);
+        if (highlightedNumber !== undefined) highlighted.add(highlightedNumber);
+
+        // Use markers array if provided, otherwise use highlighted numbers
+        const displayMarkers = markers.length > 0 ? markers : [...highlighted];
+
+        const markerElements = displayMarkers.map((n, i) => {
+          const isHighlighted = highlighted.has(n);
+          return `<div class="nl-marker ${isHighlighted ? '' : 'alt'}" style="left:${((n - rangeMin) / range) * 100}%">${n}</div>`;
+        }).join('');
+
+        return `<div class="number-line"><div class="nl-track"></div>${markerElements}<div class="nl-labels"><span>${rangeMin}</span><span>${rangeMax}</span></div></div>`;
+      },
+      Sequence({ sequence, values, blankIndices = [] }) {
+        // Support both 'sequence' (current) and 'values' (legacy) property names
+        const seq = sequence || values || [];
+        const blanks = new Set(blankIndices);
+        return `<div class="sequence">${seq.map((v, i) =>
+          `<div class="seq-item ${blanks.has(i) || v === '?' || v === null ? 'blank' : ''}">${blanks.has(i) || v === '?' || v === null ? '?' : v}</div>${i < seq.length - 1 ? '<span class="seq-arrow">→</span>' : ''}`
+        ).join('')}</div>`;
+      },
+      NumberCards({ numbers }) {
+        return `<div class="num-cards">${numbers.map(n => `<div class="num-card">${n}</div>`).join('')}</div>`;
+      },
+      TextOnly() {
+        return `<div style="color:var(--muted);font-style:italic">Text-based question</div>`;
+      },
+      NumberGrid({ start, end, columns = 10, highlightedNumbers = [] }) {
+        const hl = new Set(highlightedNumbers);
+        let html = `<div style="display:grid;grid-template-columns:repeat(${columns},1fr);gap:3px;font-size:0.8rem">`;
+        for (let i = start; i <= end; i++) {
+          const isHl = hl.has(i);
+          html += `<div style="padding:4px;text-align:center;border:1px solid var(--border);border-radius:3px;${isHl ? 'background:var(--primary);color:white;font-weight:600' : ''}">${i}</div>`;
+        }
+        return html + '</div>';
+      },
+      PlaceValueComparison({ leftExpression, rightExpression }) {
+        return `<div style="display:flex;align-items:center;gap:1rem;font-size:1.2rem;font-weight:500">
+          <span style="padding:0.5rem 1rem;background:var(--bg);border:2px solid var(--border);border-radius:6px">${leftExpression}</span>
+          <span style="width:2rem;height:2rem;border:2px dashed var(--primary);border-radius:4px;display:flex;align-items:center;justify-content:center;color:var(--muted)">?</span>
+          <span style="padding:0.5rem 1rem;background:var(--bg);border:2px solid var(--border);border-radius:6px">${rightExpression}</span>
+        </div>`;
+      },
+      NumberComparison({ numberA, numberB }) {
+        return `<div style="display:flex;align-items:center;gap:1rem;font-size:1.5rem;font-weight:600">
+          <span style="padding:0.75rem 1.25rem;background:var(--primary);color:white;border-radius:8px">${numberA}</span>
+          <span style="color:var(--muted)">vs</span>
+          <span style="padding:0.75rem 1.25rem;background:var(--primary);color:white;border-radius:8px">${numberB}</span>
+        </div>`;
+      },
+      NumberRiddle({ characterName, constraintTexts }) {
+        return `<div style="padding:0.75rem;background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:8px;border:1px solid #bae6fd">
+          <div style="font-weight:600;color:var(--primary);margin-bottom:0.5rem">🤔 ${characterName}'s Number</div>
+          <ul style="margin:0;padding-left:1.25rem;color:var(--text);font-size:0.9rem">
+            ${constraintTexts.map(t => `<li>${t}</li>`).join('')}
+          </ul>
+        </div>`;
+      },
+      PlaceValueChart({ number, showHundreds = true, showTens = true, showOnes = true, highlightPosition }) {
+        const hundreds = Math.floor(number / 100);
+        const tens = Math.floor((number % 100) / 10);
+        const ones = number % 10;
+
+        let html = '<div style="display:flex;gap:1.5rem;align-items:flex-end">';
+
+        // Hundreds column - rows of 10 blocks
+        if (showHundreds && hundreds > 0) {
+          const isHighlight = highlightPosition === 'hundreds';
+          const color = isHighlight ? '#22c55e' : 'var(--primary)';
+          html += '<div style="text-align:center">';
+          html += `<div style="font-size:0.7rem;color:var(--muted);margin-bottom:0.25rem">HUNDREDS</div>`;
+          html += '<div style="display:flex;flex-direction:column;gap:3px;align-items:center">';
+          const fullRows = Math.floor(hundreds / 10);
+          const remainder = hundreds % 10;
+          for (let row = 0; row < fullRows; row++) {
+            html += '<div style="display:flex;gap:3px">';
+            for (let i = 0; i < 10; i++) {
+              html += `<div style="width:36px;height:36px;background:${color};border-radius:3px;display:grid;grid-template-columns:repeat(10,1fr);gap:0.5px;padding:2px">`;
+              for (let j = 0; j < 100; j++) html += '<div style="background:rgba(255,255,255,0.25);border-radius:0.5px"></div>';
+              html += '</div>';
+            }
+            html += '</div>';
+          }
+          if (remainder > 0) {
+            html += '<div style="display:flex;gap:3px">';
+            for (let i = 0; i < remainder; i++) {
+              html += `<div style="width:36px;height:36px;background:${color};border-radius:3px;display:grid;grid-template-columns:repeat(10,1fr);gap:0.5px;padding:2px">`;
+              for (let j = 0; j < 100; j++) html += '<div style="background:rgba(255,255,255,0.25);border-radius:0.5px"></div>';
+              html += '</div>';
+            }
+            html += '</div>';
+          }
+          html += '</div>';
+          html += `<div style="font-weight:600;margin-top:0.25rem;${isHighlight ? 'color:#22c55e' : ''}">${hundreds}</div>`;
+          html += '</div>';
+        }
+
+        // Tens column - rows of 10 rods
+        if (showTens && tens > 0) {
+          const isHighlight = highlightPosition === 'tens';
+          const color = isHighlight ? '#22c55e' : 'var(--warning)';
+          html += '<div style="text-align:center">';
+          html += `<div style="font-size:0.7rem;color:var(--muted);margin-bottom:0.25rem">TENS</div>`;
+          html += '<div style="display:flex;flex-direction:column;gap:3px;align-items:center">';
+          const fullRows = Math.floor(tens / 10);
+          const remainder = tens % 10;
+          for (let row = 0; row < fullRows; row++) {
+            html += '<div style="display:flex;gap:2px">';
+            for (let i = 0; i < 10; i++) {
+              html += `<div style="width:8px;height:40px;background:${color};border-radius:2px"></div>`;
+            }
+            html += '</div>';
+          }
+          if (remainder > 0) {
+            html += '<div style="display:flex;gap:2px">';
+            for (let i = 0; i < remainder; i++) {
+              html += `<div style="width:8px;height:40px;background:${color};border-radius:2px"></div>`;
+            }
+            html += '</div>';
+          }
+          html += '</div>';
+          html += `<div style="font-weight:600;margin-top:0.25rem;${isHighlight ? 'color:#22c55e' : ''}">${tens}</div>`;
+          html += '</div>';
+        }
+
+        // Ones column - rows of 10 cubes
+        if (showOnes && ones > 0) {
+          const isHighlight = highlightPosition === 'ones';
+          const color = isHighlight ? '#22c55e' : '#ef4444';
+          html += '<div style="text-align:center">';
+          html += `<div style="font-size:0.7rem;color:var(--muted);margin-bottom:0.25rem">ONES</div>`;
+          html += '<div style="display:flex;flex-direction:column;gap:2px;align-items:center">';
+          const fullRows = Math.floor(ones / 10);
+          const remainder = ones % 10;
+          for (let row = 0; row < fullRows; row++) {
+            html += '<div style="display:flex;gap:2px">';
+            for (let i = 0; i < 10; i++) {
+              html += `<div style="width:8px;height:8px;background:${color};border-radius:1px"></div>`;
+            }
+            html += '</div>';
+          }
+          if (remainder > 0) {
+            html += '<div style="display:flex;gap:2px">';
+            for (let i = 0; i < remainder; i++) {
+              html += `<div style="width:8px;height:8px;background:${color};border-radius:1px"></div>`;
+            }
+            html += '</div>';
+          }
+          html += '</div>';
+          html += `<div style="font-weight:600;margin-top:0.25rem;${isHighlight ? 'color:#22c55e' : ''}">${ones}</div>`;
+          html += '</div>';
+        }
+
+        html += '</div>';
+        return html;
+      },
+      ComparisonDisplay({ numberA, numberB, leftText, rightText, showOperator }) {
+        // Handle both numeric comparison (numberA/numberB) and text comparison (leftText/rightText)
+        const left = leftText !== undefined ? leftText : numberA;
+        const right = rightText !== undefined ? rightText : numberB;
+        const operator = showOperator ? '' : '<span style="width:2rem;height:2rem;border:2px dashed var(--primary);border-radius:4px;display:flex;align-items:center;justify-content:center;color:var(--muted);font-weight:600">?</span>';
+        return `<div style="display:flex;align-items:center;gap:1rem;font-size:1.4rem;font-weight:600">
+          <span style="padding:0.6rem 1.1rem;background:var(--primary);color:white;border-radius:8px">${left}</span>
+          ${operator}
+          <span style="padding:0.6rem 1.1rem;background:var(--primary);color:white;border-radius:8px">${right}</span>
+        </div>`;
+      },
+      Base10Blocks({ hundredBlocks = 0, tenRods = 0, onesCubes = 0 }) {
+        // Render base-10 blocks: hundreds as flat squares, tens as rods, ones as small cubes
+        let html = '<div style="display:flex;gap:1.5rem;align-items:flex-end;flex-wrap:wrap">';
+
+        // Hundreds (flat 10x10 squares)
+        if (hundredBlocks > 0) {
+          html += '<div style="text-align:center">';
+          html += '<div style="font-size:0.7rem;color:var(--muted);margin-bottom:0.25rem">HUNDREDS</div>';
+          html += '<div style="display:flex;gap:4px;flex-wrap:wrap;max-width:200px">';
+          for (let i = 0; i < hundredBlocks; i++) {
+            html += '<div style="width:40px;height:40px;background:var(--primary);border-radius:3px;display:grid;grid-template-columns:repeat(10,1fr);gap:0.5px;padding:2px;opacity:0.9">';
+            for (let j = 0; j < 100; j++) html += '<div style="background:rgba(255,255,255,0.3);border-radius:0.5px"></div>';
+            html += '</div>';
+          }
+          html += '</div>';
+          html += `<div style="font-weight:600;margin-top:0.25rem">${hundredBlocks}</div>`;
+          html += '</div>';
+        }
+
+        // Tens (vertical rods) - displayed in rows of 10
+        if (tenRods > 0) {
+          html += '<div style="text-align:center">';
+          html += '<div style="font-size:0.7rem;color:var(--muted);margin-bottom:0.25rem">TENS</div>';
+          html += '<div style="display:flex;flex-direction:column;gap:3px;align-items:center">';
+          const fullRows = Math.floor(tenRods / 10);
+          const remainder = tenRods % 10;
+          for (let row = 0; row < fullRows; row++) {
+            html += '<div style="display:flex;gap:2px">';
+            for (let i = 0; i < 10; i++) {
+              html += '<div style="width:8px;height:40px;background:var(--warning);border-radius:2px"></div>';
+            }
+            html += '</div>';
+          }
+          if (remainder > 0) {
+            html += '<div style="display:flex;gap:2px">';
+            for (let i = 0; i < remainder; i++) {
+              html += '<div style="width:8px;height:40px;background:var(--warning);border-radius:2px"></div>';
+            }
+            html += '</div>';
+          }
+          html += '</div>';
+          html += `<div style="font-weight:600;margin-top:0.25rem">${tenRods}</div>`;
+          html += '</div>';
+        }
+
+        // Ones (small cubes) - displayed in rows of 10
+        if (onesCubes > 0) {
+          html += '<div style="text-align:center">';
+          html += '<div style="font-size:0.7rem;color:var(--muted);margin-bottom:0.25rem">ONES</div>';
+          html += '<div style="display:flex;flex-direction:column;gap:2px;align-items:center">';
+          const fullRows = Math.floor(onesCubes / 10);
+          const remainder = onesCubes % 10;
+          for (let row = 0; row < fullRows; row++) {
+            html += '<div style="display:flex;gap:2px">';
+            for (let i = 0; i < 10; i++) {
+              html += '<div style="width:8px;height:8px;background:var(--success);border-radius:1px"></div>';
+            }
+            html += '</div>';
+          }
+          if (remainder > 0) {
+            html += '<div style="display:flex;gap:2px">';
+            for (let i = 0; i < remainder; i++) {
+              html += '<div style="width:8px;height:8px;background:var(--success);border-radius:1px"></div>';
+            }
+            html += '</div>';
+          }
+          html += '</div>';
+          html += `<div style="font-weight:600;margin-top:0.25rem">${onesCubes}</div>`;
+          html += '</div>';
+        }
+
+        html += '</div>';
+        return html;
+      },
+      DigitCards({ digits = [], highlightArrangement }) {
+        // Display digit cards for arranging/ordering activities
+        let html = '<div style="display:flex;gap:0.75rem;flex-wrap:wrap;align-items:center">';
+        digits.forEach(d => {
+          html += `<div style="width:50px;height:65px;display:flex;align-items:center;justify-content:center;background:white;border:2px solid var(--primary);border-radius:8px;font-size:1.5rem;font-weight:700;color:var(--primary);box-shadow:0 2px 4px rgba(0,0,0,0.1)">${d}</div>`;
+        });
+        html += '</div>';
+
+        // Show highlighted arrangement if provided
+        if (highlightArrangement && highlightArrangement.length > 0) {
+          html += '<div style="margin-top:0.75rem;display:flex;align-items:center;gap:0.5rem">';
+          html += '<span style="font-size:0.8rem;color:var(--muted)">Answer:</span>';
+          html += '<div style="display:flex;gap:0.25rem">';
+          highlightArrangement.forEach(d => {
+            html += `<div style="width:36px;height:48px;display:flex;align-items:center;justify-content:center;background:var(--success);border-radius:6px;font-size:1.1rem;font-weight:700;color:white">${d}</div>`;
+          });
+          html += '</div>';
+          html += '</div>';
+        }
+
+        return html;
+      },
+      IntervalDiagram({ intervals = [], highlightedInterval }) {
+        // Display interval segments for classification questions
+        let html = '<div style="display:flex;flex-wrap:wrap;gap:0.5rem;align-items:stretch">';
+
+        intervals.forEach(interval => {
+          const isHighlighted = interval.label === highlightedInterval;
+          const bgColor = isHighlighted ? 'var(--success)' : 'var(--bg)';
+          const borderColor = isHighlighted ? 'var(--success)' : 'var(--border)';
+          const textColor = isHighlighted ? 'white' : 'var(--text)';
+
+          html += `<div style="padding:0.5rem 0.75rem;background:${bgColor};border:2px solid ${borderColor};border-radius:6px;text-align:center;min-width:80px">`;
+          html += `<div style="font-weight:600;font-size:0.9rem;color:${textColor}">${interval.label}</div>`;
+          html += `<div style="font-size:0.7rem;color:${isHighlighted ? 'rgba(255,255,255,0.8)' : 'var(--muted)'}">${interval.start} - ${interval.end}</div>`;
+          html += '</div>';
+        });
+
+        html += '</div>';
+        return html;
+      },
+      ScaleDiagram({ start, end, divisions, highlightedPosition, labels = [], context = 'number-line' }) {
+        // Display a scale with divisions and optional labels
+        const stepSize = (end - start) / divisions;
+        const positionLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+        // Create a map of labels by position
+        const labelMap = new Map();
+        labels.forEach(l => labelMap.set(l.position, l.label));
+
+        let html = '<div style="position:relative;padding:2rem 1rem 3rem 1rem">';
+
+        // Scale track
+        html += '<div style="position:relative;height:4px;background:var(--border);border-radius:2px">';
+
+        // Tick marks and labels
+        for (let i = 0; i <= divisions; i++) {
+          const percent = (i / divisions) * 100;
+          const value = start + (i * stepSize);
+          const isHighlighted = i === highlightedPosition;
+          const isEndpoint = i === 0 || i === divisions;
+
+          // Tick mark
+          const tickHeight = isEndpoint ? '16px' : '12px';
+          const tickColor = isHighlighted ? 'var(--success)' : 'var(--text)';
+          html += `<div style="position:absolute;left:${percent}%;top:50%;transform:translate(-50%,-50%);width:3px;height:${tickHeight};background:${tickColor};border-radius:1px"></div>`;
+
+          // Label below tick
+          let labelText = '';
+          if (labelMap.has(i)) {
+            labelText = labelMap.get(i);
+          } else if (isEndpoint) {
+            labelText = String(value);
+          }
+
+          if (labelText) {
+            html += `<div style="position:absolute;left:${percent}%;top:20px;transform:translateX(-50%);font-size:0.75rem;font-weight:600;color:var(--text)">${labelText}</div>`;
+          }
+
+          // Position letter above tick (for non-endpoints)
+          if (!isEndpoint && i > 0 && i < divisions) {
+            const letter = positionLetters[i - 1] || i;
+            const letterColor = isHighlighted ? 'var(--success)' : 'var(--muted)';
+            const letterBg = isHighlighted ? '#dcfce7' : 'transparent';
+            html += `<div style="position:absolute;left:${percent}%;top:-24px;transform:translateX(-50%);font-size:0.7rem;font-weight:600;color:${letterColor};background:${letterBg};padding:2px 6px;border-radius:4px">${letter}</div>`;
+          }
+
+          // Highlighted marker
+          if (isHighlighted) {
+            html += `<div style="position:absolute;left:${percent}%;top:-8px;transform:translateX(-50%);width:20px;height:20px;background:var(--success);border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-size:0.6rem;font-weight:700">?</div>`;
+          }
+        }
+
+        html += '</div>';
+
+        // Context label
+        const contextLabels = {
+          'number-line': 'Number Line',
+          'ruler': 'Ruler',
+          'measuring-jug': 'Measuring Jug',
+          'thermometer': 'Thermometer'
+        };
+        html += `<div style="margin-top:2.5rem;font-size:0.7rem;color:var(--muted);text-align:center">${contextLabels[context] || context} (${divisions} equal parts)</div>`;
+
+        html += '</div>';
+        return html;
+      },
+      TargetedPosition({ start, step, direction, position }) {
+        // Display a sequence showing counting steps with highlighted target position
+        const length = Math.max(position + 2, 5);
+        const sequence = [];
+
+        for (let i = 0; i < length; i++) {
+          const value = direction === 'forwards'
+            ? start + (i * step)
+            : start - (i * step);
+          sequence.push(value);
+        }
+
+        let html = '<div style="display:flex;gap:0.5rem;align-items:center;flex-wrap:wrap">';
+
+        sequence.forEach((val, idx) => {
+          const isTarget = idx === position - 1;
+          const bgColor = isTarget ? 'var(--success)' : 'var(--bg)';
+          const borderColor = isTarget ? 'var(--success)' : 'var(--border)';
+          const textColor = isTarget ? 'white' : 'var(--text)';
+          const fontWeight = isTarget ? '700' : '600';
+
+          html += `<div style="min-width:48px;height:48px;display:flex;align-items:center;justify-content:center;background:${bgColor};border:2px solid ${borderColor};border-radius:6px;font-size:1.1rem;font-weight:${fontWeight};color:${textColor};position:relative">`;
+          html += val;
+
+          // Add position indicator for target
+          if (isTarget) {
+            html += `<div style="position:absolute;top:-8px;right:-8px;width:20px;height:20px;background:var(--warning);border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-size:0.65rem;font-weight:700;border:2px solid white">${position}</div>`;
+          }
+
+          html += '</div>';
+
+          if (idx < sequence.length - 1) {
+            html += `<span style="color:var(--muted);font-size:1.2rem">${direction === 'forwards' ? '→' : '←'}</span>`;
+          }
+        });
+
+        html += '</div>';
+        html += `<div style="margin-top:0.75rem;font-size:0.75rem;color:var(--muted);text-align:center">Counting ${direction} in steps of ${step}, starting at ${start}</div>`;
+
+        return html;
+      },
+      RankOrderSelector({ numbers, direction, position }) {
+        // Display number cards for rank ordering tasks
+        const directionLabel = direction === 'smallest-to-largest' ? 'smallest to largest' : 'largest to smallest';
+        const positionLabel = position === 1 ? '1st' : position === 2 ? '2nd' : position === 3 ? '3rd' : `${position}th`;
+
+        let html = '<div style="display:flex;gap:0.75rem;flex-wrap:wrap;justify-content:center">';
+
+        numbers.forEach((num, idx) => {
+          html += `<div style="width:60px;height:75px;display:flex;align-items:center;justify-content:center;background:white;border:3px solid var(--primary);border-radius:8px;font-size:1.5rem;font-weight:700;color:var(--primary);box-shadow:0 2px 4px rgba(0,0,0,0.1)">${num}</div>`;
+        });
+
+        html += '</div>';
+        html += `<div style="margin-top:1rem;padding:0.5rem;background:var(--bg);border-radius:6px;text-align:center">`;
+        html += `<div style="font-size:0.85rem;color:var(--muted)">Order: <strong style="color:var(--primary)">${directionLabel}</strong></div>`;
+        html += `<div style="font-size:0.85rem;color:var(--muted);margin-top:0.25rem">Find the <strong style="color:var(--success)">${positionLabel}</strong> number</div>`;
+        html += '</div>';
+
+        return html;
+      },
+      TextPrompt({ prompt, inputType = 'text' }) {
+        // Display a simple text prompt
+        return `<div style="padding:1rem;background:var(--bg);border:2px solid var(--border);border-radius:8px;text-align:center">
+          <div style="font-size:1.8rem;font-weight:700;color:var(--primary)">${prompt}</div>
+          <div style="font-size:0.75rem;color:var(--muted);margin-top:0.5rem;text-transform:uppercase">Prompt</div>
+        </div>`;
+      }
+    };
+
+    function renderQuestion(q) {
+      const type = q.variables?.type || 'unknown';
+      const typeLabel = type.split('-').map(w => w[0].toUpperCase() + w.slice(1)).join(' ');
+      const tags = (q.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
+      const diffTag = `<span class="tag difficulty-${q.difficulty}">${q.difficulty}</span>`;
+
+      let varsHtml = '';
+      if (opts.vars && q.variables) {
+        const items = Object.entries(q.variables).filter(([k]) => k !== 'type')
+          .map(([k, v]) => `<div class="var-item"><span class="key">${k}:</span> <span class="val">${Array.isArray(v) ? v.join(', ') : v}</span></div>`).join('');
+        varsHtml = `<div class="variables"><h4>Variables</h4><div class="var-grid">${items}</div></div>`;
+      }
+
+      let visHtml = '';
+      if (opts.vis && q.visuals) {
+        const render = visuals[q.visuals.component];
+        visHtml = `<div class="visual"><h4>Visual: ${q.visuals.component}</h4>${render ? render(q.visuals.props) : 'Unknown component'}</div>`;
+      }
+
+      // Format answer for display (handle arrays)
+      const answerStr = Array.isArray(q.content.answer) ? q.content.answer.join(', ') : String(q.content.answer);
+
+      return `
+        <div class="question-card">
+          <div class="question-header">
+            <span class="question-type">${typeLabel}</span>
+            <div class="tags">${diffTag}${tags}</div>
+          </div>
+          <div class="question-body">
+            <div class="question-text">${q.content.questionText}</div>
+            <div class="question-hint">${q.content.hint}</div>
+            <div class="answer-section">
+              <input type="text" class="answer-input" placeholder="Your answer" data-answer="${answerStr.replace(/"/g, '&quot;')}">
+              <button class="btn" onclick="checkAnswer(this)">Check</button>
+              <span class="answer-reveal" onclick="showAnswer(this)">Show</span>
+            </div>
+            ${q.content.explanation ? `<div class="explanation">${q.content.explanation}</div>` : ''}
+            ${visHtml}
+            ${varsHtml}
+          </div>
+        </div>
+      `;
+    }
+
+    function render() {
+      if (questions.length === 0) {
+        $('questions').innerHTML = '<div class="empty-state"><p>No questions loaded.</p><p>Select a JSON batch file to preview.</p></div>';
+        $('batchInfo').classList.remove('visible');
+        return;
+      }
+      const filtered = getFilteredQuestions();
+      if (filtered.length === 0) {
+        $('questions').innerHTML = '<div class="empty-state"><p>No questions match filters.</p></div>';
+      } else {
+        $('questions').innerHTML = filtered.map(renderQuestion).join('');
+      }
+      // Update count display
+      $('batchCount').textContent = `${filtered.length} / ${questions.length}`;
+    }
+
+    $('fileInput').addEventListener('change', async e => {
+      const file = e.target.files[0];
+      if (!file) return;
+      try {
+        const text = await file.text();
+        const data = JSON.parse(text);
+
+        // Handle formats: batch output (questions array) or raw array
+        if (data.questions) {
+          questions = data.questions;
+        } else if (Array.isArray(data)) {
+          questions = data;
+        } else {
+          questions = [data];
+        }
+
+        // Show batch info
+        $('batchId').textContent = data.batchId || '-';
+        $('batchModule').textContent = data.module || '-';
+        $('batchDiff').textContent = data.difficulty || '-';
+        $('batchCount').textContent = data.count || questions.length;
+        $('batchDate').textContent = data.generatedAt ? new Date(data.generatedAt).toLocaleString() : '-';
+        $('batchInfo').classList.add('visible');
+
+        populateFilters();
+        render();
+      } catch (err) {
+        alert('Failed to load JSON: ' + err.message);
+      }
+    });
+
+    $('clearBtn').addEventListener('click', () => {
+      questions = [];
+      filters = { module: '', type: '', diff: '' };
+      $('fileInput').value = '';
+      $('filterModule').value = '';
+      $('filterType').value = '';
+      $('filterDiff').value = '';
+      render();
+    });
+    $('showVars').addEventListener('change', e => { opts.vars = e.target.checked; render(); });
+    $('showVis').addEventListener('change', e => { opts.vis = e.target.checked; render(); });
+    $('filterModule').addEventListener('change', e => { filters.module = e.target.value; render(); });
+    $('filterType').addEventListener('change', e => { filters.type = e.target.value; render(); });
+    $('filterDiff').addEventListener('change', e => { filters.diff = e.target.value; render(); });
+  </script>
+</body>
+</html>

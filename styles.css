@@ -180,6 +180,50 @@ h1 {
     font-weight: 600;
 }
 
+.logging-banner {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(17, 24, 39, 0.95);
+    color: #f8fafc;
+    padding: 16px 24px;
+    border-radius: 12px;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.45);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 420px;
+    width: calc(100% - 40px);
+    z-index: 1200;
+}
+
+.logging-banner p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+.logging-banner-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-start;
+}
+
+.logging-banner .btn-link {
+    background: transparent;
+    border: none;
+    color: #94a3b8;
+    text-decoration: underline;
+    padding: 0;
+    font-size: 14px;
+}
+
+.logging-banner .btn-link:hover {
+    color: #cbd5f5;
+}
+
 /* Metadata display */
 .metadata {
     background: #f8f9fa;
@@ -1403,27 +1447,41 @@ margin-bottom: 15px;
 
 @media (max-width: 600px) {
     .power-up-content {
-        padding: 0 12px;
+        padding: 0 10px;
+        max-width: 90vw;
     }
     .power-up-text {
-        font-size: 38px;
-        margin-bottom: 28px;
+        font-size: 34px;
+        margin-bottom: 18px;
     }
     .power-up-meter {
-        gap: 10px;
-        justify-content: center;
-        align-items: center;
+        position: relative;
+        width: min(360px, 90vw);
+        height: 130px;
+        margin: 0 auto;
     }
     .power-up-light {
-        width: 78px;
-        height: 78px;
+        position: absolute;
+        width: 82px;
+        height: 82px;
         font-size: 11px;
-        transition: transform 0.3s ease;
     }
-    .power-up-light:nth-child(1) { transform: translate(-18px, 24px); }
-    .power-up-light:nth-child(2) { transform: translate(-6px, 12px); }
-    .power-up-light:nth-child(3) { transform: translate(6px, 0); }
-    .power-up-light:nth-child(4) { transform: translate(18px, -12px); }
+    .power-up-light:nth-child(1) {
+        left: 0;
+        bottom: 0;
+    }
+    .power-up-light:nth-child(2) {
+        left: calc(33% - 20px);
+        bottom: 26px;
+    }
+    .power-up-light:nth-child(3) {
+        left: calc(66% - 20px);
+        bottom: 52px;
+    }
+    .power-up-light:nth-child(4) {
+        right: 0;
+        bottom: 78px;
+    }
 }
 
 @keyframes flashGlowAmber {

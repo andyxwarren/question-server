@@ -19,9 +19,23 @@ class QuestionApp {
         this.currentUser = typeof UserAuth !== 'undefined' ? UserAuth.getCurrentUser() : null; // Get logged in user
         this.userId = this.currentUser ? this.currentUser.id : this.generateUUID(); // Use user ID if logged in
         console.log('QuestionApp initialized - currentUser:', this.currentUser);
-        this.batchId = this.generateUUID(); // Generate a consistent batch ID for the session
+        this.batchId = Date.now(); // Use timestamp as integer for batch_id
         this.logFileHandle = null; // For the File System Access API
         this.logQueue = []; // A queue for log entries to be written
+        console.log('QuestionApp constructor called at', new Date().toISOString()); // Debug log for page resets
+        this.loggingInitPromise = null;
+        this.fileHandleDBPromise = null;
+        this.fileHandleDBName = 'QuestionAppLogging';
+        this.fileHandleStoreName = 'loggingHandles';
+        this.logHandleKey = 'userAdventure';
+        this.loggingBannerDismissed = false;
+        this.isPromptingForLogFile = false;
+        this.isProcessingLogQueue = false;
+
+        // Supabase client for logging
+        this.supabaseUrl = 'https://aguoxnxygbeochznszgb.supabase.co'; // Your Supabase URL
+        this.supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFndW94bnh5Z2Jlb2Noem5zemdiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA5Mzk0MDcsImV4cCI6MjA2NjUxNTQwN30.IfY9TbM5Kmvsow88vCHfeIjQfjyWdC3ufhLjTPN8GGQ'; // Your Supabase anon key
+        this.supabase = createClient(this.supabaseUrl, this.supabaseAnonKey);
 
         // Progression System Properties
         this.schoolLevels = ['1', '2', '3', '4', '5', '6'];
@@ -37,7 +51,9 @@ class QuestionApp {
 
         this.initializeElements();
         this.setupUI();
+        this.loggingInitPromise = this.initializeLogging();
         this.autoLoadFromUrl();
+
     }
 
     /**
@@ -89,7 +105,9 @@ class QuestionApp {
         this.resultsSection = document.getElementById('results-section');
         this.resultsDisplay = document.getElementById('results-display');
         this.restartBtn = document.getElementById('restart-btn');
-        this.enableLoggingBtn = document.getElementById('enable-logging-btn');
+        this.loggingBanner = document.getElementById('logging-permission-banner');
+        this.allowLoggingBtn = document.getElementById('allow-logging-btn');
+        this.dismissLoggingBtn = document.getElementById('dismiss-logging-banner');
     }
 
     /**
@@ -103,8 +121,13 @@ class QuestionApp {
         this.closeModalBtn.addEventListener('click', () => this.closeTopicModal());
         this.confirmTopicsBtn.addEventListener('click', () => this.confirmTopicSelection());
         this.restartBtn.addEventListener('click', () => this.restart());
-        this.enableLoggingBtn.addEventListener('click', () => this.enableLiveLogging());
         this.keyboardToggleBtn.addEventListener('click', () => this.toggleKeyboardVisibility());
+        if (this.allowLoggingBtn) {
+            this.allowLoggingBtn.addEventListener('click', () => this.handleLoggingPermissionRequest());
+        }
+        if (this.dismissLoggingBtn) {
+            this.dismissLoggingBtn.addEventListener('click', () => this.dismissLoggingBanner());
+        }
 
         // Initialize keyboard state and device-specific classes
         this.initializeDeviceLayout();
@@ -525,7 +548,7 @@ class QuestionApp {
             this.loadUserProgress();
             
             this.setQuestionPool();
-            this.startQuestions();
+            await this.startQuestions();
         } catch (error) {
             console.error('Failed to auto-load mission:', error);
             this.showNotification(`Error: Could not load mission "${missionName}".`, 'error');
@@ -687,11 +710,12 @@ class QuestionApp {
         this.closeTopicModal();
     }
 
-    startQuestions() {
+    async startQuestions() {
         if (this.questions.length === 0) {
             this.showNotification('No questions selected. Please select topics first.', 'warning');
             return;
         }
+
         this.uploadSection.classList.add('hidden');
         this.questionSection.classList.remove('hidden');
         
@@ -1047,6 +1071,7 @@ class QuestionApp {
         if (question.questionType === 'multiple_choice') {
             document.querySelectorAll('.choice-btn').forEach(btn => { btn.disabled = true; });
         }
+
     }
 
     /**
@@ -1167,55 +1192,82 @@ class QuestionApp {
     }
 
     /**
-     * Logs the user's answer to the adventure log.
+     * Log user adventure entry to Supabase
      */
-    logAdventure(questionId, userAnswer, isCorrect) {
-        const now = new Date().toISOString();
-        const userName = this.currentUser ? `${this.currentUser.firstName} ${this.currentUser.lastName}` : 'Guest';
-        const logEntry = {
-            serve_id: '',
-            user_id: this.userId,
-            user_name: userName,
-            question_id: questionId,
-            time_served: now, // Simplification
-            time_submitted: now,
-            is_correct: isCorrect,
-            user_answer: userAnswer,
-            batch_id: this.batchId
-        };
-        // Add the log entry to a queue instead of writing immediately
-        this.logQueue.push(logEntry);
+    async logAdventure(questionId, userAnswer, isCorrect, timeServed, timeSubmitted) {
+        try {
+            const { data, error } = await this.supabase
+                .from('user_adventure')
+                .insert([{
+                    user_id: this.userId,
+                    question_id: parseInt(questionId),
+                    time_served: timeServed,
+                    time_submitted: timeSubmitted,
+                    is_correct: isCorrect,
+                    user_answer: userAnswer,
+                    batch_id: this.batchId
+                }]);
+
+            if (error) {
+                console.error('Error logging to Supabase:', error);
+                this.showNotification('Error logging progress.', 'error');
+            } else {
+                console.log('Logged adventure entry to Supabase');
+            }
+        } catch (err) {
+            console.error('Failed to log adventure:', err);
+            this.showNotification('Error logging progress.', 'error');
+        }
+    }
+
+    /**
+        if (!this.logFileHandle || this.logQueue.length === 0) return;
+        this.isProcessingLogQueue = true;
+        queueMicrotask(() => this.processLogQueue());
     }
 
     async processLogQueue() {
         if (!this.logFileHandle || this.logQueue.length === 0) {
+            this.isProcessingLogQueue = false;
             return;
         }
 
+        const entriesToWrite = this.logQueue.splice(0, this.logQueue.length);
+
         try {
-            const writableStream = await this.logFileHandle.createWritable({ keepExistingData: true });
             const file = await this.logFileHandle.getFile();
+            const writableStream = await this.logFileHandle.createWritable();
             let filePosition = file.size;
 
-            // Start writing from the end of the file
-            await writableStream.seek(filePosition);
+            if (filePosition > 0) {
+                await writableStream.seek(filePosition);
+            }
 
-            for (const logEntry of this.logQueue) {
-                const answer = String(logEntry.user_answer).includes(',') ? `"${logEntry.user_answer}"` : logEntry.user_answer;
-                const csvRow = (filePosition > 0 ? '\n' : '') + 
-                    `${logEntry.serve_id},${logEntry.user_id},${logEntry.question_id},${logEntry.time_served},${logEntry.time_submitted},${logEntry.is_correct},${answer},${logEntry.batch_id}`;
-                
-                await writableStream.write(csvRow);
-                filePosition += new Blob([csvRow]).size; // Rough update of position
+            for (const entry of entriesToWrite) {
+                const answer = String(entry.user_answer).includes(',') ? `"${entry.user_answer}"` : entry.user_answer;
+                const row = `${entry.serve_id},${entry.user_id},${entry.question_id},${entry.time_served},${entry.time_submitted},${entry.is_correct},${answer},${entry.batch_id}`;
+                const prefix = filePosition > 0 ? '\n' : '';
+                const chunk = prefix + row;
+                await writableStream.write(chunk);
+                filePosition += new Blob([chunk]).size;
             }
 
             await writableStream.close();
-            this.logQueue = []; // Clear the queue after writing
-
         } catch (error) {
-            console.error('Failed to write to log file:', error);
+            console.error('Failed to write to log file:', error, 'Error name:', error.name, 'Error message:', error.message); // Detailed debug log
             this.showNotification('Error writing to log file. Logging may be disabled.', 'error');
-            this.logFileHandle = null; // Invalidate handle on error
+
+            if (error && (error.name === 'NotAllowedError' || error.name === 'SecurityError')) {
+                console.warn('Permission revoked during write, clearing handle and showing banner at', new Date().toISOString()); // Debug log
+                this.logFileHandle = null;
+                await this.clearSavedFileHandle();
+                this.showLoggingBanner();
+            }
+        } finally {
+            this.isProcessingLogQueue = false;
+            if (this.logQueue.length > 0) {
+                this.scheduleLogQueueProcessing();
+            }
         }
     }
 
@@ -1242,40 +1294,262 @@ class QuestionApp {
     }
 
     /**
-     * Enable live logging by getting a file handle from the user.
+     * Enable live logging by requesting/creating the log file.
+     * (Still used by the legacy button if it exists in the UI.)
      */
     async enableLiveLogging() {
-        try {
-            // Open the file picker
-            const [fileHandle] = await window.showOpenFilePicker({
-                types: [
-                    {
-                        description: 'CSV Files',
-                        accept: {
-                            'text/csv': ['.csv'],
-                        },
-                    },
-                ],
-            });
+        const enabled = await this.promptForLogFile({ showSuccessToast: true });
+        if (!enabled) return;
 
-            // Request persistent read/write permission
-            const permission = await fileHandle.requestPermission({ mode: 'readwrite' });
-            if (permission !== 'granted') {
+        const enableLoggingBtn = document.getElementById('enable-logging-btn');
+        if (enableLoggingBtn) {
+            enableLoggingBtn.textContent = 'Logging Enabled';
+            enableLoggingBtn.disabled = true;
+        }
+    }
+
+    /**
+     * Attempt to restore the log file handle silently (using IndexedDB).
+     */
+    async initializeLogging() {
+        if (!this.supportsFileLogging()) {
+            console.warn('Live logging not supported in this browser context.');
+            return false;
+        }
+
+        try {
+            const savedHandle = await this.getSavedFileHandle();
+            if (savedHandle && await this.verifyHandlePermission(savedHandle)) {
+                this.logFileHandle = savedHandle;
+                console.log('Live logging ready via saved file handle.');
+                return true;
+            }
+
+            if (savedHandle) {
+                // Permission revoked or handle invalid
+                await this.clearSavedFileHandle();
+            }
+        } catch (error) {
+            console.warn('Failed to restore live logging handle:', error);
+        }
+
+        return false;
+    }
+
+    showLoggingBanner() {
+        if (!this.loggingBanner || this.isPromptingForLogFile) return;
+        this.loggingBanner.classList.remove('hidden');
+        this.loggingBannerDismissed = false;
+    }
+
+    hideLoggingBanner() {
+        if (!this.loggingBanner) return;
+        this.loggingBanner.classList.add('hidden');
+    }
+
+    dismissLoggingBanner() {
+        this.loggingBannerDismissed = true;
+        this.hideLoggingBanner();
+    }
+
+    async handleLoggingPermissionRequest() {
+        if (this.isPromptingForLogFile) return;
+        const enabled = await this.promptForLogFile({ showSuccessToast: true });
+        if (!enabled) {
+            return;
+        }
+        this.loggingBannerDismissed = true;
+        this.hideLoggingBanner();
+        this.scheduleLogQueueProcessing();
+    }
+
+    /**
+     * Ensure logging is ready before a mission starts (prompts if needed).
+     */
+    async ensureLoggingReady({ showBannerIfNeeded = false } = {}) {
+        console.log('ensureLoggingReady called with showBannerIfNeeded:', showBannerIfNeeded, 'at', new Date().toISOString()); // Debug log
+        if (this.logFileHandle) {
+            console.log('Log file handle already exists, returning true.'); // Debug log
+            return true;
+        }
+
+        if (!this.loggingInitPromise) {
+            this.loggingInitPromise = this.initializeLogging();
+        }
+
+        await this.loggingInitPromise;
+
+        if (this.loggingEnabled) {
+            console.log('Logging already enabled, skipping banner.'); // Debug log
+            return;
+        }
+
+        if (showBannerIfNeeded && !this.loggingBannerDismissed) {
+            console.log('Showing logging banner.'); // Debug log
+            this.showLoggingBanner();
+        }
+    }
+
+    /**
+     * Ask the user to pick/create the CSV log file and persist the handle.
+     */
+    async promptForLogFile({ showSuccessToast = true } = {}) {
+        if (!this.supportsFileLogging()) {
+            this.showNotification('Live logging is not supported in this browser.', 'warning');
+            return false;
+        }
+
+        try {
+            this.isPromptingForLogFile = true;
+            const pickerOptions = {
+                types: [{
+                    description: 'CSV Files',
+                    accept: { 'text/csv': ['.csv'] }
+                }],
+                multiple: false
+            };
+
+            let fileHandle = null;
+            if (window.showOpenFilePicker) {
+                const [handle] = await window.showOpenFilePicker(pickerOptions);
+                fileHandle = handle;
+            } else if (window.showSaveFilePicker) {
+                fileHandle = await window.showSaveFilePicker({
+                    ...pickerOptions,
+                    suggestedName: 'user_adventure.csv'
+                });
+            } else {
+                throw new Error('File picker APIs are not available.');
+            }
+
+            if (!fileHandle) {
+                return false;
+            }
+
+            const hasPermission = await this.verifyHandlePermission(fileHandle);
+            if (!hasPermission) {
                 this.showNotification('Permission to write to the file was denied.', 'warning');
-                return;
+                return false;
             }
 
             this.logFileHandle = fileHandle;
-            this.showNotification('Live logging enabled. Answers will be saved in real-time.', 'success');
-            this.enableLoggingBtn.textContent = 'Logging Enabled';
-            this.enableLoggingBtn.disabled = true;
+            await this.saveFileHandle(fileHandle);
+
+            if (showSuccessToast) {
+                this.showNotification('Live logging enabled. Answers will be saved in real-time.', 'success');
+            }
+            this.hideLoggingBanner();
+            return true;
 
         } catch (error) {
             if (error.name !== 'AbortError') {
-                console.error('Error enabling live logging:', error);
+                console.error('Could not enable live logging:', error);
                 this.showNotification('Could not enable live logging.', 'error');
             }
+            return false;
+        } finally {
+            this.isPromptingForLogFile = false;
         }
+    }
+
+    supportsFileLogging() {
+        return typeof window !== 'undefined' &&
+            window.isSecureContext &&
+            (window.showOpenFilePicker || window.showSaveFilePicker) &&
+            'indexedDB' in window;
+    }
+
+    async openFileHandleDB() {
+        if (this.fileHandleDBPromise) {
+            return this.fileHandleDBPromise;
+        }
+
+        if (!('indexedDB' in window)) {
+            return null;
+        }
+
+        const dbName = this.fileHandleDBName || 'QuestionAppLogging';
+        this.fileHandleDBPromise = new Promise((resolve, reject) => {
+            const request = indexedDB.open(dbName, 1);
+            request.onupgradeneeded = (event) => {
+                const db = event.target.result;
+                if (!db.objectStoreNames.contains(this.fileHandleStoreName)) {
+                    db.createObjectStore(this.fileHandleStoreName);
+                }
+            };
+            request.onsuccess = (event) => resolve(event.target.result);
+            request.onerror = (event) => reject(event.target.error);
+        });
+
+        return this.fileHandleDBPromise;
+    }
+
+    async getSavedFileHandle() {
+        try {
+            const db = await this.openFileHandleDB();
+            if (!db) return null;
+
+            return await new Promise((resolve, reject) => {
+                const tx = db.transaction(this.fileHandleStoreName, 'readonly');
+                const store = tx.objectStore(this.fileHandleStoreName);
+                const request = store.get(this.logHandleKey);
+                request.onsuccess = (event) => resolve(event.target.result || null);
+                request.onerror = (event) => reject(event.target.error);
+            });
+        } catch (error) {
+            console.warn('Unable to read saved log file handle:', error);
+            return null;
+        }
+    }
+
+    async saveFileHandle(fileHandle) {
+        try {
+            const db = await this.openFileHandleDB();
+            if (!db) return;
+
+            await new Promise((resolve, reject) => {
+                const tx = db.transaction(this.fileHandleStoreName, 'readwrite');
+                tx.oncomplete = () => resolve();
+                tx.onerror = (event) => reject(event.target.error);
+                tx.objectStore(this.fileHandleStoreName).put(fileHandle, this.logHandleKey);
+            });
+        } catch (error) {
+            console.warn('Unable to persist log file handle:', error);
+        }
+    }
+
+    async clearSavedFileHandle() {
+        try {
+            const db = await this.openFileHandleDB();
+            if (!db) return;
+
+            await new Promise((resolve, reject) => {
+                const tx = db.transaction(this.fileHandleStoreName, 'readwrite');
+                tx.oncomplete = () => resolve();
+                tx.onerror = (event) => reject(event.target.error);
+                tx.objectStore(this.fileHandleStoreName).delete(this.logHandleKey);
+            });
+        } catch (error) {
+            console.warn('Unable to clear saved log file handle:', error);
+        }
+    }
+
+    async verifyHandlePermission(fileHandle) {
+        if (!fileHandle?.queryPermission) {
+            return false;
+        }
+
+        let permission = await fileHandle.queryPermission({ mode: 'readwrite' });
+        if (permission === 'granted') {
+            return true;
+        }
+
+        if (permission === 'prompt' && fileHandle.requestPermission) {
+            permission = await fileHandle.requestPermission({ mode: 'readwrite' });
+            return permission === 'granted';
+        }
+
+        return false;
     }
 
     /**
@@ -1771,6 +2045,40 @@ class QuestionApp {
             var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
             return v.toString(16);
         });
+    }
+
+    async enableAutoLogging() {
+        try {
+            // Check if we have a saved file handle
+            const savedHandle = await this.getSavedFileHandle();
+            
+            if (savedHandle) {
+                this.logFileHandle = savedHandle;
+                console.log('Using saved log file handle');
+                return;
+            }
+            
+            // Create new file if no saved handle
+            this.logFileHandle = await window.showSaveFilePicker({
+                types: [{ description: 'CSV Files', accept: { 'text/csv': ['.csv'] } }],
+                suggestedName: 'user_adventure.csv'
+            });
+            
+            // Save handle to IndexedDB
+            await this.saveFileHandle(this.logFileHandle);
+            
+        } catch (error) {
+            console.error('Auto-logging failed:', error);
+        }
+    }
+
+    async getSavedFileHandle() {
+        // TO DO: implement getting saved file handle from IndexedDB
+        return null;
+    }
+
+    async saveFileHandle(fileHandle) {
+        // TO DO: implement saving file handle to IndexedDB
     }
 }
 

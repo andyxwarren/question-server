@@ -23,6 +23,30 @@
             overflow: hidden;
         }
 
+        .welcome-toast {
+            position: fixed;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0, 0, 0, 0.85);
+            border: 2px solid #0f0;
+            box-shadow: 0 0 12px rgba(0, 255, 0, 0.8);
+            color: #0f0;
+            padding: 12px 20px;
+            border-radius: 999px;
+            font-family: 'Press Start 2P', cursive;
+            font-size: 0.55em;
+            letter-spacing: 1px;
+            z-index: 1200;
+            opacity: 0;
+            transition: opacity 0.3s ease, transform 0.3s ease;
+        }
+
+        .welcome-toast.show {
+            opacity: 1;
+            transform: translate(-50%, 0);
+        }
+
         .container {
             border: 5px solid #0f0;
             padding: 10px;
@@ -324,14 +348,14 @@
                 place-items: center;
                 row-gap: 24px;
                 column-gap: 26px;
-                padding: 12px 24px 10px;
+                padding: 110px 24px 10px; /* internal offset keeps buttons below header */
                 width: 100%;
                 max-width: 100%;
-                margin: 16px auto 10px; /* thin strip directly below subtitle */
+                margin: -94px auto 10px; /* overlap upward so only a thin strip is visible */
                 box-sizing: border-box;
                 overflow-y: auto; /* Buttons scroll inside container */
                 overflow-x: hidden;
-                max-height: calc(100% - 85px); /* adjust for reduced margin */
+                max-height: calc(100% + 10px); /* compensate for the large padding-top */
             }
             
             .arcade-button {
@@ -373,6 +397,7 @@
 </head>
 <body>
     <div id="userHeaderContainer" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+    <div id="welcomeToast" class="welcome-toast"></div>
     
     <div class="container">
         
@@ -589,9 +614,21 @@
     <!-- User Authentication -->
     <script src="user-auth.js"></script>
     <script>
+        function showWelcomeToast(user) {
+            const toast = document.getElementById('welcomeToast');
+            if (!toast) return;
+
+            const firstName = user?.firstName || user?.first_name || 'Explorer';
+            toast.textContent = `WELCOME, ${firstName.toUpperCase()}!`;
+            toast.classList.add('show');
+
+            setTimeout(() => toast.classList.remove('show'), 3200);
+        }
+
         document.addEventListener('DOMContentLoaded', () => {
+            let user = null;
             if (typeof UserAuth !== 'undefined') {
-                const user = UserAuth.requireLogin();
+                user = UserAuth.requireLogin();
                 if (!user) return;
                 
                 const headerContainer = document.getElementById('userHeaderContainer');
@@ -599,6 +636,11 @@
                 if (userHeader) {
                     headerContainer.appendChild(userHeader);
                 }
+            }
+
+            if (typeof sessionStorage !== 'undefined' && sessionStorage.getItem('showWelcomeToast') === '1') {
+                sessionStorage.removeItem('showWelcomeToast');
+                showWelcomeToast(user);
             }
         });
     </script>

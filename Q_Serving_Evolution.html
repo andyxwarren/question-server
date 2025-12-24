@@ -111,6 +111,8 @@
             <a href="#session-10" class="nav-btn">S10</a>
             <a href="#session-11" class="nav-btn">S11</a>
             <a href="#session-12" class="nav-btn">S12</a>
+            <a href="#session-13" class="nav-btn">S13</a>
+            <a href="#session-14" class="nav-btn">S14</a>
         </div>
     </header>
 
@@ -618,6 +620,131 @@
             <li><code>Progress_Dashboard_dynamic_levels.html</code> - Hierarchical unlocking logic, curriculum-based availability, locked mission styling, partial progress display</li>
             <li><code>Progress_Dashboard_all_levels.html</code> - New reference document with all missions/levels visible, no login, tooltips only</li>
             <li><code>Pathway_Selector.html</code> - Rebuilt with Google AI Studio for CDR framework consistency</li>
+        </ul>
+    </div>
+
+    <div id="session-13" class="session">
+        <h2>Session Thirteen: December 19-20, 2025</h2>
+        <p>Comprehensive mobile layout refinements for Pathway Selector and Progress Dashboard, plus Power Up overlay improvements.</p>
+
+        <h3>Pathway Selector - Mobile Layout Overhaul</h3>
+        <ul>
+            <li><strong>Centered Neon Frame</strong>: Fixed mobile container positioning using <code>left: 50%</code>, <code>transform: translateX(-50%)</code>, and <code>width: min(calc(100vw - 20px), 420px)</code> to center the green border perfectly on all screen widths.</li>
+            <li><strong>Two-Column Button Grid</strong>: Converted mobile button layout to CSS Grid with <code>grid-template-columns: repeat(2, 1fr)</code> and <code>place-items: center</code> for symmetrical button placement.</li>
+            <li><strong>Button Sizing</strong>: Standardized mobile buttons at 130px diameter with 0.65em font-size, including FDP world missions which previously used smaller 95px buttons.</li>
+            <li><strong>Vertical Spacing</strong>: Implemented <code>padding-top: 110px</code> with negative top margin to create thin strip below title while keeping buttons below sticky header.</li>
+            <li><strong>Text Wrapping</strong>: Removed <code>text-overflow: ellipsis</code> and <code>white-space: nowrap</code>, allowing button labels to wrap naturally across multiple lines with <code>word-break: break-word</code>.</li>
+            <li><strong>Breadcrumb Alignment</strong>: Added <code>margin-top: -6px</code> to breadcrumb buttons so "Worlds" button aligns vertically with hamburger menu without moving green divider line.</li>
+        </ul>
+
+        <h3>Progress Dashboard - Mobile Flickering Fix</h3>
+        <ul>
+            <li><strong>Sticky Header Opacity</strong>: Applied Google/Gemini's fix to eliminate column border flickering during scroll by matching header border color to background (<code>#667eea</code>) and adding <code>background-clip: padding-box</code>.</li>
+            <li><strong>Mission Row Backgrounds</strong>: Set explicit white backgrounds (<code>#ffffff</code>) on mission row cells with <code>#dddddd</code> borders to prevent content bleeding through.</li>
+            <li><strong>World Row Outline</strong>: Added <code>outline: 1px solid #e8eaf6</code> to sticky world rows to mask rendering artifacts during GPU compositing.</li>
+        </ul>
+
+        <h3>Power Up Overlay - Mobile Diagonal Layout</h3>
+        <ul>
+            <li><strong>Absolute Positioning</strong>: Rebuilt mobile Power Up overlay using <code>position: absolute</code> within a fixed-height container (130px) instead of flexbox with transforms.</li>
+            <li><strong>Diagonal Arrangement</strong>: Positioned four pundex lights along a bottom-left to top-right diagonal using calculated left/bottom positions:
+                <ul>
+                    <li>Light 1: <code>left: 0; bottom: 0</code></li>
+                    <li>Light 2: <code>left: calc(33% - 20px); bottom: 26px</code></li>
+                    <li>Light 3: <code>left: calc(66% - 20px); bottom: 52px</code></li>
+                    <li>Light 4: <code>right: 0; bottom: 78px</code></li>
+                </ul>
+            </li>
+            <li><strong>Readable Text</strong>: Maintained 82px light diameter and 11px font-size so pundex names remain legible while fitting on screen.</li>
+            <li><strong>Compact Title</strong>: Reduced "POWER UP!" text to 34px with 18px bottom margin for mobile.</li>
+            <li><strong>Viewport Constraint</strong>: Set meter width to <code>min(360px, 90vw)</code> to ensure overlay fits on narrow devices.</li>
+        </ul>
+
+        <h3>Pathway Selector - Header Spacing Refinement</h3>
+        <ul>
+            <li><strong>Title Area Margins</strong>: Reduced title area <code>margin-top</code> to 10px and removed <code>padding-bottom</code> to minimize gap between green line and "SELECT A WORLD" text.</li>
+            <li><strong>Button Grid Offset</strong>: Used <code>margin: -94px auto 10px</code> with large internal <code>padding-top: 110px</code> so only thin strip shows below title while buttons stay below header on real devices.</li>
+            <li><strong>Scrollable Height</strong>: Adjusted <code>max-height: calc(100% + 10px)</code> to compensate for padding and ensure bottom buttons remain visible.</li>
+        </ul>
+
+        <h3>Button Text Improvements</h3>
+        <ul>
+            <li><strong>Base Font Sizing</strong>: Set arcade button base font to 0.55em with long-text at 0.85em and compact-text at 0.75em for balanced readability.</li>
+            <li><strong>Natural Line Breaks</strong>: Changed span styling to <code>white-space: normal</code> and <code>line-height: 1.2</code> so labels like "Measurement" wrap cleanly without truncation.</li>
+            <li><strong>Increased Span Width</strong>: Expanded button span width to 92% to maximize text area within circular buttons.</li>
+        </ul>
+
+        <h3>Mobile-Specific Grid Spacing</h3>
+        <ul>
+            <li><strong>FDP World Consistency</strong>: Added mobile override for FDP world button container with <code>row-gap: 24px</code> and <code>column-gap: 26px</code> to match standard world spacing.</li>
+            <li><strong>Uniform Button Sizes</strong>: Applied <code>width: 130px !important</code> and <code>height: 130px !important</code> to FDP buttons on mobile so all worlds use identical sizing.</li>
+        </ul>
+
+        <h3>Real Device Testing Fixes</h3>
+        <ul>
+            <li><strong>Top Button Visibility</strong>: Diagnosed issue where top two buttons were missing on real mobile (not in desktop emulation) due to browser UI height differences.</li>
+            <li><strong>Padding-Based Solution</strong>: Switched from margin-based offset to padding-based offset with negative margin overlay to guarantee buttons start below sticky header on all devices.</li>
+            <li><strong>Power Up Fit</strong>: Verified diagonal layout fits entirely on real mobile screens after user reported overlay was cut off in initial implementation.</li>
+        </ul>
+
+        <h3>Files Modified</h3>
+        <ul>
+            <li><code>Pathway_Selector.html</code> - Mobile container centering, button grid layout, text wrapping, header spacing, breadcrumb alignment</li>
+            <li><code>Progress_Dashboard_dynamic_levels.html</code> - Sticky header opacity fixes, mission/world row backgrounds and outlines</li>
+            <li><code>styles.css</code> - Power Up overlay mobile diagonal layout with absolute positioning</li>
+        </ul>
+    </div>
+
+    <div id="session-14" class="session">
+        <h2>Session Fourteen: December 22-23, 2025</h2>
+        <p>Major architectural migration from localStorage to Supabase for cross-device user management, plus refinements to the user creation interface and authentication system.</p>
+
+        <h3>User Interface Refinements</h3>
+        <ul>
+            <li><strong>Custom Date Picker</strong>: Replaced the default date input with custom dropdown selectors for day, month, and year (ages 3-12), with proper validation and formatted display.</li>
+            <li><strong>PIN Input Enhancement</strong>: Implemented 4 separate input fields for PIN entry with auto-focus, backspace navigation, and prevention of browser autofill suggestions.</li>
+            <li><strong>Year Group Confirmation</strong>: Added a modal popup to confirm the calculated school year (Reception or Year 1-6) before account creation, with glowing red display of the confirmed year.</li>
+            <li><strong>Initial Tab Logic</strong>: Modified the page load behavior to show the New User tab by default when no users exist, switching to Quick Login only when users are present.</li>
+        </ul>
+
+        <h3>Supabase Migration & Cross-Device Login</h3>
+        <ul>
+            <li><strong>PIN Field Addition</strong>: Added a <code>pin</code> TEXT column to the <code>user_profile</code> table to store user PINs for authentication.</li>
+            <li><strong>Complete LocalStorage Removal</strong>: Eliminated all localStorage dependencies, replacing them with direct Supabase queries for user creation, retrieval, updating, and deletion.</li>
+            <li><strong>Asynchronous User Loading</strong>: Implemented async functions for fetching users from Supabase, with error handling and loading states for both Quick Login and Manage Users tabs.</li>
+            <li><strong>Cross-Device Authentication</strong>: Users can now log in from any device using their PIN, with accounts stored centrally in Supabase rather than browser-local.</li>
+            <li><strong>Supabase Client Integration</strong>: Switched from ES modules to UMD Supabase client for reliable loading, with proper error handling for network issues.</li>
+        </ul>
+
+        <h3>User Management Overhaul</h3>
+        <ul>
+            <li><strong>Remote User Listing</strong>: Quick Login now fetches and displays all users from Supabase, ordered by first name.</li>
+            <li><strong>Remote Deletion</strong>: Manage Users tab performs all CRUD operations (create, read, update, delete) directly against Supabase, with real-time UI updates.</li>
+            <li><strong>Bulk Operations</strong>: Implemented delete selected and delete all functionality that operates on Supabase records, with confirmation dialogs and success feedback.</li>
+            <li><strong>Dynamic UI Population</strong>: User lists, checkboxes, and metadata (year group, ID) are generated dynamically from Supabase data.</li>
+        </ul>
+
+        <h3>Authentication & Security</h3>
+        <ul>
+            <li><strong>PIN-Based Login</strong>: Replaced local user lookup with Supabase authentication using stored PINs.</li>
+            <li><strong>Row Level Security</strong>: Verified RLS settings on the user_profile table to ensure proper access control (currently disabled for development).</li>
+            <li><strong>Error Handling</strong>: Added comprehensive error handling for network failures, invalid credentials, and database connection issues.</li>
+            <li><strong>Session Management</strong>: Removed local session tracking since users can log in from any device.</li>
+        </ul>
+
+        <h3>Technical Improvements</h3>
+        <ul>
+            <li><strong>API Key Management</strong>: Resolved Supabase connection issues by ensuring correct anon key configuration and disabling RLS where appropriate.</li>
+            <li><strong>Code Cleanup</strong>: Removed all localStorage functions (getUsers, saveUsers, setCurrentUser, getCurrentUser) and related migration code.</li>
+            <li><strong>Async/Await Patterns</strong>: Updated all user operations to use modern async/await syntax for better error handling and code readability.</li>
+            <li><strong>UI State Management</strong>: Implemented proper loading states and error displays for Supabase-dependent UI components.</li>
+        </ul>
+
+        <h3>Files Modified</h3>
+        <ul>
+            <li><code>index.html</code> - Complete rewrite of user management system, Supabase integration, UI refinements for date picker and PIN input</li>
+            <li><code>user-auth.js</code> - Retained for utility functions (generateUUID, getYearGroup), but removed from user storage logic</li>
+            <li><code>Q_Serving_Evolution.html</code> - Added Session 14 documentation</li>
         </ul>
     </div>
 
