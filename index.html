@@ -7,7 +7,6 @@
     <style>
         html {
             height: 100%;
-            overflow: hidden;
         }
 
         * {
@@ -34,8 +33,9 @@
             padding: 18px;
             width: 100%;
             max-width: 380px;
-            max-height: calc(100vh - 16px);
-            overflow: hidden;
+            max-height: calc(100vh - 32px);
+            overflow-y: auto;
+            overflow-x: hidden;
         }
 
         .logo {
@@ -320,6 +320,35 @@
             max-width: 300px;
             text-align: center;
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Mobile-specific adjustments */
+        @supports (padding: max(0px)) {
+            .login-container {
+                max-height: calc(100vh - 32px - env(safe-area-inset-top, 0) - env(safe-area-inset-bottom, 0));
+                padding-top: calc(18px + env(safe-area-inset-top, 0));
+            }
+        }
+
+        @media (max-width: 480px) {
+            .login-container {
+                max-width: calc(100vw - 20px);
+                margin: 0 10px;
+                padding: 15px;
+            }
+            
+            .form-group {
+                margin-bottom: 12px;
+            }
+            
+            .dob-selectors {
+                flex-wrap: wrap;
+            }
+            
+            .dob-selectors select {
+                flex: 1;
+                min-width: 80px;
+            }
         }
 
         .modal-content h3 {
