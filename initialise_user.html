@@ -1,0 +1,2447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progress Dashboard</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background-color: #f5f5f5;
+            padding: 0;
+        }
+
+        .sticky-header {
+            position: sticky;
+            top: 0;
+            background-color: #f5f5f5;
+            z-index: 100;
+            padding: 20px 20px 0;
+        }
+
+        .column-headers {
+            display: table;
+            table-layout: fixed;
+            margin: 0 auto;
+        }
+
+        .col-header {
+            display: table-cell;
+            background-color: #667eea;
+            color: white;
+            font-weight: 600;
+            font-size: 14px;
+            padding: 8px;
+            text-align: center;
+            border: 1px solid #5a6fd6;
+            width: 120px;
+            max-width: 120px;
+        }
+
+        .col-header.col-mission {
+            text-align: left;
+            width: 340px;
+            min-width: 340px;
+        }
+
+        .hidden-thead {
+            visibility: collapse;
+            height: 0;
+        }
+
+        .hidden-thead th {
+            padding: 0;
+            border: none;
+            height: 0;
+            line-height: 0;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+
+        .dashboard-container {
+            margin: 0 auto;
+            padding: 0 20px 40px;
+            width: fit-content;
+        }
+
+        table {
+            width: auto;
+            table-layout: fixed;
+            border-collapse: separate;
+            border-spacing: 0;
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            border-top: none;
+            padding: 8px;
+            text-align: center;
+        }
+
+        /* Level columns - fixed width */
+        td:not(:first-child) {
+            width: 120px;
+            max-width: 120px;
+        }
+
+        thead tr:first-child th {
+            border-top: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #667eea;
+            color: white;
+            font-weight: 600;
+            font-size: 14px;
+            position: sticky;
+            top: 80px;
+            z-index: 50;
+        }
+
+        th.level-header {
+            width: 120px;
+            max-width: 120px;
+        }
+
+        /* Row hierarchy styling */
+        .world-row {
+            background-color: #e8eaf6;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .world-row td {
+            background-color: #e8eaf6;
+        }
+
+        .world-row td:first-child {
+            text-align: left;
+            padding-left: 10px;
+        }
+        
+        /* Sticky world indicator */
+        .sticky-world-indicator {
+            position: fixed;
+            top: 175px;
+            background-color: #e8eaf6;
+            padding: 8px 10px;
+            font-weight: 600;
+            font-size: 14px;
+            z-index: 95;
+            display: none;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: left;
+        }
+        
+        .sticky-world-indicator.visible {
+            display: block;
+        }
+        
+        /* Hide mobile table header on desktop/tablet */
+        .mobile-table-header {
+            display: none;
+        }
+
+        .mission-row td:first-child {
+            text-align: left;
+            padding-left: 10px;
+            font-size: 13px;
+        }
+
+        .mission-row td:first-child > div {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+
+        /* Hide launch buttons - mission cells are now clickable */
+        .launch-btn {
+            display: none;
+        }
+        
+        /* Style mission cells as clickable buttons */
+        .mission-row td:first-child {
+            cursor: pointer;
+        }
+        
+        .mission-row td:first-child > div {
+            background: linear-gradient(135deg, #667eea 0%, #5c6bc0 100%);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 4px rgba(102, 126, 234, 0.3);
+        }
+        
+        .mission-row td:first-child > div:hover {
+            background: linear-gradient(135deg, #5a6fd6 0%, #4a5ab0 100%);
+            box-shadow: 0 4px 8px rgba(102, 126, 234, 0.4);
+            transform: translateY(-1px);
+        }
+        
+        .mission-row td:first-child > div:active {
+            transform: translateY(0);
+            box-shadow: 0 1px 2px rgba(102, 126, 234, 0.3);
+        }
+        
+        .mission-name {
+            flex: 1;
+            color: white;
+            font-weight: 600;
+        }
+
+        /* Pundex cell container */
+        .pundex-cell {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2px;
+            padding: 4px;
+            min-height: 28px;
+        }
+
+        /* Individual pundex indicator */
+        .pundex {
+            width: 100%;
+            height: 20px;
+            border-radius: 3px;
+            background-color: #e0e0e0;
+            border: 1px dashed #bbb;
+        }
+
+        .pundex.completed {
+            border: none;
+        }
+
+        /* Pundex colors matching index.html power meter - only applied when completed */
+        .pundex.ignition.completed {
+            background-color: #e53935;
+        }
+
+        .pundex.charging.completed {
+            background-color: #ffb300;
+        }
+
+        .pundex.ready.completed {
+            background-color: #43a047;
+        }
+
+        .pundex.power-up.completed {
+            background-color: #8e24aa;
+        }
+
+        /* Partial progress - fill from left based on correct answers (0-8 scale) */
+        .pundex.partial {
+            --fill-percent: 0%;
+            border: 1px solid currentColor;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .pundex.partial::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: var(--fill-percent);
+            opacity: 0.5;
+        }
+
+        .pundex.ignition.partial {
+            border-color: #e53935;
+        }
+        .pundex.ignition.partial::before {
+            background-color: #e53935;
+        }
+
+        .pundex.charging.partial {
+            border-color: #ffb300;
+        }
+        .pundex.charging.partial::before {
+            background-color: #ffb300;
+        }
+
+        .pundex.ready.partial {
+            border-color: #43a047;
+        }
+        .pundex.ready.partial::before {
+            background-color: #43a047;
+        }
+
+        .pundex.power-up.partial {
+            border-color: #8e24aa;
+        }
+        .pundex.power-up.partial::before {
+            background-color: #8e24aa;
+        }
+
+        /* Unavailable level (no modules) */
+        td:has(.pundex-cell.unavailable) {
+            background-color: #f0f0f0;
+        }
+
+        .pundex-cell.unavailable {
+            position: relative;
+        }
+
+        .pundex-cell.unavailable .pundex {
+            visibility: hidden;
+        }
+
+        .pundex-cell.unavailable::after {
+            content: "—";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #bbb;
+            font-size: 18px;
+        }
+
+        /* Locked mission indicator (prerequisites not met) */
+        .pundex-cell.locked::after {
+            content: "🔒";
+            font-size: 12px;
+        }
+
+        .locked-mission {
+            display: none;
+        }
+
+        /* Tooltip styling */
+        .pundex-cell {
+            position: relative;
+            cursor: default;
+        }
+
+        .pundex-cell.current-level {
+            cursor: pointer;
+        }
+
+        /* Tooltip container - created by JavaScript */
+        .tooltip {
+            position: fixed;
+            background-color: #333;
+            color: white;
+            padding: 8px 10px;
+            border-radius: 6px;
+            font-size: 11px;
+            white-space: pre-line;
+            z-index: 1000;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            line-height: 1.4;
+            text-align: left;
+            pointer-events: none;
+            max-width: 250px;
+        }
+
+        .tooltip::after {
+            content: "";
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 6px solid transparent;
+        }
+
+        .tooltip.above::after {
+            top: 100%;
+            border-top-color: #333;
+        }
+
+        .tooltip.below::after {
+            bottom: 100%;
+            border-bottom-color: #333;
+        }
+
+        /* Legend */
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 12px;
+            color: #555;
+        }
+
+        .legend-color {
+            width: 20px;
+            height: 14px;
+            border-radius: 3px;
+        }
+
+        /* Key Modal */
+        .key-modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 2000;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .key-modal-overlay.open {
+            display: flex;
+        }
+        
+        .key-modal {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            max-width: 320px;
+            width: 90%;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+        
+        .key-modal h3 {
+            margin: 0 0 15px 0;
+            font-size: 18px;
+            color: #333;
+            text-align: center;
+        }
+        
+        .key-modal .legend {
+            display: flex !important;
+            flex-direction: column;
+            gap: 10px;
+            margin: 0;
+        }
+        
+        .key-modal .legend-item {
+            font-size: 14px;
+        }
+        
+        .key-modal .legend-color {
+            width: 24px;
+            height: 18px;
+        }
+        
+        .key-modal-close {
+            display: block;
+            width: 100%;
+            margin-top: 15px;
+            padding: 10px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        /* Mobile styles */
+        @media (max-width: 767px) {
+            .launch-btn {
+                display: none !important;
+            }
+            
+            .mission-row td:first-child {
+                cursor: pointer;
+            }
+            
+            .mission-row td:first-child:hover {
+                background-color: rgba(92, 107, 192, 0.1);
+            }
+            
+            .mission-row td:first-child > div {
+                position: relative;
+            }
+            
+            /* Hide the table's thead on mobile - use fixed header instead */
+            .hidden-thead {
+                display: none !important;
+            }
+            
+            .hidden-thead th:first-child {
+                text-align: left !important;
+                padding-left: 10px !important;
+                border-radius: 4px 0 0 0;
+                width: 40% !important;
+            }
+            
+            .hidden-thead th:nth-child(2),
+            .hidden-thead th:nth-child(3),
+            .hidden-thead th:nth-child(4) {
+                width: 20% !important;
+            }
+            
+            .hidden-thead th:nth-child(4) {
+                border-radius: 0 4px 0 0;
+            }
+            
+            /* Hide level 4, 5, 6 columns in thead */
+            .hidden-thead th:nth-child(5),
+            .hidden-thead th:nth-child(6),
+            .hidden-thead th:nth-child(7) {
+                display: none !important;
+            }
+            
+            /* Hide the separate mobile header - use actual thead instead */
+            .mobile-table-header {
+                display: none !important;
+            }
+            
+            /* Hide column-headers div on mobile */
+            .column-headers {
+                display: none !important;
+            }
+            
+            /* Show actual thead on mobile - guaranteed column alignment */
+            .hidden-thead {
+                visibility: visible !important;
+                display: table-header-group !important;
+            }
+            
+            .hidden-thead tr {
+                position: sticky;
+                top: 80px;
+                z-index: 100;
+            }
+            
+            .hidden-thead th {
+                background-color: #667eea !important;
+                color: white !important;
+                font-weight: 600 !important;
+                font-size: 14px !important;
+                padding: 10px 8px !important;
+                border: 1px solid #667eea !important;
+                background-clip: padding-box;
+                text-align: center !important;
+                height: auto !important;
+                line-height: normal !important;
+                opacity: 1 !important;
+                visibility: visible !important;
+            }
+            
+            .hidden-thead th:first-child {
+                text-align: left !important;
+                padding-left: 10px !important;
+            }
+            
+            .dashboard-container {
+                padding: 0 10px 40px;
+                padding-top: 80px; /* Space for sticky header only */
+                margin-top: 0;
+                position: relative;
+                z-index: 1;
+            }
+            
+            table {
+                display: table;
+                width: 100%;
+                table-layout: fixed !important;
+                border-collapse: collapse;
+            }
+            
+            .sticky-header {
+                padding: 10px 10px 5px;
+                z-index: 200;
+                background-color: #f5f5f5;
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+            }
+            
+            .sticky-header h1 {
+                font-size: 20px;
+                text-align: left;
+                padding-right: 60px;
+                line-height: 36px;
+                min-height: 36px;
+            }
+            
+            #userHeaderContainer {
+                top: 10px !important;
+            }
+            
+            .subtitle {
+                font-size: 12px;
+                margin-bottom: 10px;
+            }
+            
+            .legend {
+                display: none !important;
+            }
+            
+            table {
+                display: table;
+                width: 100%;
+                table-layout: fixed;
+            }
+            
+            /* Hide colgroup entirely on mobile */
+            colgroup {
+                display: table-column-group;
+            }
+            
+            /* Set column widths via colgroup */
+            colgroup col:nth-child(1) {
+                width: 40% !important;
+            }
+            
+            colgroup col:nth-child(2),
+            colgroup col:nth-child(3),
+            colgroup col:nth-child(4) {
+                width: 20% !important;
+            }
+            
+            colgroup col:nth-child(n+5) {
+                width: 0 !important;
+                visibility: collapse !important;
+            }
+            
+            tbody {
+                display: table-row-group;
+            }
+            
+            /* World rows on mobile - sticky below thead (no gap) */
+            .world-row {
+                display: table-row;
+                background-color: #e8eaf6 !important;
+                position: sticky;
+                top: 117px;
+                z-index: 50;
+                outline: 1px solid #e8eaf6;
+            }
+            
+            /* First world row should be at top initially */
+            .world-row:first-of-type {
+                margin-top: 0;
+            }
+            
+            .world-row td {
+                display: table-cell;
+                padding: 8px 10px !important;
+                border: none !important;
+                background-color: #e8eaf6 !important;
+                font-weight: 600;
+            }
+            
+            .world-row td:first-child {
+                display: table-cell;
+                width: 40% !important;
+            }
+            
+            .world-row td:nth-child(2),
+            .world-row td:nth-child(3),
+            .world-row td:nth-child(4) {
+                display: table-cell;
+                width: 20% !important;
+            }
+            
+            .world-row td:nth-child(n+5) {
+                display: none !important;
+                width: 0 !important;
+                max-width: 0 !important;
+                padding: 0 !important;
+                border: none !important;
+                overflow: hidden !important;
+            }
+            
+            /* Hide sticky world indicator on mobile - world rows visible in table */
+            .sticky-world-indicator {
+                display: none !important;
+            }
+            
+            /* Mission rows as table rows on mobile */
+            .mission-row {
+                display: table-row;
+                background: white;
+            }
+            
+            .mission-row td {
+                display: table-cell;
+                background-color: #ffffff !important;
+                border: 1px solid #dddddd !important;
+                padding: 6px 4px !important;
+                vertical-align: middle;
+            }
+            
+            .mission-row td:first-child {
+                font-weight: 600;
+                font-size: 12px;
+                width: 40% !important;
+            }
+            
+            .mission-row td:nth-child(2),
+            .mission-row td:nth-child(3),
+            .mission-row td:nth-child(4) {
+                width: 20% !important;
+            }
+            
+            .mission-row td:first-child > div::after {
+                right: 0;
+            }
+            
+            .mission-row td:not(:first-child) {
+                text-align: center;
+            }
+            
+            /* Pundex cells in mobile */
+            .pundex-cell {
+                grid-template-columns: repeat(4, 1fr);
+                gap: 1px;
+                padding: 2px;
+                min-height: 20px;
+            }
+            
+            .pundex {
+                width: 100%;
+                height: 16px;
+                border-radius: 2px;
+            }
+            
+            /* Mobile: Dynamic level column visibility - controlled by JavaScript */
+            .mission-row td.mobile-hide-level,
+            .world-row td.mobile-hide-level {
+                display: none !important;
+                width: 0 !important;
+                max-width: 0 !important;
+                padding: 0 !important;
+                border: none !important;
+                overflow: hidden !important;
+            }
+            
+            .mission-row td.mobile-show-level,
+            .world-row td.mobile-show-level {
+                display: table-cell !important;
+                /* Width is set dynamically by JavaScript based on levelsToShow */
+            }
+            
+            /* Mobile table layout - match header width exactly */
+            table {
+                table-layout: fixed !important;
+                width: 100% !important;
+                margin: 0 !important;
+                box-sizing: border-box !important;
+            }
+            
+            /* Mobile column widths are set dynamically by JavaScript based on levelsToShow */
+            /* Fixed ratios: 1 level = 50:50, 2 levels = 40:30:30, 3 levels = 40:20:20:20 */
+            
+            /* Add visible borders to table cells to match header */
+            .mission-row td {
+                border-right: 1px solid #e0e0e0 !important;
+            }
+            
+            .mission-row td:last-child,
+            .mission-row td.mobile-hide-level + td.mobile-show-level:last-of-type {
+                border-right: none !important;
+            }
+            
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="sticky-header">
+        <h1>📊 Progress Dashboard</h1>
+        <p class="subtitle">Track your mastery across all Worlds and Missions</p>
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #f0f0f0; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center; color: #ccc; font-size: 10px;">—</div>
+                <span>No Modules</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #e0e0e0; border: 1px dashed #bbb;"></div>
+                <span>Not Started</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #e53935;"></div>
+                <span>Ignition</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #ffb300;"></div>
+                <span>Charging</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #43a047;"></div>
+                <span>Ready</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #8e24aa;"></div>
+                <span>Power Up</span>
+            </div>
+        </div>
+        <div class="column-headers">
+            <div class="col-header col-mission">World / Mission</div>
+            <div class="col-header">Level 1</div>
+            <div class="col-header">Level 2</div>
+            <div class="col-header">Level 3</div>
+            <div class="col-header">Level 4</div>
+            <div class="col-header">Level 5</div>
+            <div class="col-header">Level 6</div>
+        </div>
+    </div>
+
+    <!-- Sticky world indicator -->
+    <div class="sticky-world-indicator" id="stickyWorldIndicator"></div>
+
+    <!-- Mobile sticky table header -->
+    <div class="mobile-table-header" id="mobileTableHeader">
+        <div class="mobile-header-cell mission-col">Mission</div>
+        <div class="mobile-header-cell level-header" data-level="1">L1</div>
+        <div class="mobile-header-cell level-header" data-level="2">L2</div>
+        <div class="mobile-header-cell level-header" data-level="3">L3</div>
+    </div>
+
+    <div class="dashboard-container">
+        <table>
+            <colgroup>
+                <col style="width: 340px;">
+                <col>
+                <col>
+                <col>
+                <col>
+                <col>
+                <col>
+            </colgroup>
+            <thead class="hidden-thead">
+                <tr>
+                    <th>World / Mission</th>
+                    <th>Level 1</th>
+                    <th>Level 2</th>
+                    <th>Level 3</th>
+                    <th>Level 4</th>
+                    <th>Level 5</th>
+                    <th>Level 6</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- World 1: Number & Place Value (6 missions) -->
+                <tr class="world-row">
+                    <td colspan="7">🔢 Number & Place Value</td>
+                </tr>
+                <tr class="mission-row" data-cdr="N1">
+                    <td>Counting</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="N2">
+                    <td>Read, Write, Order & Compare</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="N3">
+                    <td>Place Value & Roman Numerals</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="N4">
+                    <td>Identify, Represent, Estimate & Round</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="N5">
+                    <td>Negative Numbers</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="N6">
+                    <td>Number Problems</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+
+                <!-- World 2: Calculations (9 missions) -->
+                <tr class="world-row">
+                    <td colspan="7">➕ Calculations</td>
+                </tr>
+                <tr class="mission-row" data-cdr="C1">
+                    <td>Add & Subtract Mentally</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="C2">
+                    <td>Add & Subtract Written</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="C3">
+                    <td>Estimate & Inverse</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="C4">
+                    <td>Add & Subtract Problems</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="C5">
+                    <td>Properties of Number</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="C6">
+                    <td>Mult & Div Mentally</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="C7">
+                    <td>Mult & Div Written</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="C8">
+                    <td>Solve Problems</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="C9">
+                    <td>Order of Operations</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+
+                <!-- World 3: Fractions, Decimals & % (12 missions) -->
+                <tr class="world-row">
+                    <td colspan="7">🔢 Fractions, Decimals & %</td>
+                </tr>
+                <tr class="mission-row" data-cdr="F1">
+                    <td>Recognise & Count Fractions</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F2">
+                    <td>Equivalent Fractions</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F3">
+                    <td>Compare & Order</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F4">
+                    <td>Add & Subtract Fractions</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F5">
+                    <td>Multiply & Divide</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F6">
+                    <td>Fractions / Decimals Equiv.</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F7">
+                    <td>Rounding Decimals</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F8">
+                    <td>Compare Decimals</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F9">
+                    <td>Mult & Div Decimals</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F10">
+                    <td>Fraction & Decimal Problems</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F11">
+                    <td>FDP Equivalence</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="F12">
+                    <td>Percentage Problems</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+
+                <!-- World 4: Ratio & Proportion (4 missions) -->
+                <tr class="world-row">
+                    <td colspan="7">⚖️ Ratio & Proportion</td>
+                </tr>
+                <tr class="mission-row" data-cdr="R1">
+                    <td>Relative Sizes</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="R2">
+                    <td>Percentage Comparison</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="R3">
+                    <td>Scale Factors</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="R4">
+                    <td>Unequal Sharing</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <!-- World 5: Algebra (5 missions) -->
+                <tr class="world-row">
+                    <td colspan="7">🔤 Algebra</td>
+                </tr>
+                <tr class="mission-row" data-cdr="A1">
+                    <td>Missing Numbers</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="A2">
+                    <td>Formulae</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="A3">
+                    <td>Linear Sequences</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="A4">
+                    <td>Two Unknowns</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="A5">
+                    <td>Combinations of Variables</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+
+                <!-- World 6: Measurement (9 missions) -->
+                <tr class="world-row">
+                    <td colspan="7">📏 Measurement</td>
+                </tr>
+                <tr class="mission-row" data-cdr="M1">
+                    <td>Compare & Order</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="M2">
+                    <td>Estimate & Measure</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="M3">
+                    <td>Money</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="M4">
+                    <td>Time</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="M5">
+                    <td>Metric Conversion</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="M6">
+                    <td>Metric / Imperial</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="M7">
+                    <td>Perimeter & Area</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="M8">
+                    <td>Volume</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="M9">
+                    <td>Measurement Problems</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+
+                <!-- World 7: Shapes (5 missions) -->
+                <tr class="world-row">
+                    <td colspan="7">📐 Shapes</td>
+                </tr>
+                <tr class="mission-row" data-cdr="G1">
+                    <td>2D Shapes</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="G2">
+                    <td>3D Shapes</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="G3">
+                    <td>Lines & Angles</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="G4">
+                    <td>Draw & Construct</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="G5">
+                    <td>Circles</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+
+                <!-- World 8: Position & Direction (4 missions) -->
+                <tr class="world-row">
+                    <td colspan="7">🧭 Position & Direction</td>
+                </tr>
+                <tr class="mission-row" data-cdr="P2">
+                    <td>Position & Movement</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="P3">
+                    <td>Coordinates</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="P1">
+                    <td>Pattern & Symmetry</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+
+                <!-- World 9: Statistics (3 missions) -->
+                <tr class="world-row">
+                    <td colspan="7">📈 Statistics</td>
+                </tr>
+                <tr class="mission-row" data-cdr="S1">
+                    <td>Tables & Timetables</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="S2">
+                    <td>Charts & Graphs</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+                <tr class="mission-row" data-cdr="S3">
+                    <td>Mean Average</td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                    <td><div class="pundex-cell"><div class="pundex ignition"></div><div class="pundex charging"></div><div class="pundex ready"></div><div class="pundex power-up"></div></div></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+    <!-- Key Modal -->
+    <div class="key-modal-overlay" id="keyModalOverlay">
+        <div class="key-modal">
+            <h3>🔑 Key</h3>
+            <div class="legend">
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #f0f0f0; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center; color: #ccc; font-size: 10px;">—</div>
+                    <span>No Modules</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #e0e0e0; border: 1px dashed #bbb;"></div>
+                    <span>Not Started</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #e53935;"></div>
+                    <span>Ignition</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #ffb300;"></div>
+                    <span>Charging</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #43a047;"></div>
+                    <span>Ready</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #8e24aa;"></div>
+                    <span>Power Up</span>
+                </div>
+            </div>
+            <button class="key-modal-close" id="keyModalClose">Close</button>
+        </div>
+    </div>
+
+    <!-- User Header -->
+    <div id="userHeaderContainer" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+
+    <script src="user-auth.js"></script>
+    <script>
+        // Require login
+        const currentUser = UserAuth.requireLogin();
+        if (!currentUser) {
+            // Will redirect to login
+            throw new Error('Not logged in');
+        }
+
+        // Add user header
+        document.addEventListener('DOMContentLoaded', () => {
+            const headerContainer = document.getElementById('userHeaderContainer');
+            const userHeader = UserAuth.createUserHeader();
+            if (userHeader) {
+                headerContainer.appendChild(userHeader);
+                // Hide Progress button since we're already on the Progress page
+                const dropdownBtns = headerContainer.querySelectorAll('.user-header-dropdown-btn');
+                dropdownBtns.forEach(btn => {
+                    if (btn.textContent.includes('Progress')) {
+                        btn.style.display = 'none';
+                    }
+                });
+                
+                // Show and wire up Key button on mobile
+                if (window.innerWidth <= 767) {
+                    const keyBtn = headerContainer.querySelector('#menuKeyBtn');
+                    if (keyBtn) {
+                        keyBtn.style.display = 'flex';
+                        keyBtn.addEventListener('click', () => {
+                            document.getElementById('keyModalOverlay').classList.add('open');
+                            // Close the dropdown
+                            headerContainer.querySelector('.user-header-dropdown').classList.remove('open');
+                        });
+                    }
+                }
+            }
+            
+            // Key modal close handlers
+            document.getElementById('keyModalClose').addEventListener('click', () => {
+                document.getElementById('keyModalOverlay').classList.remove('open');
+            });
+            
+            document.getElementById('keyModalOverlay').addEventListener('click', (e) => {
+                if (e.target === e.currentTarget) {
+                    e.currentTarget.classList.remove('open');
+                }
+            });
+        });
+
+        // Pundex tier mapping
+        const pundexTiers = ['Beginning', 'Developing', 'Meeting', 'Exceeding'];
+        const pundexClasses = ['ignition', 'charging', 'ready', 'power-up'];
+
+        // Available levels per CDR (based on topic_rows.csv curriculum data)
+        // If a level is NOT in the array, it should be marked unavailable
+        const availableLevels = {
+            // Number & Place Value
+            'N1': [1,2,3,4,5],      // Counting - no Year 6
+            'N2': [1,2,3,4,5,6],    // Read, Write, Order & Compare - all years
+            'N3': [2,3,4,5,6],      // Place Value & Roman Numerals - no Year 1
+            'N4': [1,2,3,4,5,6],    // Identify, Represent, Estimate & Round - all years
+            'N5': [4,5,6],          // Negative Numbers - Years 4-6 only
+            'N6': [2,3,4,5,6],      // Number Problems - no Year 1
+            
+            // Calculations
+            'C1': [1,2,3,5],        // Add & Subtract Mentally - no Years 4, 6
+            'C2': [1,2,3,4,5],      // Add & Subtract Written - no Year 6
+            'C3': [2,3,4,5,6],      // Estimate & Inverse - no Year 1
+            'C4': [1,2,3,4,5,6],    // Add & Subtract Problems - all years
+            'C5': [5,6],            // Properties of Number - Years 5-6 only
+            'C6': [2,3,4,5,6],      // Mult & Div Mentally - no Year 1
+            'C7': [2,3,4,5,6],      // Mult & Div Written - no Year 1
+            'C8': [1,2,3,4,5,6],    // Solve Problems - all years
+            'C9': [2,6],            // Order of Operations - Years 2 and 6 only
+            
+            // Fractions, Decimals & Percentages
+            'F1': [1,2,3,4],        // Recognise & Count Fractions - Years 1-4
+            'F2': [2,3,4,5,6],      // Equivalent Fractions - no Year 1
+            'F3': [3,5,6],          // Compare & Order - Years 3, 5, 6
+            'F4': [3,4,5,6],        // Add & Subtract Fractions - Years 3-6
+            'F5': [5,6],            // Multiply & Divide - Years 5-6
+            'F6': [4,5,6],          // Fractions / Decimals Equiv. - Years 4-6
+            'F7': [4,5],            // Rounding Decimals - Years 4-5
+            'F8': [4,5],            // Compare Decimals - Years 4-5
+            'F9': [4,6],            // Mult & Div Decimals - Years 4 and 6
+            'F10': [3,4,5,6],       // Fraction & Decimal Problems - Years 3-6
+            'F11': [5,6],           // FDP Equivalence - Years 5-6
+            'F12': [5],             // Percentage Problems - Year 5 only
+            
+            // Ratio & Proportion
+            'R1': [6],              // Relative Sizes - Year 6 only
+            'R2': [6],              // Percentage Comparison - Year 6 only
+            'R3': [6],              // Scale Factors - Year 6 only
+            'R4': [6],              // Unequal Sharing - Year 6 only
+            
+            // Algebra
+            'A1': [6],              // Missing Numbers - Year 6 only
+            'A2': [6],              // Formulae - Year 6 only
+            'A3': [6],              // Linear Sequences - Year 6 only
+            'A4': [6],              // Two Unknowns - Year 6 only
+            'A5': [6],              // Combinations of Variables - Year 6 only
+            
+            // Measurement
+            'M1': [1,2,3,4],        // Compare & Order - Years 1-4
+            'M2': [1,2,3,4],        // Estimate & Measure - Years 1-4
+            'M3': [1,2],            // Money - Years 1-2
+            'M4': [1,2,3,4,5],      // Time - Years 1-5
+            'M5': [4,5,6],          // Metric Conversion - Years 4-6
+            'M6': [5,6],            // Metric / Imperial - Years 5-6
+            'M7': [3,4,5,6],        // Perimeter & Area - Years 3-6
+            'M8': [5,6],            // Volume - Years 5-6
+            'M9': [2,3,4,5,6],      // Measurement Problems - no Year 1
+            
+            // Geometry - Shapes
+            'G1': [1,2],            // 2D Shapes - Years 1-2
+            'G2': [2,3,4,5,6],      // 3D Shapes - no Year 1
+            'G3': [2,3,5,6],        // Lines & Angles - no Years 1, 4
+            'G4': [3,4,5,6],        // Draw & Construct - Years 3-6
+            'G5': [6],              // Circles - Year 6 only
+            
+            // Position & Direction
+            'P1': [2],              // Pattern & Symmetry - Year 2 only
+            'P2': [1,2,4,5,6],      // Position & Movement - no Year 3
+            'P3': [4,6],            // Coordinates - Years 4 and 6
+            
+            // Statistics
+            'S1': [2,3,4,5,6],      // Tables & Timetables - no Year 1
+            'S2': [2,3,4,5],        // Charts & Graphs - no Years 1, 6
+            'S3': [6]               // Mean Average - Year 6 only
+        };
+
+        // Get missions available at a specific level
+        function getMissionsAtLevel(level) {
+            return Object.keys(availableLevels).filter(cdr => availableLevels[cdr].includes(level));
+        }
+
+        // Check if all missions at a level are completed to Power Up
+        function isLevelFullyCompleted(level) {
+            const missionsAtLevel = getMissionsAtLevel(level);
+            
+            for (const cdr of missionsAtLevel) {
+                // Get mission name from the row
+                const row = document.querySelector(`.mission-row[data-cdr="${cdr}"]`);
+                if (!row) continue;
+                
+                const firstCell = row.querySelector('td:first-child');
+                const missionSpan = firstCell.querySelector('.mission-name');
+                const missionName = missionSpan ? missionSpan.textContent.trim() : firstCell.textContent.trim();
+                
+                // Check if this mission has Power Up completed at this level
+                const progress = UserAuth.getProgress(missionName, level);
+                const powerUpCompleted = progress?.pundexCompleted?.['Exceeding']?.completed;
+                
+                if (!powerUpCompleted) {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        // Get the first level a mission is available at
+        function getFirstAvailableLevel(cdr) {
+            const levels = availableLevels[cdr];
+            return levels ? Math.min(...levels) : 1;
+        }
+
+        // Mark unavailable levels on page load (curriculum + prerequisite locking)
+        function markUnavailableLevels() {
+            // First, check which levels are fully completed
+            const levelCompletion = {};
+            for (let level = 1; level <= 6; level++) {
+                levelCompletion[level] = isLevelFullyCompleted(level);
+            }
+            
+            document.querySelectorAll('.mission-row').forEach(row => {
+                const cdr = row.getAttribute('data-cdr');
+                if (!cdr || !availableLevels[cdr]) return;
+                
+                const available = availableLevels[cdr];
+                const firstLevel = getFirstAvailableLevel(cdr);
+                const cells = row.querySelectorAll('.pundex-cell');
+                
+                // Check if prerequisites are met for this mission
+                // A mission starting at level N requires all missions at level N-1 to be completed
+                let prerequisitesMet = true;
+                if (firstLevel > 1) {
+                    // Check if all levels below firstLevel are completed
+                    for (let prereqLevel = 1; prereqLevel < firstLevel; prereqLevel++) {
+                        if (!levelCompletion[prereqLevel]) {
+                            prerequisitesMet = false;
+                            break;
+                        }
+                    }
+                }
+                
+                cells.forEach((cell, index) => {
+                    const level = index + 1;
+                    
+                    // Mark as unavailable if:
+                    // 1. Not in curriculum for this mission, OR
+                    // 2. Prerequisites not met (for missions starting above level 1)
+                    if (!available.includes(level)) {
+                        cell.classList.add('unavailable');
+                    } else if (!prerequisitesMet) {
+                        cell.classList.add('unavailable', 'locked');
+                    }
+                });
+                
+                // If mission is locked, add visual indicator to the row
+                if (!prerequisitesMet) {
+                    row.classList.add('locked-mission');
+                }
+            });
+        }
+
+        // Call on page load
+        markUnavailableLevels();
+
+        // Apply user progress to the dashboard
+        function applyUserProgress() {
+            const currentUser = UserAuth.getCurrentUser();
+            console.log('applyUserProgress - currentUser:', currentUser);
+            console.log('applyUserProgress - user progress:', currentUser?.progress);
+            
+            document.querySelectorAll('.mission-row').forEach(row => {
+                const firstCell = row.querySelector('td:first-child');
+                // Get mission name - handle both plain text and wrapped in span
+                const missionSpan = firstCell.querySelector('.mission-name');
+                const missionName = missionSpan ? missionSpan.textContent.trim() : firstCell.textContent.trim();
+                const cells = row.querySelectorAll('.pundex-cell');
+
+                cells.forEach((cell, index) => {
+                    const level = index + 1;
+                    
+                    // Skip unavailable cells
+                    if (cell.classList.contains('unavailable')) return;
+
+                    // Get user progress for this mission/level
+                    const levelProgress = UserAuth.getProgress(missionName, level);
+                    if (levelProgress) {
+                        console.log(`Progress found for ${missionName} Level ${level}:`, levelProgress);
+                    }
+                    
+                    // Apply completed/partial status to each pundex
+                    const pundexElements = cell.querySelectorAll('.pundex');
+                    pundexElements.forEach((pundexEl, pundexIdx) => {
+                        const tierName = pundexTiers[pundexIdx];
+                        const pundexProgress = levelProgress?.pundexCompleted?.[tierName];
+                        const isCompleted = pundexProgress?.completed;
+                        const questionsAnswered = pundexProgress?.questionsAnswered || 0;
+                        const correctAnswers = pundexProgress?.correctAnswers || 0;
+                        const rollingScore = pundexProgress?.rollingScore ?? correctAnswers; // fallback for old data
+                        
+                        // Use overall score for first 10 questions, then rolling score
+                        const scoreToUse = questionsAnswered >= 10 ? rollingScore : correctAnswers;
+                        const hasPartialProgress = scoreToUse > 0 && !isCompleted;
+                        
+                        // Remove any existing status classes first
+                        pundexEl.classList.remove('completed', 'partial');
+                        pundexEl.style.removeProperty('--fill-percent');
+                        
+                        if (isCompleted) {
+                            pundexEl.classList.add('completed');
+                        } else if (hasPartialProgress) {
+                            pundexEl.classList.add('partial');
+                            // Fill proportional to score (7 needed to complete, 0-7 scale)
+                            const fillPercent = Math.min(100, (scoreToUse / 7) * 100);
+                            pundexEl.style.setProperty('--fill-percent', `${fillPercent}%`);
+                        }
+                    });
+                });
+            });
+        }
+
+        // Module data from CSV - mission/level -> array of module descriptions
+        const moduleData = {
+            "Counting": {
+                1: ["count to and across 100, forwards and backwards, beginning with 0 or 1, or from any given number", "count, read and write numbers to 100 in numerals; count in multiples of twos, fives and tens", "given a number, identify one more and one less"],
+                2: ["count in steps of 2, 3, and 5 from 0, and in tens from any number, forward or backward"],
+                3: ["count from 0 in multiples of 4, 8, 50 and 100", "find 10 or 100 more or less than a given number"],
+                4: ["count backwards through zero to include negative numbers", "count in multiples of 6, 7, 9, 25 and 1000", "find 1000 more or less than a given number"],
+                5: ["interpret negative numbers in context, count forwards and backwards with positive and negative whole numbers, including through zero", "count forwards or backwards in steps of powers of 10 for any given number up to 1000000"],
+                6: ["use negative numbers in context, and calculate intervals across zero"]
+            },
+            "Comparing Numbers": {
+                1: ["use the language of: equal to, more than, less than (fewer), most, least"],
+                2: ["compare and order numbers from 0 up to 100; use <, > and = signs"],
+                3: ["compare and order numbers up to 1000"],
+                4: ["order and compare numbers beyond 1000", "compare numbers with the same number of decimal places up to two decimal places"],
+                5: ["read, write, order and compare numbers to at least 1 000 000 and determine the value of each digit"],
+                6: ["read, write, order and compare numbers up to 10 000 000 and determine the value of each digit"]
+            },
+            "Identifying, Representing & Estimating": {
+                1: ["Identify and represent numbers to 20 using objects and pictorial representations, and reason about their location on a number line."],
+                2: ["Identify, represent, and estimate two-digit numbers using different representations, and reason about their location on a 0-100 number line."],
+                3: ["Identify, represent, and estimate three-digit numbers using different representations, and reason about their location on a 0-1000 number line."],
+                4: ["Identify, represent, and estimate four-digit numbers using different representations, and reason about their location in the linear number system."]
+            },
+            "Reading and Writing Numbers": {
+                1: ["read and write numbers from 1 to 20 in numerals and words."],
+                2: ["read and write numbers to at least 100 in numerals and in words"],
+                3: ["read and write numbers up to 1000 in numerals and in words", "tell and write the time from an analogue clock, including using Roman numerals from I to XII"],
+                4: ["read Roman numerals to 100 (I to C) and know that over time, the numeral system changed to include the concept of zero and place value."],
+                5: ["read, write, order and compare numbers to at least 1 000 000 and determine the value of each digit", "read Roman numerals to 1000 (M) and recognise years written in Roman numerals."],
+                6: ["read, write, order and compare numbers up to 10 000 000 and determine the value of each digit"]
+            },
+            "Place Value": {
+                2: ["recognise the place value of each digit in a two-digit number (tens, ones)"],
+                3: ["recognise the place value of each digit in a three-digit number (hundreds, tens, ones)"],
+                4: ["recognise the place value of each digit in a four-digit number (thousands, hundreds, tens, and ones)", "find the effect of dividing a one- or two-digit number by 10 and 100"],
+                5: ["read, write, order and compare numbers to at least 1 000 000 and determine the value of each digit", "recognise and use thousandths and relate them to tenths, hundredths and decimal equivalents"],
+                6: ["read, write, order and compare numbers up to 10 000 000 and determine the value of each digit", "identify the value of each digit to three decimal places and multiply and divide numbers by 10, 100 and 1000"]
+            },
+            "Rounding": {
+                4: ["round any number to the nearest 10, 100 or 1000", "round decimals with one decimal place to the nearest whole number"],
+                5: ["round any number up to 1 000 000 to the nearest 10, 100, 1000, 10 000 and 100 000", "round decimals with two decimal places to the nearest whole number and to one decimal place"],
+                6: ["round any whole number to a required degree of accuracy", "solve problems which require answers to be rounded to specified degrees of accuracy"]
+            },
+            "Problem Solving (PV)": {
+                2: ["use place value and number facts to solve problems"],
+                3: ["solve number problems and practical problems involving these ideas."],
+                4: ["solve number problems and practical problems that involve all of the above and with increasingly large positive numbers"],
+                5: ["solve number problems and practical problems that involve all of the above"],
+                6: ["solve number and practical problems that involve all of the above"]
+            },
+            "Number Bonds": {
+                1: ["represent and use number bonds and related subtraction facts within 20"],
+                2: ["recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100"]
+            },
+            "Mental Calculation (A&S)": {
+                1: ["add and subtract one-digit and two-digit numbers to 20, including zero", "read, write and interpret mathematical statements involving addition (+), subtraction (-) and equals (=) signs"],
+                2: ["add and subtract numbers using concrete objects, pictorial representations, and mentally", "show that addition of two numbers can be done in any order (commutative)"],
+                3: ["add and subtract numbers mentally, including: a three-digit number and ones, tens, hundreds"],
+                4: ["add and subtract numbers mentally with increasingly large numbers"],
+                5: ["add and subtract whole numbers with more than 4 digits, including using formal written methods"],
+                6: ["perform mental calculations, including with mixed operations and large numbers", "use their knowledge of the order of operations to carry out calculations"]
+            },
+            "Written Methods": {
+                1: ["read, write and interpret mathematical statements involving addition (+), subtraction (-) and equals (=) signs"],
+                3: ["add and subtract numbers with up to three digits, using formal written methods of columnar addition and subtraction"],
+                4: ["add and subtract numbers with up to 4 digits using the formal written methods of columnar addition and subtraction"],
+                5: ["add and subtract whole numbers with more than 4 digits, including using formal written methods (columnar addition and subtraction)"]
+            },
+            "Inverse Operations & Checking (A&S)": {
+                2: ["recognise and use the inverse relationship between addition and subtraction and use this to check calculations"],
+                3: ["estimate the answer to a calculation and use inverse operations to check answers"],
+                4: ["estimate and use inverse operations to check answers to a calculation"],
+                5: ["use rounding to check answers to calculations and determine levels of accuracy"],
+                6: ["use estimation to check answers to calculations and determine levels of accuracy."]
+            },
+            "Problem Solving (A&S)": {
+                1: ["solve one-step problems that involve addition and subtraction, using concrete objects and pictorial representations"],
+                2: ["solve problems with addition and subtraction using concrete objects and pictorial representations", "solve simple problems involving addition and subtraction of money"],
+                3: ["solve problems, including missing number problems, using number facts, place value, and more complex addition and subtraction"],
+                4: ["solve addition and subtraction two-step problems in contexts"],
+                5: ["solve addition and subtraction multi-step problems in contexts"],
+                6: ["solve addition and subtraction multi-step problems in contexts", "solve problems involving addition, subtraction, multiplication and division"]
+            },
+            "Multiplication & Division Facts": {
+                1: ["count in multiples of twos, fives and tens"],
+                2: ["count in steps of 2, 3, and 5 from 0", "recall and use multiplication and division facts for the 2, 5 and 10 multiplication tables"],
+                3: ["count from 0 in multiples of 4, 8, 50 and 100", "recall and use multiplication and division facts for the 3, 4 and 8 multiplication tables"],
+                4: ["count in multiples of 6, 7, 9, 25 and 1000", "recall multiplication and division facts for multiplication tables up to 12 x 12"],
+                5: ["count forwards or backwards in steps of powers of 10 for any given number up to 1 000 000"]
+            },
+            "Mental Calculation (M&D)": {
+                2: ["show that multiplication of two numbers can be done in any order (commutative)"],
+                3: ["write and calculate mathematical statements for multiplication and division using the multiplication tables"],
+                4: ["use place value, known and derived facts to multiply and divide mentally", "recognise and use factor pairs and commutativity"],
+                5: ["multiply and divide numbers mentally drawing upon known facts", "multiply and divide whole numbers by 10, 100 and 1000"],
+                6: ["perform mental calculations, including with mixed operations and large numbers", "associate a fraction with division and calculate decimal fraction equivalents"]
+            },
+            "Written Calculation (M&D)": {
+                2: ["calculate mathematical statements for multiplication and division within the multiplication tables"],
+                3: ["write and calculate mathematical statements for multiplication and division using formal written methods"],
+                4: ["multiply two-digit and three-digit numbers by a one-digit number using formal written layout"],
+                5: ["multiply numbers up to 4 digits by a one- or two-digit number using formal written method", "divide numbers up to 4 digits by a one-digit number using short division"],
+                6: ["multiply multi-digit numbers up to 4 digits by a two-digit whole number using long multiplication", "divide numbers up to 4-digits by a two-digit whole number using long division", "use written division methods where the answer has up to two decimal places"]
+            },
+            "Properties of Numbers": {
+                4: ["recognise and use factor pairs and commutativity in mental calculations"],
+                5: ["identify multiples and factors, including finding all factor pairs", "know and use the vocabulary of prime numbers, prime factors and composite numbers", "establish whether a number up to 100 is prime", "recognise and use square numbers and cube numbers"],
+                6: ["identify common factors, common multiples and prime numbers", "use common factors to simplify fractions", "calculate, estimate and compare volume of cubes and cuboids"]
+            },
+            "Order of Operations": {
+                6: ["use their knowledge of the order of operations to carry out calculations involving the four operations"]
+            },
+            "Inverse Operations & Checking": {
+                3: ["estimate the answer to a calculation and use inverse operations to check answers"],
+                4: ["estimate and use inverse operations to check answers to a calculation"],
+                5: ["use rounding to check answers to calculations and determine levels of accuracy"],
+                6: ["use estimation to check answers to calculations and determine levels of accuracy"]
+            },
+            "Problem Solving (M&D)": {
+                1: ["solve one-step problems involving multiplication and division, using concrete objects and arrays"],
+                2: ["solve problems involving multiplication and division, using materials, arrays, repeated addition"],
+                3: ["solve problems, including missing number problems, involving multiplication and division"],
+                4: ["solve problems involving multiplying and adding, including using the distributive law"],
+                5: ["solve problems involving multiplication and division including factors, multiples, squares and cubes", "solve problems involving addition, subtraction, multiplication and division", "solve problems involving scaling by simple fractions"],
+                6: ["solve problems involving addition, subtraction, multiplication and division", "solve problems involving similar shapes where the scale factor is known"]
+            },
+            "Counting in Fractional Steps": {
+                2: ["count in fractions up to 10, starting from any number and using the 1/2 and 2/4 equivalence"],
+                3: ["count up and down in tenths"],
+                4: ["count up and down in hundredths"]
+            },
+            "Recognising Fractions": {
+                1: ["recognise, find and name a half as one of two equal parts", "recognise, find and name a quarter as one of four equal parts"],
+                2: ["recognise, find, name and write fractions 1/3, 1/4, 2/4 and 3/4 of a length, shape, set of objects"],
+                3: ["recognise, find and write fractions of a discrete set of objects", "recognise that tenths arise from dividing an object into 10 equal parts", "recognise and use fractions as numbers"],
+                4: ["recognise that hundredths arise when dividing an object by one hundred"],
+                5: ["recognise and use thousandths and relate them to tenths, hundredths and decimal equivalents"]
+            },
+            "Comparing Fractions": {
+                3: ["compare and order unit fractions, and fractions with the same denominators"],
+                5: ["compare and order fractions whose denominators are all multiples of the same number"],
+                6: ["compare and order fractions, including fractions >1"]
+            },
+            "Comparing Decimals": {
+                4: ["compare numbers with the same number of decimal places up to two decimal places"],
+                5: ["read, write, order and compare numbers with up to three decimal places"],
+                6: ["identify the value of each digit in numbers given to three decimal places"]
+            },
+            "Rounding Including Decimals": {
+                4: ["round decimals with one decimal place to the nearest whole number"],
+                5: ["round decimals with two decimal places to the nearest whole number and to one decimal place"],
+                6: ["solve problems which require answers to be rounded to specified degrees of accuracy"]
+            },
+            "Equivalence (FDP)": {
+                2: ["write simple fractions e.g. 1/2 of 6 = 3 and recognise the equivalence of 2/4 and 1/2"],
+                3: ["recognise and show, using diagrams, equivalent fractions with small denominators"],
+                4: ["recognise and show, using diagrams, families of common equivalent fractions", "recognise and write decimal equivalents of any number of tenths or hundredths", "recognise and write decimal equivalents to 1/4; 1/2; 3/4"],
+                5: ["identify, name and write equivalent fractions of a given fraction", "read and write decimal numbers as fractions", "recognise and use thousandths", "recognise the per cent symbol (%) and understand that per cent relates to number of parts per hundred"],
+                6: ["use common factors to simplify fractions; use common multiples to express fractions in the same denomination", "associate a fraction with division and calculate decimal fraction equivalents", "recall and use equivalences between simple fractions, decimals and percentages"]
+            },
+            "Add & Subtract Fractions": {
+                3: ["add and subtract fractions with the same denominator within one whole"],
+                4: ["add and subtract fractions with the same denominator"],
+                5: ["add and subtract fractions with the same denominator and multiples of the same number", "recognise mixed numbers and improper fractions and convert from one form to the other"],
+                6: ["add and subtract fractions with different denominators and mixed numbers, using the concept of equivalent fractions"]
+            },
+            "Multiply & Divide Fractions": {
+                5: ["multiply proper fractions and mixed numbers by whole numbers, supported by materials and diagrams"],
+                6: ["multiply simple pairs of proper fractions, writing the answer in its simplest form", "multiply one-digit numbers with up to two decimal places by whole numbers", "divide proper fractions by whole numbers"]
+            },
+            "Multiply & Divide Decimals": {
+                4: ["find the effect of dividing a one- or two-digit number by 10 and 100, identifying the value of the digits"],
+                6: ["multiply one-digit numbers with up to two decimal places by whole numbers", "multiply and divide numbers by 10, 100 and 1000 where the answers are up to three decimal places", "identify the value of each digit to three decimal places", "associate a fraction with division and calculate decimal fraction equivalents", "use written division methods in cases where the answer has up to two decimal places"]
+            },
+            "Problem Solving (FDP)": {
+                3: ["solve problems that involve all of the above"],
+                4: ["solve problems involving increasingly harder fractions to calculate quantities", "solve simple measure and money problems involving fractions and decimals"],
+                5: ["solve problems involving numbers up to three decimal places", "solve problems which require knowing percentage and decimal equivalents"]
+            },
+            "Equations": {
+                1: ["solve one-step problems using concrete objects and pictorial representations", "represent and use number bonds and related subtraction facts within 20"],
+                2: ["solve missing number problems", "recall and use addition and subtraction facts to 20 fluently, and derive and use related facts up to 100"],
+                3: ["solve problems, including missing number problems", "solve problems involving multiplication and division, including integer scaling"],
+                6: ["find pairs of numbers that satisfy number sentences involving two unknowns", "enumerate all possibilities of combinations of two variables"]
+            },
+            "Formulae": {
+                6: ["use simple formulae", "generate and describe linear number sequences", "express missing number problems algebraically"]
+            },
+            "Sequences": {
+                2: ["order and arrange combinations of mathematical objects in patterns and sequences"]
+            },
+            "Comparing and Estimating": {
+                1: ["compare, describe and solve practical problems for: lengths and heights, mass/weight, capacity and volume, time", "sequence events in chronological order using language"],
+                2: ["compare and order lengths, mass, volume/capacity and record the results using >, < and =", "compare and sequence intervals of time"],
+                3: ["compare durations of events", "estimate and read time with increasing accuracy to the nearest minute"],
+                4: ["estimate, compare and calculate different measures, including money in pounds and pence"],
+                5: ["calculate and compare the area of squares and rectangles", "estimate volume and capacity"]
+            },
+            "Measuring and Calculating": {
+                1: ["measure and begin to record: lengths and heights, mass/weight, capacity and volume, time", "recognise and know the value of different denominations of coins and notes"],
+                2: ["choose and use appropriate standard units to estimate and measure", "recognise and use symbols for pounds (£) and pence (p)", "find different combinations of coins that equal the same amounts of money", "solve simple problems involving addition and subtraction of money"],
+                3: ["measure, compare, add and subtract: lengths, mass, volume/capacity", "measure the perimeter of simple 2-D shapes", "add and subtract amounts of money to give change"],
+                4: ["estimate, compare and calculate different measures", "measure and calculate the perimeter of a rectilinear figure", "find the area of rectilinear shapes by counting squares"],
+                5: ["use all four operations to solve problems involving measure using decimal notation", "measure and calculate the perimeter of composite rectilinear shapes", "calculate and compare the area of squares and rectangles", "recognise and use square numbers and cube numbers"]
+            },
+            "Telling the Time": {
+                1: ["tell the time to the hour and half past the hour and draw the hands on a clock face"],
+                2: ["tell and write the time to five minutes, including quarter past/to the hour"],
+                3: ["tell and write the time from an analogue clock, including using Roman numerals from I to XII, and 12-hour and 24-hour clocks"],
+                4: ["read, write and convert time between analogue and digital 12 and 24-hour clocks"]
+            },
+            "Converting": {
+                3: ["know the number of seconds in a minute and the number of days in each month, year and leap year"],
+                4: ["convert between different units of measure", "read, write and convert time between analogue and digital 12 and 24-hour clocks"],
+                5: ["convert between different units of metric measure", "understand and use approximate equivalences between metric units and common imperial units"],
+                6: ["solve problems involving the calculation and conversion of units of measure, using decimal notation up to three decimal places"]
+            },
+            "Identifying Shapes & Properties": {
+                2: ["identify and describe the properties of 2-D shapes", "identify and describe the properties of 3-D shapes", "identify 2-D shapes on the surface of 3-D shapes"],
+                5: ["identify 3-D shapes from 2-D representations"],
+                6: ["recognise, describe and build simple 3-D shapes, including making nets", "illustrate and name parts of circles, including radius, diameter and circumference"]
+            },
+            "Drawing and Constructing": {
+                3: ["draw 2-D shapes and make 3-D shapes using modelling materials"],
+                4: ["complete a simple symmetric figure with respect to a specific line of symmetry"],
+                5: ["draw given angles, and measure them in degrees"],
+                6: ["draw 2-D shapes using given dimensions and angles", "recognise, describe and build simple 3-D shapes, including making nets"]
+            },
+            "Comparing and Classifying": {
+                2: ["compare and sort common 2-D and 3-D shapes and everyday objects"],
+                4: ["compare and classify geometric shapes, including quadrilaterals and triangles, based on their properties and sizes"],
+                5: ["use the properties of rectangles to deduce related facts and find missing lengths and angles", "distinguish between regular and irregular polygons"],
+                6: ["compare and classify geometric shapes based on their properties and sizes and find unknown angles"]
+            },
+            "Angles": {
+                3: ["identify right angles, recognise that two right angles make a half-turn", "identify horizontal and vertical lines and pairs of perpendicular and parallel lines"],
+                5: ["identify: angles at a point and one whole turn (total 360°), angles at a point on a straight line (total 180°), other multiples of 90°"],
+                6: ["find unknown angles in any triangles, quadrilaterals, and regular polygons", "recognise angles where they meet at a point, are on a straight line, or are vertically opposite"]
+            },
+            "Position, Direction & Movement": {
+                4: ["describe movements between positions as translations", "plot specified points and draw sides to complete a given polygon"],
+                6: ["describe positions on the full coordinate grid", "draw and translate simple shapes on the coordinate plane, and reflect them in the axes"]
+            },
+            "Pattern": {
+                2: ["order and arrange combinations of mathematical objects in patterns and sequences"]
+            },
+            "Ratio and Proportion": {
+                6: ["solve problems involving the relative sizes of two quantities", "solve problems involving the calculation of percentages", "solve problems involving similar shapes where the scale factor is known", "solve problems involving unequal sharing and grouping"]
+            },
+            "Interpreting, Constructing & Presenting Data": {
+                2: ["interpret and construct simple pictograms, tally charts, block diagrams and simple tables", "ask and answer simple questions by counting the number of objects", "ask and answer questions about totalling and comparing categorical data"],
+                3: ["interpret and present data using bar charts, pictograms and tables"],
+                4: ["interpret and present discrete and continuous data using appropriate graphical methods"],
+                5: ["complete, read and interpret information in tables, including timetables"],
+                6: ["interpret and construct pie charts and line graphs and use these to solve problems"]
+            },
+            "Solving Problems": {
+                3: ["solve one-step and two-step questions using information presented in scaled bar charts and pictograms and tables"],
+                4: ["solve comparison, sum and difference problems using information presented in bar charts, pictograms, tables and other graphs"],
+                5: ["solve comparison, sum and difference problems using information presented in a line graph"],
+                6: ["calculate and interpret the mean as an average"]
+            }
+        };
+
+        // Apply user progress FIRST so the level calculation sees completed pundexes
+        applyUserProgress();
+        
+        // STEP 1: Find the max level to display based on progress across all missions
+        // We want the HIGHEST level that contains a "next available pundex" for ANY mission
+        // But we need to find each mission's "current frontier" first
+        
+        let maxDisplayLevel = 1; // Always show at least Level 1
+        
+        document.querySelectorAll('.mission-row').forEach(row => {
+            const cells = row.querySelectorAll('.pundex-cell');
+            let missionNextLevel = null;
+            
+            // Find the first level where this mission has work to do
+            for (let index = 0; index < cells.length; index++) {
+                const cell = cells[index];
+                const level = index + 1;
+                
+                if (!cell.classList.contains('unavailable')) {
+                    const completedCount = cell.querySelectorAll('.pundex.completed').length;
+                    const totalPundex = cell.querySelectorAll('.pundex').length;
+                    
+                    if (completedCount > 0 && completedCount < totalPundex) {
+                        // In progress - this level has the next pundex
+                        missionNextLevel = level;
+                        break;
+                    } else if (completedCount === totalPundex && totalPundex > 0) {
+                        // Complete - keep looking for next available level
+                        continue;
+                    } else if (completedCount === 0) {
+                        // Not started - this level has the next pundex
+                        missionNextLevel = level;
+                        break;
+                    }
+                }
+            }
+            
+            // Only count missions that have started OR are at Level 1
+            // Don't count missions that haven't been touched and start at higher levels
+            if (missionNextLevel !== null) {
+                // Check if this mission has ANY progress
+                let hasAnyProgress = false;
+                cells.forEach(cell => {
+                    if (cell.querySelectorAll('.pundex.completed').length > 0) {
+                        hasAnyProgress = true;
+                    }
+                });
+                
+                // Only include this mission's next level if:
+                // 1. The mission has some progress, OR
+                // 2. The mission's next level is within current maxDisplayLevel
+                if (hasAnyProgress && missionNextLevel > maxDisplayLevel) {
+                    maxDisplayLevel = missionNextLevel;
+                }
+            }
+        });
+
+        console.log('Max display level:', maxDisplayLevel);
+        // alert('Dynamic dashboard - Max level to show: ' + maxDisplayLevel);
+
+        // STEP 2: Hide columns beyond maxDisplayLevel
+        // Update column headers
+        const colHeaders = document.querySelectorAll('.col-header');
+        colHeaders.forEach((header, index) => {
+            if (index > maxDisplayLevel) { // index 0 is mission column, 1-6 are levels
+                header.style.display = 'none';
+            }
+        });
+
+        // Update colgroup - set explicit widths
+        const cols = document.querySelectorAll('colgroup col');
+        cols.forEach((col, index) => {
+            if (index > maxDisplayLevel) {
+                col.style.display = 'none';
+            } else if (index === 0) {
+                col.style.width = '340px';
+            } else {
+                col.style.width = '120px';
+            }
+        });
+
+        // Update hidden thead
+        const thCells = document.querySelectorAll('.hidden-thead th');
+        thCells.forEach((th, index) => {
+            if (index > maxDisplayLevel) {
+                th.style.display = 'none';
+            }
+        });
+
+        // STEP 3: Process each row - hide cells beyond maxDisplayLevel and determine visibility
+        document.querySelectorAll('tbody tr').forEach(row => {
+            const cells = row.querySelectorAll('td');
+            
+            // For world rows, update colspan
+            if (row.classList.contains('world-row')) {
+                const td = row.querySelector('td');
+                td.setAttribute('colspan', maxDisplayLevel + 1);
+                return;
+            }
+            
+            // For mission rows, hide extra cells and check if row should be visible
+            if (row.classList.contains('mission-row')) {
+                let hasVisibleModules = false;
+                
+                cells.forEach((cell, index) => {
+                    if (index === 0) return; // Skip mission name column
+                    
+                    if (index > maxDisplayLevel) {
+                        cell.style.display = 'none';
+                    } else {
+                        // Check if this level has modules (not unavailable)
+                        const pundexCell = cell.querySelector('.pundex-cell');
+                        if (pundexCell && !pundexCell.classList.contains('unavailable')) {
+                            hasVisibleModules = true;
+                        }
+                    }
+                });
+                
+                // Hide mission row if it has no modules in displayed levels
+                if (!hasVisibleModules) {
+                    row.style.display = 'none';
+                }
+            }
+        });
+
+        // STEP 4: Hide world rows if all their missions are hidden
+        document.querySelectorAll('.world-row').forEach(worldRow => {
+            let nextRow = worldRow.nextElementSibling;
+            let hasVisibleMission = false;
+            
+            while (nextRow && !nextRow.classList.contains('world-row')) {
+                if (nextRow.classList.contains('mission-row') && nextRow.style.display !== 'none') {
+                    hasVisibleMission = true;
+                    break;
+                }
+                nextRow = nextRow.nextElementSibling;
+            }
+            
+            if (!hasVisibleMission) {
+                worldRow.style.display = 'none';
+            }
+        });
+
+        // STEP 6: Apply tooltips to all pundex cells and identify current level
+        document.querySelectorAll('.mission-row').forEach(row => {
+            if (row.style.display === 'none') return; // Skip hidden rows
+            
+            const firstCell = row.querySelector('td:first-child');
+            const missionName = firstCell.textContent.trim();
+            const cells = row.querySelectorAll('.pundex-cell');
+            let foundCurrentLevel = false;
+            let currentLevelNum = null;
+            
+            cells.forEach((cell, index) => {
+                const level = index + 1;
+                if (level > maxDisplayLevel) return; // Skip hidden levels
+                
+                const modules = moduleData[missionName] && moduleData[missionName][level];
+                
+                // Add tooltip if modules exist and cell is not unavailable
+                if (modules && modules.length > 0 && !cell.classList.contains('unavailable')) {
+                    const tooltipText = modules.map((m, i) => `• ${m}`).join('\n');
+                    cell.setAttribute('data-tooltip', tooltipText);
+                }
+                
+                // Determine if this is the current level (in progress)
+                if (!foundCurrentLevel && !cell.classList.contains('unavailable')) {
+                    const completedCount = cell.querySelectorAll('.pundex.completed').length;
+                    const totalPundex = cell.querySelectorAll('.pundex').length;
+                    
+                    if (completedCount > 0 && completedCount < totalPundex) {
+                        cell.classList.add('current-level');
+                        foundCurrentLevel = true;
+                        currentLevelNum = level;
+                    } else if (completedCount === totalPundex && totalPundex > 0) {
+                        // Complete, check next
+                    } else if (completedCount === 0) {
+                        cell.classList.add('current-level');
+                        foundCurrentLevel = true;
+                        currentLevelNum = level;
+                    }
+                }
+                
+                cell.dataset.mission = missionName;
+                cell.dataset.level = level;
+            });
+
+            // Get CDR code from the mission row
+            const cdrCode = row.dataset.cdr || '';
+            
+            // Wrap mission name in div with span and launch button
+            firstCell.innerHTML = `<div><span class="mission-name">${missionName}</span><button class="launch-btn" data-mission="${missionName}" data-cdr="${cdrCode}" data-level="${currentLevelNum || 1}">Launch</button></div>`;
+        });
+
+        // Add click handler for current-level cells (desktop only)
+        const isDesktop = window.innerWidth > 1024;
+        const isMobile = window.innerWidth <= 767;
+        
+        if (isDesktop) {
+            document.querySelectorAll('.pundex-cell.current-level').forEach(cell => {
+                cell.addEventListener('click', () => {
+                    const missionRow = cell.closest('.mission-row');
+                    const cdr = missionRow ? missionRow.dataset.cdr : '';
+                    const mission = cell.dataset.mission;
+                    const level = cell.dataset.level;
+                    window.location.href = `Q_Server.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
+                });
+            });
+        }
+        
+        // Mobile: Update thead labels and show only levels up to maxDisplayLevel (same as desktop/tablet)
+        if (isMobile) {
+            const allMissionRows = document.querySelectorAll('.mission-row');
+            
+            // Use the same maxDisplayLevel that was calculated for desktop/tablet
+            // Mobile shows up to 3 levels, starting from level 1 up to maxDisplayLevel
+            const levelsToShow = Math.min(maxDisplayLevel, 3); // Show at most 3 levels on mobile
+            
+            console.log('Mobile view: maxDisplayLevel =', maxDisplayLevel, ', levelsToShow =', levelsToShow);
+            
+            // Update mobile header labels to show only the levels we're displaying
+            const mobileHeader = document.getElementById('mobileTableHeader');
+            const levelHeaders = mobileHeader.querySelectorAll('.level-header');
+            
+            // Fixed column width ratios for mobile:
+            // 1 level: 50:50 (mission:level)
+            // 2 levels: 40:30:30
+            // 3 levels: 40:20:20:20
+            let missionColWidth, levelColWidth;
+            if (levelsToShow === 1) {
+                missionColWidth = 50;
+                levelColWidth = 50;
+            } else if (levelsToShow === 2) {
+                missionColWidth = 40;
+                levelColWidth = 30;
+            } else {
+                missionColWidth = 40;
+                levelColWidth = 20;
+            }
+            
+            // Update mobile header widths
+            const missionHeader = mobileHeader.querySelector('.mission-col');
+            if (missionHeader) {
+                missionHeader.style.width = `${missionColWidth}%`;
+            }
+            
+            levelHeaders.forEach((header, index) => {
+                const levelNum = index + 1;
+                if (levelNum <= levelsToShow) {
+                    header.textContent = `L${levelNum}`;
+                    header.dataset.level = levelNum;
+                    header.style.display = 'table-cell';
+                    header.style.width = `${levelColWidth}%`;
+                } else {
+                    header.style.display = 'none';
+                }
+            });
+            
+            // Show/hide appropriate level columns in table and set widths
+            allMissionRows.forEach(row => {
+                // Set mission column width
+                const missionCell = row.querySelector('td:first-child');
+                if (missionCell) {
+                    missionCell.style.width = `${missionColWidth}%`;
+                }
+                
+                for (let level = 1; level <= 6; level++) {
+                    const cell = row.querySelector(`td:nth-child(${level + 1})`);
+                    if (cell) {
+                        if (level <= levelsToShow) {
+                            cell.classList.add('mobile-show-level');
+                            cell.classList.remove('mobile-hide-level');
+                            cell.style.width = `${levelColWidth}%`;
+                        } else {
+                            cell.classList.add('mobile-hide-level');
+                            cell.classList.remove('mobile-show-level');
+                        }
+                    }
+                }
+            });
+            
+            // Also update world rows
+            document.querySelectorAll('.world-row').forEach(row => {
+                // Set mission column width
+                const missionCell = row.querySelector('td:first-child');
+                if (missionCell) {
+                    missionCell.style.width = `${missionColWidth}%`;
+                }
+                
+                for (let level = 1; level <= 6; level++) {
+                    const cell = row.querySelector(`td:nth-child(${level + 1})`);
+                    if (cell) {
+                        if (level <= levelsToShow) {
+                            cell.classList.add('mobile-show-level');
+                            cell.classList.remove('mobile-hide-level');
+                            cell.style.width = `${levelColWidth}%`;
+                        } else {
+                            cell.classList.add('mobile-hide-level');
+                            cell.classList.remove('mobile-show-level');
+                        }
+                    }
+                }
+            });
+        }
+
+        // Make mission cells clickable on all views (launch buttons are now hidden)
+        document.querySelectorAll('.mission-row td:first-child').forEach(cell => {
+            cell.addEventListener('click', (e) => {
+                const btn = cell.querySelector('.launch-btn');
+                if (btn) {
+                    const cdr = btn.dataset.cdr;
+                    const mission = btn.dataset.mission;
+                    const level = btn.dataset.level;
+                    window.location.href = `Q_Server.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
+                }
+            });
+        });
+
+        // Create tooltip element
+        const tooltip = document.createElement('div');
+        tooltip.className = 'tooltip';
+        tooltip.style.display = 'none';
+        document.body.appendChild(tooltip);
+        
+        let activeTooltipCell = null;
+        const isTouchDevice = window.innerWidth <= 1024; // Mobile and tablet
+        
+        function showTooltip(cell) {
+            const tooltipText = cell.getAttribute('data-tooltip');
+            if (!tooltipText) return;
+
+            tooltip.textContent = tooltipText;
+            tooltip.style.display = 'block';
+
+            const cellRect = cell.getBoundingClientRect();
+            const tooltipRect = tooltip.getBoundingClientRect();
+            
+            // Calculate horizontal position (centered on cell)
+            let left = cellRect.left + (cellRect.width / 2) - (tooltipRect.width / 2);
+            // Keep tooltip within viewport horizontally
+            if (left < 10) left = 10;
+            if (left + tooltipRect.width > window.innerWidth - 10) {
+                left = window.innerWidth - tooltipRect.width - 10;
+            }
+            tooltip.style.left = left + 'px';
+
+            // Check if there's enough space above
+            const spaceAbove = cellRect.top;
+
+            if (spaceAbove >= tooltipRect.height + 15) {
+                // Show above
+                tooltip.style.top = (cellRect.top - tooltipRect.height - 8) + 'px';
+                tooltip.className = 'tooltip above';
+            } else {
+                // Show below
+                tooltip.style.top = (cellRect.bottom + 8) + 'px';
+                tooltip.className = 'tooltip below';
+            }
+            
+            activeTooltipCell = cell;
+        }
+        
+        function hideTooltip() {
+            tooltip.style.display = 'none';
+            activeTooltipCell = null;
+        }
+
+        // Add handlers for tooltips
+        document.querySelectorAll('.pundex-cell[data-tooltip]').forEach(cell => {
+            // Desktop: hover behavior
+            cell.addEventListener('mouseenter', (e) => {
+                if (!isTouchDevice) {
+                    showTooltip(cell);
+                }
+            });
+
+            cell.addEventListener('mouseleave', () => {
+                if (!isTouchDevice) {
+                    hideTooltip();
+                }
+            });
+            
+            // Mobile/Tablet: tap to show, tap again to close
+            cell.addEventListener('click', (e) => {
+                if (isTouchDevice) {
+                    e.stopPropagation();
+                    if (activeTooltipCell === cell) {
+                        // Tap on same cell - hide tooltip
+                        hideTooltip();
+                    } else {
+                        // Tap on different cell - show tooltip
+                        showTooltip(cell);
+                    }
+                }
+            });
+        });
+        
+        // Close tooltip when tapping elsewhere on mobile/tablet
+        if (isTouchDevice) {
+            document.addEventListener('click', (e) => {
+                if (activeTooltipCell && !e.target.closest('.pundex-cell') && !e.target.closest('.tooltip')) {
+                    hideTooltip();
+                }
+            });
+            
+            // Also close when tapping the tooltip itself
+            tooltip.addEventListener('click', () => {
+                hideTooltip();
+            });
+        }
+
+        // Sticky world indicator logic
+        const stickyIndicator = document.getElementById('stickyWorldIndicator');
+        const stickyHeader = document.querySelector('.sticky-header');
+        const table = document.querySelector('table');
+        
+        function updateStickyWorld() {
+            const headerBottom = stickyHeader.getBoundingClientRect().bottom;
+            const tableRect = table.getBoundingClientRect();
+            let currentWorld = null;
+            
+            // Get all world rows fresh each time (they're hidden by CSS but still in DOM)
+            const worldRows = document.querySelectorAll('.world-row');
+            
+            // Find the current world based on which mission rows are visible
+            // Look at mission rows and find which world they belong to
+            const missionRows = document.querySelectorAll('.mission-row');
+            
+            missionRows.forEach(row => {
+                const rect = row.getBoundingClientRect();
+                // If this mission row is at or above the sticky indicator position
+                if (rect.top <= headerBottom + 60 && rect.bottom > headerBottom) {
+                    // Find the world row that precedes this mission
+                    let prevSibling = row.previousElementSibling;
+                    while (prevSibling) {
+                        if (prevSibling.classList.contains('world-row')) {
+                            currentWorld = prevSibling.querySelector('td').textContent;
+                            break;
+                        }
+                        prevSibling = prevSibling.previousElementSibling;
+                    }
+                }
+            });
+            
+            // If no current world found yet, use the first world
+            if (!currentWorld && worldRows.length > 0) {
+                currentWorld = worldRows[0].querySelector('td').textContent;
+            }
+            
+            // Always show the sticky indicator with current world
+            if (currentWorld) {
+                stickyIndicator.textContent = currentWorld;
+                stickyIndicator.style.left = tableRect.left + 'px';
+                stickyIndicator.style.width = tableRect.width + 'px';
+                stickyIndicator.style.top = (headerBottom) + 'px';
+                stickyIndicator.classList.add('visible');
+            }
+        }
+        
+        window.addEventListener('scroll', updateStickyWorld);
+        window.addEventListener('resize', updateStickyWorld);
+        // Run after a short delay to ensure page is fully loaded
+        setTimeout(updateStickyWorld, 100);
+        
+        // Auto-reload when crossing mobile/desktop breakpoint (for DevTools testing)
+        let lastWasMobile = window.innerWidth < 768;
+        window.addEventListener('resize', () => {
+            const nowMobile = window.innerWidth < 768;
+            if (nowMobile !== lastWasMobile) {
+                location.reload();
+            }
+        });
+    </script>
+</body>
+</html>
