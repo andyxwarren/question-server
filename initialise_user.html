@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Progress Dashboard</title>
+    <title>Initialising User</title>
     <style>
         * {
             box-sizing: border-box;
@@ -769,8 +769,8 @@
 <body>
 
     <div class="sticky-header">
-        <h1>📊 Progress Dashboard</h1>
-        <p class="subtitle">Track your mastery across all Worlds and Missions</p>
+        <h1>Initialising User</h1>
+        <p class="subtitle">A check for gaps in your current knowledge</p>
         <div class="legend">
             <div class="legend-item">
                 <div class="legend-color" style="background-color: #f0f0f0; border: 1px solid #ccc; display: flex; align-items: center; justify-content: center; color: #ccc; font-size: 10px;">—</div>
@@ -1439,6 +1439,11 @@
             // Will redirect to login
             throw new Error('Not logged in');
         }
+        const rawYearGroup = currentUser.yearGroup ?? currentUser.year_group ?? 0;
+        const userYearGroup = typeof rawYearGroup === 'number' ? rawYearGroup : parseInt(rawYearGroup, 10);
+        const targetLevel = (userYearGroup && userYearGroup >= 2)
+            ? Math.max(1, Math.min(6, userYearGroup - 1))
+            : null;
 
         // Add user header
         document.addEventListener('DOMContentLoaded', () => {
@@ -1973,68 +1978,90 @@
         // Apply user progress FIRST so the level calculation sees completed pundexes
         applyUserProgress();
         
-        // STEP 1: Find the max level to display based on progress across all missions
-        // We want the HIGHEST level that contains a "next available pundex" for ANY mission
-        // But we need to find each mission's "current frontier" first
-        
-        let maxDisplayLevel = 1; // Always show at least Level 1
-        
-        document.querySelectorAll('.mission-row').forEach(row => {
-            const cells = row.querySelectorAll('.pundex-cell');
-            let missionNextLevel = null;
-            
-            // Find the first level where this mission has work to do
-            for (let index = 0; index < cells.length; index++) {
-                const cell = cells[index];
-                const level = index + 1;
-                
-                if (!cell.classList.contains('unavailable')) {
-                    const completedCount = cell.querySelectorAll('.pundex.completed').length;
-                    const totalPundex = cell.querySelectorAll('.pundex').length;
-                    
-                    if (completedCount > 0 && completedCount < totalPundex) {
-                        // In progress - this level has the next pundex
-                        missionNextLevel = level;
-                        break;
-                    } else if (completedCount === totalPundex && totalPundex > 0) {
-                        // Complete - keep looking for next available level
-                        continue;
-                    } else if (completedCount === 0) {
-                        // Not started - this level has the next pundex
-                        missionNextLevel = level;
-                        break;
-                    }
-                }
-            }
-            
-            // Only count missions that have started OR are at Level 1
-            // Don't count missions that haven't been touched and start at higher levels
-            if (missionNextLevel !== null) {
-                // Check if this mission has ANY progress
-                let hasAnyProgress = false;
-                cells.forEach(cell => {
-                    if (cell.querySelectorAll('.pundex.completed').length > 0) {
-                        hasAnyProgress = true;
-                    }
-                });
-                
-                // Only include this mission's next level if:
-                // 1. The mission has some progress, OR
-                // 2. The mission's next level is within current maxDisplayLevel
-                if (hasAnyProgress && missionNextLevel > maxDisplayLevel) {
-                    maxDisplayLevel = missionNextLevel;
-                }
-            }
-        });
+        const restrictToSingleLevel = Number.isInteger(targetLevel);
+        let maxDisplayLevel = restrictToSingleLevel ? targetLevel : 1; // Always show at least Level 1
 
-        console.log('Max display level:', maxDisplayLevel);
-        // alert('Dynamic dashboard - Max level to show: ' + maxDisplayLevel);
+        if (!restrictToSingleLevel) {
+            // STEP 1: Find the max level to display based on progress across all missions
+            // We want the HIGHEST level that contains a "next available pundex" for ANY mission
+            document.querySelectorAll('.mission-row').forEach(row => {
+                const cells = row.querySelectorAll('.pundex-cell');
+                let missionNextLevel = null;
+                
+                // Find the first level where this mission has work to do
+                for (let index = 0; index < cells.length; index++) {
+                    const cell = cells[index];
+                    const level = index + 1;
+                    
+                    if (!cell.classList.contains('unavailable')) {
+                        const completedCount = cell.querySelectorAll('.pundex.completed').length;
+                        const totalPundex = cell.querySelectorAll('.pundex').length;
+                        
+                        if (completedCount < totalPundex) {
+                            missionNextLevel = level;
+                            break;
+                        }
+                    }
+                }
+                
+                if (missionNextLevel === null) {
+                    // All available levels completed - include last available level
+                    for (let index = cells.length - 1; index >= 0; index--) {
+                        const cell = cells[index];
+                        const level = index + 1;
+                        if (!cell.classList.contains('unavailable')) {
+                            missionNextLevel = level;
+                            break;
+                        }
+                    }
+                }
+                
+                if (missionNextLevel !== null) {
+                    // Only consider missions with actual activity/progress (skip brand new missions)
+                    const hasAnyProgress = Array.from(cells).some(cell => {
+                        return cell.querySelector('.pundex.completed') || cell.querySelector('.pundex.partial');
+                    });
+                    
+                    // Only include this mission's next level if:
+                    // 1. The mission has some progress, OR
+                    // 2. The mission's next level is within current maxDisplayLevel
+                    if (hasAnyProgress && missionNextLevel > maxDisplayLevel) {
+                        maxDisplayLevel = missionNextLevel;
+                    }
+                }
+            });
+        } else {
+            console.log('Calibration mode: restricting dashboard to Level', targetLevel);
+        }
+
+        const visibleLevels = restrictToSingleLevel
+            ? [targetLevel]
+            : Array.from({ length: maxDisplayLevel }, (_, idx) => idx + 1);
+
+        const visibleLevelCount = visibleLevels.length;
+
+        const levelIsVisible = (levelNumber) => {
+            if (restrictToSingleLevel) {
+                return levelNumber === targetLevel;
+            }
+            return levelNumber <= maxDisplayLevel;
+        };
+
+        console.log('Max display level:', restrictToSingleLevel ? targetLevel : maxDisplayLevel);
 
         // STEP 2: Hide columns beyond maxDisplayLevel
         // Update column headers
         const colHeaders = document.querySelectorAll('.col-header');
         colHeaders.forEach((header, index) => {
-            if (index > maxDisplayLevel) { // index 0 is mission column, 1-6 are levels
+            if (index === 0) {
+                header.style.display = 'table-cell';
+                return;
+            }
+            const levelNumber = index;
+            if (levelIsVisible(levelNumber)) {
+                header.style.display = 'table-cell';
+                header.textContent = `Level ${levelNumber}`;
+            } else {
                 header.style.display = 'none';
             }
         });
@@ -2042,19 +2069,31 @@
         // Update colgroup - set explicit widths
         const cols = document.querySelectorAll('colgroup col');
         cols.forEach((col, index) => {
-            if (index > maxDisplayLevel) {
-                col.style.display = 'none';
-            } else if (index === 0) {
+            if (index === 0) {
+                col.style.display = 'table-column';
                 col.style.width = '340px';
-            } else {
+                return;
+            }
+            const levelNumber = index;
+            if (levelIsVisible(levelNumber)) {
+                col.style.display = 'table-column';
                 col.style.width = '120px';
+            } else {
+                col.style.display = 'none';
             }
         });
 
         // Update hidden thead
         const thCells = document.querySelectorAll('.hidden-thead th');
         thCells.forEach((th, index) => {
-            if (index > maxDisplayLevel) {
+            if (index === 0) {
+                th.style.display = 'table-cell';
+                return;
+            }
+            const levelNumber = index;
+            if (levelIsVisible(levelNumber)) {
+                th.style.display = 'table-cell';
+            } else {
                 th.style.display = 'none';
             }
         });
@@ -2066,7 +2105,7 @@
             // For world rows, update colspan
             if (row.classList.contains('world-row')) {
                 const td = row.querySelector('td');
-                td.setAttribute('colspan', maxDisplayLevel + 1);
+                td.setAttribute('colspan', Math.max(1, visibleLevelCount) + 1);
                 return;
             }
             
@@ -2077,9 +2116,11 @@
                 cells.forEach((cell, index) => {
                     if (index === 0) return; // Skip mission name column
                     
-                    if (index > maxDisplayLevel) {
+                    const levelNumber = index;
+                    if (!levelIsVisible(levelNumber)) {
                         cell.style.display = 'none';
                     } else {
+                        cell.style.display = 'table-cell';
                         // Check if this level has modules (not unavailable)
                         const pundexCell = cell.querySelector('.pundex-cell');
                         if (pundexCell && !pundexCell.classList.contains('unavailable')) {
@@ -2125,7 +2166,7 @@
             
             cells.forEach((cell, index) => {
                 const level = index + 1;
-                if (level > maxDisplayLevel) return; // Skip hidden levels
+                if (!levelIsVisible(level)) return; // Skip hidden levels
                 
                 const modules = moduleData[missionName] && moduleData[missionName][level];
                 
@@ -2175,7 +2216,7 @@
                     const cdr = missionRow ? missionRow.dataset.cdr : '';
                     const mission = cell.dataset.mission;
                     const level = cell.dataset.level;
-                    window.location.href = `Q_Server.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
+                    window.location.href = `Q_Server_initialise.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
                 });
             });
         }
@@ -2184,11 +2225,14 @@
         if (isMobile) {
             const allMissionRows = document.querySelectorAll('.mission-row');
             
-            // Use the same maxDisplayLevel that was calculated for desktop/tablet
-            // Mobile shows up to 3 levels, starting from level 1 up to maxDisplayLevel
-            const levelsToShow = Math.min(maxDisplayLevel, 3); // Show at most 3 levels on mobile
+            // Determine which level columns to show on mobile
+            const mobileLevelsToShow = restrictToSingleLevel
+                ? [targetLevel]
+                : Array.from({ length: Math.min(maxDisplayLevel, 3) }, (_, idx) => idx + 1);
             
-            console.log('Mobile view: maxDisplayLevel =', maxDisplayLevel, ', levelsToShow =', levelsToShow);
+            const levelsToShowCount = mobileLevelsToShow.length;
+            
+            console.log('Mobile view: showing levels', mobileLevelsToShow.join(', '));
             
             // Update mobile header labels to show only the levels we're displaying
             const mobileHeader = document.getElementById('mobileTableHeader');
@@ -2199,10 +2243,10 @@
             // 2 levels: 40:30:30
             // 3 levels: 40:20:20:20
             let missionColWidth, levelColWidth;
-            if (levelsToShow === 1) {
+            if (levelsToShowCount === 1) {
                 missionColWidth = 50;
                 levelColWidth = 50;
-            } else if (levelsToShow === 2) {
+            } else if (levelsToShowCount === 2) {
                 missionColWidth = 40;
                 levelColWidth = 30;
             } else {
@@ -2217,8 +2261,8 @@
             }
             
             levelHeaders.forEach((header, index) => {
-                const levelNum = index + 1;
-                if (levelNum <= levelsToShow) {
+                const levelNum = mobileLevelsToShow[index];
+                if (typeof levelNum !== 'undefined') {
                     header.textContent = `L${levelNum}`;
                     header.dataset.level = levelNum;
                     header.style.display = 'table-cell';
@@ -2239,7 +2283,7 @@
                 for (let level = 1; level <= 6; level++) {
                     const cell = row.querySelector(`td:nth-child(${level + 1})`);
                     if (cell) {
-                        if (level <= levelsToShow) {
+                        if (mobileLevelsToShow.includes(level)) {
                             cell.classList.add('mobile-show-level');
                             cell.classList.remove('mobile-hide-level');
                             cell.style.width = `${levelColWidth}%`;
@@ -2262,7 +2306,7 @@
                 for (let level = 1; level <= 6; level++) {
                     const cell = row.querySelector(`td:nth-child(${level + 1})`);
                     if (cell) {
-                        if (level <= levelsToShow) {
+                        if (mobileLevelsToShow.includes(level)) {
                             cell.classList.add('mobile-show-level');
                             cell.classList.remove('mobile-hide-level');
                             cell.style.width = `${levelColWidth}%`;
@@ -2283,7 +2327,7 @@
                     const cdr = btn.dataset.cdr;
                     const mission = btn.dataset.mission;
                     const level = btn.dataset.level;
-                    window.location.href = `Q_Server.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
+                    window.location.href = `Q_Server_initialise.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
                 }
             });
         });

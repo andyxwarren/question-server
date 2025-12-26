@@ -35,7 +35,7 @@ class QuestionApp {
         // Supabase client for logging
         this.supabaseUrl = 'https://aguoxnxygbeochznszgb.supabase.co'; // Your Supabase URL
         this.supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFndW94bnh5Z2Jlb2Noem5zemdiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA5Mzk0MDcsImV4cCI6MjA2NjUxNTQwN30.IfY9TbM5Kmvsow88vCHfeIjQfjyWdC3ufhLjTPN8GGQ'; // Your Supabase anon key
-        this.supabase = createClient(this.supabaseUrl, this.supabaseAnonKey);
+        this.supabase = window.supabase.createClient(this.supabaseUrl, this.supabaseAnonKey);
 
         // Progression System Properties
         this.schoolLevels = ['1', '2', '3', '4', '5', '6'];
@@ -471,9 +471,12 @@ class QuestionApp {
 
     async autoLoadFromUrl() {
         const urlParams = new URLSearchParams(window.location.search);
+        console.log('autoLoadFromUrl called with URL params:', Object.fromEntries(urlParams));
         const cdrCode = urlParams.get('cdr');
         const missionName = urlParams.get('mission');
         const levelParam = urlParams.get('level');
+
+        console.log('cdrCode:', cdrCode, 'missionName:', missionName, 'levelParam:', levelParam);
 
         if (!missionName && !cdrCode) {
             this.uploadSection.classList.remove('hidden');
@@ -499,14 +502,16 @@ class QuestionApp {
                 // Legacy: Convert mission name to filename format
                 filename = missionName.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, ' ').trim().replace(/\s/g, '_') + '.json';
             }
-            const filePath = `questions/${filename}`;
+            const filePath = `Questions/${filename}`;
             console.log('Attempting to fetch:', filePath);
             
             const fileResponse = await fetch(filePath);
+            console.log('Fetch response status:', fileResponse.status, 'ok:', fileResponse.ok);
             if (!fileResponse.ok) {
                 throw new Error(`Failed to fetch question file: ${filePath}`);
             }
             const data = await fileResponse.json();
+            console.log('Fetched data length:', Array.isArray(data) ? data.length : 'object');
             
             // Handle both array format (new CDR-based files) and object format (legacy files)
             const questions = Array.isArray(data) ? data : data.questions;
@@ -558,9 +563,24 @@ class QuestionApp {
     }
 
     /**
-     * Automatically load questions from Questions/questions.json
+     * Filter questions to the current school level
      */
-    async autoLoadQuestions(isMissionMode = false) {
+    setQuestionPool() {
+        if (!this.allQuestions || this.allQuestions.length === 0) {
+            console.warn('No questions loaded to filter');
+            this.questions = [];
+            return;
+        }
+
+        // Filter questions by the current school level
+        const targetYearGroup = `Year ${this.currentSchoolLevel}`;
+        this.questions = this.allQuestions.filter(q => q.yearGroup === targetYearGroup);
+
+        console.log(`Filtered to ${this.questions.length} questions for ${targetYearGroup}`);
+    }
+
+    /**
+     * Automatically load questions from Questions/questions.json
         try {
             this.showLoading(true);
 

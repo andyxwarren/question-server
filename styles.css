@@ -1204,17 +1204,17 @@ margin-bottom: 15px;
 
     .keyboard {
         margin-top: 5px;
-        padding: 5px;
+        padding: 4px;
         flex-shrink: 0;
     }
 
     .keyboard-buttons {
-        gap: 4px;
+        gap: 3px;
     }
 
     .keyboard-btn {
-        padding: 8px;
-        font-size: 16px;
+        padding: 6px;
+        font-size: 14px;
     }
 
     .multiple-choice-options.options-4 {

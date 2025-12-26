@@ -755,6 +755,17 @@
             }
         }
 
+        function getEffectiveYearGroupValue(user) {
+            if (user && typeof user.year_group === 'number') {
+                return user.year_group;
+            }
+            if (user && typeof user.yearGroup === 'number') {
+                return user.yearGroup;
+            }
+            const dob = user ? (user.date_of_birth || user.dateOfBirth) : null;
+            return dob ? calculateYearGroup(dob) : null;
+        }
+
         // Populate DOB selects
         const currentYear = new Date().getFullYear();
         const startYear = currentYear - 12;
@@ -1279,7 +1290,7 @@
                 gamertag: user.gamertag || '',
                 dateOfBirth: user.date_of_birth || user.dateOfBirth || '',
                 handedness: user.handedness || 'right',
-                yearGroup: user.year_group ?? user.yearGroup ?? (user.date_of_birth || user.dateOfBirth ? calculateYearGroup(user.date_of_birth || user.dateOfBirth) : null),
+                yearGroup: getEffectiveYearGroupValue(user),
                 pin: user.pin || ''
             };
 
@@ -1291,7 +1302,9 @@
                 sessionStorage.setItem('showWelcomeToast', '1');
             }
 
-            window.location.href = 'Pathway_Selector.html';
+            const yearGroupValue = normalizedUser.yearGroup;
+            const needsCalibration = typeof yearGroupValue === 'number' && yearGroupValue >= 2;
+            window.location.href = needsCalibration ? 'initialise_user.html' : 'Pathway_Selector.html';
         }
 
         // Show error
