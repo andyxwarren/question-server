@@ -11,15 +11,17 @@ class QuestionApp {
         this.userAnswers = new Map(); // questionId -> {answer: string, isCorrect: boolean}
         this.hasSubmittedCurrent = false;
         this.selectedOption = null; // For multiple choice questions
+        this.questionStartTime = null; // Timestamp when current question displayed
         this.notificationTimeout = null; // For auto-hiding notifications
         this.mcInputBuffer = ''; // Buffer for multi-digit MC answer input
         this.mcInputTimeout = null; // Timeout for the buffer
         this.activeInput = null; // For on-screen keyboard targeting
         this.adventureLog = []; // Log for CSV export
-        this.currentUser = typeof UserAuth !== 'undefined' ? UserAuth.getCurrentUser() : null; // Get logged in user
-        this.userId = this.currentUser ? this.currentUser.id : this.generateUUID(); // Use user ID if logged in
+        const currentUser = UserAuth?.getCurrentUser?.();
+        this.currentUser = typeof UserAuth !== 'undefined' ? currentUser : null; // Get logged in user
+        this.userId = currentUser ? currentUser.id || currentUser.user_id : this.generateUUID(); // Use user ID if logged in
         console.log('QuestionApp initialized - currentUser:', this.currentUser);
-        this.batchId = Date.now(); // Use timestamp as integer for batch_id
+        this.batchId = Math.floor(Date.now() / 1000); // Seconds timestamp (fits 32-bit integer)
         this.logFileHandle = null; // For the File System Access API
         this.logQueue = []; // A queue for log entries to be written
         console.log('QuestionApp constructor called at', new Date().toISOString()); // Debug log for page resets
@@ -31,6 +33,9 @@ class QuestionApp {
         this.loggingBannerDismissed = false;
         this.isPromptingForLogFile = false;
         this.isProcessingLogQueue = false;
+
+        // Detect initialise mode
+        this.isInitialiseMode = document.location.pathname.includes('initialise');
 
         // Supabase client for logging
         this.supabaseUrl = 'https://aguoxnxygbeochznszgb.supabase.co'; // Your Supabase URL
@@ -768,6 +773,9 @@ class QuestionApp {
         const question = this.questions[this.currentIndex];
         if (!question) return;
 
+        // Mark start time for logging
+        this.questionStartTime = Date.now();
+
         // Reset selected option and input buffer
         this.selectedOption = null;
         this.mcInputBuffer = '';
@@ -1076,7 +1084,9 @@ class QuestionApp {
         this.hasSubmittedCurrent = true;
 
         // Add the adventure to the log queue
-        this.logAdventure(question.id, userAnswer, isCorrect);
+        const timeServed = this.questionStartTime ? new Date(this.questionStartTime).toISOString() : new Date().toISOString();
+        const timeSubmitted = new Date().toISOString();
+        this.logAdventure(question.id, userAnswer, isCorrect, timeServed, timeSubmitted);
 
         // Update progression
         this.pundexAnswerHistory.push(isCorrect);
@@ -1656,6 +1666,10 @@ class QuestionApp {
                 stateClass = 'on'; // Mastered
             } else if (index === currentPundexIndex) {
                 stateClass = 'flashing'; // Current
+            }
+            // In initialise mode, mark Ignition and Charging as assumed
+            if (this.isInitialiseMode && index < currentPundexIndex && (index === 0 || index === 1)) {
+                stateClass += ' assumed';
             }
             return `<div class="power-light ${colors[index]} ${stateClass}">
                 <span class="pundex-full">${displayName}</span>
