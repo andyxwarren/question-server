@@ -296,6 +296,27 @@
             background-color: #8e24aa;
         }
 
+        .pundex.assumed-complete {
+            position: relative;
+            border: 1px solid transparent;
+            opacity: 1;
+        }
+        .pundex.ignition.assumed-complete {
+            background-color: rgba(229, 57, 53, 0.25);
+            border-color: rgba(229, 57, 53, 0.4);
+        }
+        .pundex.charging.assumed-complete {
+            background-color: rgba(255, 179, 0, 0.25);
+            border-color: rgba(255, 179, 0, 0.4);
+        }
+        .pundex.assumed-complete::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, rgba(255,255,255,0.35), rgba(255,255,255,0));
+            pointer-events: none;
+        }
+
         /* Unavailable level (no modules) */
         td:has(.pundex-cell.unavailable) {
             background-color: #f0f0f0;
@@ -1439,8 +1460,35 @@
             // Will redirect to login
             throw new Error('Not logged in');
         }
+        const attachAboutHandler = (root) => {
+            if (!root) return;
+            const aboutBtn = root.querySelector('#menuAboutQsiBtn');
+            if (aboutBtn) {
+                aboutBtn.style.display = 'flex';
+                aboutBtn.addEventListener('click', () => {
+                    alert(
+`Initialisation Guidance:
+• Starts one level below the pupil’s year with Ignition & Charging already complete.
+• Ready-tier questions calibrate the correct starting point.
+• Power Up triggers after 5 in a row correct or 7/10 correct (overall or rolling window).
+• After 15 answers without 7/10 in the rolling window, the pupil powers down a tier for more practice.`
+                    );
+                    const dropdown = root.querySelector('.user-header-dropdown');
+                    dropdown?.classList.remove('open');
+                }, { once: false });
+            }
+        };
         const rawYearGroup = currentUser.yearGroup ?? currentUser.year_group ?? 0;
-        const userYearGroup = typeof rawYearGroup === 'number' ? rawYearGroup : parseInt(rawYearGroup, 10);
+        const userYearGroup = (() => {
+            if (typeof rawYearGroup === 'number' && !Number.isNaN(rawYearGroup)) {
+                return rawYearGroup;
+            }
+            if (rawYearGroup === null || rawYearGroup === undefined) {
+                return NaN;
+            }
+            const match = String(rawYearGroup).match(/\d+/);
+            return match ? parseInt(match[0], 10) : NaN;
+        })();
         const targetLevel = (userYearGroup && userYearGroup >= 2)
             ? Math.max(1, Math.min(6, userYearGroup - 1))
             : null;
@@ -1451,6 +1499,7 @@
             const userHeader = UserAuth.createUserHeader();
             if (userHeader) {
                 headerContainer.appendChild(userHeader);
+                attachAboutHandler(headerContainer);
                 // Hide Progress button since we're already on the Progress page
                 const dropdownBtns = headerContainer.querySelectorAll('.user-header-dropdown-btn');
                 dropdownBtns.forEach(btn => {
@@ -1682,6 +1731,7 @@
                     // Apply completed/partial status to each pundex
                     const pundexElements = cell.querySelectorAll('.pundex');
                     pundexElements.forEach((pundexEl, pundexIdx) => {
+                        pundexEl.classList.remove('assumed-complete');
                         const tierName = pundexTiers[pundexIdx];
                         const pundexProgress = levelProgress?.pundexCompleted?.[tierName];
                         const isCompleted = pundexProgress?.completed;
@@ -1704,6 +1754,11 @@
                             // Fill proportional to score (7 needed to complete, 0-7 scale)
                             const fillPercent = Math.min(100, (scoreToUse / 7) * 100);
                             pundexEl.style.setProperty('--fill-percent', `${fillPercent}%`);
+                        }
+
+                        // Simulate Ignition & Charging as assumed-complete
+                        if (pundexIdx <= 1 && !pundexEl.classList.contains('completed')) {
+                            pundexEl.classList.add('assumed-complete');
                         }
                     });
                 });
@@ -2160,6 +2215,8 @@
             
             const firstCell = row.querySelector('td:first-child');
             const missionName = firstCell.textContent.trim();
+            const cdrCode = row.dataset.cdr || '';
+            const missionLevels = (availableLevels[cdrCode] || []).slice().sort((a, b) => a - b);
             const cells = row.querySelectorAll('.pundex-cell');
             let foundCurrentLevel = false;
             let currentLevelNum = null;
@@ -2198,11 +2255,38 @@
                 cell.dataset.level = level;
             });
 
-            // Get CDR code from the mission row
-            const cdrCode = row.dataset.cdr || '';
+            function determineLaunchLevel(preferredLevel = null) {
+                // Calibration mode: force the target level when it's part of the mission curriculum
+                if (restrictToSingleLevel && targetLevel) {
+                    if (missionLevels.includes(targetLevel)) {
+                        return targetLevel;
+                    }
+
+                    if (missionLevels.length > 0) {
+                        const lower = missionLevels.filter(level => level < targetLevel);
+                        if (lower.length > 0) {
+                            return lower[lower.length - 1];
+                        }
+                        return missionLevels[0];
+                    }
+                }
+
+                if (preferredLevel && missionLevels.includes(preferredLevel)) {
+                    return preferredLevel;
+                }
+
+                // Fall back to the detected current level or Level 1
+                if (currentLevelNum) {
+                    return currentLevelNum;
+                }
+                return missionLevels[0] || 1;
+            }
+
+            const launchLevel = determineLaunchLevel();
+            const launchPundex = restrictToSingleLevel ? 'Meeting' : (cells[currentLevelNum - 1]?.querySelector('.pundex.partial, .pundex') ? undefined : undefined);
             
             // Wrap mission name in div with span and launch button
-            firstCell.innerHTML = `<div><span class="mission-name">${missionName}</span><button class="launch-btn" data-mission="${missionName}" data-cdr="${cdrCode}" data-level="${currentLevelNum || 1}">Launch</button></div>`;
+            firstCell.innerHTML = `<div><span class="mission-name">${missionName}</span><button class="launch-btn" data-mission="${missionName}" data-cdr="${cdrCode}" data-level="${launchLevel}" data-pundex="${restrictToSingleLevel ? 'Meeting' : ''}">Launch</button></div>`;
         });
 
         // Add click handler for current-level cells (desktop only)
@@ -2215,8 +2299,9 @@
                     const missionRow = cell.closest('.mission-row');
                     const cdr = missionRow ? missionRow.dataset.cdr : '';
                     const mission = cell.dataset.mission;
-                    const level = cell.dataset.level;
-                    window.location.href = `Q_Server_initialise.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
+                    const preferredLevel = parseInt(cell.dataset.level, 10);
+                    const targetLaunchLevel = determineLaunchLevel(preferredLevel);
+                    window.location.href = `Q_Server_initialise.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${targetLaunchLevel}`;
                 });
             });
         }
@@ -2386,11 +2471,11 @@
             // Desktop: hover behavior
             cell.addEventListener('mouseenter', (e) => {
                 if (!isTouchDevice) {
-                    showTooltip(cell);
+                    cell.dataset.level = level;
                 }
             });
 
-            cell.addEventListener('mouseleave', () => {
+            cell.addEventListener('mousemove', (e) => {
                 if (!isTouchDevice) {
                     hideTooltip();
                 }

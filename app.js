@@ -17,6 +17,7 @@ class QuestionApp {
         this.mcInputTimeout = null; // Timeout for the buffer
         this.activeInput = null; // For on-screen keyboard targeting
         this.adventureLog = []; // Log for CSV export
+        this.urlStartLevel = null; // Level provided via URL (initialise mode)
         const currentUser = UserAuth?.getCurrentUser?.();
         this.currentUser = typeof UserAuth !== 'undefined' ? currentUser : null; // Get logged in user
         this.userId = currentUser ? currentUser.id || currentUser.user_id : this.generateUUID(); // Use user ID if logged in
@@ -491,8 +492,14 @@ class QuestionApp {
         }
 
         // Set the starting level if provided in URL
-        if (levelParam && this.schoolLevels.includes(levelParam)) {
-            this.currentSchoolLevel = parseInt(levelParam);
+        if (levelParam) {
+            const parsedLevel = parseInt(levelParam, 10);
+            if (!Number.isNaN(parsedLevel)) {
+                this.urlStartLevel = parsedLevel;
+                if (this.schoolLevels.includes(String(parsedLevel))) {
+                    this.currentSchoolLevel = parsedLevel;
+                }
+            }
         }
 
         try {
@@ -531,20 +538,36 @@ class QuestionApp {
                 4: 'Exceeding'    // Power Up
             };
             
-            this.allQuestions = questions.map(q => ({
-                id: q.question_id || q.id,
-                questionText: q.question_text || q.questionText,
-                correctAnswer: String(q.correct_answer || q.correctAnswer),
-                answerType: q.answer_type || q.answerType || 'text_input',
-                questionType: q.question_type || q.questionType || 'text_input',
-                alternativeAnswer1: q.alternative_answer_1 || q.alternativeAnswer1,
-                hint: q.hint,
-                yearGroup: q.yearGroup || `Year ${q.year_group || 1}`,
-                levelName: q.levelName || pundexToLevelName[q.original_pundex] || 'Beginning',
-                strand: q.strand,
-                substrand: q.substrand,
-                topicId: q.topic_id || q.topicId
-            }));
+            this.allQuestions = questions.map(q => {
+                const rawYear = q.yearGroup ?? q.year_group ?? q.year ?? null;
+                let yearNumber = null;
+                if (typeof rawYear === 'number' && !Number.isNaN(rawYear)) {
+                    yearNumber = rawYear;
+                } else if (typeof rawYear === 'string') {
+                    const match = rawYear.match(/\d+/);
+                    if (match) {
+                        yearNumber = parseInt(match[0], 10);
+                    }
+                }
+                const yearGroupLabel = yearNumber
+                    ? `Year ${Math.min(Math.max(yearNumber, 1), 6)}`
+                    : 'Year 1';
+
+                return {
+                    id: q.question_id || q.id,
+                    questionText: q.question_text || q.questionText,
+                    correctAnswer: String(q.correct_answer || q.correctAnswer),
+                    answerType: q.answer_type || q.answerType || 'text_input',
+                    questionType: q.question_type || q.questionType || 'text_input',
+                    alternativeAnswer1: q.alternative_answer_1 || q.alternativeAnswer1,
+                    hint: q.hint,
+                    yearGroup: yearGroupLabel,
+                    levelName: q.levelName || pundexToLevelName[q.original_pundex] || 'Beginning',
+                    strand: q.strand,
+                    substrand: q.substrand,
+                    topicId: q.topic_id || q.topicId
+                };
+            });
             
             this.currentMission = missionName;
             
@@ -1686,16 +1709,30 @@ class QuestionApp {
         const totalCorrect = this.pundexAnswerHistory.filter(c => c).length;
         
         let shouldLevelUp = false;
+        const last10 = this.pundexAnswerHistory.slice(-10);
+        const correctInLast10 = last10.filter(c => c).length;
+        const recentStreak = (() => {
+            let streak = 0;
+            for (let i = this.pundexAnswerHistory.length - 1; i >= 0; i--) {
+                if (this.pundexAnswerHistory[i]) {
+                    streak++;
+                } else {
+                    break;
+                }
+            }
+            return streak;
+        })();
+        const hasFiveCorrectStreak = recentStreak >= 5;
         
-        if (totalAnswered <= 10) {
+        if (hasFiveCorrectStreak) {
+            shouldLevelUp = true;
+        } else if (totalAnswered <= 10) {
             // First 10 questions: level up as soon as they get 7 correct
             if (totalCorrect >= 7) {
                 shouldLevelUp = true;
             }
         } else {
             // After 10 questions: rolling window - need 7 out of last 10
-            const last10 = this.pundexAnswerHistory.slice(-10);
-            const correctInLast10 = last10.filter(c => c).length;
             if (correctInLast10 >= 7) {
                 shouldLevelUp = true;
             }
@@ -1732,8 +1769,31 @@ class QuestionApp {
             this.setQuestionPool();
             this.currentIndex = 0; // Start from the first question of the new pool
             this.displayQuestion(); // Display the new question
+        } else {
+            if (totalAnswered >= 15 && correctInLast10 < 7) {
+                this.handlePowerDownToCharging();
+            }
         }
         this.updateProgressionUI();
+    }
+
+    handlePowerDownToCharging() {
+        const currentIndex = this.pundexTiers.indexOf(this.currentPundex);
+
+        // Already at the lowest tier – can't power down further
+        if (currentIndex <= 0) {
+            return;
+        }
+
+        const previousTier = this.pundexTiers[currentIndex - 1];
+        const previousTierName = this.pundexDisplayNames[previousTier] || previousTier;
+        this.currentPundex = previousTier;
+        this.pundexAnswerHistory = [];
+        this.userAnswers.clear();
+        this.showNotification(`Power down! Dropping to ${previousTierName} level.`, 'warning');
+        this.setQuestionPool();
+        this.currentIndex = 0;
+        this.displayQuestion();
     }
 
     setQuestionPool() {
@@ -1943,6 +2003,16 @@ class QuestionApp {
      */
     loadUserProgress() {
         if (!this.currentUser || !this.currentMission || typeof UserAuth === 'undefined') {
+            return;
+        }
+
+        // In initialise mode, respect the calibrate level provided via URL and jump straight to Ready
+        if (this.isInitialiseMode && this.urlStartLevel) {
+            this.currentSchoolLevel = this.urlStartLevel;
+            this.currentPundex = this.pundexTiers[2]; // Meeting / Ready
+            this.pundexAnswerHistory = [];
+            this.currentIndex = 0;
+            console.log(`Initialise mode: forcing start at Level ${this.urlStartLevel} (Ready pundex)`);
             return;
         }
 

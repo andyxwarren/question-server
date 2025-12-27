@@ -117,14 +117,22 @@
             if (user) {
                 // Add user header to fixed container (for non-question views)
                 const headerContainer = document.getElementById('userHeaderContainer');
-                const userHeader = UserAuth.createUserHeader();
+                const progressMenu = [
+                    {
+                        id: 'menuProgressBtn',
+                        icon: '📊',
+                        labelLines: ['Progress'],
+                        href: 'Progress_Dashboard_dynamic_levels.html'
+                    }
+                ];
+                const userHeader = UserAuth.createUserHeader({ menuItems: progressMenu });
                 if (userHeader) {
                     headerContainer.appendChild(userHeader);
                 }
                 
                 // Also add to inline header (for question view)
                 const inlineHeaderContainer = document.getElementById('header-user-menu');
-                const inlineUserHeader = UserAuth.createUserHeader();
+                const inlineUserHeader = UserAuth.createUserHeader({ menuItems: progressMenu });
                 if (inlineUserHeader && inlineHeaderContainer) {
                     inlineHeaderContainer.appendChild(inlineUserHeader);
                 }

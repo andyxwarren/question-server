@@ -190,9 +190,40 @@ const UserAuth = {
      * Create a user header element for pages
      * @returns {HTMLElement} Header element with avatar and hamburger menu
      */
-    createUserHeader() {
+    createUserHeader(options = {}) {
         const user = this.getCurrentUser();
         if (!user) return null;
+
+        const defaultMenuItems = [
+            {
+                id: 'menuInitialisationProgressBtn',
+                icon: '📊',
+                labelLines: ['Initialisation', 'Progress'],
+                href: 'initialise_user.html'
+            },
+            {
+                id: 'menuKeyBtn',
+                icon: '🔑',
+                labelLines: ['Key'],
+                hidden: true
+            },
+            {
+                id: 'menuAboutQsiBtn',
+                icon: 'ℹ️',
+                labelLines: ['Initialisation', 'Guidance'],
+                hidden: true
+            },
+            {
+                id: 'menuLogoutBtn',
+                icon: '🚪',
+                labelLines: ['Logout'],
+                action: 'logout'
+            }
+        ];
+
+        const menuItems = Array.isArray(options.menuItems) && options.menuItems.length > 0
+            ? options.menuItems
+            : defaultMenuItems;
 
         const header = document.createElement('div');
         header.className = 'user-header';
@@ -287,7 +318,7 @@ const UserAuth = {
                     text-align: left;
                     display: flex;
                     align-items: center;
-                    gap: 10px;
+                    gap: 8px;
                 }
                 .user-header-dropdown-btn:hover {
                     background: rgba(0, 255, 0, 0.2);
@@ -306,6 +337,24 @@ const UserAuth = {
                     border-bottom: 1px solid rgba(0, 255, 0, 0.1);
                     background: rgba(0, 255, 0, 0.05);
                 }
+                .user-header-dropdown-btn .menu-item-icon {
+                    width: 26px;
+                    display: flex;
+                    justify-content: center;
+                }
+                .user-header-dropdown-btn .menu-item-label {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: flex-start;
+                    flex: 1;
+                    text-align: left;
+                    line-height: 1.1;
+                    gap: 2px;
+                }
+                .user-header-dropdown-btn .menu-item-label > span {
+                    display: block;
+                    width: 100%;
+                }
             </style>
             <button class="user-header-menu-btn" id="userMenuBtn" title="Menu">
                 <span class="user-header-avatar">${this.getInitials(user)}</span>
@@ -319,21 +368,21 @@ const UserAuth = {
                         📝 <span id="menuQuestionCount">Q 1 of 25</span>
                     </div>
                 </div>
-                <button class="user-header-dropdown-btn" id="menuSaveEndBtn" style="display:none;">
-                    💾 Save & End
-                </button>
-                <button class="user-header-dropdown-btn" onclick="window.location.href='Progress_Dashboard_dynamic_levels.html';">
-                    📊 Progress
-                </button>
-                <button class="user-header-dropdown-btn" id="menuKeyBtn" style="display:none;">
-                    🔑 Key
-                </button>
-                <button class="user-header-dropdown-btn" onclick="window.location.href='Pathway_Selector.html';">
-                    🎯 Change Mission
-                </button>
-                <button class="user-header-dropdown-btn" onclick="UserAuth.logout(); window.location.href='index.html';">
-                    🚪 Logout
-                </button>
+                ${menuItems.map(item => {
+                    const labelHtml = Array.isArray(item.labelLines)
+                        ? item.labelLines.map(line => `<span>${line}</span>`).join('')
+                        : `<span>${item.label || ''}</span>`;
+                    const styleAttr = item.hidden ? 'display:none;' : '';
+                    const idAttr = item.id ? `id="${item.id}"` : '';
+                    const hrefAttr = item.href ? `data-href="${item.href}"` : '';
+                    const actionAttr = item.action ? `data-action="${item.action}"` : '';
+                    return `
+                        <button class="user-header-dropdown-btn" ${idAttr} ${hrefAttr} ${actionAttr} style="${styleAttr}">
+                            <span class="menu-item-icon">${item.icon || ''}</span>
+                            <span class="menu-item-label">${labelHtml}</span>
+                        </button>
+                    `;
+                }).join('')}
             </div>
         `;
 
@@ -350,6 +399,29 @@ const UserAuth = {
         document.addEventListener('click', (e) => {
             if (!header.contains(e.target)) {
                 dropdown.classList.remove('open');
+            }
+        });
+
+        const customHandlers = options.customHandlers || {};
+        dropdown.querySelectorAll('.user-header-dropdown-btn').forEach(btn => {
+            const href = btn.dataset.href;
+            const action = btn.dataset.action;
+            const handler = customHandlers[btn.id];
+
+            if (handler) {
+                btn.addEventListener('click', handler);
+                return;
+            }
+
+            if (action === 'logout') {
+                btn.addEventListener('click', () => {
+                    UserAuth.logout();
+                    window.location.href = 'index.html';
+                });
+            } else if (href) {
+                btn.addEventListener('click', () => {
+                    window.location.href = href;
+                });
             }
         });
 
