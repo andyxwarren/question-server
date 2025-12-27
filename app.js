@@ -1724,7 +1724,7 @@ class QuestionApp {
         })();
         const hasFiveCorrectStreak = recentStreak >= 5;
         
-        if (hasFiveCorrectStreak) {
+        if (this.isInitialiseMode && hasFiveCorrectStreak) {
             shouldLevelUp = true;
         } else if (totalAnswered <= 10) {
             // First 10 questions: level up as soon as they get 7 correct
@@ -1769,7 +1769,7 @@ class QuestionApp {
             this.setQuestionPool();
             this.currentIndex = 0; // Start from the first question of the new pool
             this.displayQuestion(); // Display the new question
-        } else {
+        } else if (this.isInitialiseMode) {
             if (totalAnswered >= 15 && correctInLast10 < 7) {
                 this.handlePowerDownToCharging();
             }
@@ -1935,11 +1935,30 @@ class QuestionApp {
     showMissionCompleteAnimation() {
         const overlay = document.createElement('div');
         overlay.className = 'mission-complete-overlay';
+        const levelLabel = this.currentSchoolLevel ? `Level ${this.currentSchoolLevel}` : 'this level';
+        const nextLevelIndex = this.schoolLevels.indexOf(String(this.currentSchoolLevel)) + 1;
+        const nextLevelNumber = nextLevelIndex >= 0 && nextLevelIndex < this.schoolLevels.length
+            ? this.schoolLevels[nextLevelIndex]
+            : null;
+        const nextLevelLabel = nextLevelNumber ? `Level ${nextLevelNumber}` : 'the next stage';
+        const missionName = this.currentMission || 'this mission';
+
+        const initialiseMessage = `
+            <div class="mission-complete-message">
+                Well done for completing ${missionName} at ${levelLabel}.
+                Please ensure you complete all the missions at ${levelLabel} to gain ${nextLevelLabel}.
+            </div>
+        `;
+
+        const defaultMessage = `
+            <div class="mission-complete-message">You've mastered ${missionName}!</div>
+        `;
+
         overlay.innerHTML = `
             <div class="mission-complete-content">
                 <div class="mission-complete-stars">🏆</div>
                 <div class="mission-complete-text">MISSION COMPLETE!</div>
-                <div class="mission-complete-message">You've mastered ${this.currentMission}!</div>
+                ${this.isInitialiseMode ? initialiseMessage : defaultMessage}
                 <button class="mission-complete-btn" onclick="this.parentElement.parentElement.remove(); window.location.href='Pathway_Selector.html';">Choose Next Mission</button>
             </div>
         `;
@@ -2006,18 +2025,16 @@ class QuestionApp {
             return;
         }
 
-        // In initialise mode, respect the calibrate level provided via URL and jump straight to Ready
-        if (this.isInitialiseMode && this.urlStartLevel) {
-            this.currentSchoolLevel = this.urlStartLevel;
-            this.currentPundex = this.pundexTiers[2]; // Meeting / Ready
-            this.pundexAnswerHistory = [];
-            this.currentIndex = 0;
-            console.log(`Initialise mode: forcing start at Level ${this.urlStartLevel} (Ready pundex)`);
-            return;
-        }
-
         // Find the user's current position in this mission
-        for (let levelIdx = 0; levelIdx < this.schoolLevels.length; levelIdx++) {
+        const startLevelIndex = (() => {
+            if (this.isInitialiseMode && this.urlStartLevel) {
+                const idx = this.schoolLevels.indexOf(String(this.urlStartLevel));
+                return idx >= 0 ? idx : 0;
+            }
+            return 0;
+        })();
+
+        for (let levelIdx = startLevelIndex; levelIdx < this.schoolLevels.length; levelIdx++) {
             const level = parseInt(this.schoolLevels[levelIdx]);
             const levelProgress = UserAuth.getProgress(this.currentMission, level);
 
@@ -2025,6 +2042,17 @@ class QuestionApp {
                 const pundex = this.pundexTiers[pundexIdx];
                 const pundexProgress = levelProgress?.pundexCompleted?.[pundex];
                 const isCompleted = pundexProgress?.completed;
+
+                const skipAssumedPundex = (
+                    this.isInitialiseMode &&
+                    this.urlStartLevel &&
+                    level === this.urlStartLevel &&
+                    pundexIdx < 2 // Skip Ignition & Charging
+                );
+
+                if (skipAssumedPundex) {
+                    continue;
+                }
 
                 if (!isCompleted) {
                     // This is where the user should start
@@ -2059,7 +2087,16 @@ class QuestionApp {
             }
         }
 
-        // If we get here, user has completed everything
+        // If we reach here, either user has completed everything we searched or there's no saved progress yet
+        if (this.isInitialiseMode && this.urlStartLevel) {
+            this.currentSchoolLevel = this.urlStartLevel;
+            this.currentPundex = this.pundexTiers[2]; // Meeting / Ready
+            this.pundexAnswerHistory = [];
+            this.currentIndex = 0;
+            console.log(`Initialise mode fallback: starting at Level ${this.urlStartLevel} (Ready pundex)`);
+            return;
+        }
+
         console.log('User has completed all levels for this mission');
     }
 

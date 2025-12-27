@@ -71,15 +71,16 @@
             flex-wrap: wrap;
             gap: 4px;
             justify-content: flex-end;
+            max-width: 360px;
         }
         .nav-btn {
             background-color: #667eea;
             color: white;
             border: none;
-            padding: 5px 8px;
+            padding: 4px 7px;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 11px;
+            font-size: 10px;
             text-decoration: none;
             white-space: nowrap;
         }
@@ -114,6 +115,8 @@
             <a href="#session-13" class="nav-btn">S13</a>
             <a href="#session-14" class="nav-btn">S14</a>
             <a href="#session-15" class="nav-btn">S15</a>
+            <a href="#session-16" class="nav-btn">S16</a>
+            <a href="#future-notes" class="nav-btn">Future</a>
         </div>
     </header>
 
@@ -786,6 +789,54 @@
         <ul>
             <li><code>index.html</code> – Manage Users layout restructure, Quick Login scroll fixes, comprehensive DOB selector styling, validation, and modal logic improvements.</li>
             <li><code>Q_Serving_Evolution.html</code> – Recorded Session 15 updates.</li>
+        </ul>
+    </div>
+
+    <div id="session-16" class="session">
+        <h2>Session Sixteen: December 27, 2025</h2>
+        <p>Locked in the split experience between Initialise mode and the standard Question Server, ensured hosted question delivery works from GitHub, and refreshed navigation tooling across every page.</p>
+
+        <h3>Hamburger Menu Personalisation</h3>
+        <ul>
+            <li><strong>Per-Page Menu Config</strong>: Refactored <code>UserAuth.createUserHeader()</code> so every page can pass dedicated menu items—Q_Server shows Progress / Pathway Selector / Logout, Q_Server_initialise keeps Initialisation Progress / Guidance / Logout, and Progress Dashboard mirrors the Q_Server navigation.</li>
+            <li><strong>Guidance Button</strong>: The Initialisation Guidance alert is now wired only where it’s needed, preventing accidental duplication of initialise-only messaging.</li>
+        </ul>
+
+        <h3>Progress Dashboard & Naming</h3>
+        <ul>
+            <li><strong>File Rename</strong>: <code>Progress_Dashboard_dynamic_levels.html</code> was renamed to <code>progress_dashboard.html</code> with every reference updated across the codebase and documentation.</li>
+            <li><strong>Dashboard Menu</strong>: Added Pathway Selector navigation to the dashboard hamburger while hiding the redundant Progress button when already on the page.</li>
+        </ul>
+
+        <h3>Question Hosting & Case Sensitivity</h3>
+        <ul>
+            <li><strong>GitHub-Friendly Fetch</strong>: Updated <code>app.js</code> to load question JSON files from the lowercase <code>questions/</code> directory so the hosted site no longer 404s due to case differences between Windows and GitHub Pages.</li>
+            <li><strong>User Guidance</strong>: Documented the deployment steps so missions can be tested directly from the GitHub Pages build once the JSON files are uploaded.</li>
+        </ul>
+
+        <h3>Progression Logic Split</h3>
+        <ul>
+            <li><strong>Classic Mission Rules</strong>: Restored the standard Q_Server flow to rely exclusively on the “7 correct in first 10” and rolling “7-of-10” rules—no auto power-ups for streaks and no power-downs after 15 attempts.</li>
+            <li><strong>Initialise-Only Extras</strong>: Kept the 5-in-a-row promotion and 15-question power-down logic scoped to initialise mode so calibration can still fast-track or slow-track pupils as intended.</li>
+        </ul>
+
+        <h3>Initialise Progress Persistence</h3>
+        <ul>
+            <li><strong>Resume Ready Sessions</strong>: Fixed <code>loadUserProgress()</code> to search saved data before defaulting to the Ready tier specified by the initialise URL, allowing partially completed Ready sessions to resume when returning from <code>progress_dashboard_initialise.html</code>.</li>
+            <li><strong>Partial Saves</strong>: Confirmed partial progress is written after every answer via <code>savePartialProgress()</code>, keeping initialise dashboards in sync with in-session work.</li>
+        </ul>
+
+        <h3>Pathway Selector Refinements</h3>
+        <ul>
+            <li><strong>Menu Alignment</strong>: Ensured the selector’s hamburger only shows Progress + Logout (no initialise actions) for parity with the main quiz experience.</li>
+            <li><strong>Mission Launches</strong>: Verified mission buttons still deep-link into Q_Server with the correct parameters after the navigation overhaul.</li>
+        </ul>
+    </div>
+
+    <div id="future-notes" class="session">
+        <h2>Future Notes & Considerations</h2>
+        <ul>
+            <li><strong>Local Progress Storage</strong>: All mission progress (including initialise calibration) is currently stored in the browser’s localStorage via <code>UserAuth.getProgress()</code>. Changing device, switching browsers, or clearing storage will wipe this data until a cloud persistence option (e.g., Supabase) is implemented.</li>
         </ul>
     </div>
 
