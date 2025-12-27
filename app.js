@@ -514,7 +514,7 @@ class QuestionApp {
                 // Legacy: Convert mission name to filename format
                 filename = missionName.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, ' ').trim().replace(/\s/g, '_') + '.json';
             }
-            const filePath = `Questions/${filename}`;
+            const filePath = `questions/${filename}`;
             console.log('Attempting to fetch:', filePath);
             
             const fileResponse = await fetch(filePath);

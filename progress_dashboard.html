@@ -1443,16 +1443,34 @@
         // Add user header
         document.addEventListener('DOMContentLoaded', () => {
             const headerContainer = document.getElementById('userHeaderContainer');
-            const userHeader = UserAuth.createUserHeader();
+            const menuItems = [
+                {
+                    id: 'menuProgressBtn',
+                    icon: '📊',
+                    labelLines: ['Progress'],
+                    href: 'progress_dashboard.html'
+                },
+                {
+                    id: 'menuPathwaySelectorBtn',
+                    icon: '🧭',
+                    labelLines: ['Pathway', 'Selector'],
+                    href: 'Pathway_Selector.html'
+                },
+                {
+                    id: 'menuLogoutBtn',
+                    icon: '🚪',
+                    labelLines: ['Logout'],
+                    action: 'logout'
+                }
+            ];
+            const userHeader = UserAuth.createUserHeader({ menuItems });
             if (userHeader) {
                 headerContainer.appendChild(userHeader);
                 // Hide Progress button since we're already on the Progress page
-                const dropdownBtns = headerContainer.querySelectorAll('.user-header-dropdown-btn');
-                dropdownBtns.forEach(btn => {
-                    if (btn.textContent.includes('Progress')) {
-                        btn.style.display = 'none';
-                    }
-                });
+                const progressBtn = headerContainer.querySelector('#menuProgressBtn');
+                if (progressBtn) {
+                    progressBtn.style.display = 'none';
+                }
                 
                 // Show and wire up Key button on mobile
                 if (window.innerWidth <= 767) {
