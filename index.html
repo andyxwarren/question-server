@@ -1207,21 +1207,37 @@
             }
         }
         
+        async function deleteUserRecords(userId) {
+            // Remove dependent adventure rows before deleting the profile
+            const { error: adventureError } = await supabaseClient
+                .from('user_adventure')
+                .delete()
+                .eq('user_id', userId);
+            if (adventureError) {
+                console.error('Error deleting user_adventure entries:', adventureError);
+                throw adventureError;
+            }
+
+            const { error: profileError } = await supabaseClient
+                .from('user_profile')
+                .delete()
+                .eq('user_id', userId);
+            if (profileError) {
+                console.error('Error deleting user_profile entry:', profileError);
+                throw profileError;
+            }
+        }
+
         async function deleteSingleUser(userId) {
             if (confirm(`Delete this user?`)) {
                 try {
-                    const { error } = await supabaseClient.from('user_profile').delete().eq('user_id', userId);
-                    if (error) {
-                        console.error('Error deleting user:', error);
-                        alert('Failed to delete user.');
-                        return;
-                    }
+                    await deleteUserRecords(userId);
                     document.getElementById('manageMessage').innerHTML = '<div class="success">✅ User deleted</div>';
                     loadManageUsers();
                     renderUserList();
                 } catch (err) {
                     console.error('Failed to delete user:', err);
-                    alert('Error deleting user.');
+                    alert('Error deleting user. Remove any linked adventures first or try again.');
                 }
             }
         }
@@ -1230,16 +1246,24 @@
             if (selectedUsers.size === 0) return;
             
             if (confirm(`Delete ${selectedUsers.size} selected user(s)?`)) {
+                let failedCount = 0;
                 try {
                     for (const userId of selectedUsers) {
-                        const { error } = await supabaseClient.from('user_profile').delete().eq('user_id', userId);
-                        if (error) {
-                            console.error('Error deleting user:', error);
+                        try {
+                            await deleteUserRecords(userId);
+                        } catch (error) {
+                            failedCount++;
+                            console.error(`Error deleting user ${userId}:`, error);
                         }
                     }
                     selectedUsers.clear();
-                    document.getElementById('manageMessage').innerHTML = 
-                        `<div class="success">✅ Deleted ${selectedUsers.size} user(s)</div>`;
+                    if (failedCount > 0) {
+                        document.getElementId('manageMessage').innerHTML =
+                            `<div class="error">⚠️ Failed to delete ${failedCount} user(s). Check console for details.</div>`;
+                    } else {
+                        document.getElementById('manageMessage').innerHTML = 
+                            `<div class="success">✅ Deleted ${selectedUsers.size} user(s)</div>`;
+                    }
                     loadManageUsers();
                     renderUserList();
                 } catch (err) {
@@ -1252,9 +1276,16 @@
         async function deleteAll() {
             if (confirm(`Delete ALL users and their data?`)) {
                 try {
-                    const { error } = await supabaseClient.from('user_profile').delete().neq('user_id', '');
-                    if (error) {
-                        console.error('Error deleting all users:', error);
+                    const { error: adventureError } = await supabaseClient.from('user_adventure').delete().neq('user_id', '');
+                    if (adventureError) {
+                        console.error('Error deleting adventures:', adventureError);
+                        alert('Failed to delete adventure history. Users not removed.');
+                        return;
+                    }
+
+                    const { error: profileError } = await supabaseClient.from('user_profile').delete().neq('user_id', '');
+                    if (profileError) {
+                        console.error('Error deleting all users:', profileError);
                         alert('Failed to delete all users.');
                         return;
                     }
@@ -1281,21 +1312,36 @@
             }
         }
 
+        function enrichUserWithStoredProgress(userRecord, normalizedUser) {
+            const users = UserAuth.getUsers();
+            const userId = normalizedUser.id;
+            if (!userId) return normalizedUser;
+
+            const storedUser = users.find(u => (u.id || u.user_id) === userId);
+            if (storedUser && storedUser.progress) {
+                normalizedUser.progress = storedUser.progress;
+            }
+            return normalizedUser;
+        }
+
         // Login user
         function loginUser(user) {
             const normalizedUser = {
                 id: user.user_id || user.id,
+                user_id: user.user_id || user.id,
                 firstName: user.first_name || user.firstName || '',
                 lastName: user.last_name || user.lastName || '',
                 gamertag: user.gamertag || '',
                 dateOfBirth: user.date_of_birth || user.dateOfBirth || '',
                 handedness: user.handedness || 'right',
                 yearGroup: getEffectiveYearGroupValue(user),
-                pin: user.pin || ''
+                pin: user.pin || '',
+                progress: user.progress || {}
             };
 
             if (typeof UserAuth !== 'undefined' && typeof UserAuth.setCurrentUser === 'function') {
-                UserAuth.setCurrentUser(normalizedUser);
+                const mergedUser = enrichUserWithStoredProgress(user, normalizedUser);
+                UserAuth.setCurrentUser(mergedUser);
             }
 
             if (typeof sessionStorage !== 'undefined') {

@@ -149,6 +149,15 @@ const UserAuth = {
         const user = this.getCurrentUser();
         if (!user) return;
 
+        const userId = user.id || user.user_id;
+        if (!userId) {
+            console.warn('updateProgress called without a valid user id');
+            return;
+        }
+        if (!user.id) {
+            user.id = userId;
+        }
+
         if (!user.progress) user.progress = {};
         if (!user.progress[mission]) user.progress[mission] = {};
         
@@ -163,11 +172,13 @@ const UserAuth = {
 
         // Update in users list
         const users = this.getUsers();
-        const index = users.findIndex(u => u.id === user.id);
+        const index = users.findIndex(u => (u.id || u.user_id) === userId);
         if (index !== -1) {
-            users[index] = user;
-            this.saveUsers(users);
+            users[index] = { ...users[index], ...user };
+        } else {
+            users.push({ ...user });
         }
+        this.saveUsers(users);
     },
 
     /**

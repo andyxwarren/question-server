@@ -312,6 +312,20 @@ class QuestionApp {
     }
 
     /**
+     * Update the action button label based on submission state
+     */
+    updateActionButtonLabel() {
+        if (!this.actionBtn) return;
+        if (this.hasSubmittedCurrent) {
+            this.actionBtn.textContent = this.currentIndex === this.questions.length - 1
+                ? 'Finish'
+                : 'Next →';
+        } else {
+            this.actionBtn.textContent = 'Submit Answer';
+        }
+    }
+
+    /**
      * Show or hide on-screen keyboard (based on question type and user preference)
      */
     toggleKeyboard(show) {
@@ -840,6 +854,11 @@ class QuestionApp {
         // Metadata now shown in level indicator bar
         this.updateProgressionUI();
 
+        // Reset feedback area for the new question
+        if (this.feedbackArea) {
+            this.feedbackArea.innerHTML = '';
+            this.feedbackArea.className = 'feedback hidden';
+        }
 
         // Handle hints
         this.hintContainer.innerHTML = ''; // Clear previous hint button
@@ -881,20 +900,28 @@ class QuestionApp {
             }
         }
 
+        // Default state for new question
+        this.hasSubmittedCurrent = false;
+        this.updateActionButtonLabel();
+
         // Check if already answered
         const previousAnswer = this.userAnswers.get(question.id);
         if (previousAnswer) {
             if (question.questionType === 'multiple_choice') {
                 this.selectedOption = previousAnswer.answer;
                 this.highlightSelectedOption(previousAnswer.answer);
-            } else {
+            } else if (this.answerInput) {
                 this.answerInput.value = previousAnswer.answer;
             }
             this.showFeedback(previousAnswer.isCorrect, question.correctAnswer);
             this.hasSubmittedCurrent = true;
+            this.updateActionButtonLabel();
         } else {
-            this.feedbackArea.classList.add('hidden');
-            this.hasSubmittedCurrent = false;
+            if (this.feedbackArea) {
+                this.feedbackArea.innerHTML = '';
+                this.feedbackArea.className = 'feedback hidden';
+            }
+            this.updateActionButtonLabel();
             // Reset keyboard display for new question
         }
 
@@ -1113,13 +1140,16 @@ class QuestionApp {
 
         // Update progression
         this.pundexAnswerHistory.push(isCorrect);
-        this.checkProgression();
+        const progressionResult = this.checkProgression();
+        if (progressionResult === 'newQuestion' || progressionResult === 'missionComplete') {
+            return;
+        }
 
         // Save partial progress after each question
         this.savePartialProgress();
 
         this.showFeedback(isCorrect, question.correctAnswer);
-        this.actionBtn.textContent = this.currentIndex === this.questions.length - 1 ? 'Finish' : 'Next →';
+        this.updateActionButtonLabel();
 
         if (question.questionType === 'multiple_choice') {
             document.querySelectorAll('.choice-btn').forEach(btn => { btn.disabled = true; });
@@ -1754,7 +1784,14 @@ class QuestionApp {
                 const currentSchoolLevelIndex = this.schoolLevels.indexOf(String(this.currentSchoolLevel));
                 if (currentSchoolLevelIndex < this.schoolLevels.length - 1) {
                     const oldLevel = this.currentSchoolLevel;
-                    this.currentSchoolLevel = parseInt(this.schoolLevels[currentSchoolLevelIndex + 1]);
+                    const nextLevel = parseInt(this.schoolLevels[currentSchoolLevelIndex + 1]);
+                    
+                    if (this.isInitialiseMode) {
+                        this.showInitialiseLevelCompleteOverlay(oldLevel, nextLevel);
+                        return;
+                    }
+
+                    this.currentSchoolLevel = nextLevel;
                     this.currentPundex = this.pundexTiers[0]; // Reset to Ignition
                     this.showLevelUpAnimation(oldLevel, this.currentSchoolLevel);
                 } else {
@@ -1770,11 +1807,34 @@ class QuestionApp {
             this.currentIndex = 0; // Start from the first question of the new pool
             this.displayQuestion(); // Display the new question
         } else if (this.isInitialiseMode) {
-            if (totalAnswered >= 15 && correctInLast10 < 7) {
-                this.handlePowerDownToCharging();
+            let shouldPowerDown = false;
+
+            if (totalAnswered < 10) {
+                const remainingInFirstTen = 10 - totalAnswered;
+                const maxPossibleScore = totalCorrect + remainingInFirstTen;
+                if (maxPossibleScore <= 4) {
+                    shouldPowerDown = true;
+                }
+            } else if (totalAnswered === 10) {
+                if (totalCorrect <= 4) {
+                    shouldPowerDown = true;
+                }
+            } else {
+                if (correctInLast10 <= 4) {
+                    shouldPowerDown = true;
+                }
+            }
+
+            if (shouldPowerDown) {
+                const poweredDown = this.handlePowerDownToCharging();
+                if (poweredDown) {
+                    this.updateProgressionUI();
+                    return 'newQuestion';
+                }
             }
         }
         this.updateProgressionUI();
+        return 'continue';
     }
 
     handlePowerDownToCharging() {
@@ -1782,7 +1842,7 @@ class QuestionApp {
 
         // Already at the lowest tier – can't power down further
         if (currentIndex <= 0) {
-            return;
+            return false;
         }
 
         const previousTier = this.pundexTiers[currentIndex - 1];
@@ -1790,10 +1850,17 @@ class QuestionApp {
         this.currentPundex = previousTier;
         this.pundexAnswerHistory = [];
         this.userAnswers.clear();
+        if (this.isInitialiseMode && this.currentMission) {
+            // Record that the higher tier is no longer complete (ensures PDI reflects drop)
+            this.markPundexNeedsWork(this.currentMission, this.currentSchoolLevel, this.pundexTiers[currentIndex], true);
+            // Reinforce that the new tier requires practice
+            this.markPundexNeedsWork(this.currentMission, this.currentSchoolLevel, previousTier, true);
+        }
         this.showNotification(`Power down! Dropping to ${previousTierName} level.`, 'warning');
         this.setQuestionPool();
         this.currentIndex = 0;
         this.displayQuestion();
+        return true;
     }
 
     setQuestionPool() {
@@ -1966,6 +2033,31 @@ class QuestionApp {
     }
 
     /**
+     * Show initialise-specific overlay when a level is completed
+     */
+    showInitialiseLevelCompleteOverlay(currentLevel, nextLevel) {
+        const missionName = this.currentMission || 'this mission';
+        const levelLabel = currentLevel ? `Level ${currentLevel}` : 'this level';
+        const nextLevelLabel = nextLevel ? `Level ${nextLevel}` : 'the next stage';
+        const headingText = `MISSION COMPLETE AT ${levelLabel.toUpperCase()}`;
+
+        const overlayPayload = {
+            missionName,
+            levelLabel,
+            nextLevelLabel,
+            headingText
+        };
+
+        try {
+            sessionStorage.setItem('initialiseCompleteOverlay', JSON.stringify(overlayPayload));
+        } catch (err) {
+            console.warn('Unable to persist initialise overlay payload', err);
+        }
+
+        window.location.href = 'progress_dashboard_initialise.html';
+    }
+
+    /**
      * Save user progress for a mission/level/pundex
      * @param {boolean} completed - Whether the pundex is fully completed (power-up achieved)
      */
@@ -2010,6 +2102,29 @@ class QuestionApp {
     }
 
     /**
+     * Ensure a pundex tier is recorded as needing work (removes assumed-complete state)
+     */
+    markPundexNeedsWork(mission, level, pundex, resetStats = false) {
+        if (!this.currentUser || typeof UserAuth === 'undefined') {
+            return;
+        }
+        const existingProgress = UserAuth.getProgress(mission, level) || { pundexCompleted: {} };
+        const existingPundexData = existingProgress.pundexCompleted[pundex] || {};
+
+        existingProgress.pundexCompleted[pundex] = {
+            ...existingPundexData,
+            completed: false,
+            questionsAnswered: resetStats ? 0 : (existingPundexData.questionsAnswered || 0),
+            correctAnswers: resetStats ? 0 : (existingPundexData.correctAnswers || 0),
+            rollingScore: resetStats ? 0 : (existingPundexData.rollingScore ?? existingPundexData.correctAnswers ?? 0),
+            lastUpdated: new Date().toISOString()
+        };
+
+        UserAuth.updateProgress(mission, level, existingProgress);
+        console.log(`Marked ${mission} Level ${level} - ${pundex} as needing work (assumed removed).`);
+    }
+
+    /**
      * Save partial progress after each question answer
      */
     savePartialProgress() {
@@ -2043,11 +2158,13 @@ class QuestionApp {
                 const pundexProgress = levelProgress?.pundexCompleted?.[pundex];
                 const isCompleted = pundexProgress?.completed;
 
+                const hasRecordedProgress = Boolean(levelProgress?.pundexCompleted?.[pundex]);
                 const skipAssumedPundex = (
                     this.isInitialiseMode &&
                     this.urlStartLevel &&
                     level === this.urlStartLevel &&
-                    pundexIdx < 2 // Skip Ignition & Charging
+                    pundexIdx < 2 && // Skip Ignition & Charging
+                    !hasRecordedProgress
                 );
 
                 if (skipAssumedPundex) {

@@ -482,6 +482,177 @@
             cursor: pointer;
         }
 
+        .mission-row td:first-child {
+            padding: 14px 16px;
+            background: #eef2ff;
+            border-left: 4px solid #6366f1;
+            font-weight: 600;
+            color: #312e81;
+            text-transform: none;
+            letter-spacing: 0.2px;
+            position: relative;
+        }
+
+        .mission-name-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            position: relative;
+        }
+
+        .mission-complete-tick {
+            margin-left: auto;
+            width: 26px;
+            height: 26px;
+            border-radius: 9px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 13px;
+            color: #fff;
+            background: linear-gradient(135deg, #bf6bff, #6c1ed7 70%, #4b11a5);
+            box-shadow: 0 8px 20px rgba(102, 51, 204, 0.35), 0 0 10px rgba(158, 99, 255, 0.55);
+        }
+
+        .mission-blocker-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(12, 14, 26, 0.6);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 16px;
+            z-index: 1100;
+            backdrop-filter: blur(4px);
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 200ms ease;
+        }
+
+        .mission-blocker-overlay.open {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .mission-blocker-card {
+            width: 100%;
+            max-width: 360px;
+            background: #ffffff;
+            border-radius: 18px;
+            box-shadow: 0 20px 50px rgba(10, 12, 28, 0.35);
+            padding: 20px;
+            text-align: center;
+            animation: popIn 220ms ease;
+        }
+
+        .mission-blocker-icon {
+            width: 54px;
+            height: 54px;
+            margin: 0 auto 12px;
+            border-radius: 18px;
+            background: radial-gradient(circle at top, #8e24aa, #5a189a);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            font-size: 26px;
+            box-shadow: 0 10px 20px rgba(90, 24, 154, 0.35);
+        }
+
+        .mission-blocker-title {
+            font-size: 18px;
+            font-weight: 700;
+            color: #232946;
+            margin-bottom: 6px;
+        }
+
+        .mission-blocker-message {
+            font-size: 14px;
+            line-height: 1.4;
+            color: #4b4f6a;
+            margin-bottom: 16px;
+        }
+
+        .mission-blocker-button {
+            width: 100%;
+            border: none;
+            border-radius: 12px;
+            padding: 12px 16px;
+            font-size: 15px;
+            font-weight: 600;
+            background: linear-gradient(135deg, #5a189a, #7b2cbf);
+            color: #fff;
+            box-shadow: 0 10px 25px rgba(91, 44, 191, 0.35);
+        }
+
+        @keyframes popIn {
+            from {
+                transform: translateY(10px) scale(0.95);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0) scale(1);
+                opacity: 1;
+            }
+        }
+
+        .guidance-card {
+            text-align: left;
+        }
+
+        .guidance-header {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .guidance-card .mission-blocker-icon {
+            margin: 0;
+            flex-shrink: 0;
+        }
+
+        .guidance-title {
+            font-size: 18px;
+            font-weight: 800;
+            line-height: 1.1;
+            color: #232946;
+        }
+
+        .guidance-title span {
+            display: block;
+        }
+
+        .guidance-list {
+            list-style: none;
+            margin: 0 0 18px 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            color: #343853;
+            font-size: 14px;
+        }
+
+        .guidance-list li {
+            display: flex;
+            gap: 8px;
+            align-items: flex-start;
+        }
+
+        .guidance-list li::before {
+            content: '•';
+            color: #8e24aa;
+            font-size: 18px;
+            line-height: 1;
+            margin-top: -2px;
+        }
+
+        .guidance-card .mission-blocker-button {
+            margin-top: 6px;
+        }
+
         /* Mobile styles */
         @media (max-width: 767px) {
             .launch-btn {
@@ -1415,6 +1586,37 @@
     </div>
 
 
+    <!-- Mission complete blocker -->
+    <div class="mission-blocker-overlay" id="missionBlockerOverlay" aria-hidden="true">
+        <div class="mission-blocker-card" role="alertdialog" aria-labelledby="missionBlockerTitle" aria-describedby="missionBlockerMessage">
+            <div class="mission-blocker-icon">✓</div>
+            <div class="mission-blocker-title" id="missionBlockerTitle">Mission Complete</div>
+            <p class="mission-blocker-message" id="missionBlockerMessage">Great work! This mission is finished at this level.</p>
+            <button class="mission-blocker-button" id="missionBlockerButton" type="button">Pick a different mission</button>
+        </div>
+    </div>
+
+    <!-- Initialisation guidance overlay -->
+    <div class="mission-blocker-overlay" id="guidanceOverlay" aria-hidden="true">
+        <div class="mission-blocker-card guidance-card" role="dialog" aria-labelledby="guidanceTitle" aria-describedby="guidanceList">
+            <div class="guidance-header">
+                <div class="mission-blocker-icon">ℹ️</div>
+                <div class="guidance-title" id="guidanceTitle">
+                    <span>Initialisation</span>
+                    <span>Guidance</span>
+                </div>
+            </div>
+            <ul class="guidance-list" id="guidanceList">
+                <li>Start one level below the pupil’s year; Ignition & Charging are already completed.</li>
+                <li>Ready-tier questions calibrate each pupil’s starting point.</li>
+                <li>Power Up triggers after 5 in a row correct or 7/10 correct (overall or rolling window).</li>
+                <li>Power Down triggers once 10 answers are logged and the score is 4/10 or less (including early when 5/10 is no longer possible).</li>
+                <li>Complete all missions at this level to finish Initialisation before moving up.</li>
+            </ul>
+            <button class="mission-blocker-button" id="guidanceButton" type="button">Got it</button>
+        </div>
+    </div>
+
     <!-- Key Modal -->
     <div class="key-modal-overlay" id="keyModalOverlay">
         <div class="key-modal">
@@ -1466,13 +1668,7 @@
             if (aboutBtn) {
                 aboutBtn.style.display = 'flex';
                 aboutBtn.addEventListener('click', () => {
-                    alert(
-`Initialisation Guidance:
-• Starts one level below the pupil’s year with Ignition & Charging already complete.
-• Ready-tier questions calibrate the correct starting point.
-• Power Up triggers after 5 in a row correct or 7/10 correct (overall or rolling window).
-• After 15 answers without 7/10 in the rolling window, the pupil powers down a tier for more practice.`
-                    );
+                    showGuidanceOverlay();
                     const dropdown = root.querySelector('.user-header-dropdown');
                     dropdown?.classList.remove('open');
                 }, { once: false });
@@ -1493,7 +1689,125 @@
             ? Math.max(1, Math.min(6, userYearGroup - 1))
             : null;
 
+        // Mission completion blocker helpers
+        const LEVEL_COMPLETE_OVERLAY_FADE_DURATION = 600;
+        const missionBlockerOverlay = document.getElementById('missionBlockerOverlay');
+        const missionBlockerTitle = document.getElementById('missionBlockerTitle');
+        const missionBlockerMessage = document.getElementById('missionBlockerMessage');
+        const missionBlockerButton = document.getElementById('missionBlockerButton');
+        const guidanceOverlay = document.getElementById('guidanceOverlay');
+        const guidanceButton = document.getElementById('guidanceButton');
+        let lastFocusedElement = null;
+
+        function showMissionBlocker(missionName, level) {
+            if (!missionBlockerOverlay) return;
+            lastFocusedElement = document.activeElement;
+            missionBlockerTitle.textContent = `${missionName} completed`;
+            missionBlockerMessage.textContent = `You have finished ${missionName} at Level ${level}. Please select a different mission.`;
+            missionBlockerOverlay.classList.add('open');
+            missionBlockerOverlay.setAttribute('aria-hidden', 'false');
+            missionBlockerButton.focus();
+        }
+
+        function hideMissionBlocker() {
+            if (!missionBlockerOverlay) return;
+            missionBlockerOverlay.classList.remove('open');
+            missionBlockerOverlay.setAttribute('aria-hidden', 'true');
+
+            if (lastFocusedElement && typeof lastFocusedElement.focus === 'function') {
+                lastFocusedElement.focus();
+            }
+        }
+
+        missionBlockerButton?.addEventListener('click', hideMissionBlocker);
+        missionBlockerOverlay?.addEventListener('click', (event) => {
+            if (event.target === missionBlockerOverlay) {
+                hideMissionBlocker();
+            }
+        });
+
+        function showGuidanceOverlay() {
+            if (!guidanceOverlay) return;
+            lastFocusedElement = document.activeElement;
+            guidanceOverlay.classList.add('open');
+            guidanceOverlay.setAttribute('aria-hidden', 'false');
+            guidanceButton?.focus();
+        }
+
+        function hideGuidanceOverlay() {
+            if (!guidanceOverlay) return;
+            guidanceOverlay.classList.remove('open');
+            guidanceOverlay.setAttribute('aria-hidden', 'true');
+            if (lastFocusedElement && typeof lastFocusedElement.focus === 'function') {
+                lastFocusedElement.focus();
+            }
+        }
+
+        guidanceButton?.addEventListener('click', hideGuidanceOverlay);
+        guidanceOverlay?.addEventListener('click', (event) => {
+            if (event.target === guidanceOverlay) {
+                hideGuidanceOverlay();
+            }
+        });
+
         // Add user header
+        function hasCompletedInitialiseMission(missionName, level) {
+            if (!missionName || !level) return false;
+            const levelProgress = UserAuth.getProgress(missionName, level);
+            return Boolean(levelProgress?.pundexCompleted?.Exceeding?.completed);
+        }
+
+        function showInitialiseReturnOverlay(payload) {
+            if (!payload) return;
+            const overlay = document.createElement('div');
+            overlay.className = 'level-up-overlay';
+            overlay.setAttribute('role', 'dialog');
+            overlay.setAttribute('aria-live', 'assertive');
+            overlay.innerHTML = `
+                <div class="level-up-content">
+                    <div class="level-up-stars">
+                        <span class="pundex-star ignition">★</span>
+                        <span class="pundex-star charging">★</span>
+                        <span class="pundex-star ready">★</span>
+                        <span class="pundex-star power-up">★</span>
+                    </div>
+                    <div class="level-up-text">${payload.headingText || 'MISSION COMPLETE'}</div>
+                    <div class="level-up-message">
+                        Well done for completing ${payload.missionName || 'this mission'} at ${payload.levelLabel || 'this level'}.
+                    </div>
+                    <div class="level-up-message" style="margin-bottom: 24px;">
+                        Complete all the missions at ${payload.levelLabel || 'this level'} to gain access to ${payload.nextLevelLabel || 'the next stage'}.
+                    </div>
+                    <button class="mission-complete-btn" type="button">
+                        Return to Progress Dashboard
+                    </button>
+                </div>
+            `;
+
+            const closeOverlay = () => {
+                if (!overlay.classList.contains('fade-out')) {
+                    overlay.classList.add('fade-out');
+                    setTimeout(() => overlay.remove(), LEVEL_COMPLETE_OVERLAY_FADE_DURATION);
+                }
+            };
+
+            const button = overlay.querySelector('.mission-complete-btn');
+            if (button) {
+                button.addEventListener('click', closeOverlay);
+                button.addEventListener('keydown', event => {
+                    if (event.key === 'Enter') {
+                        event.preventDefault();
+                        closeOverlay();
+                    }
+                });
+            }
+
+            document.body.appendChild(overlay);
+            button?.focus();
+
+            setTimeout(closeOverlay, 5000);
+        }
+
         document.addEventListener('DOMContentLoaded', () => {
             const headerContainer = document.getElementById('userHeaderContainer');
             const userHeader = UserAuth.createUserHeader();
@@ -1532,6 +1846,17 @@
                     e.currentTarget.classList.remove('open');
                 }
             });
+
+            const storedOverlay = sessionStorage.getItem('initialiseCompleteOverlay');
+            if (storedOverlay) {
+                sessionStorage.removeItem('initialiseCompleteOverlay');
+                try {
+                    const payload = JSON.parse(storedOverlay);
+                    showInitialiseReturnOverlay(payload);
+                } catch (error) {
+                    console.warn('Unable to parse initialise overlay payload', error);
+                }
+            }
         });
 
         // Pundex tier mapping
@@ -1734,6 +2059,7 @@
                         pundexEl.classList.remove('assumed-complete');
                         const tierName = pundexTiers[pundexIdx];
                         const pundexProgress = levelProgress?.pundexCompleted?.[tierName];
+                        const hasRecordedProgress = Boolean(pundexProgress);
                         const isCompleted = pundexProgress?.completed;
                         const questionsAnswered = pundexProgress?.questionsAnswered || 0;
                         const correctAnswers = pundexProgress?.correctAnswers || 0;
@@ -1757,7 +2083,7 @@
                         }
 
                         // Simulate Ignition & Charging as assumed-complete
-                        if (pundexIdx <= 1 && !pundexEl.classList.contains('completed')) {
+                        if (pundexIdx <= 1 && !hasRecordedProgress && !pundexEl.classList.contains('completed')) {
                             pundexEl.classList.add('assumed-complete');
                         }
                     });
@@ -2284,9 +2610,19 @@
 
             const launchLevel = determineLaunchLevel();
             const launchPundex = restrictToSingleLevel ? 'Meeting' : (cells[currentLevelNum - 1]?.querySelector('.pundex.partial, .pundex') ? undefined : undefined);
+            const hasCompletedLaunchLevel = hasCompletedInitialiseMission(missionName, launchLevel);
             
-            // Wrap mission name in div with span and launch button
-            firstCell.innerHTML = `<div><span class="mission-name">${missionName}</span><button class="launch-btn" data-mission="${missionName}" data-cdr="${cdrCode}" data-level="${launchLevel}" data-pundex="${restrictToSingleLevel ? 'Meeting' : ''}">Launch</button></div>`;
+            // Wrap mission name in div with span and launch button plus completion badge
+            const tickHTML = hasCompletedLaunchLevel
+                ? `<span class="mission-complete-tick">✓</span>`
+                : '';
+            firstCell.innerHTML = `
+                <div class="mission-name-wrapper">
+                    <span class="mission-name">${missionName}</span>
+                    ${tickHTML}
+                    <button class="launch-btn" data-mission="${missionName}" data-cdr="${cdrCode}" data-level="${launchLevel}" data-pundex="${restrictToSingleLevel ? 'Meeting' : ''}">Launch</button>
+                </div>
+            `;
         });
 
         // Add click handler for current-level cells (desktop only)
@@ -2301,6 +2637,10 @@
                     const mission = cell.dataset.mission;
                     const preferredLevel = parseInt(cell.dataset.level, 10);
                     const targetLaunchLevel = determineLaunchLevel(preferredLevel);
+                    if (hasCompletedInitialiseMission(mission, targetLaunchLevel)) {
+                        showMissionBlocker(mission, targetLaunchLevel);
+                        return;
+                    }
                     window.location.href = `Q_Server_initialise.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${targetLaunchLevel}`;
                 });
             });
@@ -2406,12 +2746,16 @@
 
         // Make mission cells clickable on all views (launch buttons are now hidden)
         document.querySelectorAll('.mission-row td:first-child').forEach(cell => {
-            cell.addEventListener('click', (e) => {
+            cell.addEventListener('click', () => {
                 const btn = cell.querySelector('.launch-btn');
                 if (btn) {
                     const cdr = btn.dataset.cdr;
                     const mission = btn.dataset.mission;
-                    const level = btn.dataset.level;
+                    const level = parseInt(btn.dataset.level, 10);
+                    if (hasCompletedInitialiseMission(mission, level)) {
+                        showMissionBlocker(mission, level);
+                        return;
+                    }
                     window.location.href = `Q_Server_initialise.html?cdr=${encodeURIComponent(cdr)}&mission=${encodeURIComponent(mission)}&level=${level}`;
                 }
             });
