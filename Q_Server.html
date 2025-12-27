@@ -117,22 +117,34 @@
             if (user) {
                 // Add user header to fixed container (for non-question views)
                 const headerContainer = document.getElementById('userHeaderContainer');
-                const progressMenu = [
+                const qServerMenuItems = [
                     {
                         id: 'menuProgressBtn',
                         icon: '📊',
                         labelLines: ['Progress'],
                         href: 'Progress_Dashboard_dynamic_levels.html'
+                    },
+                    {
+                        id: 'menuPathwaySelectorBtn',
+                        icon: '🧭',
+                        labelLines: ['Pathway', 'Selector'],
+                        href: 'Pathway_Selector.html'
+                    },
+                    {
+                        id: 'menuLogoutBtn',
+                        icon: '🚪',
+                        labelLines: ['Logout'],
+                        action: 'logout'
                     }
                 ];
-                const userHeader = UserAuth.createUserHeader({ menuItems: progressMenu });
+                const userHeader = UserAuth.createUserHeader({ menuItems: qServerMenuItems });
                 if (userHeader) {
                     headerContainer.appendChild(userHeader);
                 }
                 
                 // Also add to inline header (for question view)
                 const inlineHeaderContainer = document.getElementById('header-user-menu');
-                const inlineUserHeader = UserAuth.createUserHeader({ menuItems: progressMenu });
+                const inlineUserHeader = UserAuth.createUserHeader({ menuItems: qServerMenuItems });
                 if (inlineUserHeader && inlineHeaderContainer) {
                     inlineHeaderContainer.appendChild(inlineUserHeader);
                 }
