@@ -833,6 +833,35 @@
         </ul>
     </div>
 
+    <div id="session-17" class="session">
+        <h2>Session Seventeen: December 27-28, 2025</h2>
+        <p>Polished the Initialise journey end-to-end: refreshed overlays, tightened visual language, and addressed the new Supabase account-creation error.</p>
+
+        <h3>Initialise Guidance & Mission Complete UI</h3>
+        <ul>
+            <li><strong>Guidance Overlay Refresh</strong>: Rebuilt the Initialisation Guidance popup using the beloved mission-blocker styles (card, icon header, bullet list) so it now matches the rest of the initialise experience on desktop and mobile.</li>
+            <li><strong>Mission Complete Tick</strong>: Restyled the in-table completion tick to the glowing purple pill used elsewhere, then resized the badge to 26×26px so single-line mission rows no longer stretch vertically.</li>
+            <li><strong>Level Complete Return Flow</strong>: Instead of building the overlay inline, <code>showInitialiseLevelCompleteOverlay()</code> now stores a payload in <code>sessionStorage</code>, redirects immediately to <code>progress_dashboard_initialise.html</code>, and that page reconstructs and auto-dismisses the overlay after 5s—eliminating the “jumpy” refresh.</li>
+        </ul>
+
+        <h3>Power-Up Overlay & Animation Tweaks</h3>
+        <ul>
+            <li><strong>Pill-Shaped Lights</strong>: Converted the four power-up lights into pill badges that read better on top of the celebratory background.</li>
+            <li><strong>Staircase Layout</strong>: After feedback about overlapping circles, reauthored the CSS so the pills climb from bottom-left to top-right in a clear staircase on both desktop (absolute positioning) and mobile (scaled offsets).</li>
+        </ul>
+
+        <h3>Initialise Mission Complete Glow Card</h3>
+        <ul>
+            <li><strong>Legacy Styling Restored</strong>: Recreated the glowing, full-width overlay that previously shipped with Question Server, including the four coloured Pundex stars (Ignition/Charging/Ready/Power Up), uppercase heading, and centered CTA button.</li>
+            <li><strong>Shared Stylesheet Hook-Up</strong>: Added an explicit <code>&lt;link rel="stylesheet" href="styles.css"&gt;</code> to <code>progress_dashboard_initialise.html</code> so the overlay reuses the main CSS bundle rather than falling back to browser defaults.</li>
+        </ul>
+
+        <h3>Account Creation Reliability</h3>
+        <ul>
+            <li><strong>Gamertag Collision Guard</strong>: Resolved the “Account creation failed. Please try again.” Supabase error by checking for existing <code>user_profile.gamertag</code> records before inserts. Users now get a clear “Gamertag already taken” message instead of a generic failure.</li>
+        </ul>
+    </div>
+
     <div id="future-notes" class="session">
         <h2>Future Notes & Considerations</h2>
         <ul>

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Initialising User</title>
+    <link rel="stylesheet" href="styles.css">
     <style>
         * {
             box-sizing: border-box;
@@ -1759,26 +1760,31 @@
 
         function showInitialiseReturnOverlay(payload) {
             if (!payload) return;
+            const missionName = payload.missionName || 'this mission';
+            const levelLabel = payload.levelLabel || 'this level';
+            const nextLevelLabel = payload.nextLevelLabel || 'the next stage';
+            const headingText = payload.headingText || 'MISSION COMPLETE';
+
             const overlay = document.createElement('div');
             overlay.className = 'level-up-overlay';
             overlay.setAttribute('role', 'dialog');
             overlay.setAttribute('aria-live', 'assertive');
             overlay.innerHTML = `
-                <div class="level-up-content">
-                    <div class="level-up-stars">
-                        <span class="pundex-star ignition">★</span>
-                        <span class="pundex-star charging">★</span>
-                        <span class="pundex-star ready">★</span>
-                        <span class="pundex-star power-up">★</span>
+                <div class="initialise-glow-card" tabindex="-1">
+                    <div class="initialise-glow-stars">
+                        <span class="glow-star ignition">★</span>
+                        <span class="glow-star charging">★</span>
+                        <span class="glow-star ready">★</span>
+                        <span class="glow-star power-up">★</span>
                     </div>
-                    <div class="level-up-text">${payload.headingText || 'MISSION COMPLETE'}</div>
-                    <div class="level-up-message">
-                        Well done for completing ${payload.missionName || 'this mission'} at ${payload.levelLabel || 'this level'}.
-                    </div>
-                    <div class="level-up-message" style="margin-bottom: 24px;">
-                        Complete all the missions at ${payload.levelLabel || 'this level'} to gain access to ${payload.nextLevelLabel || 'the next stage'}.
-                    </div>
-                    <button class="mission-complete-btn" type="button">
+                    <h2 class="initialise-glow-title">${headingText}</h2>
+                    <p class="initialise-glow-body">
+                        Well done for completing <strong>${missionName}</strong> at <strong>${levelLabel}</strong>.
+                    </p>
+                    <p class="initialise-glow-body">
+                        Complete all the missions at ${levelLabel} to gain access to ${nextLevelLabel}.
+                    </p>
+                    <button class="initialise-glow-btn" type="button">
                         Return to Progress Dashboard
                     </button>
                 </div>
@@ -1791,7 +1797,7 @@
                 }
             };
 
-            const button = overlay.querySelector('.mission-complete-btn');
+            const button = overlay.querySelector('.level-up-btn');
             if (button) {
                 button.addEventListener('click', closeOverlay);
                 button.addEventListener('keydown', event => {
@@ -1803,6 +1809,8 @@
             }
 
             document.body.appendChild(overlay);
+            const focusTarget = overlay.querySelector('.initialise-glow-card');
+            focusTarget?.focus();
             button?.focus();
 
             setTimeout(closeOverlay, 5000);

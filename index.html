@@ -1405,6 +1405,30 @@
 
             const yearGroup = calculateYearGroup(dateOfBirth);
 
+            // Check if gamertag is already taken
+            try {
+                const { data: existingUsers, error: checkError } = await supabaseClient
+                    .from('user_profile')
+                    .select('user_id')
+                    .eq('gamertag', gamertag)
+                    .limit(1);
+
+                if (checkError) {
+                    console.error('Error checking gamertag uniqueness:', checkError);
+                    showError('Account creation failed. Please try again.');
+                    return;
+                }
+
+                if (existingUsers && existingUsers.length > 0) {
+                    showError('Gamertag already taken. Please choose another.');
+                    return;
+                }
+            } catch (err) {
+                console.error('Failed to check gamertag uniqueness:', err);
+                showError('Account creation failed. Please try again.');
+                return;
+            }
+
             // Create user
             const user = {
                 id: generateUUID(),
