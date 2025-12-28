@@ -948,13 +948,13 @@ class QuestionApp {
                 if (labels[i]) {
                     inputHTML += `<label class="input-label">${labels[i].trim()}</label>`;
                 }
-                inputHTML += `<input type="text" class="answer-input sequence-part" autocomplete="off">`;
+                inputHTML += `<input type="text" class="answer-input sequence-part" autocomplete="off" inputmode="none">`;
                 inputHTML += '</div>';
             }
             inputHTML += '</div>';
             this.toggleKeyboard(true);
         } else {
-            inputHTML = `<input type="text" id="answer-input" class="answer-input" placeholder="Enter your answer..." autocomplete="off">`;
+            inputHTML = `<input type="text" id="answer-input" class="answer-input" placeholder="Enter your answer..." autocomplete="off" inputmode="none">`;
             this.toggleKeyboard(true);
         }
 
