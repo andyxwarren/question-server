@@ -2031,6 +2031,11 @@ margin-bottom: 15px;
     color: rgba(255, 255, 255, 0.9);
 }
 
+.initialise-level-label {
+    display: inline-block;
+    white-space: nowrap;
+}
+
 .initialise-glow-btn {
     margin-top: 30px;
     padding: 14px 46px;
