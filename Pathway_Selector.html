@@ -67,6 +67,7 @@
             height: 100%;
             flex-direction: column;
             align-items: center;
+            position: relative;
         }
 
         .page.active {
@@ -144,6 +145,17 @@
             margin-top: 5px;
         }
 
+        .welcome-break {
+            display: none;
+        }
+
+        .title.title-fdp {
+            font-size: clamp(0.7em, 2.8vw, 0.95em);
+            letter-spacing: 1px;
+            white-space: nowrap;
+            line-height: 1.05;
+        }
+
         /* --- Grid & Buttons --- */
         .arcade-button-container {
             display: grid;
@@ -156,8 +168,12 @@
             margin: 0 auto;
             overflow-y: auto;
             scrollbar-width: none;
+            position: relative;
         }
         .arcade-button-container::-webkit-scrollbar { display: none; }
+        .arcade-button-container.no-scroll {
+            overflow: visible !important;
+        }
 
         .arcade-button {
             font-family: 'Press Start 2P', cursive;
@@ -229,6 +245,31 @@
         .arcade-button:active:not(.blank) {
             box-shadow: 0 3px #222, 0 5px 10px #333a;
             transform: translateY(3px);
+        }
+
+        .scroll-indicator {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.7em;
+            color: #0ff;
+            text-shadow: 0 0 6px rgba(0, 255, 255, 0.6);
+            opacity: 0;
+            transition: opacity 0.2s ease;
+            pointer-events: none;
+            z-index: 5;
+        }
+
+        .scroll-indicator.scroll-indicator--top {
+            top: 78px;
+        }
+
+        .scroll-indicator.scroll-indicator--bottom {
+            bottom: 12px;
+        }
+
+        .scroll-indicator.visible {
+            opacity: 0.65;
         }
 
         /* --- Specific Sizing for FDP Page to fit 12 buttons --- */
@@ -309,6 +350,10 @@
                 background: transparent;
                 font-weight: bold !important;
             }
+
+            .welcome-break {
+                display: block;
+            }
             
             /* Hamburger menu - inside green border, doesn't extend beyond green line */
             #userHeaderContainer {
@@ -344,20 +389,34 @@
             /* 2 buttons per row on mobile - BIGGER buttons with BIGGER text */
             .arcade-button-container {
                 display: grid !important;
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(2, minmax(0, 1fr));
                 place-items: center;
+                justify-content: center;
+                align-content: flex-start;
                 row-gap: 24px;
                 column-gap: 26px;
-                padding: 110px 24px 10px; /* internal offset keeps buttons below header */
+                padding: 10px 24px 16px;
                 width: 100%;
                 max-width: 100%;
-                margin: -94px auto 10px; /* overlap upward so only a thin strip is visible */
+                margin: 10px auto 12px;
                 box-sizing: border-box;
                 overflow-y: auto; /* Buttons scroll inside container */
                 overflow-x: hidden;
-                max-height: calc(100% + 10px); /* compensate for the large padding-top */
+                flex: 1 1 auto;
+                max-height: none;
             }
-            
+            .scroll-indicator {
+                font-size: 0.6em;
+            }
+
+            .scroll-indicator.scroll-indicator--top {
+                top: 105px;
+            }
+
+            .scroll-indicator.scroll-indicator--bottom {
+                bottom: 18px;
+            }
+
             .arcade-button {
                 width: 130px;
                 height: 130px;
@@ -414,13 +473,13 @@
             
             <div class="arcade-button-container">
                 <button class="arcade-button nav-btn" onclick="showPage('worldNumberPage')">
-                    <span>Number &<br>Place Value</span>
+                    <span>Number &<br>Place<br>Value</span>
                 </button>
                 <button class="arcade-button nav-btn" onclick="showPage('worldCalculationsPage')">
                     <span class="long-text">Calculations<br>(+ - x ÷)</span>
                 </button>
                 <button class="arcade-button nav-btn" onclick="showPage('worldFDPPage')">
-                    <span>Fractions<br>Decimals<br>%</span>
+                    <span>Fractions<br>Decimals<br>Percentages</span>
                 </button>
                 <button class="arcade-button nav-btn" onclick="showPage('worldRatioPage')">
                     <span>Ratio &<br>Proportion</span>
@@ -457,8 +516,8 @@
             <div class="arcade-button-container">
                 <button class="arcade-button mission-btn" data-cdr="N1" data-mission="Counting"><span>Counting</span></button>
                 <button class="arcade-button mission-btn" data-cdr="N2" data-mission="Read, Write, Order & Compare"><span>Read, Write,<br>Order &<br>Compare</span></button>
-                <button class="arcade-button mission-btn" data-cdr="N3" data-mission="Place Value & Roman Numerals"><span>Place Value<br>& Roman<br>Numerals</span></button>
-                <button class="arcade-button mission-btn" data-cdr="N4" data-mission="Identify, Represent, Estimate & Round"><span class="compact-text">Identify,<br>Represent,<br>Estimate<br>& Round</span></button>
+                <button class="arcade-button mission-btn" data-cdr="N3" data-mission="Place Value & Roman Numerals"><span>Place<br>Value<br>& Roman<br>Numerals</span></button>
+                <button class="arcade-button mission-btn" data-cdr="N4" data-mission="Identify, Represent, Estimate & Round"><span>Identify,<br>Represent,<br>Estimate<br>& Round</span></button>
                 <button class="arcade-button mission-btn" data-cdr="N5" data-mission="Negative Numbers"><span>Negative<br>Numbers</span></button>
                 <button class="arcade-button mission-btn" data-cdr="N6" data-mission="Number Problems"><span>Number<br>Problems</span></button>
             </div>
@@ -477,8 +536,8 @@
                 <button class="arcade-button mission-btn" data-cdr="C3" data-mission="Estimate & Inverse"><span>Estimate &<br>Inverse</span></button>
                 <button class="arcade-button mission-btn" data-cdr="C4" data-mission="Add & Subtract Problems"><span>Add & Subtract<br>Problems</span></button>
                 <button class="arcade-button mission-btn" data-cdr="C5" data-mission="Properties of Number"><span>Properties<br>of Number</span></button>
-                <button class="arcade-button mission-btn" data-cdr="C6" data-mission="Mult & Div Mentally"><span>Mult & Div<br>Mentally</span></button>
-                <button class="arcade-button mission-btn" data-cdr="C7" data-mission="Mult & Div Written"><span>Mult & Div<br>Written</span></button>
+                <button class="arcade-button mission-btn" data-cdr="C6" data-mission="Mult & Div Mentally"><span>Multiply<br>& Divide<br>Mentally</span></button>
+                <button class="arcade-button mission-btn" data-cdr="C7" data-mission="Mult & Div Written"><span>Multiply<br>& Divide<br>Written</span></button>
                 <button class="arcade-button mission-btn" data-cdr="C8" data-mission="Solve Problems"><span>Solve<br>Problems</span></button>
                 <button class="arcade-button mission-btn" data-cdr="C9" data-mission="Order of Operations"><span>Order of<br>Operations</span></button>
             </div>
@@ -488,16 +547,16 @@
         <div id="worldFDPPage" class="page">
             <div class="breadcrumb-container"></div>
             <div class="title-area">
-                <h1 class="title">FRACTIONS, DECIMALS & %</h1>
+                <h1 class="title title-fdp">FRACTIONS, DECIMALS & %</h1>
                 <h2 class="subtitle">SELECT MISSION</h2>
             </div>
             <div class="arcade-button-container">
-                <button class="arcade-button mission-btn" data-cdr="F1" data-mission="Recognise & Count Fractions"><span>Recognise &<br>Count<br>Fractions</span></button>
+                <button class="arcade-button mission-btn" data-cdr="F1" data-mission="Recognise & Count Fractions"><span>Recognise<br>& Count<br>Fractions</span></button>
                 <button class="arcade-button mission-btn" data-cdr="F2" data-mission="Equivalent Fractions"><span>Equivalent<br>Fractions</span></button>
                 <button class="arcade-button mission-btn" data-cdr="F3" data-mission="Compare & Order"><span>Compare &<br>Order</span></button>
                 <button class="arcade-button mission-btn" data-cdr="F4" data-mission="Add & Subtract Fractions"><span>Add & Subtract<br>Fractions</span></button>
                 <button class="arcade-button mission-btn" data-cdr="F5" data-mission="Multiply & Divide"><span>Multiply &<br>Divide</span></button>
-                <button class="arcade-button mission-btn" data-cdr="F6" data-mission="Fractions / Decimals Equiv."><span>Fractions /<br>Decimals<br>Equiv.</span></button>
+                <button class="arcade-button mission-btn" data-cdr="F6" data-mission="Fractions & Decimals Equiv."><span>Fractions<br>& Decimals<br>Equivalent</span></button>
                 <button class="arcade-button mission-btn" data-cdr="F7" data-mission="Rounding Decimals"><span>Rounding<br>Decimals</span></button>
                 <button class="arcade-button mission-btn" data-cdr="F8" data-mission="Compare Decimals"><span>Compare<br>Decimals</span></button>
                 <button class="arcade-button mission-btn" data-cdr="F9" data-mission="Mult & Div Decimals"><span>Mult & Div<br>Decimals</span></button>
@@ -709,7 +768,7 @@
 
             // Inject Title on Main Page (PowerUp / Academy - centred)
             if (pageId === 'worldsPage') {
-                container.innerHTML = '<div class="welcome-message">PowerUp<br>Academy</div>';
+                container.innerHTML = '<div class="welcome-message">PowerUp<span class="welcome-break"></span> Academy</div>';
                 container.style.justifyContent = 'center';
                 return;
             }
@@ -780,9 +839,68 @@
             }
         });
 
+        const initScrollIndicators = () => {
+            const mobileQuery = window.matchMedia('(max-width: 480px)');
+
+            function attachIndicators(container) {
+                if (!container) return;
+                const hostPage = container.closest('.page');
+                if (!hostPage || hostPage.dataset.scrollIndicators === 'true') return;
+
+                const buttonCount = container.querySelectorAll('.arcade-button:not(.blank)').length;
+
+                const topIndicator = document.createElement('div');
+                topIndicator.className = 'scroll-indicator scroll-indicator--top';
+                topIndicator.textContent = '▲';
+
+                const bottomIndicator = document.createElement('div');
+                bottomIndicator.className = 'scroll-indicator scroll-indicator--bottom';
+                bottomIndicator.textContent = '▼';
+
+                hostPage.appendChild(topIndicator);
+                hostPage.appendChild(bottomIndicator);
+
+                hostPage.dataset.scrollIndicators = 'true';
+
+                const updateIndicators = () => {
+                    const scrollingEnabled = buttonCount > 6;
+
+                    hostPage.classList.toggle('scrollable-section', scrollingEnabled);
+                    container.classList.toggle('no-scroll', !scrollingEnabled);
+
+                    if (!mobileQuery.matches || !scrollingEnabled) {
+                        topIndicator.classList.remove('visible');
+                        bottomIndicator.classList.remove('visible');
+                        return;
+                    }
+                    const maxScroll = container.scrollHeight - container.clientHeight;
+                    const current = container.scrollTop;
+
+                    if (current > 4) {
+                        topIndicator.classList.add('visible');
+                    } else {
+                        topIndicator.classList.remove('visible');
+                    }
+
+                    if (maxScroll > 4 && current < maxScroll - 4) {
+                        bottomIndicator.classList.add('visible');
+                    } else {
+                        bottomIndicator.classList.remove('visible');
+                    }
+                };
+
+                container.addEventListener('scroll', updateIndicators);
+                window.addEventListener('resize', updateIndicators);
+                updateIndicators();
+            }
+
+            document.querySelectorAll('.arcade-button-container').forEach(container => attachIndicators(container));
+        };
+
         // Initialize
         applyButtonColors();
         showPage('worldsPage');
+        initScrollIndicators();
     </script>
 </body>
 </html>

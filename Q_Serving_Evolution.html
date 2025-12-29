@@ -117,6 +117,7 @@
             <a href="#session-15" class="nav-btn">S15</a>
             <a href="#session-16" class="nav-btn">S16</a>
             <a href="#session-17" class="nav-btn">S17</a>
+            <a href="#session-18" class="nav-btn">S18</a>
             <a href="#future-notes" class="nav-btn">Future</a>
         </div>
     </header>
@@ -863,10 +864,41 @@
         </ul>
     </div>
 
+    <div id="session-18" class="session">
+        <h2>Session Eighteen: December 28, 2025 (Evening)</h2>
+        <p>Pushed the initialise UX polish further, tightened mission-complete overlays, and documented next steps toward unlocking main Progress Dashboard access once initialise is finished.</p>
+
+        <h3>Initialise Dashboard & Overlay Polish</h3>
+        <ul>
+            <li><strong>Progress Dashboard Initialise</strong>: Ensured the inline overlay markup keeps “Level X” on one line via <code>.initialise-level-label</code>, stabilising the celebratory copy across viewports.</li>
+            <li><strong>Shared CSS Link</strong>: Confirmed <code>progress_dashboard_initialise.html</code> explicitly references <code>styles.css</code> so the overlay styling stays consistent with the main dashboard.</li>
+            <li><strong>Overlay Payload Handling</strong>: Re-read the mission-complete payload/redirect flow to prep for the upcoming full initialise completion logic.</li>
+        </ul>
+
+        <h3>Mobile-Friendly Question Input</h3>
+        <ul>
+            <li><strong>On-Screen Keyboard Cohabitation</strong>: Updated <code>app.js</code> so both the single text field and sequence inputs render with <code>inputmode="none"</code>, preventing the device’s native keyboard from popping up while our custom keypad is visible but still allowing Bluetooth/physical keyboards.</li>
+            <li><strong>Device Testing Setup</strong>: Configured Windsurf’s Live Server to bind to the LAN IP, enabling real-device testing on Samsung phones without deploying to GitHub.</li>
+        </ul>
+
+        <h3>PWA & Installation Research</h3>
+        <ul>
+            <li><strong>PWA Feasibility Notes</strong>: Documented that supporting “Add to Home Screen” requires a web app manifest plus service worker, and captured the idea in the Future Notes section for later implementation.</li>
+            <li><strong>Offline Behaviour Overview</strong>: Clarified how service workers cache per-file assets (not a single bundle) and how installation affects browser chrome visibility.</li>
+        </ul>
+
+        <h3>Files Updated</h3>
+        <ul>
+            <li><code>app.js</code> – suppressed mobile keyboards by adding <code>inputmode="none"</code> to initialise text inputs.</li>
+            <li><code>Q_Serving_Evolution.html</code> – added Session 18 recap plus Future Notes entry about the PWA path.</li>
+        </ul>
+    </div>
+
     <div id="future-notes" class="session">
         <h2>Future Notes & Considerations</h2>
         <ul>
             <li><strong>Local Progress Storage</strong>: All mission progress (including initialise calibration) is currently stored in the browser’s localStorage via <code>UserAuth.getProgress()</code>. Changing device, switching browsers, or clearing storage will wipe this data until a cloud persistence option (e.g., Supabase) is implemented.</li>
+            <li><strong>PWA Install Path</strong>: A future enhancement could ship a web app manifest plus service worker so pupils can “Add to Home Screen.” That would let Question Server launch without browser chrome and optionally cache the HTML/CSS/JS for offline sessions, but it’s out-of-scope for the current initialise flow.</li>
         </ul>
     </div>
 
