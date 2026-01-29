@@ -1670,6 +1670,12 @@
             // Will redirect to login
             throw new Error('Not logged in');
         }
+
+        // Check if initialisation is complete - if so, redirect to main system
+        if (currentUser.initialisationComplete) {
+            window.location.href = 'progress_dashboard.html';
+            throw new Error('Initialisation complete - redirecting to main system');
+        }
         const attachAboutHandler = (root) => {
             if (!root) return;
             const aboutBtn = root.querySelector('#menuAboutQsiBtn');
@@ -1772,30 +1778,68 @@
             const nextLevelLabel = payload.nextLevelLabel || 'the next stage';
             const headingText = payload.headingText || 'MISSION COMPLETE';
 
+            // Check if this is the last remaining mission (initialisation completion)
+            const level = parseInt(levelLabel.replace('Level ', '')) || 1;
+            const isLastMission = isLastRemainingMission(missionName, level);
+            const isInitialisationComplete = isLastMission;
+
             const overlay = document.createElement('div');
             overlay.className = 'level-up-overlay';
             overlay.setAttribute('role', 'dialog');
             overlay.setAttribute('aria-live', 'assertive');
-            overlay.innerHTML = `
-                <div class="initialise-glow-card" tabindex="-1">
-                    <div class="initialise-glow-stars">
-                        <span class="glow-star ignition">★</span>
-                        <span class="glow-star charging">★</span>
-                        <span class="glow-star ready">★</span>
-                        <span class="glow-star power-up">★</span>
+            
+            // Enhanced message for initialisation completion
+            if (isInitialisationComplete) {
+                overlay.innerHTML = `
+                    <div class="initialise-glow-card" tabindex="-1">
+                        <div class="initialise-glow-stars">
+                            <span class="glow-star ignition">★</span>
+                            <span class="glow-star charging">★</span>
+                            <span class="glow-star ready">★</span>
+                            <span class="glow-star power-up">★</span>
+                        </div>
+                        <h2 class="initialise-glow-title" style="font-size: 1.5rem; text-align: center;">🎉 INITIALISATION COMPLETE! 🎉</h2>
+                        <p class="initialise-glow-body">
+                            Congratulations! <strong>All missions at ${levelLabel} are now complete!</strong>
+                        </p>
+                        <p class="initialise-glow-body">
+                            You have successfully finished initialisation and are ready to move to the main system.
+                        </p>
+                        <button class="initialise-glow-btn" type="button" onclick="proceedToMainSystem()">
+                            Continue to<br>Main System
+                        </button>
                     </div>
-                    <h2 class="initialise-glow-title">${headingText}</h2>
-                    <p class="initialise-glow-body">
-                        Well done for completing <strong>${missionName}</strong> at <strong class="initialise-level-label">${levelLabel}</strong>.
-                    </p>
-                    <p class="initialise-glow-body">
-                        Complete all the missions at <span class="initialise-level-label">${levelLabel}</span> to gain access to <span class="initialise-level-label">${nextLevelLabel}</span>.
-                    </p>
-                    <button class="initialise-glow-btn" type="button">
-                        Return to Progress Dashboard
-                    </button>
-                </div>
-            `;
+                `;
+                
+                // Mark initialisation as complete in user data
+                const currentUser = UserAuth.getCurrentUser();
+                if (currentUser) {
+                    currentUser.initialisationComplete = true;
+                    UserAuth.setCurrentUser(currentUser);
+                }
+            } else {
+                // Regular mission completion message
+                overlay.innerHTML = `
+                    <div class="initialise-glow-card" tabindex="-1">
+                        <div class="initialise-glow-stars">
+                            <span class="glow-star ignition">★</span>
+                            <span class="glow-star charging">★</span>
+                            <span class="glow-star ready">★</span>
+                            <span class="glow-star power-up">★</span>
+                        </div>
+                        <h2 class="initialise-glow-title">${headingText}</h2>
+                        <p class="initialise-glow-body">
+                            Well done for completing <strong>${missionName}</strong> at <strong class="initialise-level-label">${levelLabel}</strong>.
+                        </p>
+                        <p class="initialise-glow-body">
+                            Complete all the missions at <span class="initialise-level-label">${levelLabel}</span> to gain access to <span class="initialise-level-label">${nextLevelLabel}</span>.
+                        </p>
+                        <button class="initialise-glow-btn" type="button">
+                            Return to Progress Dashboard
+                        </button>
+                    </div>
+                `;
+            }
 
             const closeOverlay = () => {
                 if (!overlay.classList.contains('fade-out')) {
@@ -1804,13 +1848,19 @@
                 }
             };
 
-            const button = overlay.querySelector('.level-up-btn');
+            const button = overlay.querySelector('.initialise-glow-btn');
             if (button) {
-                button.addEventListener('click', closeOverlay);
+                if (!isInitialisationComplete) {
+                    button.addEventListener('click', closeOverlay);
+                }
                 button.addEventListener('keydown', event => {
                     if (event.key === 'Enter') {
                         event.preventDefault();
-                        closeOverlay();
+                        if (isInitialisationComplete) {
+                            proceedToMainSystem();
+                        } else {
+                            closeOverlay();
+                        }
                     }
                 });
             }
@@ -1820,7 +1870,15 @@
             focusTarget?.focus();
             button?.focus();
 
-            setTimeout(closeOverlay, 5000);
+            if (!isInitialisationComplete) {
+                setTimeout(closeOverlay, 5000);
+            }
+        }
+
+        // Function to proceed to main system after initialisation completion
+        function proceedToMainSystem() {
+            // Redirect to main progress dashboard
+            window.location.href = 'progress_dashboard.html';
         }
 
         document.addEventListener('DOMContentLoaded', () => {
@@ -1983,6 +2041,34 @@
                 }
             }
             return true;
+        }
+
+        // Check if this is the last remaining mission at a level
+        function isLastRemainingMission(missionName, level) {
+            const missionsAtLevel = getMissionsAtLevel(level);
+            let incompleteCount = 0;
+            
+            for (const cdr of missionsAtLevel) {
+                // Get mission name from the row
+                const row = document.querySelector(`.mission-row[data-cdr="${cdr}"]`);
+                if (!row) continue;
+                
+                const firstCell = row.querySelector('td:first-child');
+                const currentMissionSpan = firstCell.querySelector('.mission-name');
+                const currentMissionName = currentMissionSpan ? currentMissionSpan.textContent.trim() : firstCell.textContent.trim();
+                
+                // Check if this mission has Power Up completed at this level
+                const progress = UserAuth.getProgress(currentMissionName, level);
+                const powerUpCompleted = progress?.pundexCompleted?.['Exceeding']?.completed;
+                
+                if (!powerUpCompleted) {
+                    incompleteCount++;
+                }
+            }
+            
+            // This is the last mission if all missions are now complete (0 incomplete)
+            // OR if this is the final remaining mission (1 incomplete)
+            return incompleteCount === 0 || incompleteCount === 1;
         }
 
         // Get the first level a mission is available at

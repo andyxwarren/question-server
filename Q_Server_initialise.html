@@ -108,6 +108,20 @@
 
     <script src="validator.js"></script>
     <script src="user-auth.js"></script>
+    <script>
+        // Check if user is logged in and initialisation is not complete
+        const currentUser = UserAuth.getCurrentUser();
+        if (!currentUser) {
+            window.location.href = 'index.html';
+            throw new Error('Not logged in');
+        }
+        
+        // Check if initialisation is complete - if so, redirect to main system
+        if (currentUser.initialisationComplete) {
+            window.location.href = 'Q_Server.html';
+            throw new Error('Initialisation complete - redirecting to main system');
+        }
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="app.js"></script>
     <script>
